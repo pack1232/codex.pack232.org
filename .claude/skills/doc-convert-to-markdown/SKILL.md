@@ -24,7 +24,7 @@ If no file path or URL is given, ask the user which file to convert.
 If the file path argument contains a glob wildcard character (`*`), treat it as a batch conversion request:
 
 1. **Expand the pattern** using the Glob tool to find all matching files.
-2. **Filter to supported formats** — only include files with supported extensions (`.docx`, `.pdf`, `.eml`). Skip unsupported files and warn the user about them.
+2. **Filter to supported formats** — only include files with supported extensions (`.docx`, `.doc`, `.DOC`, `.pdf`, `.PDF`, `.pptx`, `.eml`). Skip unsupported files and warn the user about them.
 3. **Skip already-converted files** — if a `.md` file with the same base name already exists alongside a matched file, skip it to avoid re-converting.
 4. **Convert each file sequentially** — for each matched file, run the normal single-file conversion flow (steps 5-11 below). Pass through any `--remove`, `--ref`, and `--context` flags to each conversion.
 5. **Print a summary** at the end:
@@ -157,7 +157,9 @@ Extract the `<FILE_ID>` from the URL and construct the direct download URL. Stor
 | Extension / Type | Converter |
 |------------------|-----------|
 | `.docx`          | Invoke the `docx-to-md` skill |
-| `.pdf`           | Invoke the `pdf-to-md` skill |
+| `.doc`, `.DOC`   | Invoke the `doc-to-md` skill |
+| `.pdf`, `.PDF`   | Invoke the `pdf-to-md` skill (match case-insensitive) |
+| `.pptx`          | Invoke the `pptx-to-md` skill |
 | `.eml`           | Invoke the `eml-to-md` skill |
 | Web page (URL with no file extension, or `.html`/`.htm`) | Invoke the `html-to-md` skill |
 
@@ -237,7 +239,9 @@ last_downloaded: "" # Only included when document was downloaded from a URL. Dat
 
 7. **Convert** - Based on the format, invoke the appropriate sub-skill using the Skill tool:
    - `.docx` → Invoke the `docx-to-md` skill
-   - `.pdf` → Invoke the `pdf-to-md` skill
+   - `.doc` / `.DOC` → Invoke the `doc-to-md` skill
+   - `.pdf` / `.PDF` → Invoke the `pdf-to-md` skill (case-insensitive match)
+   - `.pptx` → Invoke the `pptx-to-md` skill
    - `.eml` → Invoke the `eml-to-md` skill
    - Web page → Invoke the `html-to-md` skill (pass the URL directly; no download step needed)
    - If the source was a URL, append `--source <original_url>` to the skill arguments so the sub-skill includes the `source` field in frontmatter.
