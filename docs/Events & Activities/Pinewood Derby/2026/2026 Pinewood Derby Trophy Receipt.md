@@ -1,0 +1,321 @@
+---
+title: "Pack 232 Committee Chair <chair@pack232.com>"
+description: "Order Confirmation - Order #15563960"
+source_file: "2026 Pinewood Derby Trophy Receipt.pdf"
+source_archive: "../../../_archive/Events & Activities/Pinewood Derby/2026/2026 Pinewood Derby Trophy Receipt.pdf"
+converted_date: "2026-03-06"
+original_format: "pdf"
+author: "Unknown"
+tags: ["2026", "pinewood-derby", "advancement", "budget", "forms"]
+category: "2026"
+draft: false
+---
+
+Pack 232 Committee Chair <chair@pack232.com>
+Order Confirmation - Order #15563960
+CROWN AWARDS <DONOTREPLY@crownawards.com> Thu, Jan 29, 2026 at 3:42 PM
+To: Pack 232 <CHAIR@pack232.com>
+Thank you for your order!
+If we received your payment, your order will be processed immediately
+Your order is estimated to arrive on .
+For questions or to check the status of your order, click here.
+Once your package ships, we will send you a shipping confirmation email and final receipt.
+Thank you for choosing Crown Awards. We appreciate your business!
+Order Status
+Account
+Order Date Order Number Order Status
+Number
+01/29/26 15563960 In Process
+70318099
+Billing Information Delivery Information
+Pack 232 Pack 232
+9 WOODSTREAM DR 9 WOODSTREAM DR
+DELMAR, NY 12054-4111 DELMAR, NY 12054-4111
+ATTN:J MCWILLIAM ATTN:J MCWILLIAM
+
+|  |
+| --- |
+| Thank you for your order! |
+
+Order Detail
+Quantity
+Item # Item Description Unit Price Subtotal
+Ordered
+BSPDR-G 2" PINEWOOD DERBY 56 $2.29 $128.24
+GOLD MEDAL
+NOBOX No Presentation Case 56 $.00 $.00
+NOENG NO ENGRAVING 56 $.00 $.00
+TR1200 10"BLUE/GD-STARS- 1 $9.99 $9.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 3RD PLACE - LION
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1200 10"BLUE/GD-STARS- 1 $9.99 $9.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 3RD PLACE - TIGER
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+
+TR1200 10"BLUE/GD-STARS- 1 $9.99 $9.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 3RD PLACE - WOLF
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1200 10"BLUE/GD-STARS- 1 $9.99 $9.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 3RD PLACE - WEBELOS
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1200 10"BLUE/GD-STARS- 1 $9.99 $9.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 3RD PLACE - AOL
+
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR2001 11"SLV/GD-STARS-BASE 1 $10.69 $10.69
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 2ND PLACE - AOL
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR2001 11"SLV/GD-STARS-BASE 1 $10.69 $10.69
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 2ND PLACE - WOLF
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR2001 11"SLV/GD-STARS-BASE 1 $10.69 $10.69
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+
+Line # 3 Varying 2ND PLACE - TIGER
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR2001 11"SLV/GD-STARS-BASE 1 $10.69 $10.69
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 2ND PLACE - WEBELOS
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR2001 11"SLV/GD-STARS-BASE 1 $10.69 $10.69
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 2ND PLACE - LION
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1102 12"GOLD/GD-STARS- 1 $10.99 $10.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 1ST PLACE - AOL
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1102 12"GOLD/GD-STARS- 1 $10.99 $10.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 1ST PLACE - BEAR
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1102 12"GOLD/GD-STARS- 1 $10.99 $10.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 1ST PLACE - LION
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1102 12"GOLD/GD-STARS- 1 $10.99 $10.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 1ST PLACE - WOLF
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1102 12"GOLD/GD-STARS- 1 $10.99 $10.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 1ST PLACE - TIGER
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1102 12"GOLD/GD-STARS- 1 $10.99 $10.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 1ST PLACE - WEBELOS
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR2001 11"SLV/GD-STARS-BASE 1 $10.69 $10.69
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 2ND PLACE - ADULT
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1102 12"GOLD/GD-STARS- 1 $10.99 $10.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 1ST PLACE - ADULT
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1200 10"BLUE/GD-STARS- 1 $9.99 $9.99
+BASE
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+MA2X3BK 2"x3" BLACK MARBLE 1 1 $.30 $.30
+HOLE
+ENGTR GOLD FLEXI - 2.6 X .6 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 3RD PLACE - ADULT
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1245CP 25"BL/GD ST 2TR RSR 1 $34.99 $34.99
+PEDSTL
+FISWCG5PXC 5" GOLD SWIRL CUP 1 $.00 $.00
+W/LID
+
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+HW3RDCP-G 2.5" 3RD PLACE CUP 1 $.00 $.00
+TRIM GOLD
+ENTR04GD GOLD FLEXI - 4.5 X 1 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 3RD PLACE
+Line # 4 Varying OVERALL
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR2047CP 27"SV/GD ST 2TR RSR 1 $39.99 $39.99
+PEDSTL
+FISWCG5PXC 5" GOLD SWIRL CUP 1 $.00 $.00
+W/LID
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+HW2NDCP-G 2.5" 2ND PLACE CUP 1 $.00 $.00
+TRIM GOLD
+ENTR04GD GOLD FLEXI - 4.5 X 1 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 2ND PLACE
+Line # 4 Varying OVERALL
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+TR1181CP 31"GD/GD ST 2TR RSR 1 $43.99 $43.99
+PEDSTL
+FISWCG5PXC 5" GOLD SWIRL CUP 1 $.00 $.00
+W/LID
+FIDPD DERBY - 5.5" DELUXE 1 $.00 $.00
+HW1STCP-G 2.5" 1ST PLACE CUP 1 $.00 $.00
+TRIM GOLD
+ENTR04GD GOLD FLEXI - 4.5 X 1 1 $.00 $.00
+Plate # 1 Line # 1 Varying PACK 232
+Line # 2 Varying 2026 PINEWOOD DERBY
+Line # 3 Varying 1ST PLACE
+
+Line # 4 Varying OVERALL
+EXENGTR EXTRA CHARACTER 1 $.00 $.00
+CHARGE
+PRBGDSGT2 FREE GOAT 1 $.00 $.00
+DRAWSTRNG BAG NO
+ZIP
+FRTCME SHIPPING & HANDLING- 1 $19.99 $19.99
+MEDALS
+FRTTRP SHIPPING & HANDLING- 1 $101.99 $101.99
+TROPHIES
+FRTCRD SHIPPING & HANDLING- 1 $101.99- $101.99-
+CREDIT
+Order Subtotal $453.92
+Shipping $19.99
+Sales Tax $37.88
+Order Payment $511.79
+Order Balance $.00
+We're here to help! You can reach Customer Support here.
+Unsubscribe from Crown Awards marketing emails.
+(You will not be unsubscribed from emails regarding your order)
+
+---
+
+> **Original PDF**: [2026 Pinewood Derby Trophy Receipt.pdf](../../../_archive/Events & Activities/Pinewood Derby/2026/2026 Pinewood Derby Trophy Receipt.pdf)
