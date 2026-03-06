@@ -1,0 +1,121 @@
+---
+title: "Planning Your Troop’s Annual Program Budget"
+description: "What is the unit budget plan? It is implementing the 3Boys’ Life. Boys’ Life, the official magazine of the"
+source_file: "BSA Planning Your Troop_s Annual Program Budget.pdf"
+source_archive: "../../../../../_archive/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/BSA Planning Your Troop_s Annual Program Budget.pdf"
+converted_date: "2026-03-06"
+original_format: "pdf"
+author: "Unknown"
+tags: ["bsa", "membership", "budget", "forms"]
+category: "BSA"
+draft: false
+---
+
+Planning Your Troop’s Annual Program Budget
+What is the unit budget plan? It is implementing the 3Boys’ Life. Boys’ Life, the official magazine of the
+elements of a complete annual Scouting program, Boy Scouts of America, is recommended for all
+committing as a unit to incorporate these elements, and members at $12, half-off the published rate. (Prorated
+then providing adequate funding for them. fees are available for Scouts who join a unit during
+the year.) Every Scout, boy or girl, should subscribe
+If you like to raise money every month, plan your
+to Boys’ Life because of the quality reading and the
+program as you go, limit your activities based on
+articles related to your unit’s monthly program. It is
+the unit’s income, or not involve the Scouts in the
+part of every Scout’s growth and provides a monthly
+planning process, then this format may not be for you!
+connection to Scouting. Scouts who subscribe to Boys’
+Those leaders who want a meaningful, exciting, and
+Life stay in Scouting longer and advance more quickly.
+comprehensive program that achieves the objectives
+of the Scouting program will find this format the 4Unit Accident and Liability Insurance. Protecting the
+ideal way to go. leadership and parents from financial hardship
+The result is a well-managed, well-financed unit. due to high medical bills from an unfortunate accident
+is a must for all involved in Scouting. Specific details
+Recognizing this, the BSA recommends the following recipe:
+on insurance programs are available from the local
+1. Plan your troop’s complete annual program. council.
+2. Develop a budget that includes enough income to
+5Advancement and Recognition. Every Scout should
+achieve the program.
+earn and advance a rank each year. The Scouts BSA
+3. Identify the amount of product (popcorn, for
+advancement program has a number of options
+example) that will need to be sold per Scout
+that include achievements, rank advancement,
+to reach the income goal.
+and merit badges.
+4. Identify service projects that the troop can
+participate in to bring income to the unit. 6Activities. Well-conceived and well-planned
+activities are critical to a successful annual program
+5. Get commitments from parents and Scouts.
+plan. Traditionally, such activities as hikes, camping,
+BASIC EXPENSES or high-adventure trips are financed by the Scout and
+his or her family over and above the dues programs. It
+1R egistration Fees. When a Scout joins, the unit is suggested that the complete cost of these outings be
+normally asks him or her to pay the full $66 built into the unit’s budget.
+national registration fee.
+7Summer Camp. Central to Scouting is a summer
+If the Scout joined using online registration, the
+camp experience. Local and national opportunities
+family pays national registration fees directly.
+abound for Scouts BSA members to have an exciting,
+The national registration fee is $66 for an annual program-rich summer experience.
+membership for Scouts and $42 for adults. New
+members when they first join pay a one-time $25 8Program Materials. Each unit needs to provide a
+joining fee. Based on when they join, registration fees certain amount of program materials. Depending
+may be prorated. Check with your local council for on the type of program, these could include craft tools
+how it handles registration fees for new Scouts and and supplies, camping equipment, videos and books,
+how it impacts rechartering. Local councils might or ceremonial props. (Note: Units may not hold title
+also have additional activity fees they collect. to property; only chartered organizations or the local
+council legally can own property.)
+2U nit Liability Insurance Fee. Troops are required to
+9Training Expenses. Trained leaders are the key to
+pay an annual unit liability insurance fee of $75.
+delivering a quality and safe program. Both adult-
+This fee is submitted with the troop’s annual charter
+and youth-leader training should be considered an
+application and helps to defray the expenses for their
+integral annual expense.
+general liability insurance.
+
+10Full Uniforms. Traditionally, the individual pays SOME IMPORTANT POINTS
+for the uniform. We suggest that these expenses
+Paying your own way. This is a fundamental principle
+become part of the total cost of Scouting. The full
+of the Boy Scouts of America. It is one of the reasons
+Scouting program includes the full uniform!
+no solicitations (requests for contributions from
+11Reserve Fund. The reserve fund might be individuals or the community) are permitted by units.
+established by a gift or loan from the chartered Young people in Scouting are taught early on that if
+organization, by members of the committee, or by a they want something in life, they need to earn it. This
+unit money-earning project. The reserve fund should principle is among the reasons that adults who were
+meet unexpected expenses. A new member’s initial Scouts are found to have higher incomes. The unit’s
+expenses may be met from the fund. entire budget must be provided for by the families,
+12Other Expenses. These could include a gift to the through either fundraising or other means such as
+dues or fees.
+World Friendship Fund, meeting refreshments,
+and/or contingency funds. Except for council-sponsored fundraisers, all other
+fundraising projects require the submission of the
+Unit Money-Earning Application, No. 34427, to the
+SOURCES OF INCOME
+local council. To ensure conformity with all Scouting
+One well-planned fundraiser per year, such as selling standards on earning money, leaders should be
+popcorn, will help prevent having to ask families for familiar with the eight guides listed on the back of the
+extra money every week. application and in the financial record books.
+OTHER HELPS
+Additional information concerning unit budget plans,
+the treasurer’s responsibilities, camp savings, forms,
+and records can be found in Troop Record Book,
+No. 34508.
+The Troop Operating Budget Worksheet
+To develop your troop’s budget, complete the worksheet and then share it with the Scouts’ parents. In the case of
+Scouts BSA troops, the patrol leaders’ council reviews the budget and puts it in final form prior to study and adoption
+by the troop committee. Be sure to keep parents involved and informed. Program calendar and budget information
+needs to be communicated regularly to families, especially at the start of the program year.
+510-275
+2020 Printing
+
+---
+
+> **Original PDF**: [BSA Planning Your Troop_s Annual Program Budget.pdf](../../../../../_archive/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/BSA Planning Your Troop_s Annual Program Budget.pdf)
