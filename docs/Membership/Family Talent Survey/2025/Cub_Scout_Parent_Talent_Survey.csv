@@ -1,0 +1,21 @@
+Type,Question,Options,Required
+Short answer,Parent/Guardian Name,,True
+Short answer,Email Address,,True
+Short answer,Phone Number,,True
+Multiple choice,Best way to reach you,Email;Phone;Text Message,False
+Short answer,Child's Name,,True
+Multiple choice,Child's Rank,Lion;Tiger;Wolf;Bear;Webelos;Arrow of Light,True
+Multiple choice,How long has your child been in Cub Scouts?,Less than 1 year;1–2 years;3+ years,False
+Paragraph,"My job, business, or profession might be of interest to Cub Scouts (please describe)",,False
+Paragraph,"My hobbies, special interests, or talents (e.g., music, art, woodworking, programming, etc.)",,False
+Checkbox,I hold or have held the following certifications/training,First Aid / CPR;Lifeguard / Water Safety;Wilderness / Outdoor Training;Teaching / Education;Coaching / Sports;Other,False
+Checkbox,I am willing to help the Pack in these areas,"Den-level support;Assist with Pack events (camping, outings, field trips);Behind-the-scenes tasks (communications, fundraising, logistics);Serve on Pack committee or leadership;Provide transportation;Provide meeting space, tools, or supplies;Present or share a skill or demonstration",False
+Checkbox,I have access to / can lend / share,"Vehicles (van, SUV, truck);Camping gear / tents;Workshop / tools;Property (cottage, yard, etc.);Other",False
+Checkbox,Which evenings are generally best for you to help / volunteer?,Weeknights;Weekends;Daytime;Evenings,False
+Multiple choice,How much time are you willing to commit?,Once or twice a year;Monthly;Weekly;As needed / ad hoc,False
+Checkbox,My preferred ways to help are,In-person;Virtual / remote tasks;Short-term tasks;Ongoing responsibility,False
+Checkbox,How do you prefer to receive communications from the Pack?,Email;Text / SMS;Messaging App;Printed Notices;Pack Website / Calendar,False
+Paragraph,What do you think the Pack is doing well?,,False
+Paragraph,What improvements or ideas would you suggest?,,False
+Paragraph,Are there any activities or programs you’d like to see added?,,False
+Paragraph,Any other comments or additional ways you’d like to help?,,False

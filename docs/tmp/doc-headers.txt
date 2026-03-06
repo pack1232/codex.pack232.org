@@ -1,0 +1,17 @@
+HTTP/2 200 
+date: Thu, 12 Feb 2026 21:05:20 GMT
+content-type: application/pdf
+content-length: 22899478
+cf-ray: 9ccf0b261a513d3e-EWR
+last-modified: Tue, 25 Jun 2024 13:27:37 GMT
+etag: "667ac5c9-15d6b16"
+cache-control: public, max-age=31536000
+vary: Accept-Encoding
+access-control-allow-origin: *
+cf-cache-status: HIT
+age: 214
+accept-ranges: bytes
+set-cookie: __cf_bm=K8U1NP4KH5Q_2sG7ulf..XaydevcnAVjd4yTFwxh2KM-1770930320-1.0.1.1-3mO3VAIwRMBKXvhoD_YbElszvznyO5FtsV75p5FZtIflH8XeM.Ceyzwi3kzuGLH85C3GxSENx2hhJUSR5K8lxuO65NvgCttlq.8ibrFWLcQ; path=/; expires=Thu, 12-Feb-26 21:35:20 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None
+server: cloudflare
+alt-svc: h3=":443"; ma=86400
+
