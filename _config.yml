@@ -20,6 +20,12 @@ relative_links:
   enabled: true
   collections: true
 
+defaults:
+  - scope:
+      path: "docs"
+    values:
+      nav_exclude: true
+
 exclude:
   - roles/*/agent
   - docs/tmp
