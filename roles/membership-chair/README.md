@@ -51,9 +51,9 @@ The Membership Chair oversees these coordinator positions:
 
 | Position | File | Current Holder |
 |---|---|---|
-| Recruitment Coordinator | [recruitment-coordinator.md](recruitment-coordinator.md) | [vacant] |
-| Onboarding Coordinator | [onboarding-coordinator.md](onboarding-coordinator.md) | [vacant] |
-| Experience Coordinator | [experience-coordinator.md](experience-coordinator.md) | [vacant] |
+| Member Recruitment Coordinator | [member-recruitment-coordinator.md](member-recruitment-coordinator.md) | [vacant] |
+| Member Onboarding Coordinator | [member-onboarding-coordinator.md](member-onboarding-coordinator.md) | [vacant] |
+| Member Experience Coordinator | [member-experience-coordinator.md](member-experience-coordinator.md) | [vacant] |
 | Apparel Coordinator | [apparel-coordinator.md](apparel-coordinator.md) | [vacant] |
 | Public Relations Coordinator | [public-relations-coordinator.md](public-relations-coordinator.md) | [vacant] |
 

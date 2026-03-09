@@ -9,7 +9,7 @@ The Assistant Cubmaster for Engagement drives event sign-ups and family particip
 | Relationship | Role |
 |---|---|
 | Reports to | Cubmaster |
-| Works with | Program Chair, Den Leaders, Experience Coordinator |
+| Works with | Program Chair, Den Leaders, Member Experience Coordinator |
 
 ## Core Responsibilities
 

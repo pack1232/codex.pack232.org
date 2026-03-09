@@ -9,7 +9,7 @@ The Fall Camping Coordinator plans Pack 232's fall camping trip — often a "Fal
 | Relationship | Role |
 |---|---|
 | Reports to | Program Chair |
-| Works with | Cubmaster, Grubmaster (Assistant Cubmaster), Recruitment Coordinator |
+| Works with | Cubmaster, Grubmaster (Assistant Cubmaster), Member Recruitment Coordinator |
 
 ## Core Responsibilities
 

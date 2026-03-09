@@ -1,8 +1,8 @@
-# Bottle and Can Redemption Coordinator
+# Redemptions Coordinator
 
 ## Role Summary
 
-The Bottle and Can Redemption Coordinator (a.k.a. Can Captain) manages Pack 232's bottle and can redemption program — a low-effort, ongoing fundraiser where families save returnable bottles and cans and bring them to a designated collection point. Proceeds go to the pack's general fund or Scout accounts.
+The Redemptions Coordinator (a.k.a. Can Captain) manages Pack 232's bottle and can redemption program — a low-effort, ongoing fundraiser where families save returnable bottles and cans and bring them to a designated collection point. Proceeds go to the pack's general fund or Scout accounts.
 
 ## Reports To
 
