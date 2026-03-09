@@ -15,13 +15,13 @@ draft: false
 # Past Action Items
 [Josh] Finalize 2023-34 Books and create proposed budget to hand over treasurer role
 
-|  | Pack 232 Committee Meeting Minutes<br>September 2024 |
-| --- | --- |
-| Called by: | Josh McWilliam |
-| Note Taker: | Daniel O’Brien |
-| Meeting Time: | September 02, 2024, 8:00 - 8:30 PM |
+# Pack 232 Committee Meeting Minutes — September 2024
+
+**Called by:** Josh McWilliam  
+**Note Taker:** Daniel O’Brien  
+**Meeting Time:** September 02, 2024, 8:00 - 8:30 PM  
 | Meeting Location: | Virtual via Google Hangouts |
-| Virtual Attendance: | meet.google.com/dce-ukre-aae |
+**Virtual Attendance:** meet.google.com/dce-ukre-aae  
 
 | Time | Item | Lead | Topics / Resources |
 | --- | --- |

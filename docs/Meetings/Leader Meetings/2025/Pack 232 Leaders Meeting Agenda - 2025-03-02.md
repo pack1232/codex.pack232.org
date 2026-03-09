@@ -10,12 +10,12 @@ category: "2025"
 draft: false
 ---
 
-|  | Pack 232 Committee Meeting Agenda<br>March 2025 |
-| --- | --- |
-| Called by: | Josh McWilliam |
-| Note Taker: | Daniel O’Brien |
-| Meeting Time: | March 2, 2025, 8:00 - 8:30 PM |
-| Virtual Attendance: | Primary Google Meet:<br>Video call link: https://meet.google.com/iqp-yfnc-ivn<br>Or dial: ‪(US) +1 636-649-4600‬ PIN: ‪397 765 049‬#<br>More phone numbers: https://tel.meet/iqp-yfnc-ivn?pin=1003909906913 |
+# Pack 232 Committee Meeting Agenda — March 2025
+
+**Called by:** Josh McWilliam  
+**Note Taker:** Daniel O’Brien  
+**Meeting Time:** March 2, 2025, 8:00 - 8:30 PM  
+**Virtual Attendance:** Primary Google Meet:<br>Video call link: https://meet.google.com/iqp-yfnc-ivn<br>Or dial: ‪(US) +1 636-649-4600‬ PIN: ‪397 765 049‬#<br>More phone numbers: https://tel.meet/iqp-yfnc-ivn?pin=1003909906913  
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

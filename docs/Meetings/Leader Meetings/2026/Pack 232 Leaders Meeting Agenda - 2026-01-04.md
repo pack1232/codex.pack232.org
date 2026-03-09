@@ -10,14 +10,12 @@ category: "2026"
 draft: false
 ---
 
-## Committee Meeting
+# Pack 232 Committee / Leader Meeting Agenda — January 2026
 
-|  | Pack 232 Committee / Leader Meeting Agenda<br>January 2026 |
-| --- | --- |
-| Called by: | Josh McWilliam |
-| Note Taker: | Daniel O’Brien |
-| Meeting Time: | January 04, 2026, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM |
-| Virtual Attendance: | Google Meet Info:<br>Video call link: https://meet.google.com/cny-icsr-vfd<br>Or dial: ‪(US) +1 470-326-0210‬ PIN: ‪675 822 317‬#<br>More phone numbers: https://tel.meet/cny-icsr-vfd?pin=7647220300828 |
+**Called by:** Josh McWilliam  
+**Note Taker:** Daniel O’Brien  
+**Meeting Time:** January 04, 2026, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM  
+**Virtual Attendance:** Google Meet Info:<br>Video call link: https://meet.google.com/cny-icsr-vfd<br>Or dial: ‪(US) +1 470-326-0210‬ PIN: ‪675 822 317‬#<br>More phone numbers: https://tel.meet/cny-icsr-vfd?pin=7647220300828  
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

@@ -10,12 +10,12 @@ category: "2025"
 draft: false
 ---
 
-|  | Pack 232 Committee Meeting Agenda<br>February 2025 |
-| --- | --- |
-| Called by: | Josh McWilliam |
-| Note Taker: | Daniel O’Brien |
-| Meeting Time: | February 2, 2025, 8:00 - 8:30 PM |
-| Virtual Attendance: | Primary Google Meet:<br>Video call link: https://meet.google.com/rrw-stnz-ztv<br>Or dial: ‪(US) +1 706-609-0232‬ PIN: ‪693 058 887‬# |
+# Pack 232 Committee Meeting Agenda — February 2025
+
+**Called by:** Josh McWilliam  
+**Note Taker:** Daniel O’Brien  
+**Meeting Time:** February 2, 2025, 8:00 - 8:30 PM  
+**Virtual Attendance:** Primary Google Meet:<br>Video call link: https://meet.google.com/rrw-stnz-ztv<br>Or dial: ‪(US) +1 706-609-0232‬ PIN: ‪693 058 887‬#  
 
 Overtime Google Meet (if needed):
 Video call link: https://meet.google.com/veo-ikdg-czf

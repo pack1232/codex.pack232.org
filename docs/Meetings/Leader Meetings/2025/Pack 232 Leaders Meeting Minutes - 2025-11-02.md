@@ -117,8 +117,8 @@ Check snow tubing group rate; text Elizabeth - WATCH (5 secs)
 Email Charlesworth/Cheryl re: free cabin rental for Feb 2026 - WATCH (5 secs)
 Complete Hazardous Weather training - WATCH (5 secs)
 
-|  | Pack 232 Committee / Leader Meeting Minutes<br>November 2025 |
-| --- | --- |
-| Called by: | Josh McWilliam |
-| Note Taker: | Daniel O’Brien |
-| Meeting Time: | November 02, 2025, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM |
+# Pack 232 Committee / Leader Meeting Minutes — November 2025
+
+**Called by:** Josh McWilliam  
+**Note Taker:** Daniel O’Brien  
+**Meeting Time:** November 02, 2025, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM  

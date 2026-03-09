@@ -10,13 +10,11 @@ category: "2025"
 draft: false
 ---
 
-## Committee Meeting
-|  | Pack 232 Committee Meeting Agenda<br>October 2025 |
-| --- | --- |
-| Called by: | Josh McWilliam |
-| Note Taker: | Daniel O’Brien |
-| Meeting Time: | October 05, 2025, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM |
-| Virtual Attendance: | Google Meet Info:<br>Video call link: https://meet.google.com/ivw-gmss-uug<br>Or dial: ‪(US) +1 520-800-2330‬ PIN: ‪234 744 104‬# |
+# Pack 232 Committee Meeting Agenda — October 2025
+**Called by:** Josh McWilliam  
+**Note Taker:** Daniel O’Brien  
+**Meeting Time:** October 05, 2025, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM  
+**Virtual Attendance:** Google Meet Info:<br>Video call link: https://meet.google.com/ivw-gmss-uug<br>Or dial: ‪(US) +1 520-800-2330‬ PIN: ‪234 744 104‬#  
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

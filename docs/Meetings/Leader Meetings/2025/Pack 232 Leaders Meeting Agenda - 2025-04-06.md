@@ -10,12 +10,12 @@ category: "2025"
 draft: false
 ---
 
-|  | Pack 232 Committee Meeting Agenda<br>April 2025 |
-| --- | --- |
-| Called by: | Josh McWilliam |
-| Note Taker: | Daniel O’Brien |
-| Meeting Time: | April 6, 2025, 8:00 - 8:30 PM |
-| Virtual Attendance: | Primary Google Meet:<br>Video call link: https://meet.google.com/awz-wsps-duf<br>Or dial: ‪(US) +1 262-977-4600‬ PIN: ‪543 645 064‬#<br>More phone numbers: https://tel.meet/awz-wsps-duf?pin=3655778581422 |
+# Pack 232 Committee Meeting Agenda — April 2025
+
+**Called by:** Josh McWilliam  
+**Note Taker:** Daniel O’Brien  
+**Meeting Time:** April 6, 2025, 8:00 - 8:30 PM  
+**Virtual Attendance:** Primary Google Meet:<br>Video call link: https://meet.google.com/awz-wsps-duf<br>Or dial: ‪(US) +1 262-977-4600‬ PIN: ‪543 645 064‬#<br>More phone numbers: https://tel.meet/awz-wsps-duf?pin=3655778581422  
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

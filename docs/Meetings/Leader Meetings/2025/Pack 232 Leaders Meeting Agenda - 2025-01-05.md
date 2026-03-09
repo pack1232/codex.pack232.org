@@ -10,12 +10,12 @@ category: "2025"
 draft: false
 ---
 
-|  | Pack 232 Committee Meeting Agenda<br>January 2025 |
-| --- | --- |
-| Called by: | Josh McWilliam |
-| Note Taker: | Daniel O’Brien |
-| Meeting Time: | January 5, 2025, 8:00 - 8:30 PM |
-| Virtual Attendance: | https://us02web.zoom.us/j/83969480046?pwd=lRxNnwd2nf4i8WnFoU0aEJMoA6zD6o.1<br>Meeting ID: 839 6948 0046<br>Passcode: 938498 |
+# Pack 232 Committee Meeting Agenda — January 2025
+
+**Called by:** Josh McWilliam  
+**Note Taker:** Daniel O’Brien  
+**Meeting Time:** January 5, 2025, 8:00 - 8:30 PM  
+**Virtual Attendance:** https://us02web.zoom.us/j/83969480046?pwd=lRxNnwd2nf4i8WnFoU0aEJMoA6zD6o.1<br>Meeting ID: 839 6948 0046<br>Passcode: 938498  
 
 Dial by your location: +1 929 205 6099 US (New York)
 Meeting ID: 839 6948 0046

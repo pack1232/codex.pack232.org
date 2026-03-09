@@ -10,14 +10,12 @@ category: "2025"
 draft: false
 ---
 
-## Committee Meeting
+# Pack 232 Committee / Leader Meeting Agenda — December 2025
 
-|  | Pack 232 Committee / Leader Meeting Agenda<br>December 2025 |
-| --- | --- |
-| Called by: | Josh McWilliam |
-| Note Taker: | Daniel O’Brien |
-| Meeting Time: | December 07, 2025, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM |
-| Virtual Attendance: | Google Meet Info:<br>Video call link: https://meet.google.com/nqp-gxkf-zic<br>Or dial: ‪(US) +1 505-738-3137‬ PIN: ‪426 702 320‬# |
+**Called by:** Josh McWilliam  
+**Note Taker:** Daniel O’Brien  
+**Meeting Time:** December 07, 2025, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM  
+**Virtual Attendance:** Google Meet Info:<br>Video call link: https://meet.google.com/nqp-gxkf-zic<br>Or dial: ‪(US) +1 505-738-3137‬ PIN: ‪426 702 320‬#  
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

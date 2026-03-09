@@ -10,14 +10,12 @@ category: "2026"
 draft: false
 ---
 
-## Committee Meeting
+# Pack 232 Committee / Leader Meeting Agenda — February 2026
 
-|  | Pack 232 Committee / Leader Meeting Agenda<br>February 2026 |
-| --- | --- |
-| Called by: | Josh McWilliam |
-| Note Taker: | Daniel O’Brien |
-| Meeting Time: | February 01, 2026, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM |
-| Virtual Attendance: | Google Meet Info:<br>Video call link: https://meet.google.com/xok-vekt-zmt<br>Or dial: ‪(US) +1 413-752-1142‬ PIN: ‪114 680 805‬# |
+**Called by:** Josh McWilliam  
+**Note Taker:** Daniel O’Brien  
+**Meeting Time:** February 01, 2026, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM  
+**Virtual Attendance:** Google Meet Info:<br>Video call link: https://meet.google.com/xok-vekt-zmt<br>Or dial: ‪(US) +1 413-752-1142‬ PIN: ‪114 680 805‬#  
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

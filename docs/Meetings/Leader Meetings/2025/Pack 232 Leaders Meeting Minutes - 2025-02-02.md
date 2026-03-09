@@ -71,8 +71,8 @@ Schedule Pinewood Derby planning meeting in February. Coordinate with volunteer 
 Bring extra Pinewood Derby car kits to pack meeting. Announce availability to den leaders - WATCH (5 secs)
 Send Bob Baldwin list of all 58 scouts for Pinewood Derby number assignment - WATCH (5 secs)
 
-|  | Pack 232 Committee Meeting Minutes<br>February 2025 |
-| --- | --- |
-| Called by: | Josh McWilliam |
-| Note Taker: | Daniel O’Brien (via fathom.video) |
-| Meeting Time: | February 2, 2025, 8:00 - 8:30 PM |
+# Pack 232 Committee Meeting Minutes — February 2025
+
+**Called by:** Josh McWilliam  
+**Note Taker:** Daniel O’Brien (via fathom.video)  
+**Meeting Time:** February 2, 2025, 8:00 - 8:30 PM  
