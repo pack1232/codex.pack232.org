@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 10
 nav_exclude: false
 permalink: /roles/popcorn-coordinator/
+role_id: popcorn-kernel
 ---
 
 # Popcorn Coordinator
@@ -73,3 +74,5 @@ The Popcorn Coordinator (a.k.a. Popcorn Kernel) manages Pack 232's annual popcor
 | Twin Rivers Council Popcorn | https://trcscouting.org/popcorn/ |
 | Treasurer role | [`../treasurer/README.md`](../treasurer/README.md) |
 | Pack calendar | [`../_shared/calendar.md`](../_shared/calendar.md) |
+
+{% include role-tasks.html role_id=page.role_id %}

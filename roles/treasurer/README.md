@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 5
 nav_exclude: false
 permalink: /roles/treasurer/
+role_id: treasurer
 ---
 
 # Treasurer
@@ -102,3 +103,5 @@ The Treasurer is accountable for these outcomes:
 | BSA Fiscal Policies | `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/BSA Fiscal Policies and Procedures for Units.md` |
 | Training requirements | [`../_shared/training-requirements.md`](../_shared/training-requirements.md) |
 | BSA policies | [`../_shared/bsa-policies.md`](../_shared/bsa-policies.md) |
+
+{% include role-tasks.html role_id=page.role_id %}

@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 11
 nav_exclude: false
 permalink: /roles/assistant-cubmaster/
+role_id: assistant-cubmaster
 ---
 
 # Assistant Cubmaster
@@ -81,3 +82,5 @@ See specialization table above. All Assistant Cubmasters share the pack email: c
 | Assistant Cubmaster Guide (BSA) | `docs/Training/Positions/Assistant Cubmaster/Assistant Cubmaster Guide.md` |
 | Training requirements | [`../_shared/training-requirements.md`](../_shared/training-requirements.md) |
 | BSA policies | [`../_shared/bsa-policies.md`](../_shared/bsa-policies.md) |
+
+{% include role-tasks.html role_id=page.role_id %}

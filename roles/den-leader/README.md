@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 12
 nav_exclude: false
 permalink: /roles/den-leader/
+role_id: den-leader
 ---
 
 # Den Leader
@@ -97,3 +98,5 @@ Every den should have an Assistant Den Leader who supports the den leader and ca
 | Arrow of Light Guide | `docs/Training/Positions/Den Leader/New Arrow of Light Den Leader Guide.md` |
 | Training requirements | [`../_shared/training-requirements.md`](../_shared/training-requirements.md) |
 | BSA policies | [`../_shared/bsa-policies.md`](../_shared/bsa-policies.md) |
+
+{% include role-tasks.html role_id=page.role_id %}

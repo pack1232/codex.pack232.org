@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 1
 nav_exclude: false
 permalink: /roles/charter-org-rep/
+role_id: charter-org-rep
 ---
 
 # Charter Organization Representative (Charter Org Rep)
@@ -81,3 +82,5 @@ The Charter Organization Representative (COR) is the direct link between Pack 23
 | Rechartering (Committee Chair perspective) | [`../committee-chair/rechartering.md`](../committee-chair/rechartering.md) |
 | Training requirements | [`../_shared/training-requirements.md`](../_shared/training-requirements.md) |
 | BSA policies | [`../_shared/bsa-policies.md`](../_shared/bsa-policies.md) |
+
+{% include role-tasks.html role_id=page.role_id %}

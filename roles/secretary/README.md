@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 4
 nav_exclude: false
 permalink: /roles/secretary/
+role_id: secretary
 ---
 
 # Secretary
@@ -79,3 +80,5 @@ The Secretary ensures that proper records are kept for Pack 232, manages communi
 | Secretary Guide (BSA) | `docs/Training/Positions/Secretary/Secretary Guide.md` |
 | Training requirements | [`../_shared/training-requirements.md`](../_shared/training-requirements.md) |
 | BSA policies | [`../_shared/bsa-policies.md`](../_shared/bsa-policies.md) |
+
+{% include role-tasks.html role_id=page.role_id %}

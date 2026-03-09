@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 6
 nav_exclude: false
 permalink: /roles/fundraising-chair/
+role_id: fundraising-chair
 ---
 
 # Fundraising Chair
@@ -101,3 +102,5 @@ Source: `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/20
 | Money-Earning Application | `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/2024-11-24 - BSA Unit Money-Earning Application.md` |
 | Treasurer role | [`../treasurer/README.md`](../treasurer/README.md) |
 | Popcorn Coordinator role | [`../popcorn-coordinator/README.md`](../popcorn-coordinator/README.md) |
+
+{% include role-tasks.html role_id=page.role_id %}
