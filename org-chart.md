@@ -199,7 +199,7 @@ flowchart LR
 
     classDef charter fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100
     classDef core fill:#c8e6c9,stroke:#1b5e20,stroke-width:3px,color:#1b5e20
-    classDef filled fill:#e8f4e8,stroke:#2d6a2e,stroke-width:2px,color:#1a1a1a
+    classDef filled fill:#c8e6c9,stroke:#1b5e20,stroke-width:2px,color:#1b5e20
     classDef vacant fill:#f5f5f5,stroke:#999,stroke-width:2px,stroke-dasharray: 5 5,color:#666
 ```
 
