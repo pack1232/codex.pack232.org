@@ -3,6 +3,9 @@ description: Cub Scout Pack 232 — Leader Knowledge Base
 url: https://codex.pack232.org
 remote_theme: just-the-docs/just-the-docs
 
+mermaid:
+  version: "11"
+
 plugins:
   - jekyll-optional-front-matter
   - jekyll-default-layout
