@@ -1,10 +1,10 @@
-# Marketing Chair: Social Media
+# Social Media Guide
 
 ## Facebook Page Management
 
 The pack's Facebook page is the primary social channel for reaching current and prospective pack families.
 
-**Admin access**: Committee Chair and Secretary have admin access; Marketing Chair has editor/poster access.
+**Admin access**: Committee Chair and Secretary have admin access; Social Media Coordinator has editor/poster access.
 
 ---
 
@@ -12,11 +12,11 @@ The pack's Facebook page is the primary social channel for reaching current and 
 
 | Content Type | Frequency | Who |
 |---|---|---|
-| Pack meeting event | Monthly (before each meeting) | Marketing Chair |
-| Event photos | Within 1–2 days of event | Marketing Chair |
-| Recruitment announcements | September (primarily) | Marketing Chair + Membership Chair |
-| Major milestones (Pinewood Derby, Blue & Gold, crossovers) | As they happen | Marketing Chair |
-| Service projects, community events | As they happen | Marketing Chair |
+| Pack meeting event | Monthly (before each meeting) | Social Media Coordinator |
+| Event photos | Within 1–2 days of event | Social Media Coordinator |
+| Recruitment announcements | September (primarily) | Social Media Coordinator + Membership Chair |
+| Major milestones (Pinewood Derby, Blue & Gold, crossovers) | As they happen | Social Media Coordinator |
+| Service projects, community events | As they happen | Social Media Coordinator |
 
 ---
 
@@ -56,7 +56,4 @@ Before each pack meeting, post or share a reminder:
 
 ## Class B T-Shirt Inventory
 
-The Marketing Chair maintains the inventory of Pack 232 Class B (casual/activity) t-shirts. Track:
-- Sizes available and quantities on hand
-- Distribution records (who got what size)
-- When to reorder (coordinate with Committee Chair and Treasurer for budget)
+> **Note:** T-shirt inventory management has moved to the [Apparel Coordinator](apparel-coordinator.md).

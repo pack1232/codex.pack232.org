@@ -55,6 +55,16 @@ Source: `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/20
 
 ---
 
+## Coordinator Positions
+
+| Position | File | Current Holder |
+|---|---|---|
+| Popcorn Kernel | [`../popcorn-kernel/README.md`](../popcorn-kernel/README.md) | Phoung Perez |
+| Can Captain | [can-captain.md](can-captain.md) | [vacant] |
+| Grants Coordinator | [grants-coordinator.md](grants-coordinator.md) | [vacant] |
+
+---
+
 ## Reports To / Works With
 
 | Relationship | Role |

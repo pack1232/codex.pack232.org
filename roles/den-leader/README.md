@@ -68,6 +68,12 @@ Dens are gender-specific (all boys or all girls). When serving female youth, at 
 
 ---
 
+## Assistant Den Leader
+
+Every den should have an Assistant Den Leader who supports the den leader and can run meetings when the den leader is absent. See [assistant-den-leader.md](assistant-den-leader.md) for the full role description.
+
+---
+
 ## Key Resources
 
 | Resource | Location |

@@ -54,7 +54,7 @@ The Treasurer is accountable for these outcomes:
 |---|---|
 | Reports to | Committee Chair |
 | Partners with | Committee Chair, Cubmaster |
-| Coordinates with | Popcorn Kernel (popcorn accounting), Advancement Chair (awards purchases), Activities Chair (event fees) |
+| Coordinates with | Popcorn Kernel (popcorn accounting), Advancement Chair (awards purchases), Program Chair (event fees) |
 
 ---
 
@@ -63,6 +63,16 @@ The Treasurer is accountable for these outcomes:
 **Bob Baldwin** | treasurer@pack232.com | rcbaldwinjr@gmail.com | (518) 469-3678
 
 *(Note: Bob Baldwin also serves as Charter Org Rep)*
+
+---
+
+## Coordinator Positions
+
+| Position | File | Current Holder |
+|---|---|---|
+| Collections Coordinator | [collections-coordinator.md](collections-coordinator.md) | [vacant] |
+
+> The [reimbursements.md](reimbursements.md) guide covers the reimbursement process handled directly by the Treasurer.
 
 ---
 

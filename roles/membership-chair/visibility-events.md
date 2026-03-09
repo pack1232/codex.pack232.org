@@ -1,8 +1,8 @@
-# Marketing Chair: Visibility Events
+# Public Relations: Visibility Events
 
 ## Overview
 
-Community visibility events are opportunities to show the pack's presence and recruit new Scouts. The Marketing Chair identifies, coordinates, and supports pack participation in these events.
+Community visibility events are opportunities to show the pack's presence and recruit new Scouts. The Public Relations Coordinator identifies, coordinates, and supports pack participation in these events.
 
 ---
 
@@ -20,14 +20,14 @@ An annual activities fair where community organizations — including Pack 232 �
 
 ### Community Parades and Events
 
-Pack 232 may march in or participate in community events (parades, school events). The Marketing Chair:
+Pack 232 may march in or participate in community events (parades, school events). The Public Relations Coordinator:
 - Identifies opportunities and brings them to the Committee Chair
 - Coordinates Scout and leader participation
 - Ensures pack is represented professionally (uniforms, signs)
 
 ### School Night for Scouting
 
-While the Membership Chair leads school-night recruitment events, the Marketing Chair supports by:
+While the Membership Chair leads school-night recruitment events, the Public Relations Coordinator supports by:
 - Preparing fliers and promotional materials
 - Ensuring Facebook event is posted
 - Bringing branded materials (banner, pack info) to the event
@@ -50,4 +50,4 @@ While the Membership Chair leads school-night recruitment events, the Marketing 
 
 - `docs/Training/Positions/Marketing - Public Relations Chair/Events/2025 Bethlehem Activities Fair.md`
 - `docs/Training/Positions/Marketing - Public Relations Chair/Marketing _ Public Relations Chair Guide.md`
-- [`../membership-chair/recruitment-plan.md`](../membership-chair/recruitment-plan.md) — Membership Chair's recruitment strategy
+- [recruitment-plan.md](recruitment-plan.md) — Membership Chair's recruitment strategy

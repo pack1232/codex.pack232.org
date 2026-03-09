@@ -20,7 +20,7 @@ The primary recruitment season is early fall — September "school-night" events
 
 **Before the event:**
 - Coordinate with Membership Chair on event logistics and location
-- Coordinate with Marketing Chair to ensure fliers, social media posts, and school communications are prepared
+- Coordinate with Public Relations Coordinator to ensure fliers, social media posts, and school communications are prepared
 - Recruit current den leaders and Scout families to attend as ambassadors
 
 ### Year-Round Recruitment

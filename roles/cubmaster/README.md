@@ -46,7 +46,7 @@ The Cubmaster is the primary program leader of Pack 232. Everything the Cubmaste
 | Reports to | Committee Chair, Charter Org Rep (for program matters) |
 | Partners with | Assistant Cubmaster, Committee Chair |
 | Supports | Den Leaders, Assistant Den Leaders, Den Chiefs |
-| Coordinates with | Advancement Chair, Activities Chair, Membership Chair |
+| Coordinates with | Advancement Chair, Program Chair, Membership Chair |
 | Transition coordination | Local Scouts BSA Troop Scoutmasters (for AOL crossovers and den chiefs) |
 
 ---

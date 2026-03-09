@@ -28,7 +28,7 @@ The Committee Chair leads the pack committee and is responsible for the overall 
 - Annually recharter the pack; complete Journey to Excellence documentation
 - Enter all service hours with Council for the pack and dens
 - Organize BSA Health forms for all Scouts and adults; maintain BSA Activity Consent forms
-- Maintain pack website and Facebook page (may delegate to Secretary or Marketing Chair)
+- Maintain pack website and Facebook page (may delegate to Secretary, Webmaster, or Social Media Coordinator)
 - Work with Treasurer to develop the annual budget
 - Delegate responsibilities to adults to ensure quality program
 - Ensure positions of Cubmaster and Assistant Cubmaster are filled
@@ -51,7 +51,7 @@ The Committee Chair leads the pack committee and is responsible for the overall 
 |---|---|
 | Reports to | Charter Org Rep (for charter matters) |
 | Partners with | Cubmaster, Treasurer, Secretary |
-| Supervises | All committee members (Advancement, Activities, Membership, Fundraising, Marketing, Service, Popcorn) |
+| Supervises | All committee members (Advancement, Program, Membership, Fundraising, Popcorn) |
 | Coordinates with | District Commissioner, District Executive |
 
 ---

@@ -33,7 +33,7 @@ For any other fundraising activity:
 ## Allowable Fundraising Activities (with approval)
 
 Examples of commonly approved unit money-earning activities:
-- Caroling with donation box (for a designated charity — coordinate with Service Chair)
+- Caroling with donation box (for a designated charity — coordinate with Community Service Coordinator)
 - Car washes
 - Bake sales
 - Concession booth at community events
