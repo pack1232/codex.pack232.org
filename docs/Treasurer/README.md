@@ -36,8 +36,8 @@ permalink: /docs/treasurer/
 - [attachment 1](attachment 1.md)
 - [cid_99E7A1C8-1ECB-4B75-B85E-9432D0013719](cid_99E7A1C8-1ECB-4B75-B85E-9432D0013719.md)
 
-## Sections
+## Proof of Insurance
 
-- **Proof of Insurance** (3 docs)
+- [Pack 232 Proof of Insurance](Proof of Insurance/Pack 232 Proof of Insurance.md)
 
 

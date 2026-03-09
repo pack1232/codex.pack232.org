@@ -13,8 +13,9 @@ permalink: /docs/campout-resources/
 - [2025-05-12 - Spring Camp Out at Thompsons Lake](2025-05-12 - Spring Camp Out at Thompsons Lake.md)
 - [Recommended Gear](Pack232RecommendedTentCampingGear.md)
 
-## Sections
+## Skits & Stories
 
-- **Skits & Stories** (2 docs)
+- [Cub Scout Leadership Skit](Skits & Stories/cubscoutleadershipskit.md)
+- [A New Jersey Ghost Story](Skits & Stories/dembonesstory.md)
 
 

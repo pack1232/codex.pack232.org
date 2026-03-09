@@ -26,9 +26,39 @@ permalink: /docs/membership/
 - [Pack 232 2025-2026 Parent Guide](Pack 232 2025-2026 Parent Guide.md)
 - [Prospects](Prospects.md)
 
-## Sections
+## Applications
 
-- **Applications** (10 docs)
-- **Family Talent Survey** (7 docs)
+
+### 2024
+
+- [Jorden Perez-Tran Application](Applications/2024/Jorden Perez-Tran Application.md)
+- [Mackenzie Knott Application](Applications/2024/Mackenzie Knott Application.md)
+- [Pack 1232 Adult Application - Kevin Calacone - Signed](Applications/2024/Pack 1232 Adult Application - Kevin Calacone - Signed.md)
+- [Pack 1232 Sharon Heckathorne Adult Application](Applications/2024/Pack 1232 Sharon Heckathorne Adult Application.md)
+- [Pack 232 Liam Clemente Application](Applications/2024/Pack 232 Liam Clemente Application.md)
+- [Pack1232 Michael McGuire Adult Application](Applications/2024/Pack1232 Michael McGuire Adult Application.md)
+
+### 2025
+
+- [Evelyn Spitz Application](Applications/2025/Evelyn Spitz Application.md)
+- [Jala Dolan Application](Applications/2025/Jala Dolan Application.md)
+- [Julia Kent Application](Applications/2025/Julia Kent Application.md)
+- [William Susser Application](Applications/2025/William Susser Application.md)
+
+## Family Talent Survey
+
+
+### 2024
+
+- [2024 Family Talent Survey - Dan Reynolds](Family Talent Survey/2024/2024 Family Talent Survey - Dan Reynolds.md)
+- [2024 Family Talent Survey - Eliza Zipper](Family Talent Survey/2024/2024 Family Talent Survey - Eliza Zipper.md)
+- [2024 Family Talent Survey - Kelsey Watson](Family Talent Survey/2024/2024 Family Talent Survey - Kelsey Watson.md)
+- [2024 Family Talent Survey - Matthew Kidd](Family Talent Survey/2024/2024 Family Talent Survey - Matthew Kidd.md)
+- [2024 Family Talent Survey - Rebecca Flach](Family Talent Survey/2024/2024 Family Talent Survey - Rebecca Flach.md)
+- [2024 Family Talent Survey - Tony Mosher](Family Talent Survey/2024/2024 Family Talent Survey - Tony Mosher.md)
+
+### 2025
+
+- [Cub_Scout_Parent_Talent_Survey](Family Talent Survey/2025/Cub_Scout_Parent_Talent_Survey.md)
 
 

@@ -30,8 +30,11 @@ permalink: /docs/marketing-and-recruitment/
 - [Pack232Banner](Pack232Banner.md)
 - [Pack232InformationalFlyer2019](Pack232InformationalFlyer2019.md)
 
-## Sections
+## Information Night
 
-- **Information Night** (4 docs)
+- [2019Pack232InformationNightPresentation-0](Information Night/2019Pack232InformationNightPresentation-0.md)
+- [ALDOCS01888166v1Cub_Scout__general_interest_agenda_september_2012](Information Night/ALDOCS01888166v1Cub_Scout__general_interest_agenda_september_2012.md)
+- [CubScoutsGeneralInterestagendaSept2013](Information Night/CubScoutsGeneralInterestagendaSept2013.md)
+- [Pack232201920Schedule](Information Night/Pack232201920Schedule.md)
 
 

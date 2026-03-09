@@ -13,8 +13,9 @@ permalink: /docs/safety/
 - [2025-05-07 - Cubs in Canoes](2025-05-07 - Cubs in Canoes.md)
 - [2025-05-09 - BSA Swim Test Opportunity](2025-05-09 - BSA Swim Test Opportunity.md)
 
-## Sections
+## Guide to Safe Scouting
 
-- **Guide to Safe Scouting** (2 docs)
+- [Guide-to-Safe-Scouting](Guide to Safe Scouting/Guide-to-Safe-Scouting.md)
+- [bsa-scouter-code-of-conduct](Guide to Safe Scouting/bsa-scouter-code-of-conduct.md)
 
 

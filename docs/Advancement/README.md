@@ -22,8 +22,23 @@ permalink: /docs/advancement/
 - [webelosadvancementreport0](webelosadvancementreport0.md)
 - [wolfadvancementreport0](wolfadvancementreport0.md)
 
-## Sections
+## Leader Awards
 
-- **Leader Awards** (10 docs)
+- [Adult Leader Awards Guide](Leader Awards/Adult Leader Awards Guide.md)
+- [Leader Training Award Progress Tracking](Leader Awards/Leader Training Award Progress Tracking.md)
+
+### 2025
+
+- [2025 Cubmasters Key Award Presentation (Richard Crumb)](Leader Awards/2025/2025 Cubmasters Key Award Presentation (Richard Crumb).md)
+- [2025 Den Leader Training Award (Mike McGuire)](Leader Awards/2025/2025 Den Leader Training Award (Mike McGuire).md)
+- [2025 Richard Crumb Cubmaster Key Progress Record](Leader Awards/2025/2025 Richard Crumb Cubmaster Key Progress Record.md)
+- [2025 Scouter_s Training Award (Richard Crumb)](Leader Awards/2025/2025 Scouter_s Training Award (Richard Crumb).md)
+- [2025 Scouter_s Training Award for Cub Scout Leaders (Richard Crumb)](Leader Awards/2025/2025 Scouter_s Training Award for Cub Scout Leaders (Richard Crumb).md)
+
+### Forms
+
+- [Cubmaster-Key-2023](Leader Awards/Forms/Cubmaster-Key-2023.md)
+- [Den-Leader-Training-Award-24](Leader Awards/Forms/Den-Leader-Training-Award-24.md)
+- [Scouters-Training-Award-for-Cub-Scout-Leaders-23](Leader Awards/Forms/Scouters-Training-Award-for-Cub-Scout-Leaders-23.md)
 
 

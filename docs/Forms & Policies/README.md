@@ -23,8 +23,9 @@ permalink: /docs/forms-and-policies/
 - [Pack232SociallyDistantPolicies202021](Pack232SociallyDistantPolicies202021.md)
 - [bsa_med_form_a_b](bsa_med_form_a_b.md)
 
-## Sections
+## Scout Account Policy
 
-- **Scout Account Policy** (2 docs)
+- [Pack 232 Scout Account and Scout Subsidy Policy](Scout Account Policy/Pack 232 Scout Account and Scout Subsidy Policy.md)
+- [Revised_Troop_75_Scout_Subsidy_and_Scout_Account_Policies_v12072022_202310519213322966654_2024851853258151414 (1)](Scout Account Policy/Revised_Troop_75_Scout_Subsidy_and_Scout_Account_Policies_v12072022_202310519213322966654_2024851853258151414 (1).md)
 
 
