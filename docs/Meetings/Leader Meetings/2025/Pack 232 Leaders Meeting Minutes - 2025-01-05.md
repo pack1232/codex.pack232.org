@@ -71,10 +71,7 @@ Include Pinewood Derby volunteer list from Kevin in next pack email - WATCH (30 
 Prepare list of volunteers needed for Pinewood Derby; set up sign-up at next pack meeting - WATCH (30 secs)
 Schedule exploratory meeting for Pinewood Derby planning; review last year's emails for guidance - WATCH (30 secs)
 
-|  | Pack 232 Committee Meeting Minutes
-January 2025 | Pack 232 Committee Meeting Minutes
-January 2025 | Pack 232 Committee Meeting Minutes
-January 2025 |
+|  | Pack 232 Committee Meeting Minutes<br>January 2025 | Pack 232 Committee Meeting Minutes<br>January 2025 | Pack 232 Committee Meeting Minutes<br>January 2025 |
 | --- | --- | --- | --- |
 | Called by: | Josh McWilliam | Note Taker: | Daniel O’Brien (via fathom.video) |
 | Meeting Time: | January 5, 2025, 8:00 - 8:30 PM | January 5, 2025, 8:00 - 8:30 PM | January 5, 2025, 8:00 - 8:30 PM |

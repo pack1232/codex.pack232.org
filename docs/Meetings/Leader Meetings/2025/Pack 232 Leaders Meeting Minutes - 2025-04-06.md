@@ -64,10 +64,7 @@ Mike to propose dates for annual planning meeting
 Committee to review and plan STEM activities for Blue and Gold event
 Dan to circulate trebuchet plans (jokingly requested)
 
-|  | Pack 232 Committee Meeting Agenda
-April 2025 | Pack 232 Committee Meeting Agenda
-April 2025 | Pack 232 Committee Meeting Agenda
-April 2025 |
+|  | Pack 232 Committee Meeting Agenda<br>April 2025 | Pack 232 Committee Meeting Agenda<br>April 2025 | Pack 232 Committee Meeting Agenda<br>April 2025 |
 | --- | --- | --- | --- |
 | Called by: | Josh McWilliam | Note Taker: | Daniel O’Brien |
 | Meeting Time: | April 6, 2025, 8:00 - 8:30 PM | April 6, 2025, 8:00 - 8:30 PM | April 6, 2025, 8:00 - 8:30 PM |

@@ -153,8 +153,7 @@ draft: false
 | --- | --- |
 | Unit Numerals (232) | 4.47 |
 | Scout Spiral Handbook | 16.99 |
-| Council Strip Patch | 3.99 |
-- We pass down uniform parts each Fall
+| Council Strip Patch | 3.99 |<br>- We pass down uniform parts each Fall |
 
 ## Slide 19: Where to Get More Info
 

@@ -15,10 +15,7 @@ draft: false
 # Past Action Items
 [Josh] Finalize 2023-34 Books and create proposed budget to hand over treasurer role
 
-|  | Pack 232 Committee Meeting Agenda
-September 2024 | Pack 232 Committee Meeting Agenda
-September 2024 | Pack 232 Committee Meeting Agenda
-September 2024 |
+|  | Pack 232 Committee Meeting Agenda<br>September 2024 | Pack 232 Committee Meeting Agenda<br>September 2024 | Pack 232 Committee Meeting Agenda<br>September 2024 |
 | --- | --- | --- | --- |
 | Called by: | Josh McWilliam | Note Taker: | ? |
 | Meeting Time: | September 02, 2024, 8:00 - 8:30 PM | September 02, 2024, 8:00 - 8:30 PM | September 02, 2024, 8:00 - 8:30 PM |
@@ -27,30 +24,13 @@ September 2024 |
 
 | Time | Item | Lead | Topics / Resources |
 | --- | --- | --- | --- |
-|  | Committee Roles | Josh McWilliam | 2024-25 Leader Roster
-Help Needed: Secretary, Recruitment, Fundraising, Popcorn, Training |
-|  | Secretary | ? | Minutes
-Health Binder |
-|  | Treasurer | Josh McWilliam / Bob Baldwin | Treasurer Transition 
-Dues Changes |
-|  | Recruitment |  | Need Lions & Wolves
-50% of Pack aging out in 2 years
-Becker Open House
-To Join: pack232.com > Join |
+|  | Committee Roles | Josh McWilliam | 2024-25 Leader Roster<br>Help Needed: Secretary, Recruitment, Fundraising, Popcorn, Training |
+|  | Secretary | ? | Minutes<br>Health Binder |
+|  | Treasurer | Josh McWilliam / Bob Baldwin | Treasurer Transition<br>Dues Changes |
+|  | Recruitment |  | Need Lions & Wolves<br>50% of Pack aging out in 2 years<br>Becker Open House<br>To Join: pack232.com > Join |
 |  | Membership | Melissa Salay? | New Member Coordinator? |
-|  | Fundraising | Ben Friedman | Popcorn Update
-Need Asst. Popcorn Kernel
-Fire Station Bottle Deposit Box
-Election Day Concessions
-Schedule Separate Fundraising Meeting |
-|  | Training | ? | YPT Training Expiring Soon: Richard Crumb
-Position Training: Kevin Calacone, David Flores, Sharon Heckathorne |
+|  | Fundraising | Ben Friedman | Popcorn Update<br>Need Asst. Popcorn Kernel<br>Fire Station Bottle Deposit Box<br>Election Day Concessions<br>Schedule Separate Fundraising Meeting |
+|  | Training | ? | YPT Training Expiring Soon: Richard Crumb<br>Position Training: Kevin Calacone, David Flores, Sharon Heckathorne |
 |  | Advancement | Jennifer Wind |  |
-|  | Activities | Sharon Heckathorne | 2024-25 Calendar
-Sept 15 Pack Mtg @ Lawson Lake |
-|  | Other |  | Lions Den Scoutbook Setup
-Lions Den Leader Adult Application
-Register / Recruit Some Scouts
-Website Private Pages Password: doyourbest
-Pack 232 Email Lists: Dens, Leaders 
-Pack 232 Google Drive Archive |
+|  | Activities | Sharon Heckathorne | 2024-25 Calendar<br>Sept 15 Pack Mtg @ Lawson Lake |
+|  | Other |  | Lions Den Scoutbook Setup<br>Lions Den Leader Adult Application<br>Register / Recruit Some Scouts<br>Website Private Pages Password: doyourbest<br>Pack 232 Email Lists: Dens, Leaders<br>Pack 232 Google Drive Archive |

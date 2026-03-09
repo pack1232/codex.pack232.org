@@ -66,10 +66,7 @@ Send email this week to set up preliminary Blue & Gold planning meeting - WATCH 
 Organize Blue & Gold planning meeting during May 16-18 camp out - WATCH (5 secs)
 Send follow-up email re: camperships for day/resident camp financial support - WATCH (5 secs)
 
-|  | Pack 232 Committee Meeting Agenda
-April 2025 | Pack 232 Committee Meeting Agenda
-April 2025 | Pack 232 Committee Meeting Agenda
-April 2025 |
+|  | Pack 232 Committee Meeting Agenda<br>April 2025 | Pack 232 Committee Meeting Agenda<br>April 2025 | Pack 232 Committee Meeting Agenda<br>April 2025 |
 | --- | --- | --- | --- |
 | Called by: | Josh McWilliam | Note Taker: | Daniel O’Brien |
 | Meeting Time: | May 4, 2025, 8:00 - 8:30 PM | May 4, 2025, 8:00 - 8:30 PM | May 4, 2025, 8:00 - 8:30 PM |

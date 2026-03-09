@@ -70,10 +70,7 @@ Bring adult Class A uniform on hanger for info tent @ Scoutapalooza. Confirm w/ 
 Contact James re: changing Howe Caverns presentation to Nov pack meeting. Confirm availability.  - WATCH (5 secs)
 Bring bike pump for bottle rocket launcher to Scoutapalooza. Coordinate w/ Josh on specs needed.  - WATCH (5 secs)
 
-|  | Pack 232 Committee Meeting Minutes
-September 2025 | Pack 232 Committee Meeting Minutes
-September 2025 | Pack 232 Committee Meeting Minutes
-September 2025 |
+|  | Pack 232 Committee Meeting Minutes<br>September 2025 | Pack 232 Committee Meeting Minutes<br>September 2025 | Pack 232 Committee Meeting Minutes<br>September 2025 |
 | --- | --- | --- | --- |
 | Called by: | Josh McWilliam | Note Taker: | Josh McWilliam w/ Fathom AI |
 | Meeting Time: | September 08, 2025, 9:00 - 9:30 PM, Cubmaster / Den Leader Meeting to Follow 9:30 - 10:00 PM | September 08, 2025, 9:00 - 9:30 PM, Cubmaster / Den Leader Meeting to Follow 9:30 - 10:00 PM | September 08, 2025, 9:00 - 9:30 PM, Cubmaster / Den Leader Meeting to Follow 9:30 - 10:00 PM |
