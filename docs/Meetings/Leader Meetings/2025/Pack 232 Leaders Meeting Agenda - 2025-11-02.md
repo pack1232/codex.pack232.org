@@ -12,8 +12,6 @@ draft: false
 
 ## Committee Meeting
 
-## Leaders Meeting
-
 |  | Pack 232 Committee / Leader Meeting Agenda<br>November 2025 |
 | --- | --- |
 | Called by: | Josh McWilliam |
@@ -33,6 +31,9 @@ TRC Recruitment Incentives |
 | Fundraising |  | Popcorn<br>2025 Popcorn Kernel Cup Standings<br>$9,690 total sales, $5,800 sales since last  (last 2 weekends mostly).<br>$2,810 total donations, $1,718 since last<br>$3,000k left to sell (~12 boxes)<br>Returned 5 boxes (~1,200)<br>Rhonda has and is selling 6 boxes ($1,440)<br>Leaves 6 boxes left for remaining show & sells<br>Will pickup more for remaining show & sells<br>Show & Sell Shifts Available (11/8 @4-6PM, 11/15 @12-2 + 4-6)<br>At $6k total net raised, 60% of $10k goal.<br>$1,500 - $2000 estimated from remaining popcorn sales<br>$2,000 estimated from donation in lieu of sales<br>Close of goal estimated if sell remaining popcorn / collect donations<br>Bottle Return Shed<br>Duck Donut Fundraiser<br>Giving Bean Fundraiser<br>Cider donut sales |
 | Other |  | Family Talent Survey |
 |  |  |  |
+
+
+## Leaders Meeting
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

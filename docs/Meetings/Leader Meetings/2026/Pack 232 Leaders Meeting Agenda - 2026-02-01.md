@@ -12,8 +12,6 @@ draft: false
 
 ## Committee Meeting
 
-## Leaders Meeting
-
 |  | Pack 232 Committee / Leader Meeting Agenda<br>February 2026 |
 | --- | --- |
 | Called by: | Josh McWilliam |
@@ -30,6 +28,9 @@ draft: false
 | Treasurer | Bob Baldwin | Monthly Finances Review<br>Begin Using Quickbooks / Online Payment<br>Donations in Lieu of Popcorn Collection Status?<br>Scout Account Balance Communication |
 | Fundraising | Josh McWilliam | Bottle Return Shed - Josh Keys to Mike<br>Ravena Shop & Save - Set for March<br>Hannaford Delmar? |
 | Other |  | Pinewood Derby Trophies Ordered - Adults Included<br>Family Talent Survey still only 8 responses - printout at next Pack meeting<br>Winter Cabin Camping - free cabin rental (Mike connecting with council)?<br>Pinewood Derby<br>Mike confirm logistics with LaSalle?<br>Josh ordered Trophies<br>Dan new laptop?<br>Blue and Gold - Mike quote from Hudson Boulders? |
+
+
+## Leaders Meeting
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

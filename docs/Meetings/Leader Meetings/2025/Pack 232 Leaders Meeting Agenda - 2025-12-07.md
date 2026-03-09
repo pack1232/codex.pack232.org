@@ -12,8 +12,6 @@ draft: false
 
 ## Committee Meeting
 
-## Leaders Meeting
-
 |  | Pack 232 Committee / Leader Meeting Agenda<br>December 2025 |
 | --- | --- |
 | Called by: | Josh McWilliam |
@@ -37,6 +35,9 @@ $1,343 allocated to Scout Accounts
 Bottle Return Shed
 Stewarts Holiday Match Application |
 | Other |  | Family Talent Survey 8 responses, half of this group missing<br>Rechartering<br>Scout Mugs |
+
+
+## Leaders Meeting
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

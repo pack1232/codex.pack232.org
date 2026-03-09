@@ -11,8 +11,6 @@ draft: false
 ---
 
 ## Committee Meeting
-## Cubmaster / Den Leaders Meeting
-
 |  | Pack 232 Committee Meeting Agenda<br>October 2025 |
 | --- | --- |
 | Called by: | Josh McWilliam |
@@ -27,6 +25,9 @@ draft: false
 | Membership |  | 53 Total Scouts<br>Several First Graders Up for Renewal in next 60 Days<br>Albany County Fall Festival |
 | Treasurer | Bob Baldwin | Monthly Finances Review |
 | Fundraising |  | Popcorn<br>2025 Popcorn Kernel Cup Standings<br>< $1k sales since last, $9k more of popcorn to sell<br>No attendees on Zoom call<br>Parents bring $100 / Scout or $150 / Family to Pack Meeting if not selling<br>Selkirk Fire Department Bottle Collections / Shed<br>$500 SABIC Grant |
+
+
+## Cubmaster / Den Leaders Meeting
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

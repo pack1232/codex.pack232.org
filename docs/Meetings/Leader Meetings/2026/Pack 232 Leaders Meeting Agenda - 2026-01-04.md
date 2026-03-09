@@ -12,8 +12,6 @@ draft: false
 
 ## Committee Meeting
 
-## Leaders Meeting
-
 |  | Pack 232 Committee / Leader Meeting Agenda<br>January 2026 |
 | --- | --- |
 | Called by: | Josh McWilliam |
@@ -30,6 +28,9 @@ draft: false
 | Treasurer | Bob Baldwin | Monthly Finances Review<br>Begin Using Quickbooks / Online Payment<br>Donations in Lieu of Popcorn Collection Status?<br>Scout Account Balance Communication |
 | Fundraising | Josh McWilliam | Popcorn<br>Claim Gift Card Rewards in Trails End App<br>Josh ordered Popcorn Kernel Cup Awards for Jan Meeting<br>21 shaving cream pies earned<br>Bottle Return Shed - Josh Keys to Mike<br>Stewarts Holiday Match Application - Josh Submitted<br>Ravena Shop & Save + Hannaford Delmar? |
 | Other |  | Family Talent Survey 8 responses, half of this group missing<br>Rechartering |
+
+
+## Leaders Meeting
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |
