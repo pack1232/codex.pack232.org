@@ -1,4 +1,4 @@
-# Popcorn Kernel: Sale Timeline
+# Popcorn Coordinator: Sale Timeline
 
 ## Overview
 

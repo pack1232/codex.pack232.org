@@ -1,8 +1,8 @@
-# Assistant Cubmaster — Hiking
+# Assistant Cubmaster for Hiking
 
 ## Role Summary
 
-The Hiking Assistant Cubmaster plans and leads pack hikes — getting Scouts outdoors, exploring local trails, and building an appreciation for nature and physical fitness.
+The Assistant Cubmaster for Hiking plans and leads pack hikes — getting Scouts outdoors, exploring local trails, and building an appreciation for nature and physical fitness.
 
 ## Reports To
 

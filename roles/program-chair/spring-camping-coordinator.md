@@ -1,8 +1,8 @@
-# Spring Campout Coordinator
+# Spring Camping Coordinator
 
 ## Role Summary
 
-The Spring Campout Coordinator plans Pack 232's spring campout, providing Scouts with an outdoor camping experience as the weather warms up. This may be a tent campout or cabin trip depending on the year.
+The Spring Camping Coordinator plans Pack 232's spring camping trip, providing Scouts with an outdoor camping experience as the weather warms up. This may be a tent campout or cabin trip depending on the year.
 
 ## Reports To
 
@@ -30,7 +30,7 @@ The Spring Campout Coordinator plans Pack 232's spring campout, providing Scouts
 | January–February | Select and reserve campsite |
 | March | Begin family communication; open registration |
 | April | Confirm headcount; finalize food and supplies |
-| April–May | Execute spring campout |
+| April–May | Execute spring camping trip |
 
 ## Current Holder
 

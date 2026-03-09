@@ -1,4 +1,4 @@
-# Popcorn Kernel: Show and Sell
+# Popcorn Coordinator: Show and Sell
 
 ## Overview
 

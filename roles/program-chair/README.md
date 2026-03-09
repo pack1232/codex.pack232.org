@@ -46,10 +46,10 @@ The Program Chair oversees these coordinator positions:
 | Position | File | Current Holder |
 |---|---|---|
 | Pinewood Derby Coordinator | [pinewood-derby-coordinator.md](pinewood-derby-coordinator.md) | [vacant] |
-| Winter Cabin Camping Coordinator | [winter-cabin-camping-coordinator.md](winter-cabin-camping-coordinator.md) | [vacant] |
-| Spring Campout Coordinator | [spring-campout-coordinator.md](spring-campout-coordinator.md) | [vacant] |
-| Fall Campout Coordinator | [fall-campout-coordinator.md](fall-campout-coordinator.md) | [vacant] |
-| Summer Camp Coordinator | [summer-camp-coordinator.md](summer-camp-coordinator.md) | [vacant] |
+| Winter Camping Coordinator | [winter-camping-coordinator.md](winter-camping-coordinator.md) | [vacant] |
+| Spring Camping Coordinator | [spring-camping-coordinator.md](spring-camping-coordinator.md) | [vacant] |
+| Fall Camping Coordinator | [fall-camping-coordinator.md](fall-camping-coordinator.md) | [vacant] |
+| Summer Camping Coordinator | [summer-camping-coordinator.md](summer-camping-coordinator.md) | [vacant] |
 | Pack Meeting Activity Coordinator | [pack-meeting-activity-coordinator.md](pack-meeting-activity-coordinator.md) | Sharon Heckathorne |
 | Pack Meeting Snackmaster | [pack-meeting-snackmaster.md](pack-meeting-snackmaster.md) | [vacant] |
 | Equipment Coordinator | [equipment-coordinator.md](equipment-coordinator.md) | [vacant] |

@@ -1,8 +1,8 @@
-# Popcorn Kernel
+# Popcorn Coordinator
 
 ## Role Summary
 
-The Popcorn Kernel manages Pack 232's annual popcorn sale — the pack's largest fundraiser. This includes attending the council kickoff, distributing sales materials to Scouts, scheduling Show and Sells with local merchants, collecting orders, picking up and distributing popcorn, and turning money in to the Treasurer by the council deadline. The Popcorn Kernel works closely with the Treasurer on the financial side of the sale.
+The Popcorn Coordinator (a.k.a. Popcorn Kernel) manages Pack 232's annual popcorn sale — the pack's largest fundraiser. This includes attending the council kickoff, distributing sales materials to Scouts, scheduling Show and Sells with local merchants, collecting orders, picking up and distributing popcorn, and turning money in to the Treasurer by the council deadline. The Popcorn Coordinator works closely with the Treasurer on the financial side of the sale.
 
 ---
 
@@ -35,9 +35,9 @@ The Popcorn Kernel manages Pack 232's annual popcorn sale — the pack's largest
 
 ## Current Holders
 
-**Ben Friedman** (Popcorn Kernel) | popcorn@pack232.com | benmfriedman@gmail.com | (518) 542-4661
+**Ben Friedman** (Popcorn Coordinator) | popcorn@pack232.com | benmfriedman@gmail.com | (518) 542-4661
 
-**Bob Pollock** (Assistant Popcorn Kernel) | popcorn@pack232.com | bobbo431@hotmail.com | (631) 636-2086
+**Bob Pollock** (Assistant Popcorn Coordinator) | popcorn@pack232.com | bobbo431@hotmail.com | (631) 636-2086
 
 *Note from roster: A successor for Ben Friedman is needed for future years.*
 

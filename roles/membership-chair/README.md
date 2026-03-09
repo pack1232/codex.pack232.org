@@ -56,7 +56,6 @@ The Membership Chair oversees these coordinator positions:
 | Experience Coordinator | [experience-coordinator.md](experience-coordinator.md) | [vacant] |
 | Apparel Coordinator | [apparel-coordinator.md](apparel-coordinator.md) | [vacant] |
 | Public Relations Coordinator | [public-relations-coordinator.md](public-relations-coordinator.md) | [vacant] |
-| Social Media Coordinator | [social-media-coordinator.md](social-media-coordinator.md) | [vacant] |
 
 ---
 

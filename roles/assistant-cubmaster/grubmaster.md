@@ -1,8 +1,8 @@
-# Assistant Cubmaster — Grubmaster
+# Assistant Cubmaster for Food
 
 ## Role Summary
 
-The Grubmaster manages food provisioning for pack campouts and outdoor events — menu planning, grocery purchasing, food inventory, and meal preparation coordination. Good food makes a campout great.
+The Assistant Cubmaster for Food (a.k.a. Grubmaster) manages food provisioning for pack campouts and outdoor events — menu planning, grocery purchasing, food inventory, and meal preparation coordination. Good food makes a campout great.
 
 ## Reports To
 

@@ -59,8 +59,8 @@ Source: `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/20
 
 | Position | File | Current Holder |
 |---|---|---|
-| Popcorn Kernel | [`../popcorn-kernel/README.md`](../popcorn-kernel/README.md) | Phoung Perez |
-| Can Captain | [can-captain.md](can-captain.md) | [vacant] |
+| Popcorn Coordinator | [`../popcorn-kernel/README.md`](../popcorn-kernel/README.md) | Phoung Perez |
+| Bottle and Can Redemption Coordinator | [can-captain.md](can-captain.md) | [vacant] |
 | Grants Coordinator | [grants-coordinator.md](grants-coordinator.md) | [vacant] |
 
 ---
@@ -70,7 +70,7 @@ Source: `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/20
 | Relationship | Role |
 |---|---|
 | Reports to | Committee Chair |
-| Coordinates with | Treasurer (proceeds management), Popcorn Kernel (primary fundraiser) |
+| Coordinates with | Treasurer (proceeds management), Popcorn Coordinator (primary fundraiser) |
 | Works with | Committee Chair (charter org approval for activities) |
 
 ---
@@ -92,4 +92,4 @@ Source: `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/20
 | BSA Fiscal Policies | `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/BSA Fiscal Policies and Procedures for Units.md` |
 | Money-Earning Application | `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/2024-11-24 - BSA Unit Money-Earning Application.md` |
 | Treasurer role | [`../treasurer/README.md`](../treasurer/README.md) |
-| Popcorn Kernel role | [`../popcorn-kernel/README.md`](../popcorn-kernel/README.md) |
+| Popcorn Coordinator role | [`../popcorn-kernel/README.md`](../popcorn-kernel/README.md) |

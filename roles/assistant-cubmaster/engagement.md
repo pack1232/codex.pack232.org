@@ -1,8 +1,8 @@
-# Assistant Cubmaster — Engagement
+# Assistant Cubmaster for Engagement
 
 ## Role Summary
 
-The Engagement Assistant Cubmaster drives event sign-ups and family participation across pack activities. This role focuses on getting families to show up — making events appealing, removing barriers to attendance, and building excitement.
+The Assistant Cubmaster for Engagement drives event sign-ups and family participation across pack activities. This role focuses on getting families to show up — making events appealing, removing barriers to attendance, and building excitement.
 
 ## Reports To
 

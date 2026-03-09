@@ -1,8 +1,8 @@
-# Popcorn Kernel Agent
+# Popcorn Coordinator Agent
 
 ## Agent Purpose
 
-The Popcorn Kernel agent is designed to help with sale planning, Show and Sell scheduling, family communications, and end-of-season accounting.
+The Popcorn Coordinator agent is designed to help with sale planning, Show and Sell scheduling, family communications, and end-of-season accounting.
 
 ---
 

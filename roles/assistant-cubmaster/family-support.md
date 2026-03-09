@@ -1,8 +1,8 @@
-# Assistant Cubmaster — Family Support
+# Assistant Cubmaster for Family Support
 
 ## Role Summary
 
-The Family Support Assistant Cubmaster serves as a first point of contact for parent questions and concerns, helping families navigate the Cub Scout program and feel connected to the pack community.
+The Assistant Cubmaster for Family Support serves as a first point of contact for parent questions and concerns, helping families navigate the Cub Scout program and feel connected to the pack community.
 
 ## Reports To
 

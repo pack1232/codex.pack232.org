@@ -1,8 +1,8 @@
-# Fall Campout Coordinator
+# Fall Camping Coordinator
 
 ## Role Summary
 
-The Fall Campout Coordinator plans Pack 232's fall campout — often a "Fall Back to Scouting" event that doubles as a fun kickoff to the new program year and a recruitment opportunity.
+The Fall Camping Coordinator plans Pack 232's fall camping trip — often a "Fall Back to Scouting" event that doubles as a fun kickoff to the new program year and a recruitment opportunity.
 
 ## Reports To
 
@@ -30,7 +30,7 @@ The Fall Campout Coordinator plans Pack 232's fall campout — often a "Fall Bac
 | June–July | Select and reserve campsite/venue |
 | August–September | Begin family communication; open registration |
 | September | Confirm headcount; finalize plans |
-| October | Execute fall campout / Fall Back to Scouting |
+| October | Execute fall camping trip / Fall Back to Scouting |
 
 ## Current Holder
 

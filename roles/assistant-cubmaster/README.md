@@ -35,14 +35,14 @@ Each Assistant Cubmaster has a focus area. Click through for details:
 
 | Specialization | File | Current Holder |
 |---|---|---|
-| Den Support | [den-support.md](den-support.md) | [vacant] |
-| Family Support | [family-support.md](family-support.md) | [vacant] |
-| Engagement | [engagement.md](engagement.md) | [vacant] |
-| Meetings | [meetings.md](meetings.md) | [vacant] |
-| Hiking | [hiking.md](hiking.md) | [vacant] |
-| Crafts | [crafts.md](crafts.md) | [vacant] |
-| Grubmaster | [grubmaster.md](grubmaster.md) | Richard Crumb |
-| Communications | [communications.md](communications.md) | [vacant] |
+| AC of Den Support | [den-support.md](den-support.md) | [vacant] |
+| AC of Family Support | [family-support.md](family-support.md) | [vacant] |
+| AC of Engagement | [engagement.md](engagement.md) | [vacant] |
+| AC of Meetings | [meetings.md](meetings.md) | [vacant] |
+| AC of Hiking | [hiking.md](hiking.md) | [vacant] |
+| AC of Crafts | [crafts.md](crafts.md) | [vacant] |
+| AC of Food | [grubmaster.md](grubmaster.md) — a.k.a. Grubmaster | Richard Crumb |
+| AC of Communications | [communications.md](communications.md) | [vacant] |
 
 ---
 

@@ -31,7 +31,7 @@ All Pack 232 leaders must complete training before working with youth. This file
 | Program Chair | YPT + Pack Committee Challenge | BALOO | BALOO required before any pack campout |
 | Membership Chair | YPT + Pack Committee Challenge | — | |
 | Fundraising Chair | YPT + Pack Committee Challenge | — | |
-| Popcorn Kernel | YPT + Pack Committee Challenge + Popcorn Kernel Training (if applicable) | — | Council provides Popcorn training |
+| Popcorn Coordinator | YPT + Pack Committee Challenge + Popcorn Kernel Training (if applicable) | — | Council provides Popcorn training |
 | Den Chief | Den Chief Training | — | Youth position; training done with den leader if possible |
 
 **Note:** Coordinator positions under each chair (e.g., Recruitment Coordinator, Pinewood Derby Coordinator) follow the same training requirements as their parent chair position — YPT + Pack Committee Challenge at minimum.
@@ -56,7 +56,7 @@ Basic Adult Leader Outdoor Orientation (BALOO) is **required before any pack ove
 | Den Leader Training (CS19) | [my.Scouting.org](https://my.scouting.org/) — online modules |
 | Pack Committee Challenge | [my.Scouting.org](https://my.scouting.org/) — online modules |
 | BALOO | In-person; check Twin Rivers Council calendar |
-| Popcorn Kernel Training | Provided by Twin Rivers Council at popcorn kickoff |
+| Popcorn Coordinator Training | Provided by Twin Rivers Council at popcorn kickoff |
 
 ---
 

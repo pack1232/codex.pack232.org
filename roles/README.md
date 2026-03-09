@@ -15,11 +15,12 @@ Charter Organization (Selkirk Fire Department #2)
     - [Medical Forms Coordinator](secretary/medical-forms-coordinator.md) — [vacant]
     - [Webmaster](secretary/webmaster.md) — [vacant]
   - [Treasurer](treasurer/) (Bob Baldwin)
-    - Reimbursements Coordinator — [vacant]
-    - [Collections Coordinator](treasurer/collections-coordinator.md) — [vacant]
+    - [Accounts Payable Coordinator](treasurer/accounts-payable-coordinator.md) — [vacant]
+    - [Accounts Receivable Coordinator](treasurer/accounts-receivable-coordinator.md) — [vacant]
   - [Fundraising Chair](fundraising-chair/) — [vacant]
-    - [Popcorn Kernel](popcorn-kernel/) (Phoung Perez)
-    - [Can Captain](fundraising-chair/can-captain.md) — [vacant]
+    - [Popcorn Coordinator](popcorn-kernel/) — a.k.a. Popcorn Kernel (Phoung Perez)
+      - [Assistant Popcorn Coordinator](popcorn-kernel/assistant-popcorn-kernel.md) — a.k.a. Assistant Popcorn Kernel — [vacant]
+    - [Bottle and Can Redemption Coordinator](fundraising-chair/can-captain.md) — a.k.a. Can Captain — [vacant]
     - [Grants Coordinator](fundraising-chair/grants-coordinator.md) — [vacant]
   - [Membership Chair](membership-chair/) — [vacant]
     - [Recruitment Coordinator](membership-chair/recruitment-coordinator.md) — [vacant]
@@ -27,13 +28,12 @@ Charter Organization (Selkirk Fire Department #2)
     - [Experience Coordinator](membership-chair/experience-coordinator.md) — [vacant]
     - [Apparel Coordinator](membership-chair/apparel-coordinator.md) — [vacant]
     - [Public Relations Coordinator](membership-chair/public-relations-coordinator.md) — [vacant]
-    - [Social Media Coordinator](membership-chair/social-media-coordinator.md) — [vacant]
   - [Program Chair](program-chair/) — [vacant]
     - [Pinewood Derby Coordinator](program-chair/pinewood-derby-coordinator.md) — [vacant]
-    - [Winter Cabin Camping Coordinator](program-chair/winter-cabin-camping-coordinator.md) — [vacant]
-    - [Spring Campout Coordinator](program-chair/spring-campout-coordinator.md) — [vacant]
-    - [Fall Campout Coordinator](program-chair/fall-campout-coordinator.md) — [vacant]
-    - [Summer Camp Coordinator](program-chair/summer-camp-coordinator.md) — [vacant]
+    - [Winter Camping Coordinator](program-chair/winter-camping-coordinator.md) — [vacant]
+    - [Spring Camping Coordinator](program-chair/spring-camping-coordinator.md) — [vacant]
+    - [Fall Camping Coordinator](program-chair/fall-camping-coordinator.md) — [vacant]
+    - [Summer Camping Coordinator](program-chair/summer-camping-coordinator.md) — [vacant]
     - [Pack Meeting Activity Coordinator](program-chair/pack-meeting-activity-coordinator.md) (Sharon Heckathorne)
     - [Pack Meeting Snackmaster](program-chair/pack-meeting-snackmaster.md) — [vacant]
     - [Equipment Coordinator](program-chair/equipment-coordinator.md) — [vacant]
@@ -47,14 +47,14 @@ Charter Organization (Selkirk Fire Department #2)
     - [Leader Training & Awards Coordinator](advancement-chair/leader-training-coordinator.md) — [vacant]
 - [Cubmaster](cubmaster/) (Michael McGuire)
   - [Assistant Cubmasters](assistant-cubmaster/)
-    - [Den Support](assistant-cubmaster/den-support.md) — [vacant]
-    - [Family Support](assistant-cubmaster/family-support.md) — [vacant]
-    - [Engagement](assistant-cubmaster/engagement.md) — [vacant]
-    - [Meetings](assistant-cubmaster/meetings.md) — [vacant]
-    - [Hiking](assistant-cubmaster/hiking.md) — [vacant]
-    - [Crafts](assistant-cubmaster/crafts.md) — [vacant]
-    - [Grubmaster](assistant-cubmaster/grubmaster.md) (Richard Crumb)
-    - [Communications](assistant-cubmaster/communications.md) — [vacant]
+    - [Assistant Cubmaster for Den Support](assistant-cubmaster/den-support.md) — [vacant]
+    - [Assistant Cubmaster for Family Support](assistant-cubmaster/family-support.md) — [vacant]
+    - [Assistant Cubmaster for Engagement](assistant-cubmaster/engagement.md) — [vacant]
+    - [Assistant Cubmaster for Meetings](assistant-cubmaster/meetings.md) — [vacant]
+    - [Assistant Cubmaster for Hiking](assistant-cubmaster/hiking.md) — [vacant]
+    - [Assistant Cubmaster for Crafts](assistant-cubmaster/crafts.md) — [vacant]
+    - [Assistant Cubmaster for Food](assistant-cubmaster/grubmaster.md) — a.k.a. Grubmaster (Richard Crumb)
+    - [Assistant Cubmaster for Communications](assistant-cubmaster/communications.md) — [vacant]
   - [Den Leaders](den-leader/)
     - Lions (Den 7) — Courtney Baldwin & Kristianna McWilliam
       - [Assistant Den Leader](den-leader/assistant-den-leader.md) — [vacant]
@@ -109,14 +109,16 @@ Charter Organization (Selkirk Fire Department #2)
 
 | Role | File | Current Holder |
 |---|---|---|
-| Collections Coordinator | [treasurer/collections-coordinator.md](treasurer/collections-coordinator.md) | [vacant] |
+| Accounts Receivable Coordinator | [treasurer/accounts-receivable-coordinator.md](treasurer/accounts-receivable-coordinator.md) | [vacant] |
+| Accounts Payable Coordinator | [treasurer/accounts-payable-coordinator.md](treasurer/accounts-payable-coordinator.md) | [vacant] |
 
 ### Coordinators — Fundraising
 
 | Role | File | Current Holder |
 |---|---|---|
-| Popcorn Kernel | [popcorn-kernel/](popcorn-kernel/) | Phoung Perez |
-| Can Captain | [fundraising-chair/can-captain.md](fundraising-chair/can-captain.md) | [vacant] |
+| Popcorn Coordinator | [popcorn-kernel/](popcorn-kernel/) | Phoung Perez |
+| Assistant Popcorn Coordinator | [popcorn-kernel/assistant-popcorn-kernel.md](popcorn-kernel/assistant-popcorn-kernel.md) | [vacant] |
+| Bottle and Can Redemption Coordinator | [fundraising-chair/can-captain.md](fundraising-chair/can-captain.md) | [vacant] |
 | Grants Coordinator | [fundraising-chair/grants-coordinator.md](fundraising-chair/grants-coordinator.md) | [vacant] |
 
 ### Coordinators — Membership
@@ -128,17 +130,16 @@ Charter Organization (Selkirk Fire Department #2)
 | Experience Coordinator | [membership-chair/experience-coordinator.md](membership-chair/experience-coordinator.md) | [vacant] |
 | Apparel Coordinator | [membership-chair/apparel-coordinator.md](membership-chair/apparel-coordinator.md) | [vacant] |
 | Public Relations Coordinator | [membership-chair/public-relations-coordinator.md](membership-chair/public-relations-coordinator.md) | [vacant] |
-| Social Media Coordinator | [membership-chair/social-media-coordinator.md](membership-chair/social-media-coordinator.md) | [vacant] |
 
 ### Coordinators — Program
 
 | Role | File | Current Holder |
 |---|---|---|
 | Pinewood Derby Coordinator | [program-chair/pinewood-derby-coordinator.md](program-chair/pinewood-derby-coordinator.md) | [vacant] |
-| Winter Cabin Camping Coordinator | [program-chair/winter-cabin-camping-coordinator.md](program-chair/winter-cabin-camping-coordinator.md) | [vacant] |
-| Spring Campout Coordinator | [program-chair/spring-campout-coordinator.md](program-chair/spring-campout-coordinator.md) | [vacant] |
-| Fall Campout Coordinator | [program-chair/fall-campout-coordinator.md](program-chair/fall-campout-coordinator.md) | [vacant] |
-| Summer Camp Coordinator | [program-chair/summer-camp-coordinator.md](program-chair/summer-camp-coordinator.md) | [vacant] |
+| Winter Camping Coordinator | [program-chair/winter-camping-coordinator.md](program-chair/winter-camping-coordinator.md) | [vacant] |
+| Spring Camping Coordinator | [program-chair/spring-camping-coordinator.md](program-chair/spring-camping-coordinator.md) | [vacant] |
+| Fall Camping Coordinator | [program-chair/fall-camping-coordinator.md](program-chair/fall-camping-coordinator.md) | [vacant] |
+| Summer Camping Coordinator | [program-chair/summer-camping-coordinator.md](program-chair/summer-camping-coordinator.md) | [vacant] |
 | Pack Meeting Activity Coordinator | [program-chair/pack-meeting-activity-coordinator.md](program-chair/pack-meeting-activity-coordinator.md) | Sharon Heckathorne |
 | Pack Meeting Snackmaster | [program-chair/pack-meeting-snackmaster.md](program-chair/pack-meeting-snackmaster.md) | [vacant] |
 | Equipment Coordinator | [program-chair/equipment-coordinator.md](program-chair/equipment-coordinator.md) | [vacant] |

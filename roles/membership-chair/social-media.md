@@ -4,7 +4,7 @@
 
 The pack's Facebook page is the primary social channel for reaching current and prospective pack families.
 
-**Admin access**: Committee Chair and Secretary have admin access; Social Media Coordinator has editor/poster access.
+**Admin access**: Committee Chair and Secretary have admin access; Public Relations Coordinator has editor/poster access.
 
 ---
 
@@ -12,11 +12,11 @@ The pack's Facebook page is the primary social channel for reaching current and 
 
 | Content Type | Frequency | Who |
 |---|---|---|
-| Pack meeting event | Monthly (before each meeting) | Social Media Coordinator |
-| Event photos | Within 1–2 days of event | Social Media Coordinator |
-| Recruitment announcements | September (primarily) | Social Media Coordinator + Membership Chair |
-| Major milestones (Pinewood Derby, Blue & Gold, crossovers) | As they happen | Social Media Coordinator |
-| Service projects, community events | As they happen | Social Media Coordinator |
+| Pack meeting event | Monthly (before each meeting) | Public Relations Coordinator |
+| Event photos | Within 1–2 days of event | Public Relations Coordinator |
+| Recruitment announcements | September (primarily) | Public Relations Coordinator + Membership Chair |
+| Major milestones (Pinewood Derby, Blue & Gold, crossovers) | As they happen | Public Relations Coordinator |
+| Service projects, community events | As they happen | Public Relations Coordinator |
 
 ---
 
