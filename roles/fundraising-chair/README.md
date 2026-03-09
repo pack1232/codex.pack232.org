@@ -1,3 +1,9 @@
+---
+title: Fundraising Chair
+parent: All Roles
+nav_order: 6
+---
+
 # Fundraising Chair
 
 ## Role Summary

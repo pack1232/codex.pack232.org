@@ -1,3 +1,9 @@
+---
+title: Program Chair
+parent: All Roles
+nav_order: 8
+---
+
 # Program Chair
 
 ## Role Summary

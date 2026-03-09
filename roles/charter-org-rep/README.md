@@ -1,3 +1,9 @@
+---
+title: Charter Org Rep
+parent: All Roles
+nav_order: 1
+---
+
 # Charter Organization Representative (Charter Org Rep)
 
 ## Role Summary

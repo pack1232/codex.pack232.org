@@ -1,3 +1,9 @@
+---
+title: Advancement Chair
+parent: All Roles
+nav_order: 9
+---
+
 # Advancement Chair
 
 ## Role Summary

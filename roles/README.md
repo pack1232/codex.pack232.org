@@ -1,3 +1,9 @@
+---
+title: All Roles
+nav_order: 2
+has_children: true
+---
+
 # Pack 232 Roles
 
 This directory contains purpose-built role guides for Pack 232 leaders. Each role folder is self-contained — a new person filling a role can read their folder and know everything they need to get started. The `agent/` subfolder in each role is reserved for Claude-powered support (skills, commands, workflows).

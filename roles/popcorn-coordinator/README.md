@@ -1,3 +1,9 @@
+---
+title: Popcorn Coordinator
+parent: All Roles
+nav_order: 10
+---
+
 # Popcorn Coordinator
 
 ## Role Summary

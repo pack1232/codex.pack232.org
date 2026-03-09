@@ -1,3 +1,9 @@
+---
+title: Treasurer
+parent: All Roles
+nav_order: 5
+---
+
 # Treasurer
 
 ## Role Summary
