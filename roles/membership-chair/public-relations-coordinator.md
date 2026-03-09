@@ -9,7 +9,7 @@ The Public Relations Coordinator manages Pack 232's marketing, visibility, brand
 | Relationship | Role |
 |---|---|
 | Reports to | Membership Chair |
-| Works with | Recruitment Coordinator, Secretary (Webmaster), Cubmaster, Assistant Cubmaster — Communications |
+| Works with | Member Recruitment Coordinator, Secretary (Webmaster), Cubmaster, Assistant Cubmaster — Communications |
 
 ## Core Responsibilities
 
@@ -17,7 +17,7 @@ The Public Relations Coordinator manages Pack 232's marketing, visibility, brand
 - Provide press releases to local press on major pack events (Pinewood Derby, Blue & Gold, recruitment)
 - Identify and participate in community visibility events (activities fairs, parades, school events)
 - Circulate Cub Scout recruiting fliers and brochures
-- Coordinate with the Recruitment Coordinator on promotion of recruitment events
+- Coordinate with the Member Recruitment Coordinator on promotion of recruitment events
 - Prepare promotional materials for school-night sign-ups and activities fairs
 - Keep pack activities visible to the chartered organization (Glenmont Elementary PTA) and community
 - Coordinate with Glenmont Elementary on getting messages into school newsletters

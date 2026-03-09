@@ -18,14 +18,14 @@ Charter Organization (Selkirk Fire Department #2)
     - [Accounts Payable Coordinator](treasurer/accounts-payable-coordinator.md) — [vacant]
     - [Accounts Receivable Coordinator](treasurer/accounts-receivable-coordinator.md) — [vacant]
   - [Fundraising Chair](fundraising-chair/) — [vacant]
-    - [Popcorn Coordinator](popcorn-kernel/) — a.k.a. Popcorn Kernel (Phoung Perez)
-      - [Assistant Popcorn Coordinator](popcorn-kernel/assistant-popcorn-kernel.md) — a.k.a. Assistant Popcorn Kernel — [vacant]
-    - [Bottle and Can Redemption Coordinator](fundraising-chair/can-captain.md) — a.k.a. Can Captain — [vacant]
+    - [Popcorn Coordinator](popcorn-coordinator/) — a.k.a. Popcorn Kernel (Phoung Perez)
+      - [Assistant Popcorn Coordinator](popcorn-coordinator/assistant-popcorn-coordinator.md) — a.k.a. Assistant Popcorn Kernel — [vacant]
+    - [Redemptions Coordinator](fundraising-chair/redemptions-coordinator.md) — a.k.a. Can Captain — [vacant]
     - [Grants Coordinator](fundraising-chair/grants-coordinator.md) — [vacant]
   - [Membership Chair](membership-chair/) — [vacant]
-    - [Recruitment Coordinator](membership-chair/recruitment-coordinator.md) — [vacant]
-    - [Onboarding Coordinator](membership-chair/onboarding-coordinator.md) — [vacant]
-    - [Experience Coordinator](membership-chair/experience-coordinator.md) — [vacant]
+    - [Member Recruitment Coordinator](membership-chair/member-recruitment-coordinator.md) — [vacant]
+    - [Member Onboarding Coordinator](membership-chair/member-onboarding-coordinator.md) — [vacant]
+    - [Member Experience Coordinator](membership-chair/member-experience-coordinator.md) — [vacant]
     - [Apparel Coordinator](membership-chair/apparel-coordinator.md) — [vacant]
     - [Public Relations Coordinator](membership-chair/public-relations-coordinator.md) — [vacant]
   - [Program Chair](program-chair/) — [vacant]
@@ -53,7 +53,7 @@ Charter Organization (Selkirk Fire Department #2)
     - [Assistant Cubmaster for Meetings](assistant-cubmaster/meetings.md) — [vacant]
     - [Assistant Cubmaster for Hiking](assistant-cubmaster/hiking.md) — [vacant]
     - [Assistant Cubmaster for Crafts](assistant-cubmaster/crafts.md) — [vacant]
-    - [Assistant Cubmaster for Food](assistant-cubmaster/grubmaster.md) — a.k.a. Grubmaster (Richard Crumb)
+    - [Assistant Cubmaster for Food](assistant-cubmaster/food.md) — a.k.a. Grubmaster (Richard Crumb)
     - [Assistant Cubmaster for Communications](assistant-cubmaster/communications.md) — [vacant]
   - [Den Leaders](den-leader/)
     - Lions (Den 7) — Courtney Baldwin & Kristianna McWilliam
@@ -116,18 +116,18 @@ Charter Organization (Selkirk Fire Department #2)
 
 | Role | File | Current Holder |
 |---|---|---|
-| Popcorn Coordinator | [popcorn-kernel/](popcorn-kernel/) | Phoung Perez |
-| Assistant Popcorn Coordinator | [popcorn-kernel/assistant-popcorn-kernel.md](popcorn-kernel/assistant-popcorn-kernel.md) | [vacant] |
-| Bottle and Can Redemption Coordinator | [fundraising-chair/can-captain.md](fundraising-chair/can-captain.md) | [vacant] |
+| Popcorn Coordinator | [popcorn-coordinator/](popcorn-coordinator/) | Phoung Perez |
+| Assistant Popcorn Coordinator | [popcorn-coordinator/assistant-popcorn-coordinator.md](popcorn-coordinator/assistant-popcorn-coordinator.md) | [vacant] |
+| Redemptions Coordinator | [fundraising-chair/redemptions-coordinator.md](fundraising-chair/redemptions-coordinator.md) | [vacant] |
 | Grants Coordinator | [fundraising-chair/grants-coordinator.md](fundraising-chair/grants-coordinator.md) | [vacant] |
 
 ### Coordinators — Membership
 
 | Role | File | Current Holder |
 |---|---|---|
-| Recruitment Coordinator | [membership-chair/recruitment-coordinator.md](membership-chair/recruitment-coordinator.md) | [vacant] |
-| Onboarding Coordinator | [membership-chair/onboarding-coordinator.md](membership-chair/onboarding-coordinator.md) | [vacant] |
-| Experience Coordinator | [membership-chair/experience-coordinator.md](membership-chair/experience-coordinator.md) | [vacant] |
+| Member Recruitment Coordinator | [membership-chair/member-recruitment-coordinator.md](membership-chair/member-recruitment-coordinator.md) | [vacant] |
+| Member Onboarding Coordinator | [membership-chair/member-onboarding-coordinator.md](membership-chair/member-onboarding-coordinator.md) | [vacant] |
+| Member Experience Coordinator | [membership-chair/member-experience-coordinator.md](membership-chair/member-experience-coordinator.md) | [vacant] |
 | Apparel Coordinator | [membership-chair/apparel-coordinator.md](membership-chair/apparel-coordinator.md) | [vacant] |
 | Public Relations Coordinator | [membership-chair/public-relations-coordinator.md](membership-chair/public-relations-coordinator.md) | [vacant] |
 

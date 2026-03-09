@@ -9,7 +9,7 @@ The Assistant Cubmaster for Family Support serves as a first point of contact fo
 | Relationship | Role |
 |---|---|
 | Reports to | Cubmaster |
-| Works with | Membership Chair, Onboarding Coordinator, Den Leaders |
+| Works with | Membership Chair, Member Onboarding Coordinator, Den Leaders |
 
 ## Core Responsibilities
 
@@ -17,7 +17,7 @@ The Assistant Cubmaster for Family Support serves as a first point of contact fo
 - Help new families understand the Cub Scout program, uniforms, advancement, and expectations
 - Direct families to the right person for specific questions (Treasurer for fees, Den Leader for den matters, etc.)
 - Follow up with families who seem uncertain or disconnected
-- Support the Onboarding Coordinator with welcoming new families
+- Support the Member Onboarding Coordinator with welcoming new families
 - Help communicate pack decisions and changes to families in a clear, positive way
 - Serve as a liaison between families and pack leadership when concerns arise
 

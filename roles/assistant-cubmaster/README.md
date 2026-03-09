@@ -41,7 +41,7 @@ Each Assistant Cubmaster has a focus area. Click through for details:
 | AC of Meetings | [meetings.md](meetings.md) | [vacant] |
 | AC of Hiking | [hiking.md](hiking.md) | [vacant] |
 | AC of Crafts | [crafts.md](crafts.md) | [vacant] |
-| AC of Food | [grubmaster.md](grubmaster.md) — a.k.a. Grubmaster | Richard Crumb |
+| AC of Food | [food.md](food.md) — a.k.a. Grubmaster | Richard Crumb |
 | AC of Communications | [communications.md](communications.md) | [vacant] |
 
 ---

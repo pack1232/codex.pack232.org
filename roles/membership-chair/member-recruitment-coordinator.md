@@ -1,8 +1,8 @@
-# Recruitment Coordinator
+# Member Recruitment Coordinator
 
 ## Role Summary
 
-The Recruitment Coordinator drives new member recruitment events and outreach for Pack 232. This includes planning and executing school-night sign-ups, activities fairs, and year-round recruitment efforts to grow the pack's membership.
+The Member Recruitment Coordinator drives new member recruitment events and outreach for Pack 232. This includes planning and executing school-night sign-ups, activities fairs, and year-round recruitment efforts to grow the pack's membership.
 
 ## Reports To
 

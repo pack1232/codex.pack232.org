@@ -34,7 +34,7 @@ All Pack 232 leaders must complete training before working with youth. This file
 | Popcorn Coordinator | YPT + Pack Committee Challenge + Popcorn Kernel Training (if applicable) | — | Council provides Popcorn training |
 | Den Chief | Den Chief Training | — | Youth position; training done with den leader if possible |
 
-**Note:** Coordinator positions under each chair (e.g., Recruitment Coordinator, Pinewood Derby Coordinator) follow the same training requirements as their parent chair position — YPT + Pack Committee Challenge at minimum.
+**Note:** Coordinator positions under each chair (e.g., Member Recruitment Coordinator, Pinewood Derby Coordinator) follow the same training requirements as their parent chair position — YPT + Pack Committee Challenge at minimum.
 
 ---
 

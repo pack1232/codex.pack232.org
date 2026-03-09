@@ -1,8 +1,8 @@
-# Experience Coordinator
+# Member Experience Coordinator
 
 ## Role Summary
 
-The Experience Coordinator monitors member satisfaction and retention across Pack 232. By tracking attendance, identifying at-risk families, and proactively reaching out, this role helps ensure Scouts stay engaged and families feel valued.
+The Member Experience Coordinator monitors member satisfaction and retention across Pack 232. By tracking attendance, identifying at-risk families, and proactively reaching out, this role helps ensure Scouts stay engaged and families feel valued.
 
 ## Reports To
 

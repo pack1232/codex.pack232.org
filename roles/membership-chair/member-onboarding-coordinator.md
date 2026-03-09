@@ -1,8 +1,8 @@
-# Onboarding Coordinator
+# Member Onboarding Coordinator
 
 ## Role Summary
 
-The Onboarding Coordinator welcomes and orients new families joining Pack 232, ensuring they feel connected and informed from their very first interaction. A strong onboarding experience is the best defense against early dropout.
+The Member Onboarding Coordinator welcomes and orients new families joining Pack 232, ensuring they feel connected and informed from their very first interaction. A strong onboarding experience is the best defense against early dropout.
 
 ## Reports To
 
