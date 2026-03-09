@@ -1,0 +1,80 @@
+# Tasks this role is responsible for or participates in.
+#
+# Schema:
+#   id:           Unique task identifier (kebab-case)
+#   name:         Display name
+#   type:         program|financial|fundraising|administrative|recruitment|outdoor|service|recognition|training
+#   frequency:    monthly|annual|as-needed
+#   months:       List of month numbers [1-12] or null (every month)
+#   timing_note:  When within the month/season
+#   role:         owner|involved (this role's relationship to the task)
+#   description:  What the task is
+#   tags:         Optional labels for filtering
+
+tasks:
+
+  - id: recharter-adult-applications
+    name: "Recharter: Collect & Route Adult Applications"
+    type: administrative
+    frequency: annual
+    months: [10, 11]
+    timing_note: "October–November — concurrent with roster review"
+    role: involved
+    description: >
+      Secretary collects adult applications (with YPT certificates) for any new or previously unregistered adults. Routes to Charter Org Rep for signature.
+    tags: ['recharter', 'administrative', 'annual']
+
+  - id: recharter-cor-signs
+    name: "Recharter: Charter Org Rep Signs Applications & Roster"
+    type: administrative
+    frequency: annual
+    months: [11]
+    timing_note: "Before recharter submission — COR must sign all adult applications"
+    role: owner
+    description: >
+      Charter Org Rep reviews and signs all adult applications and the completed recharter roster before submission to Twin Rivers Council.
+    tags: ['recharter', 'administrative', 'annual']
+
+  - id: recharter-submission
+    name: "Recharter Submission to Council"
+    type: administrative
+    frequency: annual
+    months: [12]
+    timing_note: "December deadline — confirm exact date with Twin Rivers Council each year"
+    role: involved
+    description: >
+      Committee Chair submits completed recharter to Twin Rivers Council. Charter Org Rep signs. Treasurer pays recharter fees.
+    tags: ['recharter', 'administrative', 'annual', 'deadline']
+
+  - id: charter-presentation-ceremony
+    name: "Charter Presentation Ceremony"
+    type: administrative
+    frequency: annual
+    months: [1]
+    timing_note: "January pack meeting — formal renewal of the pack's charter"
+    role: involved
+    description: >
+      Formal ceremony at the pack meeting in which the new charter is presented to the pack by the Charter Org Rep, renewing the pack's sanction for the new year.
+    tags: ['charter', 'administrative', 'annual', 'ceremony']
+
+  - id: leadership-vacancy-fill
+    name: "Leadership Vacancy Recruitment"
+    type: administrative
+    frequency: as-needed
+    months: null
+    timing_note: "As vacancies arise throughout the year"
+    role: involved
+    description: >
+      Committee Chair and Cubmaster identify and recruit replacements for any vacant leadership positions. New adults complete adult application and YPT before serving.
+    tags: ['leadership', 'recruitment', 'administrative']
+
+  - id: money-earning-application
+    name: "BSA Unit Money-Earning Application"
+    type: fundraising
+    frequency: as-needed
+    months: null
+    timing_note: "Required before any non-popcorn fundraising activity begins"
+    role: involved
+    description: >
+      Approval from both the charter organization and Twin Rivers Council is required before any fundraising activity other than the annual popcorn sale. Fundraising Chair prepares the application; Charter Org Rep and Council must approve before any activity begins.
+    tags: ['fundraising', 'administrative', 'bsa-policy']

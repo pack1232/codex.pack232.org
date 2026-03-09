@@ -1,0 +1,223 @@
+# Tasks this role is responsible for or participates in.
+#
+# Schema:
+#   id:           Unique task identifier (kebab-case)
+#   name:         Display name
+#   type:         program|financial|fundraising|administrative|recruitment|outdoor|service|recognition|training
+#   frequency:    monthly|annual|as-needed
+#   months:       List of month numbers [1-12] or null (every month)
+#   timing_note:  When within the month/season
+#   role:         owner|involved (this role's relationship to the task)
+#   description:  What the task is
+#   tags:         Optional labels for filtering
+
+tasks:
+
+  - id: pack-meeting
+    name: "Pack Meeting"
+    type: program
+    frequency: monthly
+    months: null
+    timing_note: "Consistent day each month (e.g. 3rd Monday); set at annual planning conference"
+    role: involved
+    description: >
+      Monthly pack meeting. All dens and families attend. Approximately one hour. Includes flag ceremony, program, advancement recognition, and closing.
+    tags: ['pack-meeting', 'all-hands']
+
+  - id: committee-meeting
+    name: "Committee Meeting"
+    type: administrative
+    frequency: monthly
+    months: null
+    timing_note: "Same week as or adjacent to the pack meeting"
+    role: involved
+    description: >
+      Monthly pack committee meeting. Committee Chair presides. Includes treasurer's report, Cubmaster's report, committee member updates, old and new business, upcoming event review.
+    tags: ['committee', 'governance']
+
+  - id: annual-program-planning-conference
+    name: "Annual Program Planning Conference"
+    type: program
+    frequency: annual
+    months: [7]
+    timing_note: "July or August; before the Scouting year begins"
+    role: involved
+    description: >
+      Annual meeting to set the pack's program calendar for the coming Scouting year. Sets pack meeting dates, themes, major events, and assigns activity coordinators.
+    tags: ['planning', 'annual']
+
+  - id: draft-annual-budget
+    name: "Draft Upcoming-Year Budget"
+    type: financial
+    frequency: annual
+    months: [7, 8]
+    timing_note: "Draft in July, finalize in August, present for approval in September"
+    role: involved
+    description: >
+      Treasurer drafts the pack's budget for the coming Scouting year based on prior-year actuals, planned activities, expected enrollment, and popcorn revenue projections.
+    tags: ['financial', 'annual', 'budget']
+
+  - id: summer-camp-confirmation
+    name: "Summer Activity & Camp Confirmation"
+    type: outdoor
+    frequency: annual
+    months: [7]
+    timing_note: "Confirm council day camp and resident camp dates for families"
+    role: owner
+    description: >
+      Confirm council day camp and resident camp programs and communicate dates to families. Coordinate any group pack attendance at summer programs.
+    tags: ['camp', 'summer', 'outdoor']
+
+  - id: fall-activity-planning
+    name: "Fall Activity Schedule Planning"
+    type: outdoor
+    frequency: annual
+    months: [8]
+    timing_note: "Confirm dates, sites, and coordinators before September kickoff"
+    role: owner
+    description: >
+      Activities Chair confirms fall event schedule: Fall Back to Scouting date and site, ValleyCats Scout Night tickets, hike locations, and camping reservations.
+    tags: ['outdoor', 'planning', 'annual']
+
+  - id: fall-back-to-scouting
+    name: "Fall Back to Scouting"
+    type: outdoor
+    frequency: annual
+    months: [10]
+    timing_note: "October — confirm date and site annually"
+    role: owner
+    description: >
+      Annual fall camping or outdoor event. Reserve site/cabin in advance. Procure food and supplies. Coordinate with Cubmaster for program elements. Coordinators: Ben Friedman & Hank Tripp.
+    tags: ['camping', 'outdoor', 'annual']
+
+  - id: valleycats-scout-night
+    name: "ValleyCats Scout Night"
+    type: outdoor
+    frequency: annual
+    months: [10]
+    timing_note: "Check ValleyCats schedule annually — may be summer or fall"
+    role: owner
+    description: >
+      Group outing to a Tri-City ValleyCats baseball game. Reserve group tickets in advance. Coordinator: Jara Traina.
+    tags: ['outing', 'outdoor', 'annual']
+
+  - id: scouting-for-food
+    name: "Scouting for Food"
+    type: service
+    frequency: annual
+    months: [11]
+    timing_note: "Typically November — coordinate with district for area assignment"
+    role: owner
+    description: >
+      Annual BSA food drive. Scouts collect canned goods door-to-door in assigned areas. Coordinate area assignments with district/other packs, arrange food pantry drop-off, provide bags and door hangers. Lead coordinator: Kara Giglia.
+    tags: ['service', 'annual', 'food-drive']
+
+  - id: caroling
+    name: "Caroling"
+    type: service
+    frequency: annual
+    months: [12]
+    timing_note: "December — coordinate with neighbors in advance"
+    role: owner
+    description: >
+      Scouts carol in the neighborhood. Coordinator arranges prepared neighbors, procures hot chocolate for Scouts afterward, and delivers any monetary proceeds to the beneficiary selected by the Pack Committee. Coordinator: Hank Tripp.
+    tags: ['service', 'holiday', 'annual']
+
+  - id: blue-gold-venue-booking
+    name: "Blue & Gold Banquet: Venue & Date Booking"
+    type: program
+    frequency: annual
+    months: [12]
+    timing_note: "Book venue by December for a February event"
+    role: involved
+    description: >
+      Confirm the Blue & Gold Banquet venue (Glenmont Elementary gym or alternative), date, and any entertainment the committee selects.
+    tags: ['blue-gold', 'program', 'planning', 'annual']
+
+  - id: blue-gold-final-planning
+    name: "Blue & Gold Banquet: Final Planning"
+    type: program
+    frequency: annual
+    months: [1]
+    timing_note: "January — finalize food, entertainment, program before February event"
+    role: owner
+    description: >
+      Finalize all Blue & Gold Banquet details: food order, entertainment, ceremony program, invitations, hospitality setup (drinks, paper goods). Coordinators: Becky D'Anza, Andrea Dievendorf, Lindsay Knott, Kara Giglia.
+    tags: ['blue-gold', 'planning', 'annual']
+
+  - id: blue-gold-banquet
+    name: "Blue & Gold Banquet"
+    type: program
+    frequency: annual
+    months: [2]
+    timing_note: "February — the pack's largest annual celebration"
+    role: involved
+    description: >
+      Annual Blue & Gold Banquet celebrating Cub Scouting's founding. Recognizes Scout accomplishments, honors leaders, includes advancement ceremonies and entertainment. Coordinators: Becky D'Anza, Andrea Dievendorf, Lindsay Knott, Kara Giglia.
+    tags: ['blue-gold', 'program', 'annual', 'celebration']
+
+  - id: pinewood-derby-event
+    name: "Pinewood Derby Race"
+    type: program
+    frequency: annual
+    months: [3]
+    timing_note: "March — at Glenmont Elementary gym"
+    role: involved
+    description: >
+      Annual Pinewood Derby race. Team sets up track and timing system, manages car check-in, runs the race, empanels judges for Best in Show, and distributes awards.
+    tags: ['pinewood-derby', 'program', 'annual', 'event']
+
+  - id: spring-hike-planning
+    name: "Spring Hike Planning"
+    type: outdoor
+    frequency: annual
+    months: [3]
+    timing_note: "Plan in March for an April event"
+    role: owner
+    description: >
+      Identify hiking site, check trail conditions, obtain any permits, plan logistics and transportation. Coordinator: Dave Coup.
+    tags: ['hike', 'outdoor', 'annual']
+
+  - id: spring-hike
+    name: "Spring Hike"
+    type: outdoor
+    frequency: annual
+    months: [4]
+    timing_note: "April — all dens attend"
+    role: owner
+    description: >
+      Annual spring hike open to all dens and families. Coordinator: Dave Coup.
+    tags: ['hike', 'outdoor', 'annual']
+
+  - id: spring-service-project
+    name: "Spring Service Project"
+    type: service
+    frequency: as-needed
+    months: [4]
+    timing_note: "Optional — good month for a neighborhood or park cleanup"
+    role: owner
+    description: >
+      Optional spring service project (e.g., park cleanup, trail maintenance, school grounds cleanup). Service Chair coordinates with the beneficiary and plans logistics.
+    tags: ['service', 'outdoor', 'spring']
+
+  - id: fall-hike-planning
+    name: "Fall Hike Planning"
+    type: outdoor
+    frequency: annual
+    months: [6]
+    timing_note: "Plan in June/July for a September/October event"
+    role: owner
+    description: >
+      Identify fall hike site, check permits, coordinate with Cubmaster. Coordinator: Dave Coup.
+    tags: ['hike', 'outdoor', 'annual', 'planning']
+
+  - id: service-hours-reporting
+    name: "Service Hours Reporting to Council"
+    type: administrative
+    frequency: as-needed
+    months: null
+    timing_note: "After each service project"
+    role: involved
+    description: >
+      Committee Chair reports pack and den service hours to Twin Rivers Council after each service project. Service Chair provides participant count and hours summary.
+    tags: ['service', 'administrative', 'reporting']

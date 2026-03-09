@@ -69,8 +69,8 @@ Source: `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/20
 | Position | File | Current Holder |
 |---|---|---|
 | Popcorn Coordinator | [`../popcorn-coordinator/README.md`](../popcorn-coordinator/README.md) | Phoung Perez |
-| Redemptions Coordinator | [redemptions-coordinator.md](redemptions-coordinator.md) | [vacant] |
-| Grants Coordinator | [grants-coordinator.md](grants-coordinator.md) | [vacant] |
+| Redemptions Coordinator | [redemptions-coordinator/](redemptions-coordinator/) | [vacant] |
+| Grants Coordinator | [grants-coordinator/](grants-coordinator/) | [vacant] |
 
 ---
 

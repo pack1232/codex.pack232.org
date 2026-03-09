@@ -1,11 +1,17 @@
 {% comment %}
   Role Tasks Include
   Usage: {% include role-tasks.html role_id="cubmaster" %}
-  Renders a flat table of tasks from _data/pack-tasks.yaml filtered to the given role.
+  Renders a flat table of tasks filtered to the given role.
+  Reads from pack-tasks-generated.yaml (built by scripts/aggregate-tasks.py)
+  with fallback to pack-tasks.yaml.
 {% endcomment %}
 
 {% assign role = include.role_id %}
-{% assign tasks = site.data["pack-tasks"].tasks %}
+{% if site.data["pack-tasks-generated"] %}
+  {% assign tasks = site.data["pack-tasks-generated"].tasks %}
+{% else %}
+  {% assign tasks = site.data["pack-tasks"].tasks %}
+{% endif %}
 {% assign month_names = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," %}
 
 {% comment %} Collect tasks where this role is owner or in the roles array {% endcomment %}

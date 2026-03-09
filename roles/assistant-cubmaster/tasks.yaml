@@ -1,0 +1,58 @@
+# Tasks this role is responsible for or participates in.
+#
+# Schema:
+#   id:           Unique task identifier (kebab-case)
+#   name:         Display name
+#   type:         program|financial|fundraising|administrative|recruitment|outdoor|service|recognition|training
+#   frequency:    monthly|annual|as-needed
+#   months:       List of month numbers [1-12] or null (every month)
+#   timing_note:  When within the month/season
+#   role:         owner|involved (this role's relationship to the task)
+#   description:  What the task is
+#   tags:         Optional labels for filtering
+
+tasks:
+
+  - id: pack-meeting
+    name: "Pack Meeting"
+    type: program
+    frequency: monthly
+    months: null
+    timing_note: "Consistent day each month (e.g. 3rd Monday); set at annual planning conference"
+    role: involved
+    description: >
+      Monthly pack meeting. All dens and families attend. Approximately one hour. Includes flag ceremony, program, advancement recognition, and closing.
+    tags: ['pack-meeting', 'all-hands']
+
+  - id: district-roundtable
+    name: "District Roundtable"
+    type: training
+    frequency: monthly
+    months: null
+    timing_note: "Check Twin Rivers Council / Fort Orange District for exact schedule"
+    role: involved
+    description: >
+      Monthly Fort Orange District Cub Scout leaders' roundtable. Provides program ideas, council updates, and peer learning with leaders from other packs.
+    tags: ['training', 'district']
+
+  - id: den-meetings
+    name: "Den Meetings"
+    type: program
+    frequency: monthly
+    months: null
+    timing_note: "Lions: 1x/month. Tigers and above: typically 2x/month."
+    role: involved
+    description: >
+      Den leaders conduct 1–2 den meetings per month. Den leaders update Scoutbook with completed advancement requirements promptly after each meeting.
+    tags: ['den', 'program', 'scoutbook']
+
+  - id: annual-program-planning-conference
+    name: "Annual Program Planning Conference"
+    type: program
+    frequency: annual
+    months: [7]
+    timing_note: "July or August; before the Scouting year begins"
+    role: involved
+    description: >
+      Annual meeting to set the pack's program calendar for the coming Scouting year. Sets pack meeting dates, themes, major events, and assigns activity coordinators.
+    tags: ['planning', 'annual']

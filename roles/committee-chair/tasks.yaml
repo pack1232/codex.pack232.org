@@ -1,0 +1,410 @@
+# Tasks this role is responsible for or participates in.
+#
+# Schema:
+#   id:           Unique task identifier (kebab-case)
+#   name:         Display name
+#   type:         program|financial|fundraising|administrative|recruitment|outdoor|service|recognition|training
+#   frequency:    monthly|annual|as-needed
+#   months:       List of month numbers [1-12] or null (every month)
+#   timing_note:  When within the month/season
+#   role:         owner|involved (this role's relationship to the task)
+#   description:  What the task is
+#   tags:         Optional labels for filtering
+
+tasks:
+
+  - id: committee-meeting
+    name: "Committee Meeting"
+    type: administrative
+    frequency: monthly
+    months: null
+    timing_note: "Same week as or adjacent to the pack meeting"
+    role: owner
+    description: >
+      Monthly pack committee meeting. Committee Chair presides. Includes treasurer's report, Cubmaster's report, committee member updates, old and new business, upcoming event review.
+    tags: ['committee', 'governance']
+
+  - id: committee-meeting-notice
+    name: "Committee Meeting Notice & Agenda"
+    type: administrative
+    frequency: monthly
+    months: null
+    timing_note: "2–3 days before the committee meeting"
+    role: involved
+    description: >
+      Secretary sends committee meeting notice with date, time, location, and agenda to all committee members and den leaders.
+    tags: ['communications', 'administrative']
+
+  - id: annual-program-planning-conference
+    name: "Annual Program Planning Conference"
+    type: program
+    frequency: annual
+    months: [7]
+    timing_note: "July or August; before the Scouting year begins"
+    role: involved
+    description: >
+      Annual meeting to set the pack's program calendar for the coming Scouting year. Sets pack meeting dates, themes, major events, and assigns activity coordinators.
+    tags: ['planning', 'annual']
+
+  - id: draft-annual-budget
+    name: "Draft Upcoming-Year Budget"
+    type: financial
+    frequency: annual
+    months: [7, 8]
+    timing_note: "Draft in July, finalize in August, present for approval in September"
+    role: involved
+    description: >
+      Treasurer drafts the pack's budget for the coming Scouting year based on prior-year actuals, planned activities, expected enrollment, and popcorn revenue projections.
+    tags: ['financial', 'annual', 'budget']
+
+  - id: leader-roster-review
+    name: "Leader Roster Review"
+    type: administrative
+    frequency: annual
+    months: [7]
+    timing_note: "Early July to identify gaps before recruitment season"
+    role: owner
+    description: >
+      Committee Chair reviews the full leader roster to identify vacant positions, roles at risk of turnover, and dens that will need new leadership for the coming year.
+    tags: ['leadership', 'administrative', 'annual']
+
+  - id: glenmont-space-requests
+    name: "Glenmont Elementary Space Requests"
+    type: administrative
+    frequency: annual
+    months: [8]
+    timing_note: "Submit before the school year starts for the full year of pack meeting dates"
+    role: owner
+    description: >
+      Committee Chair submits space request forms to Glenmont Elementary for all monthly pack meeting dates, Pinewood Derby (gym), and any other events at the school.
+    tags: ['facilities', 'administrative', 'annual']
+
+  - id: fall-activity-planning
+    name: "Fall Activity Schedule Planning"
+    type: outdoor
+    frequency: annual
+    months: [8]
+    timing_note: "Confirm dates, sites, and coordinators before September kickoff"
+    role: involved
+    description: >
+      Activities Chair confirms fall event schedule: Fall Back to Scouting date and site, ValleyCats Scout Night tickets, hike locations, and camping reservations.
+    tags: ['outdoor', 'planning', 'annual']
+
+  - id: new-family-orientation
+    name: "New Family Orientation Meeting"
+    type: recruitment
+    frequency: annual
+    months: [9, 10]
+    timing_note: "Within first month after school-night recruitment"
+    role: involved
+    description: >
+      Orientation meeting for families who joined through school-night recruitment. Covers Cub Scouting overview, Pack 232 structure, website, dues, uniforms, and Q&A.
+    tags: ['recruitment', 'onboarding', 'annual']
+
+  - id: annual-budget-approval
+    name: "Annual Budget Approval"
+    type: financial
+    frequency: annual
+    months: [9]
+    timing_note: "At the September committee meeting"
+    role: owner
+    description: >
+      Treasurer presents the proposed annual budget to the committee. Committee votes to approve. Budget governs all pack spending for the Scouting year.
+    tags: ['financial', 'annual', 'governance']
+
+  - id: health-forms-collection
+    name: "BSA Health Forms Collection"
+    type: administrative
+    frequency: annual
+    months: [9]
+    timing_note: "Collect at or before the September pack meeting"
+    role: involved
+    description: >
+      Secretary collects BSA Annual Health and Medical Record (Parts A & B) for all Scouts and registered adults. Send reminders to families who have not submitted. Health forms expire annually.
+    tags: ['health-forms', 'administrative', 'annual']
+
+  - id: dues-collection-setup
+    name: "Annual Dues Collection"
+    type: financial
+    frequency: annual
+    months: [9]
+    timing_note: "Open collection at the September pack meeting"
+    role: involved
+    description: >
+      Treasurer opens WooCommerce products for annual Scout dues collection. Accepts payment via WooCommerce (online), Square (in-person card), Venmo, or check.
+    tags: ['financial', 'dues', 'annual']
+
+  - id: recharter-roster-pull
+    name: "Recharter: Pull Current Roster"
+    type: administrative
+    frequency: annual
+    months: [10]
+    timing_note: "Early October — start recharter process as soon as portal opens"
+    role: owner
+    description: >
+      Committee Chair pulls the current pack roster from my.Scouting.org and begins review: confirm active Scouts and adults, identify those to remove or add.
+    tags: ['recharter', 'administrative', 'annual']
+
+  - id: recharter-ypt-check
+    name: "Recharter: YPT Status Check"
+    type: administrative
+    frequency: annual
+    months: [10]
+    timing_note: "Check training status for all adults in my.Scouting.org"
+    role: owner
+    description: >
+      Verify that all registered adults have current Youth Protection Training (YPT). Contact anyone with lapsed YPT — they must retake before recharter submits.
+    tags: ['recharter', 'training', 'ypt', 'annual']
+
+  - id: recharter-adult-applications
+    name: "Recharter: Collect & Route Adult Applications"
+    type: administrative
+    frequency: annual
+    months: [10, 11]
+    timing_note: "October–November — concurrent with roster review"
+    role: involved
+    description: >
+      Secretary collects adult applications (with YPT certificates) for any new or previously unregistered adults. Routes to Charter Org Rep for signature.
+    tags: ['recharter', 'administrative', 'annual']
+
+  - id: recharter-cor-signs
+    name: "Recharter: Charter Org Rep Signs Applications & Roster"
+    type: administrative
+    frequency: annual
+    months: [11]
+    timing_note: "Before recharter submission — COR must sign all adult applications"
+    role: involved
+    description: >
+      Charter Org Rep reviews and signs all adult applications and the completed recharter roster before submission to Twin Rivers Council.
+    tags: ['recharter', 'administrative', 'annual']
+
+  - id: journey-to-excellence
+    name: "Journey to Excellence Documentation"
+    type: administrative
+    frequency: annual
+    months: [11]
+    timing_note: "Complete with recharter; submitted to council"
+    role: owner
+    description: >
+      Committee Chair completes the annual Journey to Excellence (JtE) documentation measuring pack performance across advancement, membership, training, service, and program.
+    tags: ['recharter', 'administrative', 'annual', 'jtE']
+
+  - id: recharter-submission
+    name: "Recharter Submission to Council"
+    type: administrative
+    frequency: annual
+    months: [12]
+    timing_note: "December deadline — confirm exact date with Twin Rivers Council each year"
+    role: owner
+    description: >
+      Committee Chair submits completed recharter to Twin Rivers Council. Charter Org Rep signs. Treasurer pays recharter fees.
+    tags: ['recharter', 'administrative', 'annual', 'deadline']
+
+  - id: blue-gold-venue-booking
+    name: "Blue & Gold Banquet: Venue & Date Booking"
+    type: program
+    frequency: annual
+    months: [12]
+    timing_note: "Book venue by December for a February event"
+    role: owner
+    description: >
+      Confirm the Blue & Gold Banquet venue (Glenmont Elementary gym or alternative), date, and any entertainment the committee selects.
+    tags: ['blue-gold', 'program', 'planning', 'annual']
+
+  - id: pinewood-derby-gym-reservation
+    name: "Pinewood Derby: Gym Reservation"
+    type: program
+    frequency: annual
+    months: [12]
+    timing_note: "Book by December for a March event"
+    role: owner
+    description: >
+      Committee Chair reserves Glenmont Elementary gym for the Pinewood Derby. Pinewood Derby Team sets the date and confirms with Committee Chair.
+    tags: ['pinewood-derby', 'facilities', 'annual']
+
+  - id: charter-presentation-ceremony
+    name: "Charter Presentation Ceremony"
+    type: administrative
+    frequency: annual
+    months: [1]
+    timing_note: "January pack meeting — formal renewal of the pack's charter"
+    role: owner
+    description: >
+      Formal ceremony at the pack meeting in which the new charter is presented to the pack by the Charter Org Rep, renewing the pack's sanction for the new year.
+    tags: ['charter', 'administrative', 'annual', 'ceremony']
+
+  - id: blue-gold-final-planning
+    name: "Blue & Gold Banquet: Final Planning"
+    type: program
+    frequency: annual
+    months: [1]
+    timing_note: "January — finalize food, entertainment, program before February event"
+    role: involved
+    description: >
+      Finalize all Blue & Gold Banquet details: food order, entertainment, ceremony program, invitations, hospitality setup (drinks, paper goods). Coordinators: Becky D'Anza, Andrea Dievendorf, Lindsay Knott, Kara Giglia.
+    tags: ['blue-gold', 'planning', 'annual']
+
+  - id: blue-gold-banquet
+    name: "Blue & Gold Banquet"
+    type: program
+    frequency: annual
+    months: [2]
+    timing_note: "February — the pack's largest annual celebration"
+    role: involved
+    description: >
+      Annual Blue & Gold Banquet celebrating Cub Scouting's founding. Recognizes Scout accomplishments, honors leaders, includes advancement ceremonies and entertainment. Coordinators: Becky D'Anza, Andrea Dievendorf, Lindsay Knott, Kara Giglia.
+    tags: ['blue-gold', 'program', 'annual', 'celebration']
+
+  - id: next-year-leadership-recruitment
+    name: "Next-Year Den Leadership Recruitment"
+    type: administrative
+    frequency: annual
+    months: [2]
+    timing_note: "February — identify and recruit before end of school year"
+    role: owner
+    description: >
+      Identify dens that will need new leadership next year (leader's child crossing over, etc.) and begin recruiting replacements from current den families.
+    tags: ['leadership', 'recruitment', 'annual']
+
+  - id: pinewood-derby-kit-distribution
+    name: "Pinewood Derby: Kit Purchase & Distribution"
+    type: program
+    frequency: annual
+    months: [3]
+    timing_note: "Early March — 4–6 weeks before race day"
+    role: involved
+    description: >
+      Pinewood Derby Team purchases Pinewood Derby kits for all Scouts (and Lego Derby kits for Lions). Distributes kits at a pack meeting or den meetings. Lead: Jeff Middendorf. Team: Dave Coup, Gary Robbins, Jeff Dievendorf, Charles Giglia, Chris Orth.
+    tags: ['pinewood-derby', 'program', 'annual']
+
+  - id: pinewood-derby-event
+    name: "Pinewood Derby Race"
+    type: program
+    frequency: annual
+    months: [3]
+    timing_note: "March — at Glenmont Elementary gym"
+    role: involved
+    description: >
+      Annual Pinewood Derby race. Team sets up track and timing system, manages car check-in, runs the race, empanels judges for Best in Show, and distributes awards.
+    tags: ['pinewood-derby', 'program', 'annual', 'event']
+
+  - id: pinewood-derby-track-storage
+    name: "Pinewood Derby: Track Storage"
+    type: administrative
+    frequency: annual
+    months: [3]
+    timing_note: "Immediately after the race"
+    role: involved
+    description: >
+      Committee Chair and Pinewood Derby Team arrange year-round storage of the Pinewood Derby track and timing system.
+    tags: ['pinewood-derby', 'administrative', 'facilities', 'annual']
+
+  - id: budget-review
+    name: "Mid-Year Budget Review"
+    type: financial
+    frequency: annual
+    months: [4]
+    timing_note: "April committee meeting"
+    role: involved
+    description: >
+      Treasurer presents actuals vs. budget review for the year to date. Identifies variances and any risks to year-end financial position.
+    tags: ['financial', 'annual', 'budget']
+
+  - id: jtE-progress-check
+    name: "Journey to Excellence Progress Check"
+    type: administrative
+    frequency: annual
+    months: [4]
+    timing_note: "April — with enough time to improve before year-end"
+    role: owner
+    description: >
+      Committee Chair reviews where the pack stands on Journey to Excellence criteria (advancement rates, membership, training, service hours). Identifies any areas needing attention before the year closes.
+    tags: ['administrative', 'jtE', 'annual']
+
+  - id: parent-skills-survey
+    name: "Parent Annual Skills & Program Survey"
+    type: administrative
+    frequency: annual
+    months: [5]
+    timing_note: "May — capture family talents before summer"
+    role: owner
+    description: >
+      Collect input from all pack families on skills, availability, and program preferences for the coming year. Used to recruit activity coordinators and plan next year's program.
+    tags: ['administrative', 'planning', 'annual', 'survey']
+
+  - id: end-of-year-pack-meeting
+    name: "End-of-Year Pack Meeting"
+    type: program
+    frequency: annual
+    months: [5]
+    timing_note: "May pack meeting — celebrate the year's accomplishments"
+    role: involved
+    description: >
+      Final pack meeting of the Scouting year. Recognize all Scouts with remaining advancement awards, celebrate the year, thank volunteers, and preview next year.
+    tags: ['program', 'annual', 'celebration']
+
+  - id: year-end-leader-checkin
+    name: "Year-End Den Leader Check-In"
+    type: administrative
+    frequency: annual
+    months: [6]
+    timing_note: "Informal — before leaders go on summer break"
+    role: involved
+    description: >
+      Cubmaster conducts informal check-ins with each den leader: how did the year go, are they returning, any concerns for next year? Flags retention risks for Committee Chair.
+    tags: ['administrative', 'leadership', 'annual']
+
+  - id: ypt-renewal-tracking
+    name: "YPT Renewal Tracking"
+    type: training
+    frequency: as-needed
+    months: null
+    timing_note: "YPT expires every 2 years; track and remind leaders proactively"
+    role: involved
+    description: >
+      Secretary tracks YPT expiration dates for all registered adults and alerts the Committee Chair when renewals are needed. Any adult with lapsed YPT must renew before participating in Scouting activities.
+    tags: ['training', 'ypt', 'administrative']
+
+  - id: leadership-vacancy-fill
+    name: "Leadership Vacancy Recruitment"
+    type: administrative
+    frequency: as-needed
+    months: null
+    timing_note: "As vacancies arise throughout the year"
+    role: owner
+    description: >
+      Committee Chair and Cubmaster identify and recruit replacements for any vacant leadership positions. New adults complete adult application and YPT before serving.
+    tags: ['leadership', 'recruitment', 'administrative']
+
+  - id: reimbursement-processing
+    name: "Leader Reimbursement Processing"
+    type: financial
+    frequency: as-needed
+    months: null
+    timing_note: "As expenses are submitted; Committee Chair approves before Treasurer pays"
+    role: involved
+    description: >
+      Leaders submit receipts for pack-related expenses. Committee Chair approves. Treasurer issues reimbursement check from Broadview account.
+    tags: ['financial', 'reimbursements']
+
+  - id: money-earning-application
+    name: "BSA Unit Money-Earning Application"
+    type: fundraising
+    frequency: as-needed
+    months: null
+    timing_note: "Required before any non-popcorn fundraising activity begins"
+    role: involved
+    description: >
+      Approval from both the charter organization and Twin Rivers Council is required before any fundraising activity other than the annual popcorn sale. Fundraising Chair prepares the application; Charter Org Rep and Council must approve before any activity begins.
+    tags: ['fundraising', 'administrative', 'bsa-policy']
+
+  - id: service-hours-reporting
+    name: "Service Hours Reporting to Council"
+    type: administrative
+    frequency: as-needed
+    months: null
+    timing_note: "After each service project"
+    role: owner
+    description: >
+      Committee Chair reports pack and den service hours to Twin Rivers Council after each service project. Service Chair provides participant count and hours summary.
+    tags: ['service', 'administrative', 'reporting']

@@ -79,8 +79,8 @@ The Treasurer is accountable for these outcomes:
 
 | Position | File | Current Holder |
 |---|---|---|
-| Accounts Receivable Coordinator | [accounts-receivable-coordinator.md](accounts-receivable-coordinator.md) | [vacant] |
-| Accounts Payable Coordinator | [accounts-payable-coordinator.md](accounts-payable-coordinator.md) | [vacant] |
+| Accounts Receivable Coordinator | [accounts-receivable-coordinator/](accounts-receivable-coordinator/) | [vacant] |
+| Accounts Payable Coordinator | [accounts-payable-coordinator/](accounts-payable-coordinator/) | [vacant] |
 
 ---
 
