@@ -8,15 +8,15 @@ This calendar outlines the pack's annual rhythm by month, with key tasks called 
 
 | Month | Major Events / Tasks | Key Roles |
 |---|---|---|
-| August | Back-to-school recruitment prep; activities fair planning | Membership Chair, Marketing Chair, Committee Chair |
+| August | Back-to-school recruitment prep; activities fair planning | Membership Chair, Public Relations Coordinator, Committee Chair |
 | September | School-night recruitment events; new Scout sign-ups; popcorn kickoff | Membership Chair, Popcorn Kernel, Cubmaster |
-| October | Popcorn Show & Sells; Fall Back to Scouting; den leader meetings | Popcorn Kernel, Activities Chair, Cubmaster |
-| November | Popcorn orders due; Scouting for Food; recharter begins | Popcorn Kernel, Service Chair, Committee Chair, Treasurer |
+| October | Popcorn Show & Sells; Fall Back to Scouting; den leader meetings | Popcorn Kernel, Program Chair, Cubmaster |
+| November | Popcorn orders due; Scouting for Food; recharter begins | Popcorn Kernel, Community Service Coordinator, Committee Chair, Treasurer |
 | December | Recharter submission deadline; Caroling; holiday pack meeting | Committee Chair, Charter Org Rep, Cubmaster |
 | January | New year planning; Arrow of Light crossover prep; Blue & Gold prep | Cubmaster, AOL Den Leader, Committee Chair |
 | February | Blue & Gold Banquet; crossover ceremonies | Committee Chair, Cubmaster, Den Leaders |
 | March | Pinewood Derby | Advancement Chair, Committee Chair, Cubmaster |
-| April | Spring hike; budget review | Activities Chair, Treasurer, Committee Chair |
+| April | Spring hike; budget review | Program Chair, Treasurer, Committee Chair |
 | May | Arrow of Light crossover to troop (if not Feb); end-of-year celebrations | AOL Den Leader, Cubmaster |
 | June | Summer program planning; camp registration; Journey to Excellence review | Cubmaster, Committee Chair, Treasurer |
 | July | Quiet month; prep for fall recruitment | Membership Chair, Committee Chair |
@@ -64,7 +64,7 @@ This calendar outlines the pack's annual rhythm by month, with key tasks called 
 
 | When | Task | Who |
 |---|---|---|
-| August | Activities fairs (e.g., Bethlehem Activities Fair) | Marketing Chair, Membership Chair |
+| August | Activities fairs (e.g., Bethlehem Activities Fair) | Public Relations Coordinator, Membership Chair |
 | September | School-night recruitment events at Glenmont Elementary | Membership Chair, Cubmaster |
 | September | New family orientation meeting | Membership Chair |
 | Year-round | Follow up with dropouts and prospects | Membership Chair |

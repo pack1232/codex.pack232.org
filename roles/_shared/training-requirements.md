@@ -28,13 +28,13 @@ All Pack 232 leaders must complete training before working with youth. This file
 | Den Leader | YPT + Den Leader Position-Specific Training (CS19) | BALOO | Rank-specific training available |
 | Assistant Den Leader | YPT + Den Leader Position-Specific Training | — | Must be 21+ if pack's only asst. |
 | Advancement Chair | YPT + Pack Committee Challenge | — | |
-| Activities Chair | YPT + Pack Committee Challenge | BALOO | BALOO required before any pack campout |
+| Program Chair | YPT + Pack Committee Challenge | BALOO | BALOO required before any pack campout |
 | Membership Chair | YPT + Pack Committee Challenge | — | |
 | Fundraising Chair | YPT + Pack Committee Challenge | — | |
 | Popcorn Kernel | YPT + Pack Committee Challenge + Popcorn Kernel Training (if applicable) | — | Council provides Popcorn training |
-| Marketing Chair | YPT + Pack Committee Challenge | — | |
-| Service Chair | YPT + Pack Committee Challenge | — | |
 | Den Chief | Den Chief Training | — | Youth position; training done with den leader if possible |
+
+**Note:** Coordinator positions under each chair (e.g., Recruitment Coordinator, Pinewood Derby Coordinator) follow the same training requirements as their parent chair position — YPT + Pack Committee Challenge at minimum.
 
 ---
 
@@ -42,7 +42,7 @@ All Pack 232 leaders must complete training before working with youth. This file
 
 Basic Adult Leader Outdoor Orientation (BALOO) is **required before any pack overnight campout** — at least one adult present must have completed BALOO.
 
-- BALOO is highly recommended for Cubmaster, Assistant Cubmaster, and Activities Chair
+- BALOO is highly recommended for Cubmaster, Assistant Cubmaster, and Program Chair
 - See: Twin Rivers Council training calendar for upcoming BALOO offerings
 
 ---

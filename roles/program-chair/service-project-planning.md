@@ -1,4 +1,4 @@
-# Service Chair: Project Planning
+# Community Service: Project Planning
 
 ## Overview
 
@@ -43,7 +43,7 @@ Scouting for Food is a BSA-wide food drive. Pack 232 participates annually.
 - Arrange drop-off coordination with the local food pantry
 - Provide bags and pamphlets or door hangers for each family
 
-**Lead for this event**: Kara Giglia (historical); coordinate with Service Chair and Cubmaster.
+**Lead for this event**: Kara Giglia (historical); coordinate with Community Service Coordinator and Cubmaster.
 
 ---
 
@@ -63,6 +63,6 @@ Submit to the Committee Chair, who reports to Twin Rivers Council.
 
 ## Resources
 
-- `docs/Training/Positions/Service Chair/Service Chair Guide.md`
+- `docs/Training/Positions/Community Service Coordinator/Community Service Coordinator Guide.md`
 - BSA Cub Scout Leader Guide — Service Projects section
 - [`../_shared/bsa-policies.md`](../_shared/bsa-policies.md) — covers money-earning applications if a fundraising component is involved

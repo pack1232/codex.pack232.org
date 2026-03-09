@@ -2,7 +2,7 @@
 
 ## Role Summary
 
-The Assistant Cubmaster supports the Cubmaster in all aspects of the pack program and is prepared to step in and lead the pack if the Cubmaster is unavailable. Most packs have one to three Assistant Cubmasters. The role is flexible — duties are assigned by the Cubmaster based on the pack's needs — but the Assistant Cubmaster typically takes the lead on den chief coordination and recruitment support.
+The Assistant Cubmaster supports the Cubmaster in all aspects of the pack program and is prepared to step in and lead the pack if the Cubmaster is unavailable. Pack 232 uses multiple Assistant Cubmasters, each with a specialized focus area, to distribute the workload and ensure strong coverage across all aspects of the program.
 
 ---
 
@@ -18,22 +18,31 @@ The Assistant Cubmaster supports the Cubmaster in all aspects of the pack progra
 
 ---
 
-## Core Responsibilities
-
-As directed by the Cubmaster:
+## Core Responsibilities (All Assistant Cubmasters)
 
 - Help the Cubmaster as needed; be ready to fill in at any time
 - Participate in and help run pack meetings
 - Supervise den chiefs and ensure they are trained
-- Conduct the monthly den chief planning meeting for den leaders, assistant den leaders, and den chiefs to plan den meetings and pack meeting participation
-- Work with neighborhood Scouts BSA troops that supply den chiefs and into which Arrow of Light Scouts graduate
-- Along with the pack committee, develop and promote an ongoing plan for recruiting new Cub Scouts and families
-- Assist with pack reregistration (recharter)
-- Help with pack activities (dinners, derbies, hikes, service projects)
-- Help coordinate outings so the pack qualifies for relevant BSA awards
-- Participate in the annual pack program planning conference and pack leaders' meetings
 - Support the policies of the BSA
 - Attend monthly district Roundtable meetings
+- Participate in the annual pack program planning conference and pack leaders' meetings
+
+---
+
+## Specializations
+
+Each Assistant Cubmaster has a focus area. Click through for details:
+
+| Specialization | File | Current Holder |
+|---|---|---|
+| Den Support | [den-support.md](den-support.md) | [vacant] |
+| Family Support | [family-support.md](family-support.md) | [vacant] |
+| Engagement | [engagement.md](engagement.md) | [vacant] |
+| Meetings | [meetings.md](meetings.md) | [vacant] |
+| Hiking | [hiking.md](hiking.md) | [vacant] |
+| Crafts | [crafts.md](crafts.md) | [vacant] |
+| Grubmaster | [grubmaster.md](grubmaster.md) | Richard Crumb |
+| Communications | [communications.md](communications.md) | [vacant] |
 
 ---
 
@@ -48,11 +57,9 @@ As directed by the Cubmaster:
 
 ---
 
-## Current Holder
+## Current Holders
 
-**Michael McGuire** | cubmaster@pack232.com | (518) 944-7126
-
-*(Note: Michael McGuire also serves as Tiger Den 1 leader)*
+See specialization table above. All Assistant Cubmasters share the pack email: cubmaster@pack232.com
 
 ---
 

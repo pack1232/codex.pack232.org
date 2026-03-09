@@ -1,4 +1,4 @@
-# Activities Chair: Camping
+# Program Chair: Camping
 
 ## Overview
 
@@ -10,7 +10,7 @@ Camping is one of the most memorable parts of Cub Scouting. Pack 232 runs at lea
 
 **At least one adult on any pack overnight campout must have completed BALOO (Basic Adult Leader Outdoor Orientation).**
 
-BALOO is an in-person training offered by Twin Rivers Council. The Activities Chair and/or Cubmaster should ensure sufficient BALOO-trained adults are available.
+BALOO is an in-person training offered by Twin Rivers Council. The Program Chair and/or Cubmaster should ensure sufficient BALOO-trained adults are available.
 
 Current BALOO-trained adults: *(update as known — check with Committee Chair)*
 
@@ -33,7 +33,7 @@ A full-pack overnight event, typically in winter. All Scout families are welcome
 
 ### Webelos/AOL Den Campout
 
-Webelos and Arrow of Light dens often do their own den campout in addition to the pack campout. The den leader coordinates with the Activities Chair for support and safety compliance.
+Webelos and Arrow of Light dens often do their own den campout in addition to the pack campout. The den leader coordinates with the Program Chair for support and safety compliance.
 
 ---
 
@@ -66,8 +66,8 @@ For family camping, send families a suggested packing list. Key items:
 - Water bottle
 - Cub Scout uniform (for ceremonies/flag raising)
 - Flashlight/headlamp
-- Medications (bring to Activities Chair or designated adult)
-- Health form (bring to Activities Chair)
+- Medications (bring to Program Chair or designated adult)
+- Health form (bring to Program Chair)
 
 ---
 

@@ -12,7 +12,7 @@ The primary recruitment season for Cub Scouting is September, timed to school st
 |---|---|
 | August | Attend community activities fairs (e.g., Bethlehem Activities Fair) with pack booth |
 | Late August | Prepare recruitment materials: fliers, sign-up forms, promotional items |
-| August–September | Coordinate with Marketing Chair for school communications and social media |
+| August–September | Coordinate with Public Relations Coordinator for school communications and social media |
 | September | Host school-night recruitment event(s) at Glenmont Elementary |
 | September | Follow up with interested families within 48 hours of sign-up |
 | October–November | New family orientation for families who joined in September |
@@ -66,4 +66,4 @@ Scouts can join at any time. When a new Scout joins mid-year:
 
 - `docs/Training/Positions/Membership Coordinator/Membership Chair Guide.md`
 - `docs/Training/Positions/Marketing - Public Relations Chair/Events/2025 Bethlehem Activities Fair.md`
-- [`../marketing-chair/README.md`](../marketing-chair/README.md) — Marketing Chair coordinates promotional materials
+- [public-relations-coordinator.md](public-relations-coordinator.md) — Public Relations Coordinator manages promotional materials

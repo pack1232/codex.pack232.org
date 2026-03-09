@@ -1,8 +1,8 @@
-# Activities Chair: Event Planning
+# Program Chair: Event Planning
 
 ## Overview
 
-Every pack event — from a hike to a camping trip to ValleyCats Scout Night — needs to be planned with safety, logistics, and fun all accounted for. The Activities Chair owns this process or delegates it to event-specific coordinators while ensuring BSA standards are met.
+Every pack event — from a hike to a camping trip to ValleyCats Scout Night — needs to be planned with safety, logistics, and fun all accounted for. The Program Chair owns this process or delegates it to event-specific coordinators while ensuring BSA standards are met.
 
 ---
 

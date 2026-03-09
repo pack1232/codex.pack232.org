@@ -46,7 +46,7 @@ The pack operates on an annual budget that is planned each summer and approved b
 1. Pull prior-year actuals from QuickBooks Online as the baseline
 2. Discuss planned activities and events with Cubmaster — any new events or changes from prior year?
 3. Get advancement award estimates from Advancement Chair
-4. Get activity/event cost estimates from Activities Chair
+4. Get activity/event cost estimates from Program Chair
 5. Factor in expected popcorn revenue (use prior-year as baseline; adjust for enrollment changes)
 6. Set per-Scout dues level to cover the gap between popcorn revenue and expenses
 

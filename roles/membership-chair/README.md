@@ -2,7 +2,7 @@
 
 ## Role Summary
 
-The Membership Chair ensures Pack 232 grows and retains its membership. This means running recruitment events, welcoming new families, following up with families who have dropped out, and working with the Cubmaster and committee on a year-round membership plan. This role sometimes encompasses both a "Recruitment Chair" (focused on bringing in new Scouts) and a "Member Success Chair" (focused on onboarding and retention) — Pack 232 currently has both as distinct roster entries.
+The Membership Chair ensures Pack 232 grows and retains its membership. This means running recruitment events, welcoming new families, following up with families who have dropped out, and working with the Cubmaster and committee on a year-round membership plan. The Membership Chair also oversees the pack's public relations, social media, and apparel functions (formerly handled by the standalone Marketing / Social Media Chair).
 
 ---
 
@@ -25,7 +25,7 @@ The Membership Chair ensures Pack 232 grows and retains its membership. This mea
 - Conduct annual census of youth in the charter organization for systematic recruitment
 - Work with committee members to promote recruitment plans
 - Lead annual recruitment events (school-night sign-ups in September)
-- Coordinate with Marketing Chair for social media and flier promotion of recruitment events
+- Coordinate with the Public Relations Coordinator for social media and flier promotion of recruitment events
 - Follow up on Cub Scout dropouts to help return them to full, active membership
 - Along with the Cubmaster, follow up with former pack members now in a troop and recruit them as potential den chiefs
 
@@ -39,6 +39,25 @@ The Membership Chair ensures Pack 232 grows and retains its membership. This mea
 - Arrange for the annual membership inventory and uniform inspection
 - Help the Cubmaster and Charter Org Rep plan the charter presentation
 
+**Public Relations & Marketing (via coordinators):**
+- Oversee the pack's public image, social media, and community visibility
+- Coordinate marketing efforts with recruitment activities
+
+---
+
+## Coordinator Positions
+
+The Membership Chair oversees these coordinator positions:
+
+| Position | File | Current Holder |
+|---|---|---|
+| Recruitment Coordinator | [recruitment-coordinator.md](recruitment-coordinator.md) | [vacant] |
+| Onboarding Coordinator | [onboarding-coordinator.md](onboarding-coordinator.md) | [vacant] |
+| Experience Coordinator | [experience-coordinator.md](experience-coordinator.md) | [vacant] |
+| Apparel Coordinator | [apparel-coordinator.md](apparel-coordinator.md) | [vacant] |
+| Public Relations Coordinator | [public-relations-coordinator.md](public-relations-coordinator.md) | [vacant] |
+| Social Media Coordinator | [social-media-coordinator.md](social-media-coordinator.md) | [vacant] |
+
 ---
 
 ## Reports To / Works With
@@ -46,17 +65,15 @@ The Membership Chair ensures Pack 232 grows and retains its membership. This mea
 | Relationship | Role |
 |---|---|
 | Reports to | Committee Chair |
-| Partners with | Cubmaster, Marketing Chair |
-| Coordinates | New family orientation |
+| Partners with | Cubmaster |
+| Coordinates | Coordinator positions listed above |
 | Supports | Den Leaders (new Scout placement) |
 
 ---
 
-## Current Holders
+## Current Holder
 
-**Recruitment Chair**: [vacant] | recruitment@pack232.com
-
-**Member Success Chair**: [vacant] | membership@pack232.com
+**[vacant]** | membership@pack232.com
 
 ---
 
@@ -67,8 +84,12 @@ The Membership Chair ensures Pack 232 grows and retains its membership. This mea
 | Recruitment plan | [recruitment-plan.md](recruitment-plan.md) |
 | New family onboarding | [new-family-onboarding.md](new-family-onboarding.md) |
 | Retention | [retention.md](retention.md) |
+| Press releases | [press-releases.md](press-releases.md) |
+| Visibility events | [visibility-events.md](visibility-events.md) |
+| Social media guide | [social-media.md](social-media.md) |
 | Agent support | [agent/README.md](agent/README.md) |
 | Membership Chair Guide (BSA) | `docs/Training/Positions/Membership Coordinator/Membership Chair Guide.md` |
+| Marketing Chair Guide (BSA) | `docs/Training/Positions/Marketing - Public Relations Chair/Marketing _ Public Relations Chair Guide.md` |
 | Parent Meeting Agenda Sample | `docs/Training/Positions/Membership Coordinator/Parent Meeting/PARENT-MEETING-AGENDA-SAMPLE.md` |
 | Training requirements | [`../_shared/training-requirements.md`](../_shared/training-requirements.md) |
 | Pack calendar | [`../_shared/calendar.md`](../_shared/calendar.md) |

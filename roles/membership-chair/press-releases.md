@@ -1,8 +1,8 @@
-# Marketing Chair: Press Releases
+# Public Relations: Press Releases
 
 ## Overview
 
-Local press coverage of Scouting events builds community awareness and can support recruitment. The Marketing Chair is responsible for submitting press releases or announcements to local outlets for major pack events.
+Local press coverage of Scouting events builds community awareness and can support recruitment. The Public Relations Coordinator is responsible for submitting press releases or announcements to local outlets for major pack events.
 
 ---
 
@@ -35,7 +35,7 @@ Keep it short and factual. A good press release includes:
 1. **Headline**: Clear, active (e.g., "Pack 232 Cub Scouts Host Annual Pinewood Derby at Glenmont Elementary")
 2. **Lead paragraph**: Who, What, When, Where, Why — answer all five in the first paragraph
 3. **Body**: 1–2 additional paragraphs with details, quotes from a leader or Scout (with permission)
-4. **Contact**: Marketing Chair name and pack email for follow-up
+4. **Contact**: Public Relations Coordinator name and pack email for follow-up
 5. **Boilerplate**: Brief description of Pack 232 and Cub Scouting
 
 **Length**: 200–400 words for a standard press release; shorter for a community calendar submission.
