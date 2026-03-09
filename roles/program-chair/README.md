@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 8
 nav_exclude: false
 permalink: /roles/program-chair/
+role_id: activity-chair
 ---
 
 # Program Chair
@@ -97,3 +98,5 @@ The Program Chair oversees these coordinator positions:
 | Training requirements | [`../_shared/training-requirements.md`](../_shared/training-requirements.md) |
 | BSA policies | [`../_shared/bsa-policies.md`](../_shared/bsa-policies.md) |
 | Pack calendar | [`../_shared/calendar.md`](../_shared/calendar.md) |
+
+{% include role-tasks.html role_id=page.role_id %}

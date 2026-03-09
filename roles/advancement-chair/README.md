@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 9
 nav_exclude: false
 permalink: /roles/advancement-chair/
+role_id: advancement-chair
 ---
 
 # Advancement Chair
@@ -107,3 +108,5 @@ The Advancement Chair oversees these coordinator positions:
 | Advancement Chair Guide (BSA) | `docs/Training/Positions/Advancement Chair/Advancement Chair Guide.md` |
 | Position descriptions | `docs/Training/Positions/Pack1232LeadershipPositionDescriptions.md` |
 | Training requirements | [`../_shared/training-requirements.md`](../_shared/training-requirements.md) |
+
+{% include role-tasks.html role_id=page.role_id %}

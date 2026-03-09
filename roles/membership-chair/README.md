@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 7
 nav_exclude: false
 permalink: /roles/membership-chair/
+role_id: membership-chair
 ---
 
 # Membership Chair
@@ -100,3 +101,5 @@ The Membership Chair oversees these coordinator positions:
 | Parent Meeting Agenda Sample | `docs/Training/Positions/Membership Coordinator/Parent Meeting/PARENT-MEETING-AGENDA-SAMPLE.md` |
 | Training requirements | [`../_shared/training-requirements.md`](../_shared/training-requirements.md) |
 | Pack calendar | [`../_shared/calendar.md`](../_shared/calendar.md) |
+
+{% include role-tasks.html role_id=page.role_id %}

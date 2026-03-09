@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 2
 nav_exclude: false
 permalink: /roles/committee-chair/
+role_id: committee-chair
 ---
 
 # Committee Chair
@@ -84,3 +85,5 @@ The Committee Chair leads the pack committee and is responsible for the overall 
 | Training requirements | [`../_shared/training-requirements.md`](../_shared/training-requirements.md) |
 | BSA policies | [`../_shared/bsa-policies.md`](../_shared/bsa-policies.md) |
 | Pack calendar | [`../_shared/calendar.md`](../_shared/calendar.md) |
+
+{% include role-tasks.html role_id=page.role_id %}

@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 3
 nav_exclude: false
 permalink: /roles/cubmaster/
+role_id: cubmaster
 ---
 
 # Cubmaster
@@ -81,3 +82,5 @@ The Cubmaster is the primary program leader of Pack 232. Everything the Cubmaste
 | Training requirements | [`../_shared/training-requirements.md`](../_shared/training-requirements.md) |
 | BSA policies | [`../_shared/bsa-policies.md`](../_shared/bsa-policies.md) |
 | Pack calendar | [`../_shared/calendar.md`](../_shared/calendar.md) |
+
+{% include role-tasks.html role_id=page.role_id %}

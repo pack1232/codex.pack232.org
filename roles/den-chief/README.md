@@ -4,6 +4,7 @@ parent: All Roles
 nav_order: 13
 nav_exclude: false
 permalink: /roles/den-chief/
+role_id: den-chief
 ---
 
 # Den Chief
@@ -77,3 +78,5 @@ Den chiefs should be recognized at both den meetings and pack meetings. The Cubm
 | Den Chief Guide (BSA) | `docs/Training/Positions/Den Chief/Den Chief Guide.md` |
 | Den Leader (role they support) | [`../den-leader/README.md`](../den-leader/README.md) |
 | Assistant Cubmaster (their pack supervisor) | [`../assistant-cubmaster/README.md`](../assistant-cubmaster/README.md) |
+
+{% include role-tasks.html role_id=page.role_id %}
