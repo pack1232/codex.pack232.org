@@ -1,0 +1,18 @@
+// Narrower sidebar, left-aligned
+.side-bar {
+  width: 200px;
+  min-width: 200px;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+@media (min-width: 50rem) {
+  .main-content-wrap {
+    margin-left: 200px;
+  }
+}
+
+// Hide "This site uses Just the Docs" footer in sidebar
+.site-footer {
+  display: none;
+}

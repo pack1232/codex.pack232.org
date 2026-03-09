@@ -8,99 +8,35 @@ nav_order: 1
 
 **Click any role** to view its guide. Filled roles show the current holder. Dashed borders indicate vacant positions.
 
-## Pack Leadership
-
-```mermaid
-flowchart TD
-    charter["Selkirk Fire Department No.2"]:::charter
-    cor["Charter Org Rep<br>Bob Baldwin"]:::core
-    charter --> cor
-    cc["Committee Chair<br>Josh McWilliam"]:::core
-    charter --> cc
-    cm["Cubmaster<br>Michael McGuire"]:::core
-    charter --> cm
-    sec["Secretary<br>Daniel O'Brien"]:::filled
-    cc --> sec
-    tres["Treasurer<br>Bob Baldwin"]:::filled
-    cc --> tres
-    fund["Fundraising Chair"]:::vacant
-    cc --> fund
-    memb["Membership Chair"]:::vacant
-    cc --> memb
-    prog["Program Chair"]:::vacant
-    cc --> prog
-    adv["Advancement Chair"]:::vacant
-    cc --> adv
-    acm["Assistant Cubmasters"]:::filled
-    cm --> acm
-    dl["Den Leaders"]:::filled
-    cm --> dl
-    adl["Assistant Den Leader"]:::vacant
-    cm --> adl
-    dc["Den Chief"]:::filled
-    cm --> dc
-    click cor "/roles/charter-org-rep/"
-    click cc "/roles/committee-chair/"
-    click cm "/roles/cubmaster/"
-    click sec "/roles/secretary/"
-    click tres "/roles/treasurer/"
-    click fund "/roles/fundraising-chair/"
-    click memb "/roles/membership-chair/"
-    click prog "/roles/program-chair/"
-    click adv "/roles/advancement-chair/"
-    click acm "/roles/assistant-cubmaster/"
-    click dl "/roles/den-leader/"
-    click adl "/roles/den-leader/assistant-den-leader"
-    click dc "/roles/den-chief/"
-    classDef charter fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100
-    classDef core fill:#c8e6c9,stroke:#1b5e20,stroke-width:3px,color:#1b5e20
-    classDef filled fill:#e8f4e8,stroke:#2d6a2e,stroke-width:2px,color:#1a1a1a
-    classDef vacant fill:#f5f5f5,stroke:#999,stroke-width:2px,stroke-dasharray: 5 5,color:#666
-```
-
----
-
-## Secretary
-
 ```mermaid
 flowchart LR
+    charter["Selkirk Fire Department No.2"]:::charter
+    cor["Charter Org Rep<br>Bob Baldwin"]:::core
+    cc["Committee Chair<br>Josh McWilliam"]:::core
+    cm["Cubmaster<br>Michael McGuire"]:::core
+    charter --> cor
+    charter --> cc
+    charter --> cm
+
+    %% Secretary branch
     sec["Secretary<br>Daniel O'Brien"]:::filled
+    cc --> sec
     medical["Medical Forms Coordinator"]:::vacant
     sec --> medical
     webmaster["Webmaster"]:::vacant
     sec --> webmaster
-    click sec "/roles/secretary/"
-    click medical "/roles/secretary/medical-forms-coordinator"
-    click webmaster "/roles/secretary/webmaster"
-    classDef charter fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100
-    classDef core fill:#c8e6c9,stroke:#1b5e20,stroke-width:3px,color:#1b5e20
-    classDef filled fill:#e8f4e8,stroke:#2d6a2e,stroke-width:2px,color:#1a1a1a
-    classDef vacant fill:#f5f5f5,stroke:#999,stroke-width:2px,stroke-dasharray: 5 5,color:#666
-```
 
-## Treasurer
-
-```mermaid
-flowchart LR
+    %% Treasurer branch
     tres["Treasurer<br>Bob Baldwin"]:::filled
+    cc --> tres
     ap["Accounts Payable Coordinator"]:::vacant
     tres --> ap
     ar["Accounts Receivable Coordinator"]:::vacant
     tres --> ar
-    click tres "/roles/treasurer/"
-    click ap "/roles/treasurer/accounts-payable-coordinator"
-    click ar "/roles/treasurer/accounts-receivable-coordinator"
-    classDef charter fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100
-    classDef core fill:#c8e6c9,stroke:#1b5e20,stroke-width:3px,color:#1b5e20
-    classDef filled fill:#e8f4e8,stroke:#2d6a2e,stroke-width:2px,color:#1a1a1a
-    classDef vacant fill:#f5f5f5,stroke:#999,stroke-width:2px,stroke-dasharray: 5 5,color:#666
-```
 
-## Fundraising Chair
-
-```mermaid
-flowchart LR
+    %% Fundraising branch
     fund["Fundraising Chair"]:::vacant
+    cc --> fund
     popcorn["Popcorn Coordinator<br>Phoung Perez"]:::filled
     fund --> popcorn
     apopcorn["Asst. Popcorn Coordinator"]:::vacant
@@ -109,22 +45,10 @@ flowchart LR
     fund --> redeem
     grants["Grants Coordinator"]:::vacant
     fund --> grants
-    click fund "/roles/fundraising-chair/"
-    click popcorn "/roles/popcorn-coordinator/"
-    click apopcorn "/roles/popcorn-coordinator/assistant-popcorn-coordinator"
-    click redeem "/roles/fundraising-chair/redemptions-coordinator"
-    click grants "/roles/fundraising-chair/grants-coordinator"
-    classDef charter fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100
-    classDef core fill:#c8e6c9,stroke:#1b5e20,stroke-width:3px,color:#1b5e20
-    classDef filled fill:#e8f4e8,stroke:#2d6a2e,stroke-width:2px,color:#1a1a1a
-    classDef vacant fill:#f5f5f5,stroke:#999,stroke-width:2px,stroke-dasharray: 5 5,color:#666
-```
 
-## Membership Chair
-
-```mermaid
-flowchart LR
+    %% Membership branch
     memb["Membership Chair"]:::vacant
+    cc --> memb
     recruit["Member Recruitment"]:::vacant
     memb --> recruit
     onboard["Member Onboarding"]:::vacant
@@ -135,23 +59,10 @@ flowchart LR
     memb --> apparel
     pr["Public Relations"]:::vacant
     memb --> pr
-    click memb "/roles/membership-chair/"
-    click recruit "/roles/membership-chair/member-recruitment-coordinator"
-    click onboard "/roles/membership-chair/member-onboarding-coordinator"
-    click experience "/roles/membership-chair/member-experience-coordinator"
-    click apparel "/roles/membership-chair/apparel-coordinator"
-    click pr "/roles/membership-chair/public-relations-coordinator"
-    classDef charter fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100
-    classDef core fill:#c8e6c9,stroke:#1b5e20,stroke-width:3px,color:#1b5e20
-    classDef filled fill:#e8f4e8,stroke:#2d6a2e,stroke-width:2px,color:#1a1a1a
-    classDef vacant fill:#f5f5f5,stroke:#999,stroke-width:2px,stroke-dasharray: 5 5,color:#666
-```
 
-## Program Chair
-
-```mermaid
-flowchart LR
+    %% Program branch
     prog["Program Chair"]:::vacant
+    cc --> prog
     pinewood["Pinewood Derby"]:::vacant
     prog --> pinewood
     wintercamp["Winter Camping"]:::vacant
@@ -174,29 +85,10 @@ flowchart LR
     prog --> council
     packmisc["Pack Activities"]:::vacant
     prog --> packmisc
-    click prog "/roles/program-chair/"
-    click pinewood "/roles/program-chair/pinewood-derby-coordinator"
-    click wintercamp "/roles/program-chair/winter-camping-coordinator"
-    click springcamp "/roles/program-chair/spring-camping-coordinator"
-    click fallcamp "/roles/program-chair/fall-camping-coordinator"
-    click summercamp "/roles/program-chair/summer-camping-coordinator"
-    click packactivity "/roles/program-chair/pack-meeting-activity-coordinator"
-    click snack "/roles/program-chair/pack-meeting-snackmaster"
-    click equip "/roles/program-chair/equipment-coordinator"
-    click service "/roles/program-chair/community-service-coordinator"
-    click council "/roles/program-chair/misc-council-activities-coordinator"
-    click packmisc "/roles/program-chair/misc-pack-activities-coordinator"
-    classDef charter fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100
-    classDef core fill:#c8e6c9,stroke:#1b5e20,stroke-width:3px,color:#1b5e20
-    classDef filled fill:#e8f4e8,stroke:#2d6a2e,stroke-width:2px,color:#1a1a1a
-    classDef vacant fill:#f5f5f5,stroke:#999,stroke-width:2px,stroke-dasharray: 5 5,color:#666
-```
 
-## Advancement Chair
-
-```mermaid
-flowchart LR
+    %% Advancement branch
     adv["Advancement Chair"]:::vacant
+    cc --> adv
     awards["Scout Awards<br>Jennifer Wind"]:::filled
     adv --> awards
     bluegold["Blue and Gold"]:::vacant
@@ -205,22 +97,10 @@ flowchart LR
     adv --> aol
     training["Leader Training and Awards"]:::vacant
     adv --> training
-    click adv "/roles/advancement-chair/"
-    click awards "/roles/advancement-chair/awards-coordinator"
-    click bluegold "/roles/advancement-chair/blue-and-gold-coordinator"
-    click aol "/roles/advancement-chair/aol-crossover-coordinator"
-    click training "/roles/advancement-chair/leader-training-coordinator"
-    classDef charter fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100
-    classDef core fill:#c8e6c9,stroke:#1b5e20,stroke-width:3px,color:#1b5e20
-    classDef filled fill:#e8f4e8,stroke:#2d6a2e,stroke-width:2px,color:#1a1a1a
-    classDef vacant fill:#f5f5f5,stroke:#999,stroke-width:2px,stroke-dasharray: 5 5,color:#666
-```
 
-## Assistant Cubmasters
-
-```mermaid
-flowchart LR
+    %% Assistant Cubmasters branch
     acm["Assistant Cubmasters"]:::filled
+    cm --> acm
     acm_den["ACM Den Support"]:::vacant
     acm --> acm_den
     acm_family["ACM Family Support"]:::vacant
@@ -237,6 +117,67 @@ flowchart LR
     acm --> acm_food
     acm_comms["ACM Communications"]:::vacant
     acm --> acm_comms
+
+    %% Den Leaders branch
+    dl["Den Leaders"]:::filled
+    cm --> dl
+    dl_lions["Lions Den 7<br>C. Baldwin and K. McWilliam"]:::filled
+    dl --> dl_lions
+    dl_tigers["Tigers Den 1<br>Michael McGuire"]:::filled
+    dl --> dl_tigers
+    dl_wolves["Wolves Den 2<br>Kevin Calacone"]:::filled
+    dl --> dl_wolves
+    dl_bears["Bears Den 3<br>Christopher Heckathorne"]:::filled
+    dl --> dl_bears
+    dl_webelos["Webelos Den 4<br>Ben Friedman"]:::filled
+    dl --> dl_webelos
+    dl_aol["Arrow of Light Den 5<br>Patrick Slade"]:::filled
+    dl --> dl_aol
+
+    %% Other Cubmaster direct reports
+    adl["Assistant Den Leader"]:::vacant
+    cm --> adl
+    dc["Den Chief"]:::filled
+    cm --> dc
+
+    %% Click handlers
+    click cor "/roles/charter-org-rep/"
+    click cc "/roles/committee-chair/"
+    click cm "/roles/cubmaster/"
+    click sec "/roles/secretary/"
+    click medical "/roles/secretary/medical-forms-coordinator"
+    click webmaster "/roles/secretary/webmaster"
+    click tres "/roles/treasurer/"
+    click ap "/roles/treasurer/accounts-payable-coordinator"
+    click ar "/roles/treasurer/accounts-receivable-coordinator"
+    click fund "/roles/fundraising-chair/"
+    click popcorn "/roles/popcorn-coordinator/"
+    click apopcorn "/roles/popcorn-coordinator/assistant-popcorn-coordinator"
+    click redeem "/roles/fundraising-chair/redemptions-coordinator"
+    click grants "/roles/fundraising-chair/grants-coordinator"
+    click memb "/roles/membership-chair/"
+    click recruit "/roles/membership-chair/member-recruitment-coordinator"
+    click onboard "/roles/membership-chair/member-onboarding-coordinator"
+    click experience "/roles/membership-chair/member-experience-coordinator"
+    click apparel "/roles/membership-chair/apparel-coordinator"
+    click pr "/roles/membership-chair/public-relations-coordinator"
+    click prog "/roles/program-chair/"
+    click pinewood "/roles/program-chair/pinewood-derby-coordinator"
+    click wintercamp "/roles/program-chair/winter-camping-coordinator"
+    click springcamp "/roles/program-chair/spring-camping-coordinator"
+    click fallcamp "/roles/program-chair/fall-camping-coordinator"
+    click summercamp "/roles/program-chair/summer-camping-coordinator"
+    click packactivity "/roles/program-chair/pack-meeting-activity-coordinator"
+    click snack "/roles/program-chair/pack-meeting-snackmaster"
+    click equip "/roles/program-chair/equipment-coordinator"
+    click service "/roles/program-chair/community-service-coordinator"
+    click council "/roles/program-chair/misc-council-activities-coordinator"
+    click packmisc "/roles/program-chair/misc-pack-activities-coordinator"
+    click adv "/roles/advancement-chair/"
+    click awards "/roles/advancement-chair/awards-coordinator"
+    click bluegold "/roles/advancement-chair/blue-and-gold-coordinator"
+    click aol "/roles/advancement-chair/aol-crossover-coordinator"
+    click training "/roles/advancement-chair/leader-training-coordinator"
     click acm "/roles/assistant-cubmaster/"
     click acm_den "/roles/assistant-cubmaster/den-support"
     click acm_family "/roles/assistant-cubmaster/family-support"
@@ -246,29 +187,6 @@ flowchart LR
     click acm_crafts "/roles/assistant-cubmaster/crafts"
     click acm_food "/roles/assistant-cubmaster/food"
     click acm_comms "/roles/assistant-cubmaster/communications"
-    classDef charter fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100
-    classDef core fill:#c8e6c9,stroke:#1b5e20,stroke-width:3px,color:#1b5e20
-    classDef filled fill:#e8f4e8,stroke:#2d6a2e,stroke-width:2px,color:#1a1a1a
-    classDef vacant fill:#f5f5f5,stroke:#999,stroke-width:2px,stroke-dasharray: 5 5,color:#666
-```
-
-## Den Leaders
-
-```mermaid
-flowchart LR
-    dl["Den Leaders"]:::filled
-    dl_lions["Lions (Den 7)<br>C. Baldwin and K. McWilliam"]:::filled
-    dl --> dl_lions
-    dl_tigers["Tigers (Den 1)<br>Michael McGuire"]:::filled
-    dl --> dl_tigers
-    dl_wolves["Wolves (Den 2)<br>Kevin Calacone"]:::filled
-    dl --> dl_wolves
-    dl_bears["Bears (Den 3)<br>Christopher Heckathorne"]:::filled
-    dl --> dl_bears
-    dl_webelos["Webelos (Den 4)<br>Ben Friedman"]:::filled
-    dl --> dl_webelos
-    dl_aol["Arrow of Light (Den 5)<br>Patrick Slade"]:::filled
-    dl --> dl_aol
     click dl "/roles/den-leader/"
     click dl_lions "/roles/den-leader/"
     click dl_tigers "/roles/den-leader/"
@@ -276,6 +194,9 @@ flowchart LR
     click dl_bears "/roles/den-leader/"
     click dl_webelos "/roles/den-leader/"
     click dl_aol "/roles/den-leader/"
+    click adl "/roles/den-leader/assistant-den-leader"
+    click dc "/roles/den-chief/"
+
     classDef charter fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#e65100
     classDef core fill:#c8e6c9,stroke:#1b5e20,stroke-width:3px,color:#1b5e20
     classDef filled fill:#e8f4e8,stroke:#2d6a2e,stroke-width:2px,color:#1a1a1a
