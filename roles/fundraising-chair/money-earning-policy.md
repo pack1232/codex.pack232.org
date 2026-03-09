@@ -11,7 +11,7 @@ All unit fundraising must comply with BSA's Fiscal Policies and Procedures for U
 
 ## The Annual Popcorn Sale
 
-The annual Trails End popcorn sale is the only pre-approved fundraiser — no Money-Earning Application is needed. The Popcorn Coordinator manages this sale. See [`../popcorn-coordinator/README.md`](../popcorn-coordinator/README.md).
+The annual Trails End popcorn sale is the only pre-approved fundraiser — no Money-Earning Application is needed. The Popcorn Coordinator manages this sale. See [`popcorn-coordinator/`](popcorn-coordinator/).
 
 ## Unit Money-Earning Application Process
 

@@ -32,7 +32,7 @@ tasks:
     months: null
     timing_note: "Same week as or adjacent to the pack meeting"
     owner: committee-chair
-    roles: [advancement-chair, committee-chair, cubmaster, fundraising-chair, membership-chair, popcorn-kernel, activity-chair, secretary, treasurer]
+    roles: [advancement-chair, committee-chair, cubmaster, fundraising-chair, membership-chair, activity-chair, secretary, treasurer, popcorn-kernel]
     description: >
       Monthly pack committee meeting. Committee Chair presides. Includes treasurer's report, Cubmaster's report, committee member updates, old and new business, upcoming event review.
     tags: ['committee', 'governance']
@@ -745,102 +745,6 @@ tasks:
       Marketing Chair creates Facebook events for pack meetings and outings with date, time, location, and description. Shares event recap and photos within 1–2 days after.
     tags: ['communications', 'social-media', 'marketing']
 
-  - id: popcorn-unit-registration
-    name: "Register Unit for Popcorn Sale"
-    type: fundraising
-    frequency: annual
-    months: [8]
-    timing_note: "Before the council popcorn kickoff in September"
-    owner: popcorn-kernel
-    roles: [popcorn-kernel]
-    description: >
-      Popcorn Kernel registers the pack with Twin Rivers Council for the annual popcorn sale and gains access to the Trail's End / Pecatonica ordering system.
-    tags: ['popcorn', 'fundraising', 'annual']
-
-  - id: popcorn-council-kickoff
-    name: "Popcorn Kernel Attends Council Kickoff"
-    type: fundraising
-    frequency: annual
-    months: [9]
-    timing_note: "Twin Rivers Council hosts kickoff — check trcscouting.org for date"
-    owner: popcorn-kernel
-    roles: [popcorn-kernel]
-    description: >
-      Popcorn Kernel attends the Twin Rivers Council annual popcorn kickoff meeting. Picks up sales materials, learns about prize program, and gets unit-level targets.
-    tags: ['popcorn', 'fundraising', 'annual']
-
-  - id: popcorn-order-submission
-    name: "Popcorn Order Submission to Council"
-    type: fundraising
-    frequency: annual
-    months: [10]
-    timing_note: "By the council's deadline — check trcscouting.org annually"
-    owner: popcorn-kernel
-    roles: [popcorn-kernel, treasurer]
-    description: >
-      Popcorn Kernel collects all Scout take-order forms, enters the pack's order into the Trail's End / Pecatonica system, and submits to Twin Rivers Council District Office by the annual deadline.
-    tags: ['popcorn', 'fundraising', 'annual', 'deadline']
-
-  - id: popcorn-money-collection
-    name: "Popcorn Money Collection & Turnover"
-    type: fundraising
-    frequency: annual
-    months: [10]
-    timing_note: "Concurrent with order submission"
-    owner: popcorn-kernel
-    roles: [popcorn-kernel, treasurer]
-    description: >
-      Popcorn Kernel collects popcorn proceeds from Scout families. All money turned over to the Treasurer. Kernel provides per-Scout sales data for Scout account credits.
-    tags: ['popcorn', 'financial', 'annual']
-
-  - id: popcorn-pickup-distribution
-    name: "Popcorn Pickup & Distribution"
-    type: fundraising
-    frequency: annual
-    months: [11]
-    timing_note: "November — after council distributes popcorn to district"
-    owner: popcorn-kernel
-    roles: [popcorn-kernel]
-    description: >
-      Popcorn Kernel picks up the pack's popcorn from the district, sorts it by Scout, and distributes to Scout families at a pack meeting or designated pickup.
-    tags: ['popcorn', 'fundraising', 'annual']
-
-  - id: scout-account-credits
-    name: "Scout Account Credits from Popcorn"
-    type: financial
-    frequency: annual
-    months: [11]
-    timing_note: "After popcorn proceeds are received from the Kernel"
-    owner: treasurer
-    roles: [popcorn-kernel, treasurer]
-    description: >
-      Treasurer credits individual Scout accounts in QuickBooks based on per-Scout popcorn sales data provided by the Popcorn Kernel.
-    tags: ['financial', 'scout-accounts', 'popcorn', 'annual']
-
-  - id: popcorn-year-end-wrap
-    name: "Popcorn Kernel Attends Year-End Wrap"
-    type: fundraising
-    frequency: annual
-    months: [11]
-    timing_note: "Twin Rivers Council hosts wrap meeting — check trcscouting.org for date"
-    owner: popcorn-kernel
-    roles: [popcorn-kernel]
-    description: >
-      Popcorn Kernel attends the council's year-end popcorn wrap meeting to close out the sale season, reconcile any issues, and prepare for next year.
-    tags: ['popcorn', 'fundraising', 'annual']
-
-  - id: popcorn-donation-in-lieu-invoicing
-    name: "Popcorn Donation-in-Lieu Invoicing"
-    type: financial
-    frequency: annual
-    months: [11]
-    timing_note: "After Scout account credits are calculated"
-    owner: treasurer
-    roles: [popcorn-kernel, treasurer]
-    description: >
-      Treasurer invoices Scout families who did not meet the popcorn target for "donation in lieu" — additional dues owed to make up the fundraising shortfall.
-    tags: ['financial', 'popcorn', 'dues', 'annual']
-
   - id: fall-back-to-scouting
     name: "Fall Back to Scouting"
     type: outdoor
@@ -925,6 +829,54 @@ tasks:
       Treasurer prepares the prior-year annual financial report summarizing all revenue, expenses, and account balances. Presented to the committee.
     tags: ['financial', 'annual', 'reporting']
 
+  - id: popcorn-order-submission
+    name: "Popcorn Order Submission to Council"
+    type: fundraising
+    frequency: annual
+    months: [10]
+    timing_note: "By the council's deadline — check trcscouting.org annually"
+    owner: popcorn-kernel
+    roles: [treasurer, popcorn-kernel]
+    description: >
+      Popcorn Kernel collects all Scout take-order forms, enters the pack's order into the Trail's End / Pecatonica system, and submits to Twin Rivers Council District Office by the annual deadline.
+    tags: ['popcorn', 'fundraising', 'annual', 'deadline']
+
+  - id: popcorn-money-collection
+    name: "Popcorn Money Collection & Turnover"
+    type: fundraising
+    frequency: annual
+    months: [10]
+    timing_note: "Concurrent with order submission"
+    owner: popcorn-kernel
+    roles: [treasurer, popcorn-kernel]
+    description: >
+      Popcorn Kernel collects popcorn proceeds from Scout families. All money turned over to the Treasurer. Kernel provides per-Scout sales data for Scout account credits.
+    tags: ['popcorn', 'financial', 'annual']
+
+  - id: scout-account-credits
+    name: "Scout Account Credits from Popcorn"
+    type: financial
+    frequency: annual
+    months: [11]
+    timing_note: "After popcorn proceeds are received from the Kernel"
+    owner: treasurer
+    roles: [treasurer, popcorn-kernel]
+    description: >
+      Treasurer credits individual Scout accounts in QuickBooks based on per-Scout popcorn sales data provided by the Popcorn Kernel.
+    tags: ['financial', 'scout-accounts', 'popcorn', 'annual']
+
+  - id: popcorn-donation-in-lieu-invoicing
+    name: "Popcorn Donation-in-Lieu Invoicing"
+    type: financial
+    frequency: annual
+    months: [11]
+    timing_note: "After Scout account credits are calculated"
+    owner: treasurer
+    roles: [treasurer, popcorn-kernel]
+    description: >
+      Treasurer invoices Scout families who did not meet the popcorn target for "donation in lieu" — additional dues owed to make up the fundraising shortfall.
+    tags: ['financial', 'popcorn', 'dues', 'annual']
+
   - id: quickbooks-license-renewal
     name: "QuickBooks / TechSoup License Renewal"
     type: financial
@@ -960,6 +912,54 @@ tasks:
     description: >
       Pack 232 is exempt from New York State sales tax on pack purchases. Treasurer provides the tax-exempt certificate to leaders before significant purchases. Keep receipt showing tax was not charged.
     tags: ['financial', 'administrative', 'tax']
+
+  - id: popcorn-unit-registration
+    name: "Register Unit for Popcorn Sale"
+    type: fundraising
+    frequency: annual
+    months: [8]
+    timing_note: "Before the council popcorn kickoff in September"
+    owner: popcorn-kernel
+    roles: [popcorn-kernel]
+    description: >
+      Popcorn Kernel registers the pack with Twin Rivers Council for the annual popcorn sale and gains access to the Trail's End / Pecatonica ordering system.
+    tags: ['popcorn', 'fundraising', 'annual']
+
+  - id: popcorn-council-kickoff
+    name: "Popcorn Kernel Attends Council Kickoff"
+    type: fundraising
+    frequency: annual
+    months: [9]
+    timing_note: "Twin Rivers Council hosts kickoff — check trcscouting.org for date"
+    owner: popcorn-kernel
+    roles: [popcorn-kernel]
+    description: >
+      Popcorn Kernel attends the Twin Rivers Council annual popcorn kickoff meeting. Picks up sales materials, learns about prize program, and gets unit-level targets.
+    tags: ['popcorn', 'fundraising', 'annual']
+
+  - id: popcorn-pickup-distribution
+    name: "Popcorn Pickup & Distribution"
+    type: fundraising
+    frequency: annual
+    months: [11]
+    timing_note: "November — after council distributes popcorn to district"
+    owner: popcorn-kernel
+    roles: [popcorn-kernel]
+    description: >
+      Popcorn Kernel picks up the pack's popcorn from the district, sorts it by Scout, and distributes to Scout families at a pack meeting or designated pickup.
+    tags: ['popcorn', 'fundraising', 'annual']
+
+  - id: popcorn-year-end-wrap
+    name: "Popcorn Kernel Attends Year-End Wrap"
+    type: fundraising
+    frequency: annual
+    months: [11]
+    timing_note: "Twin Rivers Council hosts wrap meeting — check trcscouting.org for date"
+    owner: popcorn-kernel
+    roles: [popcorn-kernel]
+    description: >
+      Popcorn Kernel attends the council's year-end popcorn wrap meeting to close out the sale season, reconcile any issues, and prepare for next year.
+    tags: ['popcorn', 'fundraising', 'annual']
 
   - id: pinewood-derby-rules
     name: "Pinewood Derby: Rules Distribution"

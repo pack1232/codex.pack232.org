@@ -26,8 +26,8 @@ Charter Organization (Selkirk Fire Department #2)
     - [Accounts Payable Coordinator](treasurer/accounts-payable-coordinator/) — [vacant]
     - [Accounts Receivable Coordinator](treasurer/accounts-receivable-coordinator/) — [vacant]
   - [Fundraising Chair](fundraising-chair/) — [vacant]
-    - [Popcorn Coordinator](popcorn-coordinator/) — a.k.a. Popcorn Kernel (Phoung Perez)
-      - [Assistant Popcorn Coordinator](popcorn-coordinator/assistant-popcorn-coordinator/) — a.k.a. Assistant Popcorn Kernel — [vacant]
+    - [Popcorn Coordinator](fundraising-chair/popcorn-coordinator/) — a.k.a. Popcorn Kernel (Phoung Perez)
+      - [Assistant Popcorn Coordinator](fundraising-chair/popcorn-coordinator/assistant-popcorn-coordinator/) — a.k.a. Assistant Popcorn Kernel — [vacant]
     - [Redemptions Coordinator](fundraising-chair/redemptions-coordinator/) — a.k.a. Can Captain — [vacant]
     - [Grants Coordinator](fundraising-chair/grants-coordinator/) — [vacant]
   - [Membership Chair](membership-chair/) — [vacant]
@@ -124,8 +124,8 @@ Charter Organization (Selkirk Fire Department #2)
 
 | Role | File | Current Holder |
 |---|---|---|
-| Popcorn Coordinator | [popcorn-coordinator/](popcorn-coordinator/) | Phoung Perez |
-| Assistant Popcorn Coordinator | [popcorn-coordinator/assistant-popcorn-coordinator/](popcorn-coordinator/assistant-popcorn-coordinator/) | [vacant] |
+| Popcorn Coordinator | [fundraising-chair/popcorn-coordinator/](fundraising-chair/popcorn-coordinator/) | Phoung Perez |
+| Assistant Popcorn Coordinator | [fundraising-chair/popcorn-coordinator/assistant-popcorn-coordinator/](fundraising-chair/popcorn-coordinator/assistant-popcorn-coordinator/) | [vacant] |
 | Redemptions Coordinator | [fundraising-chair/redemptions-coordinator/](fundraising-chair/redemptions-coordinator/) | [vacant] |
 | Grants Coordinator | [fundraising-chair/grants-coordinator/](fundraising-chair/grants-coordinator/) | [vacant] |
 

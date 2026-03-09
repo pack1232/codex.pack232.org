@@ -47,4 +47,4 @@ The Assistant Popcorn Coordinator (a.k.a. Assistant Popcorn Kernel) supports the
 - [Popcorn Coordinator role overview](../README.md)
 - [Sale timeline](../sale-timeline.md)
 - [Show and Sell management](../show-and-sell.md)
-- [`../treasurer/README.md`](../../treasurer/README.md) — money turn-in coordination
+- [`../../treasurer/README.md`](../../../treasurer/README.md) — money turn-in coordination
