@@ -16,7 +16,7 @@ flowchart LR
     cm["Cubmaster<br>Michael McGuire"]:::core
     charter --> cor
     charter --> cc
-    charter --> cm
+    cc --> cm
 
     %% Secretary branch
     sec["Secretary<br>Daniel O'Brien"]:::filled
