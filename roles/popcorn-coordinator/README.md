@@ -2,6 +2,7 @@
 title: Popcorn Coordinator
 parent: All Roles
 nav_order: 10
+nav_exclude: false
 permalink: /roles/popcorn-coordinator/
 ---
 

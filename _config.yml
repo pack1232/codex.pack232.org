@@ -25,6 +25,10 @@ defaults:
       path: "docs"
     values:
       nav_exclude: true
+  - scope:
+      path: "roles"
+    values:
+      nav_exclude: true
 
 exclude:
   - roles/*/agent

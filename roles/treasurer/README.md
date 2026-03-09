@@ -2,6 +2,7 @@
 title: Treasurer
 parent: All Roles
 nav_order: 5
+nav_exclude: false
 permalink: /roles/treasurer/
 ---
 

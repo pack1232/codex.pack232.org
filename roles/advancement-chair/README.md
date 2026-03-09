@@ -2,6 +2,7 @@
 title: Advancement Chair
 parent: All Roles
 nav_order: 9
+nav_exclude: false
 permalink: /roles/advancement-chair/
 ---
 

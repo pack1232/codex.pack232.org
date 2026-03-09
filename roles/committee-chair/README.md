@@ -2,6 +2,7 @@
 title: Committee Chair
 parent: All Roles
 nav_order: 2
+nav_exclude: false
 permalink: /roles/committee-chair/
 ---
 

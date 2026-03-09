@@ -2,6 +2,7 @@
 title: Program Chair
 parent: All Roles
 nav_order: 8
+nav_exclude: false
 permalink: /roles/program-chair/
 ---
 
