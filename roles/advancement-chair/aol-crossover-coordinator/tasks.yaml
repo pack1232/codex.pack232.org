@@ -1,3 +1,27 @@
 # Tasks this role is responsible for or participates in.
-# See schema in any populated tasks.yaml for field reference.
-tasks: []
+#
+# Schema:
+#   id:           Unique task identifier (kebab-case)
+#   name:         Display name
+#   type:         program|financial|fundraising|administrative|recruitment|outdoor|service|recognition|training
+#   frequency:    monthly|annual|as-needed
+#   months:       List of month numbers [1-12] or null (every month)
+#   timing_note:  When within the month/season
+#   role:         owner|involved (this role's relationship to the task)
+#   event:        Event ID (links task to an event page, optional)
+#   description:  What the task is
+#   tags:         Optional labels for filtering
+
+tasks:
+
+  - id: aol-troop-coordination
+    event: aol-crossover-ceremony
+    name: "AOL Crossover: Confirm Troops & Ceremony Format"
+    type: recognition
+    frequency: annual
+    months: [12]
+    timing_note: "December — finalize ceremony logistics"
+    role: owner
+    description: >
+      Contact and confirm attendance of local Scouts BSA troop Scoutmaster(s) and youth leaders for the crossover ceremony. Discuss ceremony format, Scout transitions, and any special traditions (bridge crossing, sash transfer, etc.). Confirm date and time. Send them advance details and Scout names.
+    tags: ['aol', 'crossover', 'recognition', 'annual', 'ceremony']

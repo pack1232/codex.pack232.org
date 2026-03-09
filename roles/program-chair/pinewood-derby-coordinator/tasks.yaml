@@ -62,6 +62,18 @@ tasks:
       Annual Pinewood Derby race. Team sets up track and timing system, manages car check-in, runs the race, empanels judges for Best in Show, and distributes awards.
     tags: ['pinewood-derby', 'program', 'annual', 'event']
 
+  - id: pinewood-derby-car-inspection
+    event: pinewood-derby
+    name: "Pinewood Derby: Car Inspection & Weigh-In Setup"
+    type: program
+    frequency: annual
+    months: [3]
+    timing_note: "March race week — before race day"
+    role: owner
+    description: >
+      Set up official inspection station and scales. Coordinate inspection committee volunteers. Prepare inspection checklist and violation forms. Verify that all cars meet Pack 232 rules (dimensions, weight, wheel base, etc.). Notify families of inspection times and process.
+    tags: ['pinewood-derby', 'program', 'annual']
+
   - id: pinewood-derby-track-storage
     event: pinewood-derby
     name: "Pinewood Derby: Track Storage"

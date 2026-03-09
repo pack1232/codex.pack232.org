@@ -59,6 +59,30 @@ tasks:
       Treasurer drafts the pack's budget for the coming Scouting year based on prior-year actuals, planned activities, expected enrollment, and popcorn revenue projections.
     tags: ['financial', 'annual', 'budget']
 
+  - id: aol-badges-order
+    event: aol-crossover-ceremony
+    name: "AOL: Arrow of Light Badges & Certificates"
+    type: recognition
+    frequency: annual
+    months: [11, 12]
+    timing_note: "Order by November/December to ensure delivery for Jan/Feb crossover"
+    role: involved
+    description: >
+      Order Arrow of Light rank badges and certificates for all Scouts earning the award. Coordinate with AOL den leader on final Scout count. Order from Scout Shop with sufficient lead time to ensure arrival before the January/February crossover ceremony.
+    tags: ['aol', 'recognition', 'annual', 'awards']
+
+  - id: pinewood-derby-awards
+    event: pinewood-derby
+    name: "Pinewood Derby: Trophies & Style Awards"
+    type: recognition
+    frequency: annual
+    months: [1, 2]
+    timing_note: "Order by February to ensure delivery for March race"
+    role: owner
+    description: >
+      Order trophies for first, second, third place overall and by den. Order medals or ribbons for style awards (Most Realistic, Fastest Looking, Best Car That's Not a Car, Most Colorful, Most Humorous, Most Creative, Best In Show). Coordinate with Pinewood Derby Coordinator on quantity and delivery date.
+    tags: ['pinewood-derby', 'recognition', 'annual', 'awards']
+
   - id: aol-crossover-ceremony
     event: aol-crossover-ceremony
     name: "Arrow of Light Crossover Ceremony"
@@ -70,6 +94,18 @@ tasks:
     description: >
       Scouts who have earned the Arrow of Light badge cross over to a Scouts BSA troop. Ceremony involves Scoutmaster and troop youth leaders. Advancement Chair orders AOL badges and certificates well in advance.
     tags: ['crossover', 'aol', 'recognition', 'annual', 'ceremony']
+
+  - id: blue-gold-advancement-awards
+    event: blue-gold-banquet
+    name: "Blue & Gold: Prepare Advancement Awards"
+    type: recognition
+    frequency: annual
+    months: [2]
+    timing_note: "Before the February banquet — coordinate with rank-specific badges"
+    role: owner
+    description: >
+      Prepare all rank advancement badges, certificates, and any special recognition awards for presentation at the Blue & Gold ceremony. Coordinate with coordinators on presentation format. Ensure proper order and Scout names for the ceremony program.
+    tags: ['blue-gold', 'recognition', 'annual', 'advancement']
 
   - id: blue-gold-banquet
     event: blue-gold-banquet

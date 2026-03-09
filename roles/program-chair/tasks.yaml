@@ -130,6 +130,18 @@ tasks:
       Scouts carol in the neighborhood. Coordinator arranges prepared neighbors, procures hot chocolate for Scouts afterward, and delivers any monetary proceeds to the beneficiary selected by the Pack Committee. Coordinator: Hank Tripp.
     tags: ['service', 'holiday', 'annual']
 
+  - id: blue-gold-venue-entertainment
+    event: blue-gold-banquet
+    name: "Blue & Gold: Venue & Entertainment Booking"
+    type: program
+    frequency: annual
+    months: [12, 1]
+    timing_note: "December for venue; January for entertainment details"
+    role: involved
+    description: >
+      Support Blue & Gold coordinators in booking venue (Glenmont gym or outdoor park), securing entertainment (DJ, performer, games), and arranging activities/decorations aligned with chosen theme. Confirm capacity, setup/breakdown times, and any AV needs.
+    tags: ['blue-gold', 'program', 'annual', 'planning']
+
   - id: blue-gold-venue-booking
     event: blue-gold-banquet
     name: "Blue & Gold Banquet: Venue & Date Booking"

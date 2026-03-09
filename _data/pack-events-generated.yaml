@@ -12,7 +12,7 @@ events:
     owner: cubmaster
     roles: [cubmaster, den-leader, advancement-chair, aol-crossover-coordinator]
     url: /events/ceremonies/aol-crossover-ceremony/
-    tasks: [aol-crossover-ceremony, aol-crossover-planning]
+    tasks: [aol-badges-order, aol-crossover-ceremony, aol-crossover-planning, aol-troop-coordination]
 
   - event_id: charter-presentation-ceremony
     title: "Charter Presentation Ceremony"
@@ -92,7 +92,7 @@ events:
     roles: [blue-and-gold-coordinator, committee-chair, program-chair, advancement-chair, cubmaster]
     venue: "Glenmont Elementary gym or alternative venue"
     url: /events/program/blue-gold-banquet/
-    tasks: [blue-gold-banquet, blue-gold-venue-booking, blue-gold-final-planning]
+    tasks: [blue-gold-advancement-awards, blue-gold-banquet, blue-gold-venue-booking, blue-gold-final-planning, blue-gold-venue-entertainment]
 
   - event_id: end-of-year-pack-meeting
     title: "End-of-Year Pack Meeting"
@@ -140,7 +140,7 @@ events:
     roles: [pinewood-derby-coordinator, committee-chair, advancement-chair, program-chair]
     venue: "Glenmont Elementary gym"
     url: /events/program/pinewood-derby/
-    tasks: [pinewood-derby-event, pinewood-derby-gym-reservation, pinewood-derby-kit-distribution, pinewood-derby-track-storage, pinewood-derby-rules]
+    tasks: [pinewood-derby-awards, pinewood-derby-event, pinewood-derby-gym-reservation, pinewood-derby-kit-distribution, pinewood-derby-track-storage, pinewood-derby-rules, pinewood-derby-car-inspection]
 
   - event_id: activities-fair
     title: "Community Activities Fair"

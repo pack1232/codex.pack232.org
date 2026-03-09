@@ -64,6 +64,36 @@ tasks:
       Treasurer drafts the pack's budget for the coming Scouting year based on prior-year actuals, planned activities, expected enrollment, and popcorn revenue projections.
     tags: ['financial', 'annual', 'budget']
 
+  - id: aol-badges-order
+    name: "AOL: Arrow of Light Badges & Certificates"
+    type: recognition
+    frequency: annual
+    months: [11, 12]
+    timing_note: "Order by November/December to ensure delivery for Jan/Feb crossover"
+    owner: advancement-chair
+    roles: [advancement-chair]
+    description: >
+      Order Arrow of Light rank badges and certificates for all Scouts earning the award. Coordinate with AOL den leader on final Scout count. Order from Scout Shop with sufficient lead time to ensure arrival before the January/February crossover ceremony.
+    tags: ['aol', 'recognition', 'annual', 'awards']
+    event: aol-crossover-ceremony
+    event_name: "Arrow of Light Crossover Ceremony"
+    event_url: /events/ceremonies/aol-crossover-ceremony/
+
+  - id: pinewood-derby-awards
+    name: "Pinewood Derby: Trophies & Style Awards"
+    type: recognition
+    frequency: annual
+    months: [1, 2]
+    timing_note: "Order by February to ensure delivery for March race"
+    owner: advancement-chair
+    roles: [advancement-chair]
+    description: >
+      Order trophies for first, second, third place overall and by den. Order medals or ribbons for style awards (Most Realistic, Fastest Looking, Best Car That's Not a Car, Most Colorful, Most Humorous, Most Creative, Best In Show). Coordinate with Pinewood Derby Coordinator on quantity and delivery date.
+    tags: ['pinewood-derby', 'recognition', 'annual', 'awards']
+    event: pinewood-derby
+    event_name: "Pinewood Derby"
+    event_url: /events/program/pinewood-derby/
+
   - id: aol-crossover-ceremony
     name: "Arrow of Light Crossover Ceremony"
     type: recognition
@@ -78,6 +108,21 @@ tasks:
     event: aol-crossover-ceremony
     event_name: "Arrow of Light Crossover Ceremony"
     event_url: /events/ceremonies/aol-crossover-ceremony/
+
+  - id: blue-gold-advancement-awards
+    name: "Blue & Gold: Prepare Advancement Awards"
+    type: recognition
+    frequency: annual
+    months: [2]
+    timing_note: "Before the February banquet — coordinate with rank-specific badges"
+    owner: advancement-chair
+    roles: [advancement-chair]
+    description: >
+      Prepare all rank advancement badges, certificates, and any special recognition awards for presentation at the Blue & Gold ceremony. Coordinate with coordinators on presentation format. Ensure proper order and Scout names for the ceremony program.
+    tags: ['blue-gold', 'recognition', 'annual', 'advancement']
+    event: blue-gold-banquet
+    event_name: "Blue & Gold Banquet"
+    event_url: /events/program/blue-gold-banquet/
 
   - id: blue-gold-banquet
     name: "Blue & Gold Banquet"
@@ -847,6 +892,21 @@ tasks:
     event_name: "ValleyCats Scout Night"
     event_url: /events/outings/valleycats-scout-night/
 
+  - id: blue-gold-venue-entertainment
+    name: "Blue & Gold: Venue & Entertainment Booking"
+    type: program
+    frequency: annual
+    months: [12, 1]
+    timing_note: "December for venue; January for entertainment details"
+    owner: activity-chair
+    roles: [activity-chair]
+    description: >
+      Support Blue & Gold coordinators in booking venue (Glenmont gym or outdoor park), securing entertainment (DJ, performer, games), and arranging activities/decorations aligned with chosen theme. Confirm capacity, setup/breakdown times, and any AV needs.
+    tags: ['blue-gold', 'program', 'annual', 'planning']
+    event: blue-gold-banquet
+    event_name: "Blue & Gold Banquet"
+    event_url: /events/program/blue-gold-banquet/
+
   - id: spring-hike-planning
     name: "Spring Hike Planning"
     type: outdoor
@@ -1006,6 +1066,21 @@ tasks:
       Pack 232 is exempt from New York State sales tax on pack purchases. Treasurer provides the tax-exempt certificate to leaders before significant purchases. Keep receipt showing tax was not charged.
     tags: ['financial', 'administrative', 'tax']
 
+  - id: aol-troop-coordination
+    name: "AOL Crossover: Confirm Troops & Ceremony Format"
+    type: recognition
+    frequency: annual
+    months: [12]
+    timing_note: "December — finalize ceremony logistics"
+    owner: aol-crossover-coordinator
+    roles: [aol-crossover-coordinator]
+    description: >
+      Contact and confirm attendance of local Scouts BSA troop Scoutmaster(s) and youth leaders for the crossover ceremony. Discuss ceremony format, Scout transitions, and any special traditions (bridge crossing, sash transfer, etc.). Confirm date and time. Send them advance details and Scout names.
+    tags: ['aol', 'crossover', 'recognition', 'annual', 'ceremony']
+    event: aol-crossover-ceremony
+    event_name: "Arrow of Light Crossover Ceremony"
+    event_url: /events/ceremonies/aol-crossover-ceremony/
+
   - id: popcorn-unit-registration
     name: "Register Unit for Popcorn Sale"
     type: fundraising
@@ -1076,6 +1151,21 @@ tasks:
     roles: [pinewood-derby-coordinator]
     description: >
       Pinewood Derby Team develops and distributes race rules including weight limits, size restrictions, and Best in Show judging criteria.
+    tags: ['pinewood-derby', 'program', 'annual']
+    event: pinewood-derby
+    event_name: "Pinewood Derby"
+    event_url: /events/program/pinewood-derby/
+
+  - id: pinewood-derby-car-inspection
+    name: "Pinewood Derby: Car Inspection & Weigh-In Setup"
+    type: program
+    frequency: annual
+    months: [3]
+    timing_note: "March race week — before race day"
+    owner: pinewood-derby-coordinator
+    roles: [pinewood-derby-coordinator]
+    description: >
+      Set up official inspection station and scales. Coordinate inspection committee volunteers. Prepare inspection checklist and violation forms. Verify that all cars meet Pack 232 rules (dimensions, weight, wheel base, etc.). Notify families of inspection times and process.
     tags: ['pinewood-derby', 'program', 'annual']
     event: pinewood-derby
     event_name: "Pinewood Derby"
