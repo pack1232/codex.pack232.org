@@ -1,0 +1,75 @@
+# Tasks this role is responsible for or participates in.
+#
+# Schema:
+#   id:           Unique task identifier (kebab-case)
+#   name:         Display name
+#   type:         program|financial|fundraising|administrative|recruitment|outdoor|service|recognition|training
+#   frequency:    monthly|annual|as-needed
+#   months:       List of month numbers [1-12] or null (every month)
+#   timing_note:  When within the month/season
+#   role:         owner|involved (this role's relationship to the task)
+#   event:        Event ID (links task to an event page, optional)
+#   description:  What the task is
+#   tags:         Optional labels for filtering
+
+tasks:
+
+  - id: pinewood-derby-gym-reservation
+    event: pinewood-derby
+    name: "Pinewood Derby: Gym Reservation"
+    type: program
+    frequency: annual
+    months: [12]
+    timing_note: "Book by December for a March event"
+    role: involved
+    description: >
+      Committee Chair reserves Glenmont Elementary gym for the Pinewood Derby. Pinewood Derby Team sets the date and confirms with Committee Chair.
+    tags: ['pinewood-derby', 'facilities', 'annual']
+
+  - id: pinewood-derby-kit-distribution
+    event: pinewood-derby
+    name: "Pinewood Derby: Kit Purchase & Distribution"
+    type: program
+    frequency: annual
+    months: [3]
+    timing_note: "Early March — 4–6 weeks before race day"
+    role: owner
+    description: >
+      Pinewood Derby Team purchases Pinewood Derby kits for all Scouts (and Lego Derby kits for Lions). Distributes kits at a pack meeting or den meetings. Lead: Jeff Middendorf. Team: Dave Coup, Gary Robbins, Jeff Dievendorf, Charles Giglia, Chris Orth.
+    tags: ['pinewood-derby', 'program', 'annual']
+
+  - id: pinewood-derby-rules
+    event: pinewood-derby
+    name: "Pinewood Derby: Rules Distribution"
+    type: program
+    frequency: annual
+    months: [3]
+    timing_note: "With kit distribution"
+    role: owner
+    description: >
+      Pinewood Derby Team develops and distributes race rules including weight limits, size restrictions, and Best in Show judging criteria.
+    tags: ['pinewood-derby', 'program', 'annual']
+
+  - id: pinewood-derby-event
+    event: pinewood-derby
+    name: "Pinewood Derby Race"
+    type: program
+    frequency: annual
+    months: [3]
+    timing_note: "March — at Glenmont Elementary gym"
+    role: owner
+    description: >
+      Annual Pinewood Derby race. Team sets up track and timing system, manages car check-in, runs the race, empanels judges for Best in Show, and distributes awards.
+    tags: ['pinewood-derby', 'program', 'annual', 'event']
+
+  - id: pinewood-derby-track-storage
+    event: pinewood-derby
+    name: "Pinewood Derby: Track Storage"
+    type: administrative
+    frequency: annual
+    months: [3]
+    timing_note: "Immediately after the race"
+    role: owner
+    description: >
+      Committee Chair and Pinewood Derby Team arrange year-round storage of the Pinewood Derby track and timing system.
+    tags: ['pinewood-derby', 'administrative', 'facilities', 'annual']

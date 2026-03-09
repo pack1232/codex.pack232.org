@@ -91,10 +91,10 @@ The Advancement Chair oversees these coordinator positions:
 
 | Position | File | Current Holder |
 |---|---|---|
-| Scout Awards Coordinator | [awards-coordinator.md](awards-coordinator.md) | Jennifer Wind |
-| Blue & Gold Coordinator | [blue-and-gold-coordinator.md](blue-and-gold-coordinator.md) | [vacant] |
-| AOL Crossover Coordinator | [aol-crossover-coordinator.md](aol-crossover-coordinator.md) | [vacant] |
-| Leader Training & Awards Coordinator | [leader-training-coordinator.md](leader-training-coordinator.md) | [vacant] |
+| Scout Awards Coordinator | [awards-coordinator/](awards-coordinator/) | Jennifer Wind |
+| Blue & Gold Coordinator | [blue-and-gold-coordinator/](blue-and-gold-coordinator/) | [vacant] |
+| AOL Crossover Coordinator | [aol-crossover-coordinator/](aol-crossover-coordinator/) | [vacant] |
+| Leader Training & Awards Coordinator | [leader-training-coordinator/](leader-training-coordinator/) | [vacant] |
 
 ---
 

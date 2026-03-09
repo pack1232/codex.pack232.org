@@ -65,8 +65,8 @@ The Secretary ensures that proper records are kept for Pack 232, manages communi
 
 | Position | File | Current Holder |
 |---|---|---|
-| Medical Forms Coordinator | [medical-forms-coordinator.md](medical-forms-coordinator.md) | [vacant] |
-| Webmaster | [webmaster.md](webmaster.md) | [vacant] |
+| Medical Forms Coordinator | [medical-forms-coordinator/](medical-forms-coordinator/) | [vacant] |
+| Webmaster | [webmaster/](webmaster/) | [vacant] |
 
 ---
 

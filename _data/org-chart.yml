@@ -54,12 +54,12 @@ roles:
               - id: popcorn
                 title: Popcorn Coordinator
                 holder: Phoung Perez
-                link: /roles/popcorn-coordinator/
+                link: /roles/fundraising-chair/popcorn-coordinator/
                 vacant: false
                 children:
                   - id: apopcorn
                     title: Asst. Popcorn Coordinator
-                    link: /roles/popcorn-coordinator/assistant-popcorn-coordinator
+                    link: /roles/fundraising-chair/popcorn-coordinator/assistant-popcorn-coordinator
                     vacant: true
               - id: redeem
                 title: Redemptions Coordinator

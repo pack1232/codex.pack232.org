@@ -54,17 +54,17 @@ The Program Chair oversees these coordinator positions:
 
 | Position | File | Current Holder |
 |---|---|---|
-| Pinewood Derby Coordinator | [pinewood-derby-coordinator.md](pinewood-derby-coordinator.md) | [vacant] |
-| Winter Camping Coordinator | [winter-camping-coordinator.md](winter-camping-coordinator.md) | [vacant] |
-| Spring Camping Coordinator | [spring-camping-coordinator.md](spring-camping-coordinator.md) | [vacant] |
-| Fall Camping Coordinator | [fall-camping-coordinator.md](fall-camping-coordinator.md) | [vacant] |
-| Summer Camping Coordinator | [summer-camping-coordinator.md](summer-camping-coordinator.md) | [vacant] |
-| Pack Meeting Activity Coordinator | [pack-meeting-activity-coordinator.md](pack-meeting-activity-coordinator.md) | Sharon Heckathorne |
-| Pack Meeting Snackmaster | [pack-meeting-snackmaster.md](pack-meeting-snackmaster.md) | [vacant] |
-| Equipment Coordinator | [equipment-coordinator.md](equipment-coordinator.md) | [vacant] |
-| Community Service Coordinator | [community-service-coordinator.md](community-service-coordinator.md) | [vacant] |
-| Misc. Council Activities Coordinator | [misc-council-activities-coordinator.md](misc-council-activities-coordinator.md) | [vacant] |
-| Misc. Pack Activities Coordinator | [misc-pack-activities-coordinator.md](misc-pack-activities-coordinator.md) | [vacant] |
+| Pinewood Derby Coordinator | [pinewood-derby-coordinator/](pinewood-derby-coordinator/) | [vacant] |
+| Winter Camping Coordinator | [winter-camping-coordinator/](winter-camping-coordinator/) | [vacant] |
+| Spring Camping Coordinator | [spring-camping-coordinator/](spring-camping-coordinator/) | [vacant] |
+| Fall Camping Coordinator | [fall-camping-coordinator/](fall-camping-coordinator/) | [vacant] |
+| Summer Camping Coordinator | [summer-camping-coordinator/](summer-camping-coordinator/) | [vacant] |
+| Pack Meeting Activity Coordinator | [pack-meeting-activity-coordinator/](pack-meeting-activity-coordinator/) | Sharon Heckathorne |
+| Pack Meeting Snackmaster | [pack-meeting-snackmaster/](pack-meeting-snackmaster/) | [vacant] |
+| Equipment Coordinator | [equipment-coordinator/](equipment-coordinator/) | [vacant] |
+| Community Service Coordinator | [community-service-coordinator/](community-service-coordinator/) | [vacant] |
+| Misc. Council Activities Coordinator | [misc-council-activities-coordinator/](misc-council-activities-coordinator/) | [vacant] |
+| Misc. Pack Activities Coordinator | [misc-pack-activities-coordinator/](misc-pack-activities-coordinator/) | [vacant] |
 
 ---
 

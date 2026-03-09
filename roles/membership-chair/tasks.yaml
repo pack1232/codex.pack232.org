@@ -1,0 +1,140 @@
+# Tasks this role is responsible for or participates in.
+#
+# Schema:
+#   id:           Unique task identifier (kebab-case)
+#   name:         Display name
+#   type:         program|financial|fundraising|administrative|recruitment|outdoor|service|recognition|training
+#   frequency:    monthly|annual|as-needed
+#   months:       List of month numbers [1-12] or null (every month)
+#   timing_note:  When within the month/season
+#   role:         owner|involved (this role's relationship to the task)
+#   event:        Event ID (links task to an event page, optional)
+#   description:  What the task is
+#   tags:         Optional labels for filtering
+
+tasks:
+
+  - id: committee-meeting
+    name: "Committee Meeting"
+    type: administrative
+    frequency: monthly
+    months: null
+    timing_note: "Same week as or adjacent to the pack meeting"
+    role: involved
+    description: >
+      Monthly pack committee meeting. Committee Chair presides. Includes treasurer's report, Cubmaster's report, committee member updates, old and new business, upcoming event review.
+    tags: ['committee', 'governance']
+
+  - id: activities-fair
+    event: activities-fair
+    name: "Community Activities Fair"
+    type: recruitment
+    frequency: annual
+    months: [8]
+    timing_note: "Typically late August — confirm Bethlehem Activities Fair date annually"
+    role: owner
+    description: >
+      Pack 232 sets up a booth at community activities fairs (e.g., Bethlehem Activities Fair) to recruit prospective Scouts. Scouts in uniform attend. Contact info collected for follow-up.
+    tags: ['recruitment', 'visibility', 'community']
+
+  - id: recruitment-materials-prep
+    event: school-night-recruitment
+    name: "Recruitment Materials Preparation"
+    type: recruitment
+    frequency: annual
+    months: [8]
+    timing_note: "Before school-night events and activities fairs"
+    role: owner
+    description: >
+      Prepare recruitment fliers, sign-up forms, info packets, and branded materials for school-night events and activities fairs. Coordinate with Twin Rivers Council for BSA-produced materials (inflatable archery, display kits, etc.).
+    tags: ['recruitment', 'marketing']
+
+  - id: school-night-recruitment
+    event: school-night-recruitment
+    name: "School-Night Recruitment Event"
+    type: recruitment
+    frequency: annual
+    months: [9]
+    timing_note: "Early-to-mid September, timed to school start"
+    role: owner
+    description: >
+      Primary annual Scout recruitment event held at Glenmont Elementary. Cubmaster presents the Cub Scout program; families sign up on the spot. Follow up within 48 hours.
+    tags: ['recruitment', 'annual', 'kickoff']
+
+  - id: new-family-orientation
+    event: new-family-orientation
+    name: "New Family Orientation Meeting"
+    type: recruitment
+    frequency: annual
+    months: [9, 10]
+    timing_note: "Within first month after school-night recruitment"
+    role: owner
+    description: >
+      Orientation meeting for families who joined through school-night recruitment. Covers Cub Scouting overview, Pack 232 structure, website, dues, uniforms, and Q&A.
+    tags: ['recruitment', 'onboarding', 'annual']
+
+  - id: new-family-retention-checkin
+    name: "New Family Retention Check-In"
+    type: recruitment
+    frequency: annual
+    months: [1]
+    timing_note: "January — 4 months after September recruitment"
+    role: owner
+    description: >
+      Membership Chair checks in with families who joined in September — are they engaged? Flag any at risk of dropping out and initiate personal outreach.
+    tags: ['retention', 'recruitment', 'annual']
+
+  - id: next-year-lion-recruitment
+    name: "Next-Year Lion Den Recruitment"
+    type: recruitment
+    frequency: annual
+    months: [2]
+    timing_note: "February — begin recruiting incoming kindergartners for next fall"
+    role: owner
+    description: >
+      Begin recruiting families with incoming kindergartners (current Pre-K) for next year's Lion den. Connect with Glenmont Elementary for outreach opportunities.
+    tags: ['recruitment', 'lions', 'annual']
+
+  - id: parent-skills-survey
+    name: "Parent Annual Skills & Program Survey"
+    type: administrative
+    frequency: annual
+    months: [5]
+    timing_note: "May — capture family talents before summer"
+    role: involved
+    description: >
+      Collect input from all pack families on skills, availability, and program preferences for the coming year. Used to recruit activity coordinators and plan next year's program.
+    tags: ['administrative', 'planning', 'annual', 'survey']
+
+  - id: retention-outreach
+    name: "End-of-Year Retention Outreach"
+    type: recruitment
+    frequency: annual
+    months: [5]
+    timing_note: "Before families disengage for summer"
+    role: owner
+    description: >
+      Membership Chair and den leaders identify families showing low engagement and make personal outreach to encourage re-enrollment for the coming year.
+    tags: ['retention', 'recruitment', 'annual']
+
+  - id: new-scout-onboarding
+    name: "New Scout Mid-Year Onboarding"
+    type: recruitment
+    frequency: as-needed
+    months: null
+    timing_note: "As new Scouts join at any point during the year"
+    role: owner
+    description: >
+      Scouts can join at any time. Membership Chair connects new families to their den leader, provides welcome packet, and ensures health form and registration are complete.
+    tags: ['recruitment', 'onboarding']
+
+  - id: facebook-event-posting
+    name: "Facebook Event Posting"
+    type: administrative
+    frequency: monthly
+    months: null
+    timing_note: "At least 2 weeks before each pack meeting or major event"
+    role: owner
+    description: >
+      Marketing Chair creates Facebook events for pack meetings and outings with date, time, location, and description. Shares event recap and photos within 1–2 days after.
+    tags: ['communications', 'social-media', 'marketing']

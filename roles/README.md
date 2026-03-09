@@ -20,67 +20,67 @@ Charter Organization (Selkirk Fire Department #2)
 - [Charter Org Rep](charter-org-rep/) (Bob Baldwin)
 - [Committee Chair](committee-chair/) (Josh McWilliam)
   - [Secretary](secretary/) (Daniel O'Brien)
-    - [Medical Forms Coordinator](secretary/medical-forms-coordinator.md) — [vacant]
-    - [Webmaster](secretary/webmaster.md) — [vacant]
+    - [Medical Forms Coordinator](secretary/medical-forms-coordinator/) — [vacant]
+    - [Webmaster](secretary/webmaster/) — [vacant]
   - [Treasurer](treasurer/) (Bob Baldwin)
-    - [Accounts Payable Coordinator](treasurer/accounts-payable-coordinator.md) — [vacant]
-    - [Accounts Receivable Coordinator](treasurer/accounts-receivable-coordinator.md) — [vacant]
+    - [Accounts Payable Coordinator](treasurer/accounts-payable-coordinator/) — [vacant]
+    - [Accounts Receivable Coordinator](treasurer/accounts-receivable-coordinator/) — [vacant]
   - [Fundraising Chair](fundraising-chair/) — [vacant]
-    - [Popcorn Coordinator](popcorn-coordinator/) — a.k.a. Popcorn Kernel (Phoung Perez)
-      - [Assistant Popcorn Coordinator](popcorn-coordinator/assistant-popcorn-coordinator.md) — a.k.a. Assistant Popcorn Kernel — [vacant]
-    - [Redemptions Coordinator](fundraising-chair/redemptions-coordinator.md) — a.k.a. Can Captain — [vacant]
-    - [Grants Coordinator](fundraising-chair/grants-coordinator.md) — [vacant]
+    - [Popcorn Coordinator](fundraising-chair/popcorn-coordinator/) — a.k.a. Popcorn Kernel (Phoung Perez)
+      - [Assistant Popcorn Coordinator](fundraising-chair/popcorn-coordinator/assistant-popcorn-coordinator/) — a.k.a. Assistant Popcorn Kernel — [vacant]
+    - [Redemptions Coordinator](fundraising-chair/redemptions-coordinator/) — a.k.a. Can Captain — [vacant]
+    - [Grants Coordinator](fundraising-chair/grants-coordinator/) — [vacant]
   - [Membership Chair](membership-chair/) — [vacant]
-    - [Member Recruitment Coordinator](membership-chair/member-recruitment-coordinator.md) — [vacant]
-    - [Member Onboarding Coordinator](membership-chair/member-onboarding-coordinator.md) — [vacant]
-    - [Member Experience Coordinator](membership-chair/member-experience-coordinator.md) — [vacant]
-    - [Apparel Coordinator](membership-chair/apparel-coordinator.md) — [vacant]
-    - [Public Relations Coordinator](membership-chair/public-relations-coordinator.md) — [vacant]
+    - [Member Recruitment Coordinator](membership-chair/member-recruitment-coordinator/) — [vacant]
+    - [Member Onboarding Coordinator](membership-chair/member-onboarding-coordinator/) — [vacant]
+    - [Member Experience Coordinator](membership-chair/member-experience-coordinator/) — [vacant]
+    - [Apparel Coordinator](membership-chair/apparel-coordinator/) — [vacant]
+    - [Public Relations Coordinator](membership-chair/public-relations-coordinator/) — [vacant]
   - [Program Chair](program-chair/) — [vacant]
-    - [Pinewood Derby Coordinator](program-chair/pinewood-derby-coordinator.md) — [vacant]
-    - [Winter Camping Coordinator](program-chair/winter-camping-coordinator.md) — [vacant]
-    - [Spring Camping Coordinator](program-chair/spring-camping-coordinator.md) — [vacant]
-    - [Fall Camping Coordinator](program-chair/fall-camping-coordinator.md) — [vacant]
-    - [Summer Camping Coordinator](program-chair/summer-camping-coordinator.md) — [vacant]
-    - [Pack Meeting Activity Coordinator](program-chair/pack-meeting-activity-coordinator.md) (Sharon Heckathorne)
-    - [Pack Meeting Snackmaster](program-chair/pack-meeting-snackmaster.md) — [vacant]
-    - [Equipment Coordinator](program-chair/equipment-coordinator.md) — [vacant]
-    - [Community Service Coordinator](program-chair/community-service-coordinator.md) — [vacant]
-    - [Misc. Council Activities Coordinator](program-chair/misc-council-activities-coordinator.md) — [vacant]
-    - [Misc. Pack Activities Coordinator](program-chair/misc-pack-activities-coordinator.md) — [vacant]
+    - [Pinewood Derby Coordinator](program-chair/pinewood-derby-coordinator/) — [vacant]
+    - [Winter Camping Coordinator](program-chair/winter-camping-coordinator/) — [vacant]
+    - [Spring Camping Coordinator](program-chair/spring-camping-coordinator/) — [vacant]
+    - [Fall Camping Coordinator](program-chair/fall-camping-coordinator/) — [vacant]
+    - [Summer Camping Coordinator](program-chair/summer-camping-coordinator/) — [vacant]
+    - [Pack Meeting Activity Coordinator](program-chair/pack-meeting-activity-coordinator/) (Sharon Heckathorne)
+    - [Pack Meeting Snackmaster](program-chair/pack-meeting-snackmaster/) — [vacant]
+    - [Equipment Coordinator](program-chair/equipment-coordinator/) — [vacant]
+    - [Community Service Coordinator](program-chair/community-service-coordinator/) — [vacant]
+    - [Misc. Council Activities Coordinator](program-chair/misc-council-activities-coordinator/) — [vacant]
+    - [Misc. Pack Activities Coordinator](program-chair/misc-pack-activities-coordinator/) — [vacant]
   - [Advancement Chair](advancement-chair/) — [vacant]
-    - [Scout Awards Coordinator](advancement-chair/awards-coordinator.md) (Jennifer Wind)
-    - [Blue & Gold Coordinator](advancement-chair/blue-and-gold-coordinator.md) — [vacant]
-    - [AOL Crossover Coordinator](advancement-chair/aol-crossover-coordinator.md) — [vacant]
-    - [Leader Training & Awards Coordinator](advancement-chair/leader-training-coordinator.md) — [vacant]
+    - [Scout Awards Coordinator](advancement-chair/awards-coordinator/) (Jennifer Wind)
+    - [Blue & Gold Coordinator](advancement-chair/blue-and-gold-coordinator/) — [vacant]
+    - [AOL Crossover Coordinator](advancement-chair/aol-crossover-coordinator/) — [vacant]
+    - [Leader Training & Awards Coordinator](advancement-chair/leader-training-coordinator/) — [vacant]
 - [Cubmaster](cubmaster/) (Michael McGuire)
   - [Assistant Cubmasters](assistant-cubmaster/)
-    - [Assistant Cubmaster for Den Support](assistant-cubmaster/den-support.md) — [vacant]
-    - [Assistant Cubmaster for Family Support](assistant-cubmaster/family-support.md) — [vacant]
-    - [Assistant Cubmaster for Engagement](assistant-cubmaster/engagement.md) — [vacant]
-    - [Assistant Cubmaster for Meetings](assistant-cubmaster/meetings.md) — [vacant]
-    - [Assistant Cubmaster for Hiking](assistant-cubmaster/hiking.md) — [vacant]
-    - [Assistant Cubmaster for Crafts](assistant-cubmaster/crafts.md) — [vacant]
-    - [Assistant Cubmaster for Food](assistant-cubmaster/food.md) — a.k.a. Grubmaster (Richard Crumb)
-    - [Assistant Cubmaster for Communications](assistant-cubmaster/communications.md) — [vacant]
+    - [Assistant Cubmaster for Den Support](assistant-cubmaster/den-support/) — [vacant]
+    - [Assistant Cubmaster for Family Support](assistant-cubmaster/family-support/) — [vacant]
+    - [Assistant Cubmaster for Engagement](assistant-cubmaster/engagement/) — [vacant]
+    - [Assistant Cubmaster for Meetings](assistant-cubmaster/meetings/) — [vacant]
+    - [Assistant Cubmaster for Hiking](assistant-cubmaster/hiking/) — [vacant]
+    - [Assistant Cubmaster for Crafts](assistant-cubmaster/crafts/) — [vacant]
+    - [Assistant Cubmaster for Food](assistant-cubmaster/food/) — a.k.a. Grubmaster (Richard Crumb)
+    - [Assistant Cubmaster for Communications](assistant-cubmaster/communications/) — [vacant]
   - [Den Leaders](den-leader/)
     - Lions (Den 7) — Courtney Baldwin & Kristianna McWilliam
-      - [Assistant Den Leader](den-leader/assistant-den-leader.md) — [vacant]
+      - [Assistant Den Leader](den-leader/assistant-den-leader/) — [vacant]
       - [Den Chief](den-chief/) (youth, from Scouts BSA Troop)
     - Tigers (Den 1) — Michael McGuire
-      - [Assistant Den Leader](den-leader/assistant-den-leader.md) — [vacant]
+      - [Assistant Den Leader](den-leader/assistant-den-leader/) — [vacant]
       - [Den Chief](den-chief/) (youth, from Scouts BSA Troop)
     - Wolves (Den 2) — Kevin Calacone
-      - [Assistant Den Leader](den-leader/assistant-den-leader.md) — [vacant]
+      - [Assistant Den Leader](den-leader/assistant-den-leader/) — [vacant]
       - [Den Chief](den-chief/) (youth, from Scouts BSA Troop)
     - Bears (Den 3) — Christopher Heckathorne
-      - [Assistant Den Leader](den-leader/assistant-den-leader.md) — [vacant]
+      - [Assistant Den Leader](den-leader/assistant-den-leader/) — [vacant]
       - [Den Chief](den-chief/) (youth, from Scouts BSA Troop)
     - Webelos (Den 4) — Ben Friedman
-      - [Assistant Den Leader](den-leader/assistant-den-leader.md) — [vacant]
+      - [Assistant Den Leader](den-leader/assistant-den-leader/) — [vacant]
       - [Den Chief](den-chief/) (youth, from Scouts BSA Troop)
     - Arrow of Light (Den 5) — Patrick Slade
-      - [Assistant Den Leader](den-leader/assistant-den-leader.md) — [vacant]
+      - [Assistant Den Leader](den-leader/assistant-den-leader/) — [vacant]
       - [Den Chief](den-chief/) (youth, from Scouts BSA Troop)
 
 ---
@@ -110,59 +110,59 @@ Charter Organization (Selkirk Fire Department #2)
 
 | Role | File | Current Holder |
 |---|---|---|
-| Medical Forms Coordinator | [secretary/medical-forms-coordinator.md](secretary/medical-forms-coordinator.md) | [vacant] |
-| Webmaster | [secretary/webmaster.md](secretary/webmaster.md) | [vacant] |
+| Medical Forms Coordinator | [secretary/medical-forms-coordinator/](secretary/medical-forms-coordinator/) | [vacant] |
+| Webmaster | [secretary/webmaster/](secretary/webmaster/) | [vacant] |
 
 ### Coordinators — Treasurer
 
 | Role | File | Current Holder |
 |---|---|---|
-| Accounts Receivable Coordinator | [treasurer/accounts-receivable-coordinator.md](treasurer/accounts-receivable-coordinator.md) | [vacant] |
-| Accounts Payable Coordinator | [treasurer/accounts-payable-coordinator.md](treasurer/accounts-payable-coordinator.md) | [vacant] |
+| Accounts Receivable Coordinator | [treasurer/accounts-receivable-coordinator/](treasurer/accounts-receivable-coordinator/) | [vacant] |
+| Accounts Payable Coordinator | [treasurer/accounts-payable-coordinator/](treasurer/accounts-payable-coordinator/) | [vacant] |
 
 ### Coordinators — Fundraising
 
 | Role | File | Current Holder |
 |---|---|---|
-| Popcorn Coordinator | [popcorn-coordinator/](popcorn-coordinator/) | Phoung Perez |
-| Assistant Popcorn Coordinator | [popcorn-coordinator/assistant-popcorn-coordinator.md](popcorn-coordinator/assistant-popcorn-coordinator.md) | [vacant] |
-| Redemptions Coordinator | [fundraising-chair/redemptions-coordinator.md](fundraising-chair/redemptions-coordinator.md) | [vacant] |
-| Grants Coordinator | [fundraising-chair/grants-coordinator.md](fundraising-chair/grants-coordinator.md) | [vacant] |
+| Popcorn Coordinator | [fundraising-chair/popcorn-coordinator/](fundraising-chair/popcorn-coordinator/) | Phoung Perez |
+| Assistant Popcorn Coordinator | [fundraising-chair/popcorn-coordinator/assistant-popcorn-coordinator/](fundraising-chair/popcorn-coordinator/assistant-popcorn-coordinator/) | [vacant] |
+| Redemptions Coordinator | [fundraising-chair/redemptions-coordinator/](fundraising-chair/redemptions-coordinator/) | [vacant] |
+| Grants Coordinator | [fundraising-chair/grants-coordinator/](fundraising-chair/grants-coordinator/) | [vacant] |
 
 ### Coordinators — Membership
 
 | Role | File | Current Holder |
 |---|---|---|
-| Member Recruitment Coordinator | [membership-chair/member-recruitment-coordinator.md](membership-chair/member-recruitment-coordinator.md) | [vacant] |
-| Member Onboarding Coordinator | [membership-chair/member-onboarding-coordinator.md](membership-chair/member-onboarding-coordinator.md) | [vacant] |
-| Member Experience Coordinator | [membership-chair/member-experience-coordinator.md](membership-chair/member-experience-coordinator.md) | [vacant] |
-| Apparel Coordinator | [membership-chair/apparel-coordinator.md](membership-chair/apparel-coordinator.md) | [vacant] |
-| Public Relations Coordinator | [membership-chair/public-relations-coordinator.md](membership-chair/public-relations-coordinator.md) | [vacant] |
+| Member Recruitment Coordinator | [membership-chair/member-recruitment-coordinator/](membership-chair/member-recruitment-coordinator/) | [vacant] |
+| Member Onboarding Coordinator | [membership-chair/member-onboarding-coordinator/](membership-chair/member-onboarding-coordinator/) | [vacant] |
+| Member Experience Coordinator | [membership-chair/member-experience-coordinator/](membership-chair/member-experience-coordinator/) | [vacant] |
+| Apparel Coordinator | [membership-chair/apparel-coordinator/](membership-chair/apparel-coordinator/) | [vacant] |
+| Public Relations Coordinator | [membership-chair/public-relations-coordinator/](membership-chair/public-relations-coordinator/) | [vacant] |
 
 ### Coordinators — Program
 
 | Role | File | Current Holder |
 |---|---|---|
-| Pinewood Derby Coordinator | [program-chair/pinewood-derby-coordinator.md](program-chair/pinewood-derby-coordinator.md) | [vacant] |
-| Winter Camping Coordinator | [program-chair/winter-camping-coordinator.md](program-chair/winter-camping-coordinator.md) | [vacant] |
-| Spring Camping Coordinator | [program-chair/spring-camping-coordinator.md](program-chair/spring-camping-coordinator.md) | [vacant] |
-| Fall Camping Coordinator | [program-chair/fall-camping-coordinator.md](program-chair/fall-camping-coordinator.md) | [vacant] |
-| Summer Camping Coordinator | [program-chair/summer-camping-coordinator.md](program-chair/summer-camping-coordinator.md) | [vacant] |
-| Pack Meeting Activity Coordinator | [program-chair/pack-meeting-activity-coordinator.md](program-chair/pack-meeting-activity-coordinator.md) | Sharon Heckathorne |
-| Pack Meeting Snackmaster | [program-chair/pack-meeting-snackmaster.md](program-chair/pack-meeting-snackmaster.md) | [vacant] |
-| Equipment Coordinator | [program-chair/equipment-coordinator.md](program-chair/equipment-coordinator.md) | [vacant] |
-| Community Service Coordinator | [program-chair/community-service-coordinator.md](program-chair/community-service-coordinator.md) | [vacant] |
-| Misc. Council Activities Coordinator | [program-chair/misc-council-activities-coordinator.md](program-chair/misc-council-activities-coordinator.md) | [vacant] |
-| Misc. Pack Activities Coordinator | [program-chair/misc-pack-activities-coordinator.md](program-chair/misc-pack-activities-coordinator.md) | [vacant] |
+| Pinewood Derby Coordinator | [program-chair/pinewood-derby-coordinator/](program-chair/pinewood-derby-coordinator/) | [vacant] |
+| Winter Camping Coordinator | [program-chair/winter-camping-coordinator/](program-chair/winter-camping-coordinator/) | [vacant] |
+| Spring Camping Coordinator | [program-chair/spring-camping-coordinator/](program-chair/spring-camping-coordinator/) | [vacant] |
+| Fall Camping Coordinator | [program-chair/fall-camping-coordinator/](program-chair/fall-camping-coordinator/) | [vacant] |
+| Summer Camping Coordinator | [program-chair/summer-camping-coordinator/](program-chair/summer-camping-coordinator/) | [vacant] |
+| Pack Meeting Activity Coordinator | [program-chair/pack-meeting-activity-coordinator/](program-chair/pack-meeting-activity-coordinator/) | Sharon Heckathorne |
+| Pack Meeting Snackmaster | [program-chair/pack-meeting-snackmaster/](program-chair/pack-meeting-snackmaster/) | [vacant] |
+| Equipment Coordinator | [program-chair/equipment-coordinator/](program-chair/equipment-coordinator/) | [vacant] |
+| Community Service Coordinator | [program-chair/community-service-coordinator/](program-chair/community-service-coordinator/) | [vacant] |
+| Misc. Council Activities Coordinator | [program-chair/misc-council-activities-coordinator/](program-chair/misc-council-activities-coordinator/) | [vacant] |
+| Misc. Pack Activities Coordinator | [program-chair/misc-pack-activities-coordinator/](program-chair/misc-pack-activities-coordinator/) | [vacant] |
 
 ### Coordinators — Advancement
 
 | Role | File | Current Holder |
 |---|---|---|
-| Scout Awards Coordinator | [advancement-chair/awards-coordinator.md](advancement-chair/awards-coordinator.md) | Jennifer Wind |
-| Blue & Gold Coordinator | [advancement-chair/blue-and-gold-coordinator.md](advancement-chair/blue-and-gold-coordinator.md) | [vacant] |
-| AOL Crossover Coordinator | [advancement-chair/aol-crossover-coordinator.md](advancement-chair/aol-crossover-coordinator.md) | [vacant] |
-| Leader Training & Awards Coordinator | [advancement-chair/leader-training-coordinator.md](advancement-chair/leader-training-coordinator.md) | [vacant] |
+| Scout Awards Coordinator | [advancement-chair/awards-coordinator/](advancement-chair/awards-coordinator/) | Jennifer Wind |
+| Blue & Gold Coordinator | [advancement-chair/blue-and-gold-coordinator/](advancement-chair/blue-and-gold-coordinator/) | [vacant] |
+| AOL Crossover Coordinator | [advancement-chair/aol-crossover-coordinator/](advancement-chair/aol-crossover-coordinator/) | [vacant] |
+| Leader Training & Awards Coordinator | [advancement-chair/leader-training-coordinator/](advancement-chair/leader-training-coordinator/) | [vacant] |
 
 ### Den Program
 
@@ -170,7 +170,7 @@ Charter Organization (Selkirk Fire Department #2)
 |---|---|---|
 | Assistant Cubmaster (8 specializations) | [assistant-cubmaster/](assistant-cubmaster/) | See specialization table |
 | Den Leader (all ranks) | [den-leader/](den-leader/) | See org chart above |
-| Assistant Den Leader | [den-leader/assistant-den-leader.md](den-leader/assistant-den-leader.md) | See org chart above |
+| Assistant Den Leader | [den-leader/assistant-den-leader/](den-leader/assistant-den-leader/) | See org chart above |
 | Den Chief | [den-chief/](den-chief/) | (youth position, from Troop) |
 
 ---

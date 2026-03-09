@@ -68,9 +68,9 @@ Source: `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/20
 
 | Position | File | Current Holder |
 |---|---|---|
-| Popcorn Coordinator | [`../popcorn-coordinator/README.md`](../popcorn-coordinator/README.md) | Phoung Perez |
-| Redemptions Coordinator | [redemptions-coordinator.md](redemptions-coordinator.md) | [vacant] |
-| Grants Coordinator | [grants-coordinator.md](grants-coordinator.md) | [vacant] |
+| Popcorn Coordinator | [popcorn-coordinator/](popcorn-coordinator/) | Phoung Perez |
+| Redemptions Coordinator | [redemptions-coordinator/](redemptions-coordinator/) | [vacant] |
+| Grants Coordinator | [grants-coordinator/](grants-coordinator/) | [vacant] |
 
 ---
 
@@ -101,6 +101,6 @@ Source: `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/20
 | BSA Fiscal Policies | `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/BSA Fiscal Policies and Procedures for Units.md` |
 | Money-Earning Application | `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/2024-11-24 - BSA Unit Money-Earning Application.md` |
 | Treasurer role | [`../treasurer/README.md`](../treasurer/README.md) |
-| Popcorn Coordinator role | [`../popcorn-coordinator/README.md`](../popcorn-coordinator/README.md) |
+| Popcorn Coordinator role | [popcorn-coordinator/](popcorn-coordinator/) |
 
 {% include role-tasks.html role_id=page.role_id %}

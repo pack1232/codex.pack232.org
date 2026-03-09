@@ -1,0 +1,36 @@
+# Tasks this role is responsible for or participates in.
+#
+# Schema:
+#   id:           Unique task identifier (kebab-case)
+#   name:         Display name
+#   type:         program|financial|fundraising|administrative|recruitment|outdoor|service|recognition|training
+#   frequency:    monthly|annual|as-needed
+#   months:       List of month numbers [1-12] or null (every month)
+#   timing_note:  When within the month/season
+#   role:         owner|involved (this role's relationship to the task)
+#   description:  What the task is
+#   tags:         Optional labels for filtering
+
+tasks:
+
+  - id: committee-meeting
+    name: "Committee Meeting"
+    type: administrative
+    frequency: monthly
+    months: null
+    timing_note: "Same week as or adjacent to the pack meeting"
+    role: involved
+    description: >
+      Monthly pack committee meeting. Committee Chair presides. Includes treasurer's report, Cubmaster's report, committee member updates, old and new business, upcoming event review.
+    tags: ['committee', 'governance']
+
+  - id: money-earning-application
+    name: "BSA Unit Money-Earning Application"
+    type: fundraising
+    frequency: as-needed
+    months: null
+    timing_note: "Required before any non-popcorn fundraising activity begins"
+    role: owner
+    description: >
+      Approval from both the charter organization and Twin Rivers Council is required before any fundraising activity other than the annual popcorn sale. Fundraising Chair prepares the application; Charter Org Rep and Council must approve before any activity begins.
+    tags: ['fundraising', 'administrative', 'bsa-policy']

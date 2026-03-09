@@ -1,0 +1,211 @@
+# Auto-generated from events/**/*.md front matter.
+# Do not edit directly. Run: python3 scripts/aggregate-tasks.py
+
+events:
+
+  - event_id: aol-crossover-ceremony
+    title: "Arrow of Light Crossover Ceremony"
+    category: ceremonies
+    frequency: annual
+    months: [1, 2]
+    timing_note: "January target (February latest); at a pack meeting"
+    owner: cubmaster
+    roles: [cubmaster, den-leader, advancement-chair, aol-crossover-coordinator]
+    url: /events/ceremonies/aol-crossover-ceremony/
+    tasks: [aol-crossover-ceremony, aol-crossover-planning]
+
+  - event_id: charter-presentation-ceremony
+    title: "Charter Presentation Ceremony"
+    category: ceremonies
+    frequency: annual
+    months: [1]
+    timing_note: "January pack meeting -- formal renewal of the pack's charter"
+    owner: committee-chair
+    roles: [committee-chair, charter-org-rep, cubmaster]
+    venue: "Glenmont Elementary (at pack meeting)"
+    url: /events/ceremonies/charter-presentation-ceremony/
+    tasks: [charter-presentation-ceremony]
+
+  - event_id: popcorn-sale
+    title: "Annual Popcorn Sale"
+    category: fundraising
+    frequency: annual
+    months: [8, 9, 10, 11]
+    timing_note: "August registration through November wrap-up"
+    owner: popcorn-coordinator
+    roles: [popcorn-coordinator, fundraising-chair, treasurer, cubmaster]
+    url: /events/fundraising/popcorn-sale/
+    tasks: [popcorn-pack-kickoff, popcorn-show-and-sells, popcorn-order-submission, popcorn-money-collection, scout-account-credits, popcorn-donation-in-lieu-invoicing, popcorn-unit-registration, popcorn-council-kickoff, popcorn-pickup-distribution, popcorn-year-end-wrap]
+
+  - event_id: fall-back-to-scouting
+    title: "Fall Back to Scouting"
+    category: outdoor
+    frequency: annual
+    months: [10]
+    timing_note: "October -- confirm date and site annually"
+    owner: program-chair
+    roles: [program-chair, cubmaster]
+    url: /events/outdoor/fall-back-to-scouting/
+    tasks: [fall-back-to-scouting]
+
+  - event_id: spring-hike
+    title: "Spring Hike"
+    category: outdoor
+    frequency: annual
+    months: [4]
+    timing_note: "April -- all dens attend"
+    owner: program-chair
+    roles: [program-chair, cubmaster, den-leader]
+    url: /events/outdoor/spring-hike/
+    tasks: [spring-hike, spring-hike-planning]
+
+  - event_id: valleycats-scout-night
+    title: "ValleyCats Scout Night"
+    category: outings
+    frequency: annual
+    months: [10]
+    timing_note: "Check ValleyCats schedule annually -- may be summer or fall"
+    owner: program-chair
+    roles: [program-chair]
+    venue: "Joseph L. Bruno Stadium"
+    url: /events/outings/valleycats-scout-night/
+    tasks: [valleycats-scout-night]
+
+  - event_id: annual-program-planning-conference
+    title: "Annual Program Planning Conference"
+    category: program
+    frequency: annual
+    months: [7]
+    timing_note: "July or August; before the Scouting year begins"
+    owner: cubmaster
+    roles: [cubmaster, committee-chair, den-leader, assistant-cubmaster, program-chair]
+    url: /events/program/annual-program-planning-conference/
+    tasks: [annual-program-planning-conference]
+
+  - event_id: blue-gold-banquet
+    title: "Blue & Gold Banquet"
+    category: program
+    frequency: annual
+    months: [2]
+    timing_note: "February -- the pack's largest annual celebration"
+    owner: blue-and-gold-coordinator
+    roles: [blue-and-gold-coordinator, committee-chair, program-chair, advancement-chair, cubmaster]
+    venue: "Glenmont Elementary gym or alternative venue"
+    url: /events/program/blue-gold-banquet/
+    tasks: [blue-gold-banquet, blue-gold-venue-booking, blue-gold-final-planning]
+
+  - event_id: end-of-year-pack-meeting
+    title: "End-of-Year Pack Meeting"
+    category: program
+    frequency: annual
+    months: [5]
+    timing_note: "May pack meeting -- celebrate the year's accomplishments"
+    owner: cubmaster
+    roles: [cubmaster, advancement-chair, den-leader, committee-chair]
+    venue: "Glenmont Elementary"
+    url: /events/program/end-of-year-pack-meeting/
+    tasks: [end-of-year-pack-meeting]
+
+  - event_id: holiday-pack-meeting
+    title: "Holiday Pack Meeting"
+    category: program
+    frequency: annual
+    months: [12]
+    timing_note: "December pack meeting"
+    owner: cubmaster
+    roles: [cubmaster, den-leader, advancement-chair]
+    venue: "Glenmont Elementary"
+    url: /events/program/holiday-pack-meeting/
+    tasks: [holiday-pack-meeting]
+
+  - event_id: pack-meeting
+    title: "Pack Meeting"
+    category: program
+    frequency: monthly
+    months: null
+    timing_note: "Consistent day each month (e.g. 3rd Monday); set at annual planning conference"
+    owner: cubmaster
+    roles: [cubmaster, assistant-cubmaster, den-leader, advancement-chair, program-chair]
+    venue: "Glenmont Elementary"
+    url: /events/program/pack-meeting/
+    tasks: [pack-meeting]
+
+  - event_id: pinewood-derby
+    title: "Pinewood Derby"
+    category: program
+    frequency: annual
+    months: [3]
+    timing_note: "March -- at Glenmont Elementary gym"
+    owner: pinewood-derby-coordinator
+    roles: [pinewood-derby-coordinator, committee-chair, advancement-chair, program-chair]
+    venue: "Glenmont Elementary gym"
+    url: /events/program/pinewood-derby/
+    tasks: [pinewood-derby-event, pinewood-derby-gym-reservation, pinewood-derby-kit-distribution, pinewood-derby-track-storage, pinewood-derby-rules]
+
+  - event_id: activities-fair
+    title: "Community Activities Fair"
+    category: recruitment
+    frequency: annual
+    months: [8]
+    timing_note: "Typically late August -- confirm Bethlehem Activities Fair date annually"
+    owner: membership-chair
+    roles: [membership-chair, cubmaster]
+    venue: "Bethlehem community venue"
+    url: /events/recruitment/activities-fair/
+    tasks: [activities-fair]
+
+  - event_id: new-family-orientation
+    title: "New Family Orientation"
+    category: recruitment
+    frequency: annual
+    months: [9, 10]
+    timing_note: "Within first month after school-night recruitment"
+    owner: membership-chair
+    roles: [membership-chair, cubmaster, committee-chair]
+    url: /events/recruitment/new-family-orientation/
+    tasks: [new-family-orientation]
+
+  - event_id: school-night-recruitment
+    title: "School-Night Recruitment Event"
+    category: recruitment
+    frequency: annual
+    months: [9]
+    timing_note: "Early-to-mid September, timed to school start"
+    owner: membership-chair
+    roles: [membership-chair, cubmaster, den-leader]
+    venue: "Glenmont Elementary"
+    url: /events/recruitment/school-night-recruitment/
+    tasks: [school-night-recruitment, recruitment-materials-prep]
+
+  - event_id: caroling
+    title: "Caroling"
+    category: service
+    frequency: annual
+    months: [12]
+    timing_note: "December -- coordinate with neighbors in advance"
+    owner: program-chair
+    roles: [program-chair, cubmaster]
+    url: /events/service/caroling/
+    tasks: [caroling]
+
+  - event_id: scouting-for-food
+    title: "Scouting for Food"
+    category: service
+    frequency: annual
+    months: [11]
+    timing_note: "Typically November -- coordinate with district for area assignment"
+    owner: program-chair
+    roles: [program-chair, cubmaster, den-leader]
+    url: /events/service/scouting-for-food/
+    tasks: [scouting-for-food]
+
+  - event_id: spring-service-project
+    title: "Spring Service Project"
+    category: service
+    frequency: as-needed
+    months: [4]
+    timing_note: "Optional -- good month for a neighborhood or park cleanup"
+    owner: program-chair
+    roles: [program-chair, cubmaster, den-leader]
+    url: /events/service/spring-service-project/
+    tasks: [spring-service-project]

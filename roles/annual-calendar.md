@@ -28,7 +28,7 @@ A month-by-month guide to what the pack needs to do. The Scouting year runs July
 
 | Task | Who |
 |---|---|
-| Annual program planning conference — set pack meeting calendar, events, and themes for the year | Cubmaster + Committee Chair lead; all den leaders attend |
+| [Annual Program Planning Conference](/events/program/annual-program-planning-conference/) — set pack meeting calendar, events, and themes for the year | Cubmaster + Committee Chair lead; all den leaders attend |
 | Treasurer prepares prior-year annual financial report | Treasurer |
 | Treasurer drafts proposed upcoming-year budget (with Cubmaster and committee input) | Treasurer |
 | Committee Chair reviews leader roster — identify vacant positions, at-risk roles | Committee Chair |
@@ -45,14 +45,14 @@ A month-by-month guide to what the pack needs to do. The Scouting year runs July
 
 | Task | Who |
 |---|---|
-| Attend community activities fairs (Bethlehem Activities Fair, etc.) | Marketing Chair + Membership Chair coordinate; Cubmaster attends if possible |
+| Attend community [activities fairs](/events/recruitment/activities-fair/) (Bethlehem Activities Fair, etc.) | Marketing Chair + Membership Chair coordinate; Cubmaster attends if possible |
 | Prepare recruitment materials: fliers, sign-up forms, info packets | Marketing Chair + Membership Chair |
-| Marketing Chair posts about upcoming school-night events on Facebook | Marketing Chair |
+| Marketing Chair posts about upcoming [School-Night Recruitment](/events/recruitment/school-night-recruitment/) events on Facebook | Marketing Chair |
 | Coordinate with Glenmont Elementary for school-night event permission and facility access | Membership Chair + Committee Chair |
 | Submit Glenmont Elementary space request for all monthly pack meeting dates for the year | Committee Chair |
 | Treasurer presents proposed budget to committee for review (pre-approval before September) | Treasurer |
-| Confirm popcorn kickoff date and register unit with Twin Rivers Council | Popcorn Kernel |
-| Plan fall activity schedule (Fall Back to Scouting, hikes, etc.) — confirm dates and sites | Activities Chair |
+| Confirm [Popcorn Sale](/events/fundraising/popcorn-sale/) kickoff date and register unit with Twin Rivers Council | Popcorn Kernel |
+| Plan fall activity schedule ([Fall Back to Scouting](/events/outdoor/fall-back-to-scouting/), hikes, etc.) — confirm dates and sites | Activities Chair |
 | Confirm den leader roster and meeting schedules for the year | Cubmaster + Committee Chair |
 
 ---
@@ -63,10 +63,10 @@ A month-by-month guide to what the pack needs to do. The Scouting year runs July
 
 | Task | Who |
 |---|---|
-| Host school-night Scout recruitment event(s) at Glenmont Elementary | Membership Chair leads; Cubmaster presents; all leaders encouraged to attend |
+| Host [School-Night Recruitment](/events/recruitment/school-night-recruitment/) event(s) at Glenmont Elementary | Membership Chair leads; Cubmaster presents; all leaders encouraged to attend |
 | Follow up with interested families within 48 hours of recruitment event | Membership Chair |
 | Connect new Scouts to their den leader immediately upon registration | Membership Chair |
-| Host new family orientation meeting (what is Cub Scouting, how the pack works, website, uniforms, finances) | Membership Chair leads |
+| Host [New Family Orientation](/events/recruitment/new-family-orientation/) meeting (what is Cub Scouting, how the pack works, website, uniforms, finances) | Membership Chair leads |
 | Popcorn Kernel attends Twin Rivers Council popcorn kickoff | Popcorn Kernel |
 | Kickoff pack meeting: introduce new Scouts, present the year's program, kick off popcorn sale | Cubmaster leads; Popcorn Kernel presents sale |
 | Committee meeting: approve annual budget for the year | Committee Chair; Treasurer presents |
@@ -88,8 +88,8 @@ A month-by-month guide to what the pack needs to do. The Scouting year runs July
 | Popcorn take-order collection from Scouts | Popcorn Kernel |
 | Popcorn order submission to Twin Rivers Council District Office by deadline | Popcorn Kernel |
 | Collect popcorn money from Scouts; turn over to Treasurer | Popcorn Kernel → Treasurer |
-| Fall Back to Scouting camping event | Activities Chair + Ben Friedman + Hank Tripp coordinate |
-| ValleyCats Scout Night (if scheduled this year) | Jara Traina coordinates; Activities Chair supports |
+| [Fall Back to Scouting](/events/outdoor/fall-back-to-scouting/) camping event | Activities Chair + Ben Friedman + Hank Tripp coordinate |
+| [ValleyCats Scout Night](/events/outings/valleycats-scout-night/) (if scheduled this year) | Jara Traina coordinates; Activities Chair supports |
 | Committee Chair pulls current pack roster from my.Scouting.org to begin recharter review | Committee Chair |
 | Identify adults with lapsed or expiring YPT (check training status in my.Scouting.org) | Committee Chair (may delegate to Secretary) |
 | Confirm all active Scouts and adults — mark inactive members for removal | Committee Chair + Secretary |
@@ -97,7 +97,7 @@ A month-by-month guide to what the pack needs to do. The Scouting year runs July
 
 ---
 
-## November — Popcorn Close, Scouting for Food, Recharter
+## November — Popcorn Close, [Scouting for Food](/events/service/scouting-for-food/), Recharter
 
 **Theme**: Close out popcorn season, file recharter, Scouting for Food.
 
@@ -109,7 +109,7 @@ A month-by-month guide to what the pack needs to do. The Scouting year runs July
 | Treasurer credits Scout accounts based on per-Scout sales data | Treasurer + Popcorn Kernel provide sales data |
 | Popcorn Kernel attends year-end wrap meeting at Twin Rivers Council | Popcorn Kernel |
 | Treasurer invoices families for "donation in lieu" — Scouts below popcorn target owe additional dues | Treasurer |
-| Scouting for Food: coordinate den coverage areas, distribute bags/door hangers, arrange pantry drop-off | Kara Giglia + Service Chair coordinate |
+| [Scouting for Food](/events/service/scouting-for-food/): coordinate den coverage areas, distribute bags/door hangers, arrange pantry drop-off | Kara Giglia + Service Chair coordinate |
 | Recharter: collect adult applications from any new or unregistered adults; attach YPT certificates | Secretary |
 | Recharter: contact adults with lapsed YPT; they must retake before recharter submits | Committee Chair |
 | Charter Org Rep reviews adult applications and signs them | Charter Org Rep (Bob Baldwin) |
@@ -118,7 +118,7 @@ A month-by-month guide to what the pack needs to do. The Scouting year runs July
 
 ---
 
-## December — Charter Renewal, Caroling, Holiday Meeting
+## December — Charter Renewal, [Caroling](/events/service/caroling/), [Holiday Pack Meeting](/events/program/holiday-pack-meeting/)
 
 **Theme**: Submit recharter, celebrate the season.
 
@@ -126,12 +126,12 @@ A month-by-month guide to what the pack needs to do. The Scouting year runs July
 |---|---|
 | Recharter submitted to Twin Rivers Council (signed by Charter Org Rep) | Committee Chair submits; Charter Org Rep signs |
 | Recharter fees paid to council | Treasurer |
-| Caroling event: arrange neighbors, procure hot chocolate, deliver proceeds to selected beneficiary | Hank Tripp + Service Chair coordinate |
-| Holiday pack meeting: skits, songs, advancement ceremony | Cubmaster leads |
+| [Caroling](/events/service/caroling/) event: arrange neighbors, procure hot chocolate, deliver proceeds to selected beneficiary | Hank Tripp + Service Chair coordinate |
+| [Holiday Pack Meeting](/events/program/holiday-pack-meeting/): skits, songs, advancement ceremony | Cubmaster leads |
 | Treasurer: renew QuickBooks/TechSoup license for new year | Treasurer |
-| Blue & Gold Banquet planning begins (secure venue, date, entertainment) | Committee Chair + Activities Chair |
-| Pinewood Derby date set; Glenmont gym reserved | Pinewood Derby Team + Committee Chair |
-| AOL den leader confirms troop(s) for crossover; plans January/February ceremony | AOL Den Leader + Cubmaster |
+| [Blue & Gold Banquet](/events/program/blue-gold-banquet/) planning begins (secure venue, date, entertainment) | Committee Chair + Activities Chair |
+| [Pinewood Derby](/events/program/pinewood-derby/) date set; Glenmont gym reserved | Pinewood Derby Team + Committee Chair |
+| AOL den leader confirms troop(s) for crossover; plans January/February [Arrow of Light Crossover Ceremony](/events/ceremonies/aol-crossover-ceremony/) | AOL Den Leader + Cubmaster |
 
 ---
 
@@ -141,9 +141,9 @@ A month-by-month guide to what the pack needs to do. The Scouting year runs July
 
 | Task | Who |
 |---|---|
-| Charter presentation ceremony at pack meeting (formal renewal of charter with pack) | Committee Chair + Charter Org Rep + Cubmaster |
-| Arrow of Light crossover ceremony (target January or February) | Cubmaster + AOL Den Leader + Troop Scoutmaster coordinate |
-| Blue & Gold Banquet final planning (site, food, program, entertainment) | Activities Chair + Blue & Gold coordinators (Becky D'Anza, Andrea Dievendorf, Lindsay Knott, Kara Giglia) |
+| [Charter Presentation Ceremony](/events/ceremonies/charter-presentation-ceremony/) at pack meeting (formal renewal of charter with pack) | Committee Chair + Charter Org Rep + Cubmaster |
+| [Arrow of Light Crossover Ceremony](/events/ceremonies/aol-crossover-ceremony/) (target January or February) | Cubmaster + AOL Den Leader + Troop Scoutmaster coordinate |
+| [Blue & Gold Banquet](/events/program/blue-gold-banquet/) final planning (site, food, program, entertainment) | Activities Chair + Blue & Gold coordinators (Becky D'Anza, Andrea Dievendorf, Lindsay Knott, Kara Giglia) |
 | Treasurer confirms budget is on track; adjust if needed | Treasurer reports to committee |
 | Membership Chair checks in with new families from September — are they engaged? Any at risk of dropping? | Membership Chair |
 | Cubmaster meets with Scoutmaster of local troop to plan AOL crossover details | Cubmaster + AOL Den Leader |
@@ -152,47 +152,47 @@ A month-by-month guide to what the pack needs to do. The Scouting year runs July
 
 ---
 
-## February — Blue & Gold Banquet, Crossover
+## February — [Blue & Gold Banquet](/events/program/blue-gold-banquet/), Crossover
 
 **Theme**: The pack's biggest celebration of the year.
 
 | Task | Who |
 |---|---|
-| Blue & Gold Banquet: celebrate Scout accomplishments, recognize leaders, induct new Scouts if needed | Committee Chair + Activities Chair + Blue & Gold coordinators produce event; Cubmaster leads ceremony |
-| Arrow of Light crossover ceremony (if not January) | Cubmaster + AOL Den Leader + Scoutmaster |
+| [Blue & Gold Banquet](/events/program/blue-gold-banquet/): celebrate Scout accomplishments, recognize leaders, induct new Scouts if needed | Committee Chair + Activities Chair + Blue & Gold coordinators produce event; Cubmaster leads ceremony |
+| [Arrow of Light Crossover Ceremony](/events/ceremonies/aol-crossover-ceremony/) (if not January) | Cubmaster + AOL Den Leader + Scoutmaster |
 | Advancement Chair: order Arrow of Light badges, certificates, and any special awards well in advance | Advancement Chair |
 | New Lion den forms for next Scouting year — begin recruiting incoming kindergarten families | Membership Chair + Cubmaster |
 | Begin recruiting leaders for any dens that will need new leadership next year | Committee Chair + Cubmaster |
 
 ---
 
-## March — Pinewood Derby
+## March — [Pinewood Derby](/events/program/pinewood-derby/)
 
 **Theme**: The pack's most logistically complex single event.
 
 | Task | Who |
 |---|---|
-| Purchase and distribute Pinewood Derby kits (and Lego Derby kits for Lions) | Pinewood Derby Team (Jeff Middendorf leads) |
+| Purchase and distribute [Pinewood Derby](/events/program/pinewood-derby/) kits (and Lego Derby kits for Lions) | Pinewood Derby Team (Jeff Middendorf leads) |
 | Purchase trophies, plaques, and/or medals | Pinewood Derby Team; Advancement Chair assists |
 | Distribute race rules to all families | Pinewood Derby Team |
 | Set up track and timing system at Glenmont gym | Pinewood Derby Team |
 | Run the Pack Pinewood Derby race: check-in, judging, racing, Best in Show awards | Pinewood Derby Team |
 | Coordinate year-round storage of track with Committee Chair | Pinewood Derby Team + Committee Chair |
 | Select any cars to represent Pack 232 at District Pinewood Derby | Pinewood Derby Team |
-| Spring hike planning: identify site, check permits, plan logistics | Activities Chair + Dave Coup |
+| [Spring Hike](/events/outdoor/spring-hike/) planning: identify site, check permits, plan logistics | Activities Chair + Dave Coup |
 
 ---
 
-## April — Spring Hike, Budget Review, Journey to Excellence Check
+## April — [Spring Hike](/events/outdoor/spring-hike/), Budget Review, Journey to Excellence Check
 
 **Theme**: Outdoor season resumes; check the pack's health.
 
 | Task | Who |
 |---|---|
-| Spring hike | Activities Chair + Dave Coup coordinate; all dens attend |
+| [Spring Hike](/events/outdoor/spring-hike/) | Activities Chair + Dave Coup coordinate; all dens attend |
 | Treasurer presents actuals vs. budget review for the year to date | Treasurer |
 | Committee Chair reviews Journey to Excellence progress — are we on track for Gold/Silver? | Committee Chair |
-| Service project (optional — good month for a spring cleanup project) | Service Chair |
+| [Spring Service Project](/events/service/spring-service-project/) (optional — good month for a spring cleanup project) | Service Chair |
 | Advancement Chair: mid-spring advancement check — any Scouts close to completing rank badge? | Advancement Chair + Den Leaders |
 | Begin program planning input for next year (what activities do families want?) | Cubmaster + Committee Chair solicit input |
 
@@ -206,7 +206,7 @@ A month-by-month guide to what the pack needs to do. The Scouting year runs July
 |---|---|
 | Parent annual skills and program survey — capture family talents and preferences for next year | Committee Chair (from Pack 232 Committee Calendar) |
 | Advancement Chair: final push — ensure all Scouts who are close to rank badge complete it | Advancement Chair + Den Leaders |
-| End-of-year pack meeting: recognize all Scouts, present remaining advancement, celebrate the year | Cubmaster leads |
+| [End-of-Year Pack Meeting](/events/program/end-of-year-pack-meeting/): recognize all Scouts, present remaining advancement, celebrate the year | Cubmaster leads |
 | Den leaders: confirm each Scout's rank for transition to next year's den | Den Leaders |
 | Den leaders inform Cubmaster of any retention concerns (Scouts at risk of not returning) | Den Leaders → Cubmaster |
 | Membership Chair follows up with families showing low engagement — re-enrollment outreach | Membership Chair |
