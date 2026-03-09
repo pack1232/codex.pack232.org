@@ -2,6 +2,7 @@
 title: Fundraising Chair
 parent: All Roles
 nav_order: 6
+permalink: /roles/fundraising-chair/
 ---
 
 # Fundraising Chair

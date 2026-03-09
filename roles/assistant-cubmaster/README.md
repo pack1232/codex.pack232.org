@@ -2,6 +2,7 @@
 title: Assistant Cubmasters
 parent: All Roles
 nav_order: 11
+permalink: /roles/assistant-cubmaster/
 ---
 
 # Assistant Cubmaster

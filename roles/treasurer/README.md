@@ -2,6 +2,7 @@
 title: Treasurer
 parent: All Roles
 nav_order: 5
+permalink: /roles/treasurer/
 ---
 
 # Treasurer

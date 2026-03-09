@@ -2,6 +2,7 @@
 title: Den Chief
 parent: All Roles
 nav_order: 13
+permalink: /roles/den-chief/
 ---
 
 # Den Chief

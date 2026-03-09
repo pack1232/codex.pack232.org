@@ -2,6 +2,7 @@
 title: Membership Chair
 parent: All Roles
 nav_order: 7
+permalink: /roles/membership-chair/
 ---
 
 # Membership Chair

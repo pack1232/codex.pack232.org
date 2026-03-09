@@ -2,6 +2,7 @@
 title: Den Leaders
 parent: All Roles
 nav_order: 12
+permalink: /roles/den-leader/
 ---
 
 # Den Leader

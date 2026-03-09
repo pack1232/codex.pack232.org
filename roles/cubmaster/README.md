@@ -2,6 +2,7 @@
 title: Cubmaster
 parent: All Roles
 nav_order: 3
+permalink: /roles/cubmaster/
 ---
 
 # Cubmaster

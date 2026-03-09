@@ -2,6 +2,7 @@
 title: Secretary
 parent: All Roles
 nav_order: 4
+permalink: /roles/secretary/
 ---
 
 # Secretary

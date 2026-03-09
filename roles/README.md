@@ -2,6 +2,7 @@
 title: All Roles
 nav_order: 2
 has_children: true
+permalink: /roles/
 ---
 
 # Pack 232 Roles

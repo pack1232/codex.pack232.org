@@ -2,6 +2,7 @@
 title: Charter Org Rep
 parent: All Roles
 nav_order: 1
+permalink: /roles/charter-org-rep/
 ---
 
 # Charter Organization Representative (Charter Org Rep)

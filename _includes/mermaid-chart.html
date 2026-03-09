@@ -1,110 +1,104 @@
-{% comment %}
+{%- comment -%}
   Generates a Mermaid flowchart from _data/org-chart.yml.
-  Each node is clickable, linking to the role's page.
-  Core 3 roles get distinct styling; vacant roles get dashed borders.
-{% endcomment %}
+  Uses whitespace-stripping tags to avoid blank lines that break Mermaid.
+{%- endcomment -%}
 
-{% assign chart = site.data.org-chart %}
+{%- assign chart = site.data.org-chart -%}
+{%- assign charter_name = chart.charter_org | replace: "#", "No." | replace: "&", "and" -%}
 
 <div class="mermaid">
 flowchart TD
 
-%% ── Charter Organization ──
-charter["{{ chart.charter_org }}"]
+charter["{{ charter_name }}"]
 
-%% ── Core 3 Roles ──
-{% for role in chart.roles %}
-{% if role.vacant %}
-{{ role.id }}["{{ role.title }}"]:::vacant
-{% else %}
-{{ role.id }}["{{ role.title }}<br/><em>{{ role.holder }}</em>"]:::core
-{% endif %}
+{%- for role in chart.roles %}
+{%- assign t = role.title | replace: "&", "and" -%}
+{%- if role.vacant %}
+{{ role.id }}["{{ t }}"]:::vacant
+{%- else %}
+{{ role.id }}["{{ t }} — {{ role.holder }}"]:::core
+{%- endif %}
 charter --> {{ role.id }}
-{% endfor %}
+{%- endfor %}
 
-%% ── Committee Chair Branch ──
-{% assign cc = chart.roles | where: "id", "cc" | first %}
-{% if cc.children %}
-{% for child in cc.children %}
-{% if child.vacant %}
-{{ child.id }}["{{ child.title }}"]:::vacant
-{% else %}
-{{ child.id }}["{{ child.title }}<br/><em>{{ child.holder }}</em>"]:::filled
-{% endif %}
+{%- assign cc = chart.roles | where: "id", "cc" | first -%}
+{%- if cc.children -%}
+{%- for child in cc.children -%}
+{%- assign t = child.title | replace: "&", "and" -%}
+{%- if child.vacant %}
+{{ child.id }}["{{ t }}"]:::vacant
+{%- else %}
+{{ child.id }}["{{ t }} — {{ child.holder }}"]:::filled
+{%- endif %}
 cc --> {{ child.id }}
-
-{% if child.children %}
-{% for grandchild in child.children %}
-{% if grandchild.vacant %}
-{{ grandchild.id }}["{{ grandchild.title }}"]:::vacant
-{% else %}
-{{ grandchild.id }}["{{ grandchild.title }}<br/><em>{{ grandchild.holder }}</em>"]:::filled
-{% endif %}
+{%- if child.children -%}
+{%- for grandchild in child.children -%}
+{%- assign t = grandchild.title | replace: "&", "and" -%}
+{%- if grandchild.vacant %}
+{{ grandchild.id }}["{{ t }}"]:::vacant
+{%- else %}
+{{ grandchild.id }}["{{ t }} — {{ grandchild.holder }}"]:::filled
+{%- endif %}
 {{ child.id }} --> {{ grandchild.id }}
-
-{% if grandchild.children %}
-{% for great in grandchild.children %}
-{% if great.vacant %}
-{{ great.id }}["{{ great.title }}"]:::vacant
-{% else %}
-{{ great.id }}["{{ great.title }}<br/><em>{{ great.holder }}</em>"]:::filled
-{% endif %}
+{%- if grandchild.children -%}
+{%- for great in grandchild.children -%}
+{%- assign t = great.title | replace: "&", "and" -%}
+{%- if great.vacant %}
+{{ great.id }}["{{ t }}"]:::vacant
+{%- else %}
+{{ great.id }}["{{ t }} — {{ great.holder }}"]:::filled
+{%- endif %}
 {{ grandchild.id }} --> {{ great.id }}
-{% endfor %}
-{% endif %}
+{%- endfor -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endif %}
 
-{% endfor %}
-{% endif %}
-
-{% endfor %}
-{% endif %}
-
-%% ── Cubmaster Branch ──
-{% assign cm = chart.roles | where: "id", "cm" | first %}
-{% if cm.children %}
-{% for child in cm.children %}
-{% if child.vacant %}
-{{ child.id }}["{{ child.title }}"]:::vacant
-{% else %}
-{{ child.id }}["{{ child.title }}<br/><em>{{ child.holder }}</em>"]:::filled
-{% endif %}
+{%- assign cm = chart.roles | where: "id", "cm" | first -%}
+{%- if cm.children -%}
+{%- for child in cm.children -%}
+{%- assign t = child.title | replace: "&", "and" -%}
+{%- if child.vacant %}
+{{ child.id }}["{{ t }}"]:::vacant
+{%- else %}
+{{ child.id }}["{{ t }} — {{ child.holder }}"]:::filled
+{%- endif %}
 cm --> {{ child.id }}
-
-{% if child.children %}
-{% for grandchild in child.children %}
-{% if grandchild.vacant %}
-{{ grandchild.id }}["{{ grandchild.title }}"]:::vacant
-{% else %}
-{{ grandchild.id }}["{{ grandchild.title }}<br/><em>{{ grandchild.holder }}</em>"]:::filled
-{% endif %}
+{%- if child.children -%}
+{%- for grandchild in child.children -%}
+{%- assign t = grandchild.title | replace: "&", "and" -%}
+{%- if grandchild.vacant %}
+{{ grandchild.id }}["{{ t }}"]:::vacant
+{%- else %}
+{{ grandchild.id }}["{{ t }} — {{ grandchild.holder }}"]:::filled
+{%- endif %}
 {{ child.id }} --> {{ grandchild.id }}
-{% endfor %}
-{% endif %}
+{%- endfor -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endif %}
 
-{% endfor %}
-{% endif %}
-
-%% ── Click Events ──
-{% for role in chart.roles %}
+{%- for role in chart.roles %}
 click {{ role.id }} "{{ role.link }}"
-{% if role.children %}
-{% for child in role.children %}
+{%- if role.children -%}
+{%- for child in role.children %}
 click {{ child.id }} "{{ child.link }}"
-{% if child.children %}
-{% for grandchild in child.children %}
+{%- if child.children -%}
+{%- for grandchild in child.children %}
 click {{ grandchild.id }} "{{ grandchild.link }}"
-{% if grandchild.children %}
-{% for great in grandchild.children %}
+{%- if grandchild.children -%}
+{%- for great in grandchild.children %}
 click {{ great.id }} "{{ great.link }}"
-{% endfor %}
-{% endif %}
-{% endfor %}
-{% endif %}
-{% endfor %}
-{% endif %}
-{% endfor %}
+{%- endfor -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endif -%}
+{%- endfor %}
 
-%% ── Styles ──
 classDef core fill:#c8e6c9,stroke:#1b5e20,stroke-width:3px,color:#1b5e20
 classDef filled fill:#e8f4e8,stroke:#2d6a2e,stroke-width:2px,color:#1a1a1a
 classDef vacant fill:#f5f5f5,stroke:#999,stroke-width:2px,stroke-dasharray: 5 5,color:#666
