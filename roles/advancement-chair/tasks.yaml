@@ -8,12 +8,14 @@
 #   months:       List of month numbers [1-12] or null (every month)
 #   timing_note:  When within the month/season
 #   role:         owner|involved (this role's relationship to the task)
+#   event:        Event ID (links task to an event page, optional)
 #   description:  What the task is
 #   tags:         Optional labels for filtering
 
 tasks:
 
   - id: pack-meeting
+    event: pack-meeting
     name: "Pack Meeting"
     type: program
     frequency: monthly
@@ -58,6 +60,7 @@ tasks:
     tags: ['financial', 'annual', 'budget']
 
   - id: aol-crossover-ceremony
+    event: aol-crossover-ceremony
     name: "Arrow of Light Crossover Ceremony"
     type: recognition
     frequency: annual
@@ -69,6 +72,7 @@ tasks:
     tags: ['crossover', 'aol', 'recognition', 'annual', 'ceremony']
 
   - id: blue-gold-banquet
+    event: blue-gold-banquet
     name: "Blue & Gold Banquet"
     type: program
     frequency: annual
@@ -80,6 +84,7 @@ tasks:
     tags: ['blue-gold', 'program', 'annual', 'celebration']
 
   - id: pinewood-derby-event
+    event: pinewood-derby
     name: "Pinewood Derby Race"
     type: program
     frequency: annual
@@ -102,6 +107,7 @@ tasks:
     tags: ['advancement', 'recognition', 'annual']
 
   - id: end-of-year-pack-meeting
+    event: end-of-year-pack-meeting
     name: "End-of-Year Pack Meeting"
     type: program
     frequency: annual

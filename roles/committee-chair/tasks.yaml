@@ -8,6 +8,7 @@
 #   months:       List of month numbers [1-12] or null (every month)
 #   timing_note:  When within the month/season
 #   role:         owner|involved (this role's relationship to the task)
+#   event:        Event ID (links task to an event page, optional)
 #   description:  What the task is
 #   tags:         Optional labels for filtering
 
@@ -36,6 +37,7 @@ tasks:
     tags: ['communications', 'administrative']
 
   - id: annual-program-planning-conference
+    event: annual-program-planning-conference
     name: "Annual Program Planning Conference"
     type: program
     frequency: annual
@@ -91,6 +93,7 @@ tasks:
     tags: ['outdoor', 'planning', 'annual']
 
   - id: new-family-orientation
+    event: new-family-orientation
     name: "New Family Orientation Meeting"
     type: recruitment
     frequency: annual
@@ -201,6 +204,7 @@ tasks:
     tags: ['recharter', 'administrative', 'annual', 'deadline']
 
   - id: blue-gold-venue-booking
+    event: blue-gold-banquet
     name: "Blue & Gold Banquet: Venue & Date Booking"
     type: program
     frequency: annual
@@ -212,6 +216,7 @@ tasks:
     tags: ['blue-gold', 'program', 'planning', 'annual']
 
   - id: pinewood-derby-gym-reservation
+    event: pinewood-derby
     name: "Pinewood Derby: Gym Reservation"
     type: program
     frequency: annual
@@ -223,6 +228,7 @@ tasks:
     tags: ['pinewood-derby', 'facilities', 'annual']
 
   - id: charter-presentation-ceremony
+    event: charter-presentation-ceremony
     name: "Charter Presentation Ceremony"
     type: administrative
     frequency: annual
@@ -234,6 +240,7 @@ tasks:
     tags: ['charter', 'administrative', 'annual', 'ceremony']
 
   - id: blue-gold-final-planning
+    event: blue-gold-banquet
     name: "Blue & Gold Banquet: Final Planning"
     type: program
     frequency: annual
@@ -245,6 +252,7 @@ tasks:
     tags: ['blue-gold', 'planning', 'annual']
 
   - id: blue-gold-banquet
+    event: blue-gold-banquet
     name: "Blue & Gold Banquet"
     type: program
     frequency: annual
@@ -267,6 +275,7 @@ tasks:
     tags: ['leadership', 'recruitment', 'annual']
 
   - id: pinewood-derby-kit-distribution
+    event: pinewood-derby
     name: "Pinewood Derby: Kit Purchase & Distribution"
     type: program
     frequency: annual
@@ -278,6 +287,7 @@ tasks:
     tags: ['pinewood-derby', 'program', 'annual']
 
   - id: pinewood-derby-event
+    event: pinewood-derby
     name: "Pinewood Derby Race"
     type: program
     frequency: annual
@@ -289,6 +299,7 @@ tasks:
     tags: ['pinewood-derby', 'program', 'annual', 'event']
 
   - id: pinewood-derby-track-storage
+    event: pinewood-derby
     name: "Pinewood Derby: Track Storage"
     type: administrative
     frequency: annual
@@ -333,6 +344,7 @@ tasks:
     tags: ['administrative', 'planning', 'annual', 'survey']
 
   - id: end-of-year-pack-meeting
+    event: end-of-year-pack-meeting
     name: "End-of-Year Pack Meeting"
     type: program
     frequency: annual

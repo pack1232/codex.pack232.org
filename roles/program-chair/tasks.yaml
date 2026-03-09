@@ -8,12 +8,14 @@
 #   months:       List of month numbers [1-12] or null (every month)
 #   timing_note:  When within the month/season
 #   role:         owner|involved (this role's relationship to the task)
+#   event:        Event ID (links task to an event page, optional)
 #   description:  What the task is
 #   tags:         Optional labels for filtering
 
 tasks:
 
   - id: pack-meeting
+    event: pack-meeting
     name: "Pack Meeting"
     type: program
     frequency: monthly
@@ -36,6 +38,7 @@ tasks:
     tags: ['committee', 'governance']
 
   - id: annual-program-planning-conference
+    event: annual-program-planning-conference
     name: "Annual Program Planning Conference"
     type: program
     frequency: annual
@@ -80,6 +83,7 @@ tasks:
     tags: ['outdoor', 'planning', 'annual']
 
   - id: fall-back-to-scouting
+    event: fall-back-to-scouting
     name: "Fall Back to Scouting"
     type: outdoor
     frequency: annual
@@ -91,6 +95,7 @@ tasks:
     tags: ['camping', 'outdoor', 'annual']
 
   - id: valleycats-scout-night
+    event: valleycats-scout-night
     name: "ValleyCats Scout Night"
     type: outdoor
     frequency: annual
@@ -102,6 +107,7 @@ tasks:
     tags: ['outing', 'outdoor', 'annual']
 
   - id: scouting-for-food
+    event: scouting-for-food
     name: "Scouting for Food"
     type: service
     frequency: annual
@@ -113,6 +119,7 @@ tasks:
     tags: ['service', 'annual', 'food-drive']
 
   - id: caroling
+    event: caroling
     name: "Caroling"
     type: service
     frequency: annual
@@ -124,6 +131,7 @@ tasks:
     tags: ['service', 'holiday', 'annual']
 
   - id: blue-gold-venue-booking
+    event: blue-gold-banquet
     name: "Blue & Gold Banquet: Venue & Date Booking"
     type: program
     frequency: annual
@@ -135,6 +143,7 @@ tasks:
     tags: ['blue-gold', 'program', 'planning', 'annual']
 
   - id: blue-gold-final-planning
+    event: blue-gold-banquet
     name: "Blue & Gold Banquet: Final Planning"
     type: program
     frequency: annual
@@ -146,6 +155,7 @@ tasks:
     tags: ['blue-gold', 'planning', 'annual']
 
   - id: blue-gold-banquet
+    event: blue-gold-banquet
     name: "Blue & Gold Banquet"
     type: program
     frequency: annual
@@ -157,6 +167,7 @@ tasks:
     tags: ['blue-gold', 'program', 'annual', 'celebration']
 
   - id: pinewood-derby-event
+    event: pinewood-derby
     name: "Pinewood Derby Race"
     type: program
     frequency: annual
@@ -168,6 +179,7 @@ tasks:
     tags: ['pinewood-derby', 'program', 'annual', 'event']
 
   - id: spring-hike-planning
+    event: spring-hike
     name: "Spring Hike Planning"
     type: outdoor
     frequency: annual
@@ -179,6 +191,7 @@ tasks:
     tags: ['hike', 'outdoor', 'annual']
 
   - id: spring-hike
+    event: spring-hike
     name: "Spring Hike"
     type: outdoor
     frequency: annual
@@ -190,6 +203,7 @@ tasks:
     tags: ['hike', 'outdoor', 'annual']
 
   - id: spring-service-project
+    event: spring-service-project
     name: "Spring Service Project"
     type: service
     frequency: as-needed

@@ -47,6 +47,7 @@ tasks:
     tags: ['recharter', 'administrative', 'annual', 'deadline']
 
   - id: charter-presentation-ceremony
+    event: charter-presentation-ceremony
     name: "Charter Presentation Ceremony"
     type: administrative
     frequency: annual

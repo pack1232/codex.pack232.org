@@ -8,6 +8,7 @@
 #   months:       List of month numbers [1-12] or null (every month)
 #   timing_note:  When within the month/season
 #   role:         owner|involved (this role's relationship to the task)
+#   event:        Event ID (links task to an event page, optional)
 #   description:  What the task is
 #   tags:         Optional labels for filtering
 
@@ -25,6 +26,7 @@ tasks:
     tags: ['committee', 'governance']
 
   - id: activities-fair
+    event: activities-fair
     name: "Community Activities Fair"
     type: recruitment
     frequency: annual
@@ -36,6 +38,7 @@ tasks:
     tags: ['recruitment', 'visibility', 'community']
 
   - id: recruitment-materials-prep
+    event: school-night-recruitment
     name: "Recruitment Materials Preparation"
     type: recruitment
     frequency: annual
@@ -47,6 +50,7 @@ tasks:
     tags: ['recruitment', 'marketing']
 
   - id: school-night-recruitment
+    event: school-night-recruitment
     name: "School-Night Recruitment Event"
     type: recruitment
     frequency: annual
@@ -58,6 +62,7 @@ tasks:
     tags: ['recruitment', 'annual', 'kickoff']
 
   - id: new-family-orientation
+    event: new-family-orientation
     name: "New Family Orientation Meeting"
     type: recruitment
     frequency: annual

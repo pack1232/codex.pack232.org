@@ -8,12 +8,14 @@
 #   months:       List of month numbers [1-12] or null (every month)
 #   timing_note:  When within the month/season
 #   role:         owner|involved (this role's relationship to the task)
+#   event:        Event ID (links task to an event page, optional)
 #   description:  What the task is
 #   tags:         Optional labels for filtering
 
 tasks:
 
   - id: pinewood-derby-gym-reservation
+    event: pinewood-derby
     name: "Pinewood Derby: Gym Reservation"
     type: program
     frequency: annual
@@ -25,6 +27,7 @@ tasks:
     tags: ['pinewood-derby', 'facilities', 'annual']
 
   - id: pinewood-derby-kit-distribution
+    event: pinewood-derby
     name: "Pinewood Derby: Kit Purchase & Distribution"
     type: program
     frequency: annual
@@ -36,6 +39,7 @@ tasks:
     tags: ['pinewood-derby', 'program', 'annual']
 
   - id: pinewood-derby-rules
+    event: pinewood-derby
     name: "Pinewood Derby: Rules Distribution"
     type: program
     frequency: annual
@@ -47,6 +51,7 @@ tasks:
     tags: ['pinewood-derby', 'program', 'annual']
 
   - id: pinewood-derby-event
+    event: pinewood-derby
     name: "Pinewood Derby Race"
     type: program
     frequency: annual
@@ -58,6 +63,7 @@ tasks:
     tags: ['pinewood-derby', 'program', 'annual', 'event']
 
   - id: pinewood-derby-track-storage
+    event: pinewood-derby
     name: "Pinewood Derby: Track Storage"
     type: administrative
     frequency: annual

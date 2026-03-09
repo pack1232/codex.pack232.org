@@ -8,12 +8,14 @@
 #   months:       List of month numbers [1-12] or null (every month)
 #   timing_note:  When within the month/season
 #   role:         owner|involved (this role's relationship to the task)
+#   event:        Event ID (links task to an event page, optional)
 #   description:  What the task is
 #   tags:         Optional labels for filtering
 
 tasks:
 
   - id: pack-meeting
+    event: pack-meeting
     name: "Pack Meeting"
     type: program
     frequency: monthly
@@ -47,6 +49,7 @@ tasks:
     tags: ['den', 'program', 'scoutbook']
 
   - id: annual-program-planning-conference
+    event: annual-program-planning-conference
     name: "Annual Program Planning Conference"
     type: program
     frequency: annual

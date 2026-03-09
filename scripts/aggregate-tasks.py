@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
-"""Aggregate per-role tasks.yaml files into _data/pack-tasks-generated.yaml.
+"""Aggregate per-role tasks.yaml files and event front matter.
 
 Walks roles/*/tasks.yaml and roles/*/*/tasks.yaml, merges tasks by ID,
-and outputs a file compatible with the original pack-tasks.yaml schema
-so the Liquid include (role-tasks.html) works unchanged.
+and outputs _data/pack-tasks-generated.yaml compatible with the original
+pack-tasks.yaml schema so the Liquid include (role-tasks.html) works unchanged.
+
+Also parses events/**/*.md front matter and generates
+_data/pack-events-generated.yaml with event metadata and associated tasks.
 
 Usage: python3 scripts/aggregate-tasks.py
 """
@@ -16,7 +19,9 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ROLES_DIR = REPO_ROOT / 'roles'
+EVENTS_DIR = REPO_ROOT / 'events'
 OUTPUT = REPO_ROOT / '_data' / 'pack-tasks-generated.yaml'
+EVENTS_OUTPUT = REPO_ROOT / '_data' / 'pack-events-generated.yaml'
 
 
 def get_role_id(role_dir):
@@ -57,6 +62,52 @@ def parse_yaml_simple(filepath):
     return None
 
 
+def parse_event_front_matter(filepath):
+    """Extract YAML front matter from an event .md file.
+
+    Returns a dict with keys: title, event_id, category, frequency,
+    months, timing_note, owner, roles, venue (all optional except event_id).
+    Returns None if the file has no valid front matter.
+    """
+    with open(filepath) as f:
+        content = f.read()
+    if not content.startswith('---'):
+        return None
+    try:
+        fm_end = content.index('---', 3)
+    except ValueError:
+        return None
+    fm_text = content[3:fm_end]
+
+    # Try PyYAML first for robust parsing
+    try:
+        import yaml
+        data = yaml.safe_load(fm_text)
+        if isinstance(data, dict):
+            return data
+    except ImportError:
+        pass
+    except Exception:
+        pass
+
+    # Fallback: parse via subprocess
+    import subprocess, json, tempfile
+    with tempfile.NamedTemporaryFile(mode='w', suffix='.yaml', delete=False) as tmp:
+        tmp.write(fm_text)
+        tmp_path = tmp.name
+    try:
+        result = subprocess.run(
+            [sys.executable, '-c',
+             f'import yaml, json; data = yaml.safe_load(open("{tmp_path}")); print(json.dumps(data))'],
+            capture_output=True, text=True
+        )
+        if result.returncode == 0:
+            return json.loads(result.stdout)
+    finally:
+        os.unlink(tmp_path)
+    return None
+
+
 def main():
     tasks_by_id = OrderedDict()
     role_ids_seen = set()
@@ -89,6 +140,26 @@ def main():
                 entry['owner'] = role_id
             if role_id not in entry['roles']:
                 entry['roles'].append(role_id)
+            # Merge event field from any occurrence
+            if 'event' in task and 'event' not in entry['task']:
+                entry['task']['event'] = task['event']
+
+    # Process event files
+    events_by_id = OrderedDict()
+    if EVENTS_DIR.exists():
+        for ef in sorted(EVENTS_DIR.glob('**/*.md')):
+            if ef.name == 'README.md':
+                continue
+            data = parse_event_front_matter(str(ef))
+            if not data or 'event_id' not in data:
+                continue
+            eid = data['event_id']
+            # Infer category from parent directory name
+            if 'category' not in data:
+                data['category'] = ef.parent.name
+            events_by_id[eid] = data
+
+    warnings = []
 
     # Write output
     with open(OUTPUT, 'w') as f:
@@ -138,7 +209,71 @@ def main():
             if tags:
                 f.write(f'    tags: {tags}\n')
 
+            event_id = task.get('event')
+            if event_id:
+                f.write(f'    event: {event_id}\n')
+                if event_id in events_by_id:
+                    evt = events_by_id[event_id]
+                    f.write(f'    event_name: "{evt["title"]}"\n')
+                    f.write(f'    event_url: /events/{evt["category"]}/{event_id}/\n')
+                else:
+                    warnings.append(f'Task "{tid}" references unknown event "{event_id}"')
+
     print(f'Generated {OUTPUT} with {len(tasks_by_id)} unique tasks')
+
+    # Build reverse map: event_id -> list of task IDs
+    event_tasks = {}
+    for tid, entry in tasks_by_id.items():
+        eid = entry['task'].get('event')
+        if eid:
+            event_tasks.setdefault(eid, []).append(tid)
+
+    # Write events output
+    with open(EVENTS_OUTPUT, 'w') as f:
+        f.write('# Auto-generated from events/**/*.md front matter.\n')
+        f.write('# Do not edit directly. Run: python3 scripts/aggregate-tasks.py\n\n')
+
+        f.write('events:\n')
+
+        for eid, evt in events_by_id.items():
+            f.write(f'\n  - event_id: {eid}\n')
+            f.write(f'    title: "{evt.get("title", eid)}"\n')
+            f.write(f'    category: {evt.get("category", "uncategorized")}\n')
+            f.write(f'    frequency: {evt.get("frequency", "annual")}\n')
+
+            months = evt.get('months')
+            if months is None:
+                f.write('    months: null\n')
+            else:
+                f.write(f'    months: {months}\n')
+
+            timing = evt.get('timing_note', '')
+            f.write(f'    timing_note: "{timing}"\n')
+            f.write(f'    owner: {evt.get("owner", "unknown")}\n')
+
+            roles = evt.get('roles', [])
+            if roles:
+                f.write(f'    roles: [{", ".join(str(r) for r in roles)}]\n')
+            else:
+                f.write('    roles: []\n')
+
+            venue = evt.get('venue', '')
+            if venue:
+                f.write(f'    venue: "{venue}"\n')
+
+            f.write(f'    url: /events/{evt.get("category", "uncategorized")}/{eid}/\n')
+
+            tasks_for_event = event_tasks.get(eid, [])
+            if tasks_for_event:
+                f.write(f'    tasks: [{", ".join(tasks_for_event)}]\n')
+            else:
+                f.write('    tasks: []\n')
+
+    print(f'Generated {EVENTS_OUTPUT} with {len(events_by_id)} events')
+
+    # Print warnings
+    for w in warnings:
+        print(f'WARNING: {w}', file=sys.stderr)
 
 
 if __name__ == '__main__':

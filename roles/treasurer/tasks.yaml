@@ -8,6 +8,7 @@
 #   months:       List of month numbers [1-12] or null (every month)
 #   timing_note:  When within the month/season
 #   role:         owner|involved (this role's relationship to the task)
+#   event:        Event ID (links task to an event page, optional)
 #   description:  What the task is
 #   tags:         Optional labels for filtering
 
@@ -80,6 +81,7 @@ tasks:
     tags: ['financial', 'dues', 'annual']
 
   - id: popcorn-order-submission
+    event: popcorn-sale
     name: "Popcorn Order Submission to Council"
     type: fundraising
     frequency: annual
@@ -91,6 +93,7 @@ tasks:
     tags: ['popcorn', 'fundraising', 'annual', 'deadline']
 
   - id: popcorn-money-collection
+    event: popcorn-sale
     name: "Popcorn Money Collection & Turnover"
     type: fundraising
     frequency: annual
@@ -102,6 +105,7 @@ tasks:
     tags: ['popcorn', 'financial', 'annual']
 
   - id: scout-account-credits
+    event: popcorn-sale
     name: "Scout Account Credits from Popcorn"
     type: financial
     frequency: annual
@@ -113,6 +117,7 @@ tasks:
     tags: ['financial', 'scout-accounts', 'popcorn', 'annual']
 
   - id: popcorn-donation-in-lieu-invoicing
+    event: popcorn-sale
     name: "Popcorn Donation-in-Lieu Invoicing"
     type: financial
     frequency: annual

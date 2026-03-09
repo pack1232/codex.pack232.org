@@ -8,12 +8,14 @@
 #   months:       List of month numbers [1-12] or null (every month)
 #   timing_note:  When within the month/season
 #   role:         owner|involved (this role's relationship to the task)
+#   event:        Event ID (links task to an event page, optional)
 #   description:  What the task is
 #   tags:         Optional labels for filtering
 
 tasks:
 
   - id: pack-meeting
+    event: pack-meeting
     name: "Pack Meeting"
     type: program
     frequency: monthly
@@ -47,6 +49,7 @@ tasks:
     tags: ['training', 'district']
 
   - id: annual-program-planning-conference
+    event: annual-program-planning-conference
     name: "Annual Program Planning Conference"
     type: program
     frequency: annual
@@ -102,6 +105,7 @@ tasks:
     tags: ['scoutbook', 'administrative', 'transitions']
 
   - id: activities-fair
+    event: activities-fair
     name: "Community Activities Fair"
     type: recruitment
     frequency: annual
@@ -124,6 +128,7 @@ tasks:
     tags: ['outdoor', 'planning', 'annual']
 
   - id: school-night-recruitment
+    event: school-night-recruitment
     name: "School-Night Recruitment Event"
     type: recruitment
     frequency: annual
@@ -135,6 +140,7 @@ tasks:
     tags: ['recruitment', 'annual', 'kickoff']
 
   - id: new-family-orientation
+    event: new-family-orientation
     name: "New Family Orientation Meeting"
     type: recruitment
     frequency: annual
@@ -146,6 +152,7 @@ tasks:
     tags: ['recruitment', 'onboarding', 'annual']
 
   - id: popcorn-pack-kickoff
+    event: popcorn-sale
     name: "Popcorn Pack Kickoff Presentation"
     type: fundraising
     frequency: annual
@@ -157,6 +164,7 @@ tasks:
     tags: ['popcorn', 'fundraising', 'annual']
 
   - id: popcorn-show-and-sells
+    event: popcorn-sale
     name: "Popcorn Show & Sells"
     type: fundraising
     frequency: annual
@@ -168,6 +176,7 @@ tasks:
     tags: ['popcorn', 'fundraising', 'annual']
 
   - id: scouting-for-food
+    event: scouting-for-food
     name: "Scouting for Food"
     type: service
     frequency: annual
@@ -190,6 +199,7 @@ tasks:
     tags: ['recharter', 'administrative', 'annual', 'jtE']
 
   - id: caroling
+    event: caroling
     name: "Caroling"
     type: service
     frequency: annual
@@ -201,6 +211,7 @@ tasks:
     tags: ['service', 'holiday', 'annual']
 
   - id: holiday-pack-meeting
+    event: holiday-pack-meeting
     name: "Holiday Pack Meeting"
     type: program
     frequency: annual
@@ -212,6 +223,7 @@ tasks:
     tags: ['program', 'holiday', 'annual']
 
   - id: aol-crossover-planning
+    event: aol-crossover-ceremony
     name: "Arrow of Light Crossover: Troop Coordination"
     type: recognition
     frequency: annual
@@ -223,6 +235,7 @@ tasks:
     tags: ['crossover', 'aol', 'recognition', 'annual']
 
   - id: charter-presentation-ceremony
+    event: charter-presentation-ceremony
     name: "Charter Presentation Ceremony"
     type: administrative
     frequency: annual
@@ -234,6 +247,7 @@ tasks:
     tags: ['charter', 'administrative', 'annual', 'ceremony']
 
   - id: aol-crossover-ceremony
+    event: aol-crossover-ceremony
     name: "Arrow of Light Crossover Ceremony"
     type: recognition
     frequency: annual
@@ -245,6 +259,7 @@ tasks:
     tags: ['crossover', 'aol', 'recognition', 'annual', 'ceremony']
 
   - id: blue-gold-final-planning
+    event: blue-gold-banquet
     name: "Blue & Gold Banquet: Final Planning"
     type: program
     frequency: annual
@@ -267,6 +282,7 @@ tasks:
     tags: ['retention', 'recruitment', 'annual']
 
   - id: blue-gold-banquet
+    event: blue-gold-banquet
     name: "Blue & Gold Banquet"
     type: program
     frequency: annual
@@ -300,6 +316,7 @@ tasks:
     tags: ['leadership', 'recruitment', 'annual']
 
   - id: spring-hike
+    event: spring-hike
     name: "Spring Hike"
     type: outdoor
     frequency: annual
@@ -322,6 +339,7 @@ tasks:
     tags: ['administrative', 'jtE', 'annual']
 
   - id: spring-service-project
+    event: spring-service-project
     name: "Spring Service Project"
     type: service
     frequency: as-needed
@@ -355,6 +373,7 @@ tasks:
     tags: ['advancement', 'recognition', 'annual']
 
   - id: end-of-year-pack-meeting
+    event: end-of-year-pack-meeting
     name: "End-of-Year Pack Meeting"
     type: program
     frequency: annual

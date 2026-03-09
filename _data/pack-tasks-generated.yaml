@@ -24,6 +24,9 @@ tasks:
     description: >
       Monthly pack meeting. All dens and families attend. Approximately one hour. Includes flag ceremony, program, advancement recognition, and closing.
     tags: ['pack-meeting', 'all-hands']
+    event: pack-meeting
+    event_name: "Pack Meeting"
+    event_url: /events/program/pack-meeting/
 
   - id: committee-meeting
     name: "Committee Meeting"
@@ -72,6 +75,9 @@ tasks:
     description: >
       Scouts who have earned the Arrow of Light badge cross over to a Scouts BSA troop. Ceremony involves Scoutmaster and troop youth leaders. Advancement Chair orders AOL badges and certificates well in advance.
     tags: ['crossover', 'aol', 'recognition', 'annual', 'ceremony']
+    event: aol-crossover-ceremony
+    event_name: "Arrow of Light Crossover Ceremony"
+    event_url: /events/ceremonies/aol-crossover-ceremony/
 
   - id: blue-gold-banquet
     name: "Blue & Gold Banquet"
@@ -84,6 +90,9 @@ tasks:
     description: >
       Annual Blue & Gold Banquet celebrating Cub Scouting's founding. Recognizes Scout accomplishments, honors leaders, includes advancement ceremonies and entertainment. Coordinators: Becky D'Anza, Andrea Dievendorf, Lindsay Knott, Kara Giglia.
     tags: ['blue-gold', 'program', 'annual', 'celebration']
+    event: blue-gold-banquet
+    event_name: "Blue & Gold Banquet"
+    event_url: /events/program/blue-gold-banquet/
 
   - id: pinewood-derby-event
     name: "Pinewood Derby Race"
@@ -96,6 +105,9 @@ tasks:
     description: >
       Annual Pinewood Derby race. Team sets up track and timing system, manages car check-in, runs the race, empanels judges for Best in Show, and distributes awards.
     tags: ['pinewood-derby', 'program', 'annual', 'event']
+    event: pinewood-derby
+    event_name: "Pinewood Derby"
+    event_url: /events/program/pinewood-derby/
 
   - id: final-advancement-push
     name: "Final Advancement Push"
@@ -120,6 +132,9 @@ tasks:
     description: >
       Final pack meeting of the Scouting year. Recognize all Scouts with remaining advancement awards, celebrate the year, thank volunteers, and preview next year.
     tags: ['program', 'annual', 'celebration']
+    event: end-of-year-pack-meeting
+    event_name: "End-of-Year Pack Meeting"
+    event_url: /events/program/end-of-year-pack-meeting/
 
   - id: district-roundtable
     name: "District Roundtable"
@@ -156,6 +171,9 @@ tasks:
     description: >
       Annual meeting to set the pack's program calendar for the coming Scouting year. Sets pack meeting dates, themes, major events, and assigns activity coordinators.
     tags: ['planning', 'annual']
+    event: annual-program-planning-conference
+    event_name: "Annual Program Planning Conference"
+    event_url: /events/program/annual-program-planning-conference/
 
   - id: recharter-adult-applications
     name: "Recharter: Collect & Route Adult Applications"
@@ -204,6 +222,9 @@ tasks:
     description: >
       Formal ceremony at the pack meeting in which the new charter is presented to the pack by the Charter Org Rep, renewing the pack's sanction for the new year.
     tags: ['charter', 'administrative', 'annual', 'ceremony']
+    event: charter-presentation-ceremony
+    event_name: "Charter Presentation Ceremony"
+    event_url: /events/ceremonies/charter-presentation-ceremony/
 
   - id: leadership-vacancy-fill
     name: "Leadership Vacancy Recruitment"
@@ -288,6 +309,9 @@ tasks:
     description: >
       Orientation meeting for families who joined through school-night recruitment. Covers Cub Scouting overview, Pack 232 structure, website, dues, uniforms, and Q&A.
     tags: ['recruitment', 'onboarding', 'annual']
+    event: new-family-orientation
+    event_name: "New Family Orientation"
+    event_url: /events/recruitment/new-family-orientation/
 
   - id: annual-budget-approval
     name: "Annual Budget Approval"
@@ -372,6 +396,9 @@ tasks:
     description: >
       Confirm the Blue & Gold Banquet venue (Glenmont Elementary gym or alternative), date, and any entertainment the committee selects.
     tags: ['blue-gold', 'program', 'planning', 'annual']
+    event: blue-gold-banquet
+    event_name: "Blue & Gold Banquet"
+    event_url: /events/program/blue-gold-banquet/
 
   - id: pinewood-derby-gym-reservation
     name: "Pinewood Derby: Gym Reservation"
@@ -384,6 +411,9 @@ tasks:
     description: >
       Committee Chair reserves Glenmont Elementary gym for the Pinewood Derby. Pinewood Derby Team sets the date and confirms with Committee Chair.
     tags: ['pinewood-derby', 'facilities', 'annual']
+    event: pinewood-derby
+    event_name: "Pinewood Derby"
+    event_url: /events/program/pinewood-derby/
 
   - id: blue-gold-final-planning
     name: "Blue & Gold Banquet: Final Planning"
@@ -396,6 +426,9 @@ tasks:
     description: >
       Finalize all Blue & Gold Banquet details: food order, entertainment, ceremony program, invitations, hospitality setup (drinks, paper goods). Coordinators: Becky D'Anza, Andrea Dievendorf, Lindsay Knott, Kara Giglia.
     tags: ['blue-gold', 'planning', 'annual']
+    event: blue-gold-banquet
+    event_name: "Blue & Gold Banquet"
+    event_url: /events/program/blue-gold-banquet/
 
   - id: next-year-leadership-recruitment
     name: "Next-Year Den Leadership Recruitment"
@@ -420,6 +453,9 @@ tasks:
     description: >
       Pinewood Derby Team purchases Pinewood Derby kits for all Scouts (and Lego Derby kits for Lions). Distributes kits at a pack meeting or den meetings. Lead: Jeff Middendorf. Team: Dave Coup, Gary Robbins, Jeff Dievendorf, Charles Giglia, Chris Orth.
     tags: ['pinewood-derby', 'program', 'annual']
+    event: pinewood-derby
+    event_name: "Pinewood Derby"
+    event_url: /events/program/pinewood-derby/
 
   - id: pinewood-derby-track-storage
     name: "Pinewood Derby: Track Storage"
@@ -432,6 +468,9 @@ tasks:
     description: >
       Committee Chair and Pinewood Derby Team arrange year-round storage of the Pinewood Derby track and timing system.
     tags: ['pinewood-derby', 'administrative', 'facilities', 'annual']
+    event: pinewood-derby
+    event_name: "Pinewood Derby"
+    event_url: /events/program/pinewood-derby/
 
   - id: budget-review
     name: "Mid-Year Budget Review"
@@ -552,6 +591,9 @@ tasks:
     description: >
       Pack 232 sets up a booth at community activities fairs (e.g., Bethlehem Activities Fair) to recruit prospective Scouts. Scouts in uniform attend. Contact info collected for follow-up.
     tags: ['recruitment', 'visibility', 'community']
+    event: activities-fair
+    event_name: "Community Activities Fair"
+    event_url: /events/recruitment/activities-fair/
 
   - id: school-night-recruitment
     name: "School-Night Recruitment Event"
@@ -564,6 +606,9 @@ tasks:
     description: >
       Primary annual Scout recruitment event held at Glenmont Elementary. Cubmaster presents the Cub Scout program; families sign up on the spot. Follow up within 48 hours.
     tags: ['recruitment', 'annual', 'kickoff']
+    event: school-night-recruitment
+    event_name: "School-Night Recruitment Event"
+    event_url: /events/recruitment/school-night-recruitment/
 
   - id: popcorn-pack-kickoff
     name: "Popcorn Pack Kickoff Presentation"
@@ -576,6 +621,9 @@ tasks:
     description: >
       Popcorn Kernel presents the popcorn sale to all Scouts and families at the September pack meeting. Explains goals, prizes, Scout account credits, take-order forms, and Show and Sell schedule.
     tags: ['popcorn', 'fundraising', 'annual']
+    event: popcorn-sale
+    event_name: "Annual Popcorn Sale"
+    event_url: /events/fundraising/popcorn-sale/
 
   - id: popcorn-show-and-sells
     name: "Popcorn Show & Sells"
@@ -588,6 +636,9 @@ tasks:
     description: >
       Scouts staff tables in front of local merchants (grocery stores, etc.) and sell popcorn directly to customers. Kernel schedules shifts and coordinates inventory.
     tags: ['popcorn', 'fundraising', 'annual']
+    event: popcorn-sale
+    event_name: "Annual Popcorn Sale"
+    event_url: /events/fundraising/popcorn-sale/
 
   - id: scouting-for-food
     name: "Scouting for Food"
@@ -600,6 +651,9 @@ tasks:
     description: >
       Annual BSA food drive. Scouts collect canned goods door-to-door in assigned areas. Coordinate area assignments with district/other packs, arrange food pantry drop-off, provide bags and door hangers. Lead coordinator: Kara Giglia.
     tags: ['service', 'annual', 'food-drive']
+    event: scouting-for-food
+    event_name: "Scouting for Food"
+    event_url: /events/service/scouting-for-food/
 
   - id: caroling
     name: "Caroling"
@@ -612,6 +666,9 @@ tasks:
     description: >
       Scouts carol in the neighborhood. Coordinator arranges prepared neighbors, procures hot chocolate for Scouts afterward, and delivers any monetary proceeds to the beneficiary selected by the Pack Committee. Coordinator: Hank Tripp.
     tags: ['service', 'holiday', 'annual']
+    event: caroling
+    event_name: "Caroling"
+    event_url: /events/service/caroling/
 
   - id: holiday-pack-meeting
     name: "Holiday Pack Meeting"
@@ -624,6 +681,9 @@ tasks:
     description: >
       Holiday-themed pack meeting. May include skits, songs, advancement ceremonies, and holiday celebration activities.
     tags: ['program', 'holiday', 'annual']
+    event: holiday-pack-meeting
+    event_name: "Holiday Pack Meeting"
+    event_url: /events/program/holiday-pack-meeting/
 
   - id: aol-crossover-planning
     name: "Arrow of Light Crossover: Troop Coordination"
@@ -636,6 +696,9 @@ tasks:
     description: >
       Cubmaster and AOL den leader confirm which Scouts BSA troop(s) AOL Scouts will join. Plan crossover ceremony with Scoutmaster and troop youth leaders. Target January or February so Scouts can attend troop campouts before summer camp.
     tags: ['crossover', 'aol', 'recognition', 'annual']
+    event: aol-crossover-ceremony
+    event_name: "Arrow of Light Crossover Ceremony"
+    event_url: /events/ceremonies/aol-crossover-ceremony/
 
   - id: new-family-retention-checkin
     name: "New Family Retention Check-In"
@@ -672,6 +735,9 @@ tasks:
     description: >
       Annual spring hike open to all dens and families. Coordinator: Dave Coup.
     tags: ['hike', 'outdoor', 'annual']
+    event: spring-hike
+    event_name: "Spring Hike"
+    event_url: /events/outdoor/spring-hike/
 
   - id: spring-service-project
     name: "Spring Service Project"
@@ -684,6 +750,9 @@ tasks:
     description: >
       Optional spring service project (e.g., park cleanup, trail maintenance, school grounds cleanup). Service Chair coordinates with the beneficiary and plans logistics.
     tags: ['service', 'outdoor', 'spring']
+    event: spring-service-project
+    event_name: "Spring Service Project"
+    event_url: /events/service/spring-service-project/
 
   - id: retention-outreach
     name: "End-of-Year Retention Outreach"
@@ -732,6 +801,9 @@ tasks:
     description: >
       Prepare recruitment fliers, sign-up forms, info packets, and branded materials for school-night events and activities fairs. Coordinate with Twin Rivers Council for BSA-produced materials (inflatable archery, display kits, etc.).
     tags: ['recruitment', 'marketing']
+    event: school-night-recruitment
+    event_name: "School-Night Recruitment Event"
+    event_url: /events/recruitment/school-night-recruitment/
 
   - id: facebook-event-posting
     name: "Facebook Event Posting"
@@ -756,6 +828,9 @@ tasks:
     description: >
       Annual fall camping or outdoor event. Reserve site/cabin in advance. Procure food and supplies. Coordinate with Cubmaster for program elements. Coordinators: Ben Friedman & Hank Tripp.
     tags: ['camping', 'outdoor', 'annual']
+    event: fall-back-to-scouting
+    event_name: "Fall Back to Scouting"
+    event_url: /events/outdoor/fall-back-to-scouting/
 
   - id: valleycats-scout-night
     name: "ValleyCats Scout Night"
@@ -768,6 +843,9 @@ tasks:
     description: >
       Group outing to a Tri-City ValleyCats baseball game. Reserve group tickets in advance. Coordinator: Jara Traina.
     tags: ['outing', 'outdoor', 'annual']
+    event: valleycats-scout-night
+    event_name: "ValleyCats Scout Night"
+    event_url: /events/outings/valleycats-scout-night/
 
   - id: spring-hike-planning
     name: "Spring Hike Planning"
@@ -780,6 +858,9 @@ tasks:
     description: >
       Identify hiking site, check trail conditions, obtain any permits, plan logistics and transportation. Coordinator: Dave Coup.
     tags: ['hike', 'outdoor', 'annual']
+    event: spring-hike
+    event_name: "Spring Hike"
+    event_url: /events/outdoor/spring-hike/
 
   - id: fall-hike-planning
     name: "Fall Hike Planning"
@@ -840,6 +921,9 @@ tasks:
     description: >
       Popcorn Kernel collects all Scout take-order forms, enters the pack's order into the Trail's End / Pecatonica system, and submits to Twin Rivers Council District Office by the annual deadline.
     tags: ['popcorn', 'fundraising', 'annual', 'deadline']
+    event: popcorn-sale
+    event_name: "Annual Popcorn Sale"
+    event_url: /events/fundraising/popcorn-sale/
 
   - id: popcorn-money-collection
     name: "Popcorn Money Collection & Turnover"
@@ -852,6 +936,9 @@ tasks:
     description: >
       Popcorn Kernel collects popcorn proceeds from Scout families. All money turned over to the Treasurer. Kernel provides per-Scout sales data for Scout account credits.
     tags: ['popcorn', 'financial', 'annual']
+    event: popcorn-sale
+    event_name: "Annual Popcorn Sale"
+    event_url: /events/fundraising/popcorn-sale/
 
   - id: scout-account-credits
     name: "Scout Account Credits from Popcorn"
@@ -864,6 +951,9 @@ tasks:
     description: >
       Treasurer credits individual Scout accounts in QuickBooks based on per-Scout popcorn sales data provided by the Popcorn Kernel.
     tags: ['financial', 'scout-accounts', 'popcorn', 'annual']
+    event: popcorn-sale
+    event_name: "Annual Popcorn Sale"
+    event_url: /events/fundraising/popcorn-sale/
 
   - id: popcorn-donation-in-lieu-invoicing
     name: "Popcorn Donation-in-Lieu Invoicing"
@@ -876,6 +966,9 @@ tasks:
     description: >
       Treasurer invoices Scout families who did not meet the popcorn target for "donation in lieu" — additional dues owed to make up the fundraising shortfall.
     tags: ['financial', 'popcorn', 'dues', 'annual']
+    event: popcorn-sale
+    event_name: "Annual Popcorn Sale"
+    event_url: /events/fundraising/popcorn-sale/
 
   - id: quickbooks-license-renewal
     name: "QuickBooks / TechSoup License Renewal"
@@ -924,6 +1017,9 @@ tasks:
     description: >
       Popcorn Kernel registers the pack with Twin Rivers Council for the annual popcorn sale and gains access to the Trail's End / Pecatonica ordering system.
     tags: ['popcorn', 'fundraising', 'annual']
+    event: popcorn-sale
+    event_name: "Annual Popcorn Sale"
+    event_url: /events/fundraising/popcorn-sale/
 
   - id: popcorn-council-kickoff
     name: "Popcorn Kernel Attends Council Kickoff"
@@ -936,6 +1032,9 @@ tasks:
     description: >
       Popcorn Kernel attends the Twin Rivers Council annual popcorn kickoff meeting. Picks up sales materials, learns about prize program, and gets unit-level targets.
     tags: ['popcorn', 'fundraising', 'annual']
+    event: popcorn-sale
+    event_name: "Annual Popcorn Sale"
+    event_url: /events/fundraising/popcorn-sale/
 
   - id: popcorn-pickup-distribution
     name: "Popcorn Pickup & Distribution"
@@ -948,6 +1047,9 @@ tasks:
     description: >
       Popcorn Kernel picks up the pack's popcorn from the district, sorts it by Scout, and distributes to Scout families at a pack meeting or designated pickup.
     tags: ['popcorn', 'fundraising', 'annual']
+    event: popcorn-sale
+    event_name: "Annual Popcorn Sale"
+    event_url: /events/fundraising/popcorn-sale/
 
   - id: popcorn-year-end-wrap
     name: "Popcorn Kernel Attends Year-End Wrap"
@@ -960,6 +1062,9 @@ tasks:
     description: >
       Popcorn Kernel attends the council's year-end popcorn wrap meeting to close out the sale season, reconcile any issues, and prepare for next year.
     tags: ['popcorn', 'fundraising', 'annual']
+    event: popcorn-sale
+    event_name: "Annual Popcorn Sale"
+    event_url: /events/fundraising/popcorn-sale/
 
   - id: pinewood-derby-rules
     name: "Pinewood Derby: Rules Distribution"
@@ -972,3 +1077,6 @@ tasks:
     description: >
       Pinewood Derby Team develops and distributes race rules including weight limits, size restrictions, and Best in Show judging criteria.
     tags: ['pinewood-derby', 'program', 'annual']
+    event: pinewood-derby
+    event_name: "Pinewood Derby"
+    event_url: /events/program/pinewood-derby/

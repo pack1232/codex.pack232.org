@@ -1,7 +1,9 @@
 {% comment %}
   Role Tasks Include
   Usage: {% include role-tasks.html role_id="cubmaster" %}
-  Renders a flat table of tasks filtered to the given role.
+  Renders tasks filtered to the given role, split into two sections:
+    - "Your Tasks" for pure recurring tasks (no event linked)
+    - "Your Events" for event-related tasks
   Reads from pack-tasks-generated.yaml (built by scripts/aggregate-tasks.py)
   with fallback to pack-tasks.yaml.
 {% endcomment %}
@@ -32,19 +34,49 @@
   {% endif %}
 {% endfor %}
 
-{% if my_tasks.size > 0 %}
+{% comment %} Split into pure tasks (no event) and event tasks {% endcomment %}
+{% assign my_pure_tasks = "" | split: "" %}
+{% assign my_event_tasks = "" | split: "" %}
+{% for task in my_tasks %}
+  {% if task.event %}
+    {% assign my_event_tasks = my_event_tasks | push: task %}
+  {% else %}
+    {% assign my_pure_tasks = my_pure_tasks | push: task %}
+  {% endif %}
+{% endfor %}
+
+{% if my_pure_tasks.size > 0 %}
 ---
 
-## Your Annual Tasks
+## Your Tasks
 
-Tasks and events from the [Pack 232 annual task list]({{ '/roles/annual-calendar/' | relative_url }}) that involve this role. **Owner** = primary responsibility; **Involved** = supporting role.
+Recurring responsibilities from the [Pack 232 annual calendar]({{ '/roles/annual-calendar/' | relative_url }}) that involve this role. **Owner** = primary responsibility; **Involved** = supporting role.
 
 | Task | Type | When | Your Role |
 |---|---|---|---|
 {% comment %} First pass: monthly recurring (months is empty/null) {% endcomment %}
-{% for task in my_tasks %}{% unless task.months %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}| {{ task.name }} | {{ task.type }} | Every month | {{ myrole }} |
+{% for task in my_pure_tasks %}{% unless task.months %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}| {{ task.name }} | {{ task.type }} | Every month | {{ myrole }} |
 {% endunless %}{% endfor %}{% comment %} Second pass: July through June (months 7,8,9,10,11,12,1,2,3,4,5,6) {% endcomment %}
 {% assign scouting_order = "7,8,9,10,11,12,1,2,3,4,5,6" | split: "," %}
-{% for mo in scouting_order %}{% assign mo_num = mo | plus: 0 %}{% for task in my_tasks %}{% if task.months %}{% for m in task.months %}{% if m == mo_num %}{% assign mo_index = m | minus: 1 %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}| {{ task.name }} | {{ task.type }} | {{ month_names[mo_index] }} | {{ myrole }} |
+{% for mo in scouting_order %}{% assign mo_num = mo | plus: 0 %}{% for task in my_pure_tasks %}{% if task.months %}{% for m in task.months %}{% if m == mo_num %}{% assign mo_index = m | minus: 1 %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}| {{ task.name }} | {{ task.type }} | {{ month_names[mo_index] }} | {{ myrole }} |
 {% endif %}{% endfor %}{% endif %}{% endfor %}{% endfor %}
+{% endif %}
+
+{% if my_event_tasks.size > 0 %}
+---
+
+## Your Events
+
+Event-related tasks from the [Pack 232 events calendar]({{ '/events/' | relative_url }}). Click the event name to see the full event page.
+
+| Event | Task | When | Your Role |
+|---|---|---|---|
+{% comment %} First pass: monthly recurring (months is empty/null) {% endcomment %}
+{% for task in my_event_tasks %}{% unless task.months %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}{% if task.event_url %}| [{{ task.event_name }}]({{ task.event_url | relative_url }}) | {{ task.name }} | Every month | {{ myrole }} |
+{% else %}| {{ task.event_name | default: task.event }} | {{ task.name }} | Every month | {{ myrole }} |
+{% endif %}{% endunless %}{% endfor %}{% comment %} Second pass: July through June (months 7,8,9,10,11,12,1,2,3,4,5,6) {% endcomment %}
+{% assign scouting_order = "7,8,9,10,11,12,1,2,3,4,5,6" | split: "," %}
+{% for mo in scouting_order %}{% assign mo_num = mo | plus: 0 %}{% for task in my_event_tasks %}{% if task.months %}{% for m in task.months %}{% if m == mo_num %}{% assign mo_index = m | minus: 1 %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}{% if task.event_url %}| [{{ task.event_name }}]({{ task.event_url | relative_url }}) | {{ task.name }} | {{ month_names[mo_index] }} | {{ myrole }} |
+{% else %}| {{ task.event_name | default: task.event }} | {{ task.name }} | {{ month_names[mo_index] }} | {{ myrole }} |
+{% endif %}{% endif %}{% endfor %}{% endif %}{% endfor %}{% endfor %}
 {% endif %}

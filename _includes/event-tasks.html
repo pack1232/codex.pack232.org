@@ -1,0 +1,35 @@
+{% comment %}
+  Event Tasks Include
+  Usage: {% include event-tasks.html event_id="pinewood-derby" %}
+  Renders a table of tasks filtered to the given event.
+  Reads from pack-tasks-generated.yaml (built by scripts/aggregate-tasks.py)
+  with fallback to pack-tasks.yaml.
+{% endcomment %}
+
+{% assign event = include.event_id %}
+{% if site.data["pack-tasks-generated"] %}
+  {% assign tasks = site.data["pack-tasks-generated"].tasks %}
+{% else %}
+  {% assign tasks = site.data["pack-tasks"].tasks %}
+{% endif %}
+{% assign month_names = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," %}
+
+{% comment %} Collect tasks where task.event matches the given event_id {% endcomment %}
+{% assign my_tasks = "" | split: "" %}
+{% for task in tasks %}
+  {% if task.event == event %}
+    {% assign my_tasks = my_tasks | push: task %}
+  {% endif %}
+{% endfor %}
+
+{% if my_tasks.size > 0 %}
+
+| Task | Role | When | Owner |
+|---|---|---|---|
+{% comment %} First pass: monthly recurring (months is empty/null) {% endcomment %}
+{% for task in my_tasks %}{% unless task.months %}| {{ task.name }} | {{ task.type }} | Every month | {{ task.owner }} |
+{% endunless %}{% endfor %}{% comment %} Second pass: July through June (months 7,8,9,10,11,12,1,2,3,4,5,6) {% endcomment %}
+{% assign scouting_order = "7,8,9,10,11,12,1,2,3,4,5,6" | split: "," %}
+{% for mo in scouting_order %}{% assign mo_num = mo | plus: 0 %}{% for task in my_tasks %}{% if task.months %}{% for m in task.months %}{% if m == mo_num %}{% assign mo_index = m | minus: 1 %}| {{ task.name }} | {{ task.type }} | {{ month_names[mo_index] }} | {{ task.owner }} |
+{% endif %}{% endfor %}{% endif %}{% endfor %}{% endfor %}
+{% endif %}
