@@ -29,9 +29,15 @@ defaults:
       path: "roles"
     values:
       nav_exclude: true
+  - scope:
+      path: "data"
+    values:
+      nav_exclude: true
 
 exclude:
+  - README.md
   - roles/*/agent
   - docs/tmp
   - docs/_archive
   - Gemfile.lock
+  - CLAUDE.md
