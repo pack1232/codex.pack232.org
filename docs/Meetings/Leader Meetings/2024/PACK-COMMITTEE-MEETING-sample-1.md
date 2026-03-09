@@ -25,7 +25,7 @@ Date: ___________ Time: _________ Location: ___________________
 Next Pack Meeting
  Date: ___________ Time: _________  Location: __________________
 Theme or Special Activity: _____________________________ |
-| --- | --- | --- | --- |
+| --- | --- |
 | Agenda Items | Agenda Items | Description | Person Responsible |
 | Welcome<br>Call To Order | Welcome<br>Call To Order | Welcome<br>New Families<br>New Leaders<br>Special Guests | Pack Committee Chair |
 | Evaluate the Previous Month and Plan Ahead | Evaluate the Previous Month and Plan Ahead | Treasurer’s Report<br>Last Month’s Financials<br>Year to Date Financials<br>Outstanding income and expenses | Pack Treasurer |

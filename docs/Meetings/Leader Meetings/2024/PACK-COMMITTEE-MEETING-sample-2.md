@@ -25,7 +25,7 @@ Date: ___________ Time: _________ Location: ___________________
 Next Pack Meeting
  Date: ___________ Time: _________  Location: __________________
 Theme or Special Activity: _____________________________ |
-| --- | --- | --- | --- |
+| --- | --- |
 | Agenda Items | Agenda Items | Description | Person Responsible |
 | Welcome<br>Call To Order | Welcome<br>Call To Order | Welcome<br>New Families<br>New Leaders<br>Special Guests | Pack Committee Chair |
 | Approval of Minutes | Approval of Minutes | Last Month Pack Committee Meeting Minutes | Pack Secretary |

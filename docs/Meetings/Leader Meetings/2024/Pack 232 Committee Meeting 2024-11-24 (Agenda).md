@@ -10,10 +10,11 @@ category: "2024"
 draft: false
 ---
 
-|  | Pack 232 Committee Meeting Agenda<br>November 2024 | Pack 232 Committee Meeting Agenda<br>November 2024 | Pack 232 Committee Meeting Agenda<br>November 2024 |
-| --- | --- | --- | --- |
-| Called by: | Josh McWilliam | Note Taker: | Daniel O’Brien |
-| Meeting Time: | November 24, 2024, 8:00 - 8:30 PM | November 24, 2024, 8:00 - 8:30 PM | November 24, 2024, 8:00 - 8:30 PM |
+|  | Pack 232 Committee Meeting Agenda<br>November 2024 |
+| --- | --- |
+| Called by: | Josh McWilliam |
+| Note Taker: | Daniel O’Brien |
+| Meeting Time: | November 24, 2024, 8:00 - 8:30 PM |
 | Virtual Attendance: | https://us02web.zoom.us/j/85051117571?pwd=Ptf9E246etC2XBbPq9xEqNI9a6akgm.1 |
 
 Meeting ID: 850 5111 7571

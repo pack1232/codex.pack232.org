@@ -10,11 +10,12 @@ category: "2025"
 draft: false
 ---
 
-|  | Pack 232 Committee Meeting Agenda<br>May 2025 | Pack 232 Committee Meeting Agenda<br>May 2025 | Pack 232 Committee Meeting Agenda<br>May 2025 |
-| --- | --- | --- | --- |
-| Called by: | Josh McWilliam | Note Taker: | Daniel O’Brien |
-| Meeting Time: | May 04, 2025, 8:00 - 8:30 PM | May 04, 2025, 8:00 - 8:30 PM | May 04, 2025, 8:00 - 8:30 PM |
-| Virtual Attendance: | Google Meet joining info<br>Video call link: https://meet.google.com/jya-orah-cqu<br>Or dial: ‪(US) +1 260-527-2150‬ PIN: ‪819 073 682‬#<br>More phone numbers: https://tel.meet/jya-orah-cqu?pin=4851064934082 | Google Meet joining info<br>Video call link: https://meet.google.com/jya-orah-cqu<br>Or dial: ‪(US) +1 260-527-2150‬ PIN: ‪819 073 682‬#<br>More phone numbers: https://tel.meet/jya-orah-cqu?pin=4851064934082 | Google Meet joining info<br>Video call link: https://meet.google.com/jya-orah-cqu<br>Or dial: ‪(US) +1 260-527-2150‬ PIN: ‪819 073 682‬#<br>More phone numbers: https://tel.meet/jya-orah-cqu?pin=4851064934082 |
+|  | Pack 232 Committee Meeting Agenda<br>May 2025 |
+| --- | --- |
+| Called by: | Josh McWilliam |
+| Note Taker: | Daniel O’Brien |
+| Meeting Time: | May 04, 2025, 8:00 - 8:30 PM |
+| Virtual Attendance: | Google Meet joining info<br>Video call link: https://meet.google.com/jya-orah-cqu<br>Or dial: ‪(US) +1 260-527-2150‬ PIN: ‪819 073 682‬#<br>More phone numbers: https://tel.meet/jya-orah-cqu?pin=4851064934082 |
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

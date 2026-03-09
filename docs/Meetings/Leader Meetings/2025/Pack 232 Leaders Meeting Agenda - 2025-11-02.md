@@ -14,11 +14,12 @@ draft: false
 
 ## Leaders Meeting
 
-|  | Pack 232 Committee / Leader Meeting Agenda<br>November 2025 | Pack 232 Committee / Leader Meeting Agenda<br>November 2025 | Pack 232 Committee / Leader Meeting Agenda<br>November 2025 |
-| --- | --- | --- | --- |
-| Called by: | Josh McWilliam | Note Taker: | Daniel O’Brien |
-| Meeting Time: | November 02, 2025, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM | November 02, 2025, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM | November 02, 2025, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM |
-| Virtual Attendance: | Google Meet Info:<br>Video call link: https://meet.google.com/kcy-rtfw-ods<br>Or dial: ‪(US) +1 402-772-0284‬ PIN: ‪576 701 450‬# | Google Meet Info:<br>Video call link: https://meet.google.com/kcy-rtfw-ods<br>Or dial: ‪(US) +1 402-772-0284‬ PIN: ‪576 701 450‬# | Google Meet Info:<br>Video call link: https://meet.google.com/kcy-rtfw-ods<br>Or dial: ‪(US) +1 402-772-0284‬ PIN: ‪576 701 450‬# |
+|  | Pack 232 Committee / Leader Meeting Agenda<br>November 2025 |
+| --- | --- |
+| Called by: | Josh McWilliam |
+| Note Taker: | Daniel O’Brien |
+| Meeting Time: | November 02, 2025, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM |
+| Virtual Attendance: | Google Meet Info:<br>Video call link: https://meet.google.com/kcy-rtfw-ods<br>Or dial: ‪(US) +1 402-772-0284‬ PIN: ‪576 701 450‬# |
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

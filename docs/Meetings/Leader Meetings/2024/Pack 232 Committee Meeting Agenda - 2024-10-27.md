@@ -10,10 +10,11 @@ category: "2024"
 draft: false
 ---
 
-|  | Pack 232 Committee Meeting Agenda<br>October 2024 | Pack 232 Committee Meeting Agenda<br>October 2024 | Pack 232 Committee Meeting Agenda<br>October 2024 |
-| --- | --- | --- | --- |
-| Called by: | Josh McWilliam | Note Taker: | Daniel O’Brien |
-| Meeting Time: | October 27, 2024, 8:00 - 8:30 PM | October 27, 2024, 8:00 - 8:30 PM | October 27, 2024, 8:00 - 8:30 PM |
+|  | Pack 232 Committee Meeting Agenda<br>October 2024 |
+| --- | --- |
+| Called by: | Josh McWilliam |
+| Note Taker: | Daniel O’Brien |
+| Meeting Time: | October 27, 2024, 8:00 - 8:30 PM |
 | Virtual Attendance: | https://us02web.zoom.us/j/81493038998?pwd=fuRwyrGKNKD3jU3Cbt7BbbAnj02lbk.1<br>Meeting ID: 814 9303 8998<br>Passcode: 404842 |
 
 Dial by your location: +1 929 205 6099 US (New York)

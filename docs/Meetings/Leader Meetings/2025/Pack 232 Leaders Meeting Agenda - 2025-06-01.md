@@ -10,11 +10,12 @@ category: "2025"
 draft: false
 ---
 
-|  | Pack 232 Committee Meeting Agenda<br>June 2025 | Pack 232 Committee Meeting Agenda<br>June 2025 | Pack 232 Committee Meeting Agenda<br>June 2025 |
-| --- | --- | --- | --- |
-| Called by: | Josh McWilliam | Note Taker: | Daniel O’Brien |
-| Meeting Time: | June 01, 2025, 8:00 - 8:30 PM | June 01, 2025, 8:00 - 8:30 PM | June 01, 2025, 8:00 - 8:30 PM |
-| Virtual Attendance: | Google Meet joining info<br>Video call link: https://meet.google.com/vvf-qnaq-nin<br>Or dial: ‪(US) +1 361-596-6851‬ PIN: ‪223 941 814‬# | Google Meet joining info<br>Video call link: https://meet.google.com/vvf-qnaq-nin<br>Or dial: ‪(US) +1 361-596-6851‬ PIN: ‪223 941 814‬# | Google Meet joining info<br>Video call link: https://meet.google.com/vvf-qnaq-nin<br>Or dial: ‪(US) +1 361-596-6851‬ PIN: ‪223 941 814‬# |
+|  | Pack 232 Committee Meeting Agenda<br>June 2025 |
+| --- | --- |
+| Called by: | Josh McWilliam |
+| Note Taker: | Daniel O’Brien |
+| Meeting Time: | June 01, 2025, 8:00 - 8:30 PM |
+| Virtual Attendance: | Google Meet joining info<br>Video call link: https://meet.google.com/vvf-qnaq-nin<br>Or dial: ‪(US) +1 361-596-6851‬ PIN: ‪223 941 814‬# |
 
 | Item | Lead | Topics / Resources |
 | --- | --- | --- |

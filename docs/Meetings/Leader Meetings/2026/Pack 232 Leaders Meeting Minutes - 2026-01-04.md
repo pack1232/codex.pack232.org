@@ -114,7 +114,8 @@ Confirm Charlesworth's availability for the January pack meeting.
 Den Leaders:
 Contact families on the membership renewal list.
 
-|  | Pack 232 Committee / Leader Meeting Minutes<br>January 2026 | Pack 232 Committee / Leader Meeting Minutes<br>January 2026 | Pack 232 Committee / Leader Meeting Minutes<br>January 2026 |
-| --- | --- | --- | --- |
-| Called by: | Josh McWilliam | Note Taker: | Daniel O’Brien |
-| Meeting Time: | January 04, 2026, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM | January 04, 2026, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM | January 04, 2026, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM |
+|  | Pack 232 Committee / Leader Meeting Minutes<br>January 2026 |
+| --- | --- |
+| Called by: | Josh McWilliam |
+| Note Taker: | Daniel O’Brien |
+| Meeting Time: | January 04, 2026, 8:00 - 8:30 PM, Cubmaster / Den Leader Meeting to Follow 8:30 - 9:00 PM |

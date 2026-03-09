@@ -15,10 +15,11 @@ draft: false
 # Past Action Items
 [Josh] Finalize 2023-34 Books and create proposed budget to hand over treasurer role
 
-|  | Pack 232 Committee Meeting Agenda<br>September 2024 | Pack 232 Committee Meeting Agenda<br>September 2024 | Pack 232 Committee Meeting Agenda<br>September 2024 |
-| --- | --- | --- | --- |
-| Called by: | Josh McWilliam | Note Taker: | Dan O’Brien |
-| Meeting Time: | September 29, 2024, 8:00 - 8:30 PM | September 29, 2024, 8:00 - 8:30 PM | September 29, 2024, 8:00 - 8:30 PM |
+|  | Pack 232 Committee Meeting Agenda<br>September 2024 |
+| --- | --- |
+| Called by: | Josh McWilliam |
+| Note Taker: | Dan O’Brien |
+| Meeting Time: | September 29, 2024, 8:00 - 8:30 PM |
 | Virtual Attendance: | https://us02web.zoom.us/j/82829303068?pwd=cR6i3dNCSlLlbqgp3GXE68eqKklivW.1<br>Meeting ID: 828 2930 3068<br>Passcode: 077408 |
 
 Dial by your location: +1 929 205 6099 US (New York)
@@ -38,7 +39,7 @@ Meeting ID: 828 2930 3068
 Passcode: 077408 |
 
 | Time | Item | Lead | Topics / Resources |
-| --- | --- | --- | --- |
+| --- | --- |
 |  | Roles | Josh McWilliam | 2024-25 Leader Roster<br>New Lion Leaders: Courtney Baldwin & Kristianna McWilliam<br>Dan O'Brien as Secretary<br>Help Needed: Recruitment, Fundraising, Popcorn, Training |
 |  | Secretary | Daniel O'Brien | September 2, 2024 Meeting Minutes |
 |  | Treasurer | Josh McWilliam / Bob Baldwin | Treasurer Transition - Account Signers<br>Budget |

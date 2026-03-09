@@ -15,15 +15,16 @@ draft: false
 # Past Action Items
 [Josh] Finalize 2023-34 Books and create proposed budget to hand over treasurer role
 
-|  | Pack 232 Committee Meeting Agenda<br>September 2024 | Pack 232 Committee Meeting Agenda<br>September 2024 | Pack 232 Committee Meeting Agenda<br>September 2024 |
-| --- | --- | --- | --- |
-| Called by: | Josh McWilliam | Note Taker: | ? |
-| Meeting Time: | September 02, 2024, 8:00 - 8:30 PM | September 02, 2024, 8:00 - 8:30 PM | September 02, 2024, 8:00 - 8:30 PM |
-| Meeting Location: | Virtual via Google Hangouts | Virtual via Google Hangouts | Virtual via Google Hangouts |
-| Virtual Attendance: | meet.google.com/dce-ukre-aae | meet.google.com/dce-ukre-aae | meet.google.com/dce-ukre-aae |
+|  | Pack 232 Committee Meeting Agenda<br>September 2024 |
+| --- | --- |
+| Called by: | Josh McWilliam |
+| Note Taker: | ? |
+| Meeting Time: | September 02, 2024, 8:00 - 8:30 PM |
+| Meeting Location: | Virtual via Google Hangouts |
+| Virtual Attendance: | meet.google.com/dce-ukre-aae |
 
 | Time | Item | Lead | Topics / Resources |
-| --- | --- | --- | --- |
+| --- | --- |
 |  | Committee Roles | Josh McWilliam | 2024-25 Leader Roster<br>Help Needed: Secretary, Recruitment, Fundraising, Popcorn, Training |
 |  | Secretary | ? | Minutes<br>Health Binder |
 |  | Treasurer | Josh McWilliam / Bob Baldwin | Treasurer Transition<br>Dues Changes |

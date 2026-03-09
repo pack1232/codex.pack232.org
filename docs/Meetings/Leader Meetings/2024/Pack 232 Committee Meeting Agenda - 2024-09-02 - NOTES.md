@@ -15,15 +15,16 @@ draft: false
 # Past Action Items
 [Josh] Finalize 2023-34 Books and create proposed budget to hand over treasurer role
 
-|  | Pack 232 Committee Meeting Minutes<br>September 2024 | Pack 232 Committee Meeting Minutes<br>September 2024 | Pack 232 Committee Meeting Minutes<br>September 2024 |
-| --- | --- | --- | --- |
-| Called by: | Josh McWilliam | Note Taker: | Daniel O’Brien |
-| Meeting Time: | September 02, 2024, 8:00 - 8:30 PM | September 02, 2024, 8:00 - 8:30 PM | September 02, 2024, 8:00 - 8:30 PM |
-| Meeting Location: | Virtual via Google Hangouts | Virtual via Google Hangouts | Virtual via Google Hangouts |
-| Virtual Attendance: | meet.google.com/dce-ukre-aae | meet.google.com/dce-ukre-aae | meet.google.com/dce-ukre-aae |
+|  | Pack 232 Committee Meeting Minutes<br>September 2024 |
+| --- | --- |
+| Called by: | Josh McWilliam |
+| Note Taker: | Daniel O’Brien |
+| Meeting Time: | September 02, 2024, 8:00 - 8:30 PM |
+| Meeting Location: | Virtual via Google Hangouts |
+| Virtual Attendance: | meet.google.com/dce-ukre-aae |
 
 | Time | Item | Lead | Topics / Resources |
-| --- | --- | --- | --- |
+| --- | --- |
 |  | Committee Roles | Josh McWilliam | 2024-25 Leader Roster<br>Help Needed: Secretary, Recruitment, Fundraising, Popcorn, Training |
 |  | Secretary | ? | Minutes<br>Health Binder<br>Need to re-in state for the year |
 |  | Treasurer | Josh McWilliam / Bob Baldwin | Treasurer Transition - Josh - Need to create document to allow the transition<br>Dues Changes - As of Aug 31 2023 members will be re-charged when they signed up. Legacy member will date will default to 12/31<br>Josh - Need to create and publish budget |
