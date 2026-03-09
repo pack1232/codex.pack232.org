@@ -170,93 +170,93 @@ roles:
             link: /roles/advancement-chair/leader-training-coordinator
             vacant: true
 
-  - id: cm
-    title: Cubmaster
-    holder: Michael McGuire
-    link: /roles/cubmaster/
-    vacant: false
-    children:
-      - id: acm
-        title: Assistant Cubmasters
-        link: /roles/assistant-cubmaster/
+      - id: cm
+        title: Cubmaster
+        holder: Michael McGuire
+        link: /roles/cubmaster/
         vacant: false
         children:
-          - id: acm_den
-            title: ACM Den Support
-            link: /roles/assistant-cubmaster/den-support
-            vacant: true
-          - id: acm_family
-            title: ACM Family Support
-            link: /roles/assistant-cubmaster/family-support
-            vacant: true
-          - id: acm_engage
-            title: ACM Engagement
-            link: /roles/assistant-cubmaster/engagement
-            vacant: true
-          - id: acm_meet
-            title: ACM Meetings
-            link: /roles/assistant-cubmaster/meetings
-            vacant: true
-          - id: acm_hike
-            title: ACM Hiking
-            link: /roles/assistant-cubmaster/hiking
-            vacant: true
-          - id: acm_crafts
-            title: ACM Crafts
-            link: /roles/assistant-cubmaster/crafts
-            vacant: true
-          - id: acm_food
-            title: ACM Food
-            holder: Richard Crumb
-            link: /roles/assistant-cubmaster/food
+          - id: acm
+            title: Assistant Cubmasters
+            link: /roles/assistant-cubmaster/
             vacant: false
-          - id: acm_comms
-            title: ACM Communications
-            link: /roles/assistant-cubmaster/communications
+            children:
+              - id: acm_den
+                title: ACM Den Support
+                link: /roles/assistant-cubmaster/den-support
+                vacant: true
+              - id: acm_family
+                title: ACM Family Support
+                link: /roles/assistant-cubmaster/family-support
+                vacant: true
+              - id: acm_engage
+                title: ACM Engagement
+                link: /roles/assistant-cubmaster/engagement
+                vacant: true
+              - id: acm_meet
+                title: ACM Meetings
+                link: /roles/assistant-cubmaster/meetings
+                vacant: true
+              - id: acm_hike
+                title: ACM Hiking
+                link: /roles/assistant-cubmaster/hiking
+                vacant: true
+              - id: acm_crafts
+                title: ACM Crafts
+                link: /roles/assistant-cubmaster/crafts
+                vacant: true
+              - id: acm_food
+                title: ACM Food
+                holder: Richard Crumb
+                link: /roles/assistant-cubmaster/food
+                vacant: false
+              - id: acm_comms
+                title: ACM Communications
+                link: /roles/assistant-cubmaster/communications
+                vacant: true
+
+          - id: dl
+            title: Den Leaders
+            link: /roles/den-leader/
+            vacant: false
+            children:
+              - id: dl_lions
+                title: "Lions (Den 7)"
+                holder: "C. Baldwin & K. McWilliam"
+                link: /roles/den-leader/
+                vacant: false
+              - id: dl_tigers
+                title: "Tigers (Den 1)"
+                holder: Michael McGuire
+                link: /roles/den-leader/
+                vacant: false
+              - id: dl_wolves
+                title: "Wolves (Den 2)"
+                holder: Kevin Calacone
+                link: /roles/den-leader/
+                vacant: false
+              - id: dl_bears
+                title: "Bears (Den 3)"
+                holder: Christopher Heckathorne
+                link: /roles/den-leader/
+                vacant: false
+              - id: dl_webelos
+                title: "Webelos (Den 4)"
+                holder: Ben Friedman
+                link: /roles/den-leader/
+                vacant: false
+              - id: dl_aol
+                title: "Arrow of Light (Den 5)"
+                holder: Patrick Slade
+                link: /roles/den-leader/
+                vacant: false
+
+          - id: adl
+            title: Assistant Den Leader
+            link: /roles/den-leader/assistant-den-leader
             vacant: true
 
-      - id: dl
-        title: Den Leaders
-        link: /roles/den-leader/
-        vacant: false
-        children:
-          - id: dl_lions
-            title: "Lions (Den 7)"
-            holder: "C. Baldwin & K. McWilliam"
-            link: /roles/den-leader/
+          - id: dc
+            title: Den Chief
+            link: /roles/den-chief/
             vacant: false
-          - id: dl_tigers
-            title: "Tigers (Den 1)"
-            holder: Michael McGuire
-            link: /roles/den-leader/
-            vacant: false
-          - id: dl_wolves
-            title: "Wolves (Den 2)"
-            holder: Kevin Calacone
-            link: /roles/den-leader/
-            vacant: false
-          - id: dl_bears
-            title: "Bears (Den 3)"
-            holder: Christopher Heckathorne
-            link: /roles/den-leader/
-            vacant: false
-          - id: dl_webelos
-            title: "Webelos (Den 4)"
-            holder: Ben Friedman
-            link: /roles/den-leader/
-            vacant: false
-          - id: dl_aol
-            title: "Arrow of Light (Den 5)"
-            holder: Patrick Slade
-            link: /roles/den-leader/
-            vacant: false
-
-      - id: adl
-        title: Assistant Den Leader
-        link: /roles/den-leader/assistant-den-leader
-        vacant: true
-
-      - id: dc
-        title: Den Chief
-        link: /roles/den-chief/
-        vacant: false
