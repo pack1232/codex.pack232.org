@@ -1,3 +1,9 @@
+---
+title: Secretary
+parent: All Roles
+nav_order: 4
+---
+
 # Secretary
 
 ## Role Summary

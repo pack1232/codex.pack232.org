@@ -1,3 +1,9 @@
+---
+title: Den Chief
+parent: All Roles
+nav_order: 13
+---
+
 # Den Chief
 
 ## Role Summary

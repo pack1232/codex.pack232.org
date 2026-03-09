@@ -1,3 +1,9 @@
+---
+title: Assistant Cubmasters
+parent: All Roles
+nav_order: 11
+---
+
 # Assistant Cubmaster
 
 ## Role Summary

@@ -1,3 +1,9 @@
+---
+title: Committee Chair
+parent: All Roles
+nav_order: 2
+---
+
 # Committee Chair
 
 ## Role Summary

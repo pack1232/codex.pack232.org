@@ -1,3 +1,9 @@
+---
+title: Membership Chair
+parent: All Roles
+nav_order: 7
+---
+
 # Membership Chair
 
 ## Role Summary

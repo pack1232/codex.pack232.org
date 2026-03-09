@@ -1,3 +1,9 @@
+---
+title: Den Leaders
+parent: All Roles
+nav_order: 12
+---
+
 # Den Leader
 
 ## Role Summary

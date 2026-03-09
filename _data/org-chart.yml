@@ -1,0 +1,262 @@
+# Pack 232 Organization Chart Data
+# Update this file when roles or holders change — the org chart regenerates automatically.
+
+charter_org: Selkirk Fire Department #2
+
+roles:
+  - id: cor
+    title: Charter Org Rep
+    holder: Bob Baldwin
+    link: /roles/charter-org-rep/
+    vacant: false
+
+  - id: cc
+    title: Committee Chair
+    holder: Josh McWilliam
+    link: /roles/committee-chair/
+    vacant: false
+    children:
+      - id: sec
+        title: Secretary
+        holder: Daniel O'Brien
+        link: /roles/secretary/
+        vacant: false
+        children:
+          - id: medical
+            title: Medical Forms Coordinator
+            link: /roles/secretary/medical-forms-coordinator
+            vacant: true
+          - id: webmaster
+            title: Webmaster
+            link: /roles/secretary/webmaster
+            vacant: true
+
+      - id: tres
+        title: Treasurer
+        holder: Bob Baldwin
+        link: /roles/treasurer/
+        vacant: false
+        children:
+          - id: ap
+            title: Accounts Payable Coordinator
+            link: /roles/treasurer/accounts-payable-coordinator
+            vacant: true
+          - id: ar
+            title: Accounts Receivable Coordinator
+            link: /roles/treasurer/accounts-receivable-coordinator
+            vacant: true
+
+      - id: fund
+        title: Fundraising Chair
+        link: /roles/fundraising-chair/
+        vacant: true
+        children:
+          - id: popcorn
+            title: Popcorn Coordinator
+            holder: Phoung Perez
+            link: /roles/popcorn-coordinator/
+            vacant: false
+            children:
+              - id: apopcorn
+                title: Asst. Popcorn Coordinator
+                link: /roles/popcorn-coordinator/assistant-popcorn-coordinator
+                vacant: true
+          - id: redeem
+            title: Redemptions Coordinator
+            link: /roles/fundraising-chair/redemptions-coordinator
+            vacant: true
+          - id: grants
+            title: Grants Coordinator
+            link: /roles/fundraising-chair/grants-coordinator
+            vacant: true
+
+      - id: memb
+        title: Membership Chair
+        link: /roles/membership-chair/
+        vacant: true
+        children:
+          - id: recruit
+            title: Member Recruitment
+            link: /roles/membership-chair/member-recruitment-coordinator
+            vacant: true
+          - id: onboard
+            title: Member Onboarding
+            link: /roles/membership-chair/member-onboarding-coordinator
+            vacant: true
+          - id: experience
+            title: Member Experience
+            link: /roles/membership-chair/member-experience-coordinator
+            vacant: true
+          - id: apparel
+            title: Apparel Coordinator
+            link: /roles/membership-chair/apparel-coordinator
+            vacant: true
+          - id: pr
+            title: Public Relations
+            link: /roles/membership-chair/public-relations-coordinator
+            vacant: true
+
+      - id: prog
+        title: Program Chair
+        link: /roles/program-chair/
+        vacant: true
+        children:
+          - id: pinewood
+            title: Pinewood Derby
+            link: /roles/program-chair/pinewood-derby-coordinator
+            vacant: true
+          - id: wintercamp
+            title: Winter Camping
+            link: /roles/program-chair/winter-camping-coordinator
+            vacant: true
+          - id: springcamp
+            title: Spring Camping
+            link: /roles/program-chair/spring-camping-coordinator
+            vacant: true
+          - id: fallcamp
+            title: Fall Camping
+            link: /roles/program-chair/fall-camping-coordinator
+            vacant: true
+          - id: summercamp
+            title: Summer Camping
+            link: /roles/program-chair/summer-camping-coordinator
+            vacant: true
+          - id: packactivity
+            title: Pack Mtg Activities
+            holder: Sharon Heckathorne
+            link: /roles/program-chair/pack-meeting-activity-coordinator
+            vacant: false
+          - id: snack
+            title: Pack Mtg Snackmaster
+            link: /roles/program-chair/pack-meeting-snackmaster
+            vacant: true
+          - id: equip
+            title: Equipment Coordinator
+            link: /roles/program-chair/equipment-coordinator
+            vacant: true
+          - id: service
+            title: Community Service
+            link: /roles/program-chair/community-service-coordinator
+            vacant: true
+          - id: council
+            title: Council Activities
+            link: /roles/program-chair/misc-council-activities-coordinator
+            vacant: true
+          - id: packmisc
+            title: Pack Activities
+            link: /roles/program-chair/misc-pack-activities-coordinator
+            vacant: true
+
+      - id: adv
+        title: Advancement Chair
+        link: /roles/advancement-chair/
+        vacant: true
+        children:
+          - id: awards
+            title: Scout Awards
+            holder: Jennifer Wind
+            link: /roles/advancement-chair/awards-coordinator
+            vacant: false
+          - id: bluegold
+            title: Blue & Gold
+            link: /roles/advancement-chair/blue-and-gold-coordinator
+            vacant: true
+          - id: aol
+            title: AOL Crossover
+            link: /roles/advancement-chair/aol-crossover-coordinator
+            vacant: true
+          - id: training
+            title: Leader Training & Awards
+            link: /roles/advancement-chair/leader-training-coordinator
+            vacant: true
+
+  - id: cm
+    title: Cubmaster
+    holder: Michael McGuire
+    link: /roles/cubmaster/
+    vacant: false
+    children:
+      - id: acm
+        title: Assistant Cubmasters
+        link: /roles/assistant-cubmaster/
+        vacant: false
+        children:
+          - id: acm_den
+            title: ACM Den Support
+            link: /roles/assistant-cubmaster/den-support
+            vacant: true
+          - id: acm_family
+            title: ACM Family Support
+            link: /roles/assistant-cubmaster/family-support
+            vacant: true
+          - id: acm_engage
+            title: ACM Engagement
+            link: /roles/assistant-cubmaster/engagement
+            vacant: true
+          - id: acm_meet
+            title: ACM Meetings
+            link: /roles/assistant-cubmaster/meetings
+            vacant: true
+          - id: acm_hike
+            title: ACM Hiking
+            link: /roles/assistant-cubmaster/hiking
+            vacant: true
+          - id: acm_crafts
+            title: ACM Crafts
+            link: /roles/assistant-cubmaster/crafts
+            vacant: true
+          - id: acm_food
+            title: ACM Food
+            holder: Richard Crumb
+            link: /roles/assistant-cubmaster/food
+            vacant: false
+          - id: acm_comms
+            title: ACM Communications
+            link: /roles/assistant-cubmaster/communications
+            vacant: true
+
+      - id: dl
+        title: Den Leaders
+        link: /roles/den-leader/
+        vacant: false
+        children:
+          - id: dl_lions
+            title: "Lions (Den 7)"
+            holder: "C. Baldwin & K. McWilliam"
+            link: /roles/den-leader/
+            vacant: false
+          - id: dl_tigers
+            title: "Tigers (Den 1)"
+            holder: Michael McGuire
+            link: /roles/den-leader/
+            vacant: false
+          - id: dl_wolves
+            title: "Wolves (Den 2)"
+            holder: Kevin Calacone
+            link: /roles/den-leader/
+            vacant: false
+          - id: dl_bears
+            title: "Bears (Den 3)"
+            holder: Christopher Heckathorne
+            link: /roles/den-leader/
+            vacant: false
+          - id: dl_webelos
+            title: "Webelos (Den 4)"
+            holder: Ben Friedman
+            link: /roles/den-leader/
+            vacant: false
+          - id: dl_aol
+            title: "Arrow of Light (Den 5)"
+            holder: Patrick Slade
+            link: /roles/den-leader/
+            vacant: false
+
+      - id: adl
+        title: Assistant Den Leader
+        link: /roles/den-leader/assistant-den-leader
+        vacant: true
+
+      - id: dc
+        title: Den Chief
+        link: /roles/den-chief/
+        vacant: false
