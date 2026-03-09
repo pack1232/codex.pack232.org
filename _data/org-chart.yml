@@ -1,7 +1,7 @@
 # Pack 232 Organization Chart Data
 # Update this file when roles or holders change — the org chart regenerates automatically.
 
-charter_org: Selkirk Fire Department #2
+charter_org: "Selkirk Fire Department #2"
 
 roles:
   - id: cor
