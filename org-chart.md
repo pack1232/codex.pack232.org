@@ -15,7 +15,7 @@ flowchart LR
     cc["Committee Chair<br>Josh McWilliam"]:::core
     cm["Cubmaster<br>Michael McGuire"]:::core
     charter --> cor
-    charter --> cc
+    cor --> cc
     cc --> cm
 
     %% Secretary branch
@@ -134,11 +134,11 @@ flowchart LR
     dl_aol["Arrow of Light Den 5<br>Patrick Slade"]:::filled
     dl --> dl_aol
 
-    %% Other Cubmaster direct reports
+    %% Den support roles (under Den Leaders)
     adl["Assistant Den Leader"]:::vacant
-    cm --> adl
+    dl --> adl
     dc["Den Chief"]:::filled
-    cm --> dc
+    dl --> dc
 
     %% Click handlers
     click cor "/roles/charter-org-rep/"
