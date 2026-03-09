@@ -1,8 +1,8 @@
-# Summer Camp Coordinator
+# Summer Camping Coordinator
 
 ## Role Summary
 
-The Summer Camp Coordinator manages Pack 232's participation in BSA summer camp programs — including resident camp and day camp options offered by Twin Rivers Council. This role handles registration, communication, and logistics to maximize Scout participation.
+The Summer Camping Coordinator manages Pack 232's participation in BSA summer camp programs — including resident camp and day camp options offered by Twin Rivers Council. This role handles registration, communication, and logistics to maximize Scout participation.
 
 ## Reports To
 

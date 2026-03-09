@@ -1,8 +1,8 @@
-# Assistant Cubmaster — Meetings
+# Assistant Cubmaster for Meetings
 
 ## Role Summary
 
-The Meetings Assistant Cubmaster helps plan pack meetings and supports den meeting planning. This role ensures pack meetings run smoothly and that den leaders have the resources they need to plan effective den meetings.
+The Assistant Cubmaster for Meetings helps plan pack meetings and supports den meeting planning. This role ensures pack meetings run smoothly and that den leaders have the resources they need to plan effective den meetings.
 
 ## Reports To
 

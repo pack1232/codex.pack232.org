@@ -1,15 +1,15 @@
-# Collections Coordinator
+# Accounts Receivable Coordinator
 
 ## Role Summary
 
-The Collections Coordinator handles the collection of payments owed to the pack — dues, event fees, campout fees, and other charges. This role ensures families pay on time and follows up on outstanding balances, freeing the Treasurer to focus on accounting and budgeting.
+The Accounts Receivable Coordinator handles the collection of payments owed to the pack — dues, event fees, campout fees, and other charges. This role ensures families pay on time and follows up on outstanding balances, freeing the Treasurer to focus on accounting and budgeting.
 
 ## Reports To
 
 | Relationship | Role |
 |---|---|
 | Reports to | Treasurer |
-| Works with | Den Leaders, Secretary, Popcorn Kernel |
+| Works with | Den Leaders, Secretary, Popcorn Coordinator |
 
 ## Core Responsibilities
 
@@ -27,7 +27,7 @@ The Collections Coordinator handles the collection of payments owed to the pack 
 |---|---|
 | September | Collect annual dues from all families |
 | Before each event | Collect event fees; report paid/unpaid to Treasurer |
-| September–November | Collect popcorn sale proceeds from families (coordinate with Popcorn Kernel) |
+| September–November | Collect popcorn sale proceeds from families (coordinate with Popcorn Coordinator) |
 | Monthly | Report outstanding balances to Treasurer before committee meeting |
 
 ## Current Holder

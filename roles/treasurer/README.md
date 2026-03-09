@@ -40,7 +40,7 @@ The Treasurer is accountable for these outcomes:
 - Credit each Scout with payment of dues; maintain individual Scout accounts
 - Report on the pack's financial condition at every monthly committee meeting
 - Provide petty cash/debit card for leader expenses; track expenditures
-- Coordinate with Popcorn Kernel on popcorn sale accounting (September–November)
+- Coordinate with Popcorn Coordinator on popcorn sale accounting (September–November)
 - Seek and prepare grant applications for large pack purchases
 - Ensure pack purchases are exempt from New York sales tax
 - Sign tax donation receipt forms
@@ -54,7 +54,7 @@ The Treasurer is accountable for these outcomes:
 |---|---|
 | Reports to | Committee Chair |
 | Partners with | Committee Chair, Cubmaster |
-| Coordinates with | Popcorn Kernel (popcorn accounting), Advancement Chair (awards purchases), Program Chair (event fees) |
+| Coordinates with | Popcorn Coordinator (popcorn accounting), Advancement Chair (awards purchases), Program Chair (event fees) |
 
 ---
 
@@ -70,9 +70,8 @@ The Treasurer is accountable for these outcomes:
 
 | Position | File | Current Holder |
 |---|---|---|
-| Collections Coordinator | [collections-coordinator.md](collections-coordinator.md) | [vacant] |
-
-> The [reimbursements.md](reimbursements.md) guide covers the reimbursement process handled directly by the Treasurer.
+| Accounts Receivable Coordinator | [accounts-receivable-coordinator.md](accounts-receivable-coordinator.md) | [vacant] |
+| Accounts Payable Coordinator | [accounts-payable-coordinator.md](accounts-payable-coordinator.md) | [vacant] |
 
 ---
 

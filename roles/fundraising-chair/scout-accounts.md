@@ -17,7 +17,7 @@ The primary source of Scout account credits is the annual popcorn sale. The Trea
 
 **Credit flow:**
 1. Scout sells popcorn
-2. Popcorn Kernel records individual sales
+2. Popcorn Coordinator records individual sales
 3. Treasurer calculates Scout's share based on the pack's Scout account policy
 4. Credit is recorded in the Scout's account
 5. Scout applies credit toward dues, fees, or camp registration

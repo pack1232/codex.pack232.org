@@ -38,10 +38,10 @@ For checking payment status: see `docs/.../Finding Who Paid and Who Owes for Som
 
 ## Popcorn Proceeds
 
-The annual popcorn sale is the pack's largest fundraiser. The Popcorn Kernel manages the sale logistics; the Treasurer handles the money.
+The annual popcorn sale is the pack's largest fundraiser. The Popcorn Coordinator manages the sale logistics; the Treasurer handles the money.
 
 **Treasurer's role in popcorn:**
-- Receives money from the Popcorn Kernel (collected from Scouts/families)
+- Receives money from the Popcorn Coordinator (collected from Scouts/families)
 - Records popcorn revenue by Scout for Scout account credit
 - Pays the district by check by the council's deadline
 - Issues invoices for "donations in lieu" — Scouts who did not meet their popcorn target may owe additional dues

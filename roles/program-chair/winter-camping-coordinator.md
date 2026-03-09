@@ -1,8 +1,8 @@
-# Winter Cabin Camping Coordinator
+# Winter Camping Coordinator
 
 ## Role Summary
 
-The Winter Cabin Camping Coordinator plans Pack 232's annual winter cabin camping trip — typically the pack's biggest overnight event. This involves reserving a cabin, planning the program, coordinating food and supplies, and ensuring all BSA safety requirements are met.
+The Winter Camping Coordinator plans Pack 232's annual winter camping trip — typically the pack's biggest overnight event. This involves reserving a cabin or campsite, planning the program, coordinating food and supplies, and ensuring all BSA safety requirements are met.
 
 ## Reports To
 

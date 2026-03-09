@@ -31,7 +31,7 @@ Pack property (track for Pinewood Derby, camping gear, etc.) is stored as needed
 
 ## Other Facilities
 
-For events held off-site (camping, hikes, ValleyCats game, etc.), the relevant activity coordinator (Program Chair, Popcorn Kernel, etc.) is responsible for reserving sites. The Committee Chair should be aware of and approve all facility reservations.
+For events held off-site (camping, hikes, ValleyCats game, etc.), the relevant activity coordinator (Program Chair, Popcorn Coordinator, etc.) is responsible for reserving sites. The Committee Chair should be aware of and approve all facility reservations.
 
 ---
 

@@ -9,9 +9,9 @@ This calendar outlines the pack's annual rhythm by month, with key tasks called 
 | Month | Major Events / Tasks | Key Roles |
 |---|---|---|
 | August | Back-to-school recruitment prep; activities fair planning | Membership Chair, Public Relations Coordinator, Committee Chair |
-| September | School-night recruitment events; new Scout sign-ups; popcorn kickoff | Membership Chair, Popcorn Kernel, Cubmaster |
-| October | Popcorn Show & Sells; Fall Back to Scouting; den leader meetings | Popcorn Kernel, Program Chair, Cubmaster |
-| November | Popcorn orders due; Scouting for Food; recharter begins | Popcorn Kernel, Community Service Coordinator, Committee Chair, Treasurer |
+| September | School-night recruitment events; new Scout sign-ups; popcorn kickoff | Membership Chair, Popcorn Coordinator, Cubmaster |
+| October | Popcorn Show & Sells; Fall Back to Scouting; den leader meetings | Popcorn Coordinator, Program Chair, Cubmaster |
+| November | Popcorn orders due; Scouting for Food; recharter begins | Popcorn Coordinator, Community Service Coordinator, Committee Chair, Treasurer |
 | December | Recharter submission deadline; Caroling; holiday pack meeting | Committee Chair, Charter Org Rep, Cubmaster |
 | January | New year planning; Arrow of Light crossover prep; Blue & Gold prep | Cubmaster, AOL Den Leader, Committee Chair |
 | February | Blue & Gold Banquet; crossover ceremonies | Committee Chair, Cubmaster, Den Leaders |
@@ -32,11 +32,11 @@ This calendar outlines the pack's annual rhythm by month, with key tasks called 
 - **Treasurer reconciliation** — Treasurer reconciles bank accounts before committee meeting
 
 ### September–November: Popcorn Season
-- **Popcorn kickoff** — Popcorn Kernel attends Twin Rivers Council kickoff
-- **Show and Sells** — Popcorn Kernel schedules and staffs
-- **Order turn-in** — Popcorn Kernel collects and submits by council deadline
-- **Money turn-in** — Popcorn Kernel collects from scouts, turns in to Treasurer
-- **Popcorn distribution** — Popcorn Kernel coordinates pickup and distribution
+- **Popcorn kickoff** — Popcorn Coordinator attends Twin Rivers Council kickoff
+- **Show and Sells** — Popcorn Coordinator schedules and staffs
+- **Order turn-in** — Popcorn Coordinator collects and submits by council deadline
+- **Money turn-in** — Popcorn Coordinator collects from scouts, turns in to Treasurer
+- **Popcorn distribution** — Popcorn Coordinator coordinates pickup and distribution
 
 ### October–December: Recharter Season
 - **Roster verification** — Committee Chair and Secretary review membership
@@ -54,7 +54,7 @@ This calendar outlines the pack's annual rhythm by month, with key tasks called 
 | May–June | Prior-year financial close | Treasurer |
 | June–August | Draft upcoming-year budget | Treasurer + Committee Chair + Cubmaster |
 | September | Budget presented to committee | Treasurer |
-| September–November | Popcorn accounting | Treasurer + Popcorn Kernel |
+| September–November | Popcorn accounting | Treasurer + Popcorn Coordinator |
 | December | Invoice for popcorn donations in lieu of sales | Treasurer |
 | January | Budget finalized for new year | Treasurer + Committee Chair |
 

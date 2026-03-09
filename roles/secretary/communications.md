@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Secretary manages the pack's communications infrastructure — email distribution lists, the pack website, and the Facebook page. These may be delegated in whole or in part to others (e.g., the Social Media Coordinator manages social media posting; the Webmaster manages the website), but the Secretary maintains access and overall responsibility.
+The Secretary manages the pack's communications infrastructure — email distribution lists, the pack website, and the Facebook page. These may be delegated in whole or in part to others (e.g., the Public Relations Coordinator manages social media posting; the Webmaster manages the website), but the Secretary maintains access and overall responsibility.
 
 ---
 
@@ -44,13 +44,13 @@ The pack website is the primary public-facing presence of Pack 232.
 
 The pack's Facebook page is used for:
 - Event announcements and reminders
-- Photo sharing from pack events (Social Media Coordinator typically posts photos)
+- Photo sharing from pack events (Public Relations Coordinator typically posts photos)
 - Recruitment promotion
 - General community engagement
 
-**Access**: Secretary and Committee Chair have admin access; Social Media Coordinator has posting access.
+**Access**: Secretary and Committee Chair have admin access; Public Relations Coordinator has posting access.
 
-**Coordinate with**: Social Media Coordinator for event postings and photo uploads.
+**Coordinate with**: Public Relations Coordinator for event postings and photo uploads.
 
 ---
 

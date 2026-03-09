@@ -1,8 +1,8 @@
-# Assistant Cubmaster — Den Support
+# Assistant Cubmaster for Den Support
 
 ## Role Summary
 
-The Den Support Assistant Cubmaster mentors den leaders, provides guidance on den meeting planning, and fills in as a substitute den leader when a den leader is absent. This role ensures den-level program quality and leader confidence.
+The Assistant Cubmaster for Den Support mentors den leaders, provides guidance on den meeting planning, and fills in as a substitute den leader when a den leader is absent. This role ensures den-level program quality and leader confidence.
 
 ## Reports To
 

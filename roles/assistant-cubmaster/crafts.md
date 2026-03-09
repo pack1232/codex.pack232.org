@@ -1,8 +1,8 @@
-# Assistant Cubmaster — Crafts
+# Assistant Cubmaster for Crafts
 
 ## Role Summary
 
-The Crafts Assistant Cubmaster plans and leads craft activities for the pack — at pack meetings, campouts, and special events. Hands-on craft projects are a favorite Cub Scout activity and support creative expression and skill building.
+The Assistant Cubmaster for Crafts plans and leads craft activities for the pack — at pack meetings, campouts, and special events. Hands-on craft projects are a favorite Cub Scout activity and support creative expression and skill building.
 
 ## Reports To
 
