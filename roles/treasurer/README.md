@@ -105,3 +105,4 @@ The Treasurer is accountable for these outcomes:
 | BSA policies | [`../_shared/bsa-policies.md`](../_shared/bsa-policies.md) |
 
 {% include role-tasks.html role_id=page.role_id %}
+{% include role-training.html role_id=page.role_id %}

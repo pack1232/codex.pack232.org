@@ -1,0 +1,32 @@
+# Training courses for this role.
+# Course definitions live in training/courses/{course-id}.md
+# status: required | recommended
+
+training:
+
+  - id: y01
+    status: required
+
+  - id: sco-450
+    status: required
+
+  - id: sco-451
+    status: required
+
+  - id: sco-452
+    status: required
+
+  - id: sco-453
+    status: required
+
+  - id: sco-454
+    status: required
+
+  - id: sco-455
+    status: required
+
+  - id: sco-456
+    status: required
+
+  - id: sco-457
+    status: required

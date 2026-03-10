@@ -1,0 +1,8 @@
+# Training courses for this role.
+# Course definitions live in training/courses/{course-id}.md
+# status: required | recommended
+
+training:
+
+  - id: y01
+    status: required

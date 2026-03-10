@@ -103,3 +103,4 @@ The Membership Chair oversees these coordinator positions:
 | Pack calendar | [`../_shared/calendar.md`](../_shared/calendar.md) |
 
 {% include role-tasks.html role_id=page.role_id %}
+{% include role-training.html role_id=page.role_id %}

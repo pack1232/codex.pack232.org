@@ -1,0 +1,4544 @@
+# Auto-generated from training/**/*.md definitions and roles/*/training.yaml assignments.
+# Do not edit directly. Run: python3 scripts/aggregate-tasks.py
+
+training:
+
+  - id: sco-1000
+    name: "Aims and Methods"
+    course_code: "SCO_1000"
+    category: courses
+    duration: 11
+    description: >
+      Overview of the Aims and Methods of Scouting.
+    training_url: /training/courses/sco-1000/
+    role_requirements: []
+
+  - id: sco-1002
+    name: "BSA Organizational Structure Development"
+    course_code: "SCO_1002"
+    category: courses
+    duration: 9
+    description: >
+      Overview of the Organizational Structure and Development of the BSA.
+    training_url: /training/courses/sco-1002/
+    role_requirements: []
+
+  - id: sco-1003
+    name: "What is Boy Scouting"
+    course_code: "SCO_1003"
+    category: courses
+    duration: 13
+    description: >
+      This module provides an overview of the Boy Scouting program.
+    training_url: /training/courses/sco-1003/
+    role_requirements: []
+
+  - id: sco-1004
+    name: "What is Cub Scouting"
+    course_code: "SCO_1004"
+    category: courses
+    duration: 12
+    description: >
+      This module provides an overview of the Cub Scouting program and reviews the leadership positions and related roles and responsibilities.
+    training_url: /training/courses/sco-1004/
+    role_requirements: []
+
+  - id: sco-1005
+    name: "What is Exploring?"
+    course_code: "SCO_1005"
+    category: courses
+    duration: 10
+    description: >
+      This module provides an overview of the Exploring program.
+    training_url: /training/courses/sco-1005/
+    role_requirements: []
+
+  - id: sco-1006
+    name: "What is Learning for Life?"
+    course_code: "SCO_1006"
+    category: courses
+    duration: 8
+    description: >
+      This module provides an overview of the Learning for Life program.
+    training_url: /training/courses/sco-1006/
+    role_requirements: []
+
+  - id: sco-1007
+    name: "What is Venturing?"
+    course_code: "SCO_1007"
+    category: courses
+    duration: 10
+    description: >
+      This module provides an overview of the Venturing program.
+    training_url: /training/courses/sco-1007/
+    role_requirements: []
+
+  - id: sco-101
+    name: "Getting Started"
+    course_code: "SCO_101"
+    category: courses
+    duration: 9
+    description: >
+      In this module you will be introduced to Venturing--what it is, who is involved, the organizational structure of a crew for both adults and youth, and the aims of the Venturing program.
+    training_url: /training/courses/sco-101/
+    role_requirements: []
+
+  - id: sco-1012
+    name: "District Committee Structure"
+    course_code: "SCO_1012"
+    category: courses
+    duration: 7
+    description: >
+      This module will review the positions on a standard district organization chart as well as review the leadership role and responsibilities of the District Key 3.
+    training_url: /training/courses/sco-1012/
+    role_requirements: []
+
+  - id: sco-1018
+    name: "Profile for a District Chair"
+    course_code: "SCO_1018"
+    category: courses
+    duration: 10
+    description: >
+      This module discusses the desired traits of a district chair.
+    training_url: /training/courses/sco-1018/
+    role_requirements: []
+
+  - id: sco-102
+    name: "Officer Selection"
+    course_code: "SCO_102"
+    category: courses
+    duration: 5
+    description: >
+      In this module you will identify the characteristics of good crew officers and understand the process for a Venturer to become a crew officer.
+    training_url: /training/courses/sco-102/
+    role_requirements: []
+
+  - id: sco-103
+    name: "Crew Structure"
+    course_code: "SCO_103"
+    category: courses
+    duration: 9
+    description: >
+      (8:52) Venturing is adventure with a purpose. Venturing adventures build camaraderie and skills, leadership, and an attitude of service to others, and
+    training_url: /training/courses/sco-103/
+    role_requirements: []
+
+  - id: sco-104
+    name: "Membership Recruiting"
+    course_code: "SCO_104"
+    category: courses
+    duration: 6
+    description: >
+      (6:16) Successful crews make regular efforts to find and recruit new members. In this module you will be introduced to a variety of public and promotional tools including the Activity Interest Survey and peer-to-peer recruiting.
+    training_url: /training/courses/sco-104/
+    role_requirements: []
+
+  - id: sco-1042
+    name: "New Unit Applications"
+    course_code: "SCO_1042"
+    category: courses
+    duration: 6
+    description: >
+      This module discusses the key parts of a New-Unit Application.
+    training_url: /training/courses/sco-1042/
+    role_requirements: []
+
+  - id: sco-1047
+    name: "Selling Exploring to a CEO"
+    course_code: "SCO_1047"
+    category: courses
+    duration: 8
+    description: >
+      This module identifies the research needed to approach the right CEO about starting a new Exploring post, lists the questions CEOs ask about Exploring, and name the materials needed for a sales call with a CEO.
+    training_url: /training/courses/sco-1047/
+    role_requirements: []
+
+  - id: sco-1048
+    name: "Develop an Explorer Post Program"
+    course_code: "SCO_1048"
+    category: courses
+    duration: 8
+    description: >
+      This module lists the steps in Explorer post program planning, and explains the concept of “go shopping” as it relates to program planning.
+    training_url: /training/courses/sco-1048/
+    role_requirements: []
+
+  - id: sco-1049
+    name: "Conduct an Exploring Open House"
+    course_code: "SCO_1049"
+    category: courses
+    duration: 8
+    description: >
+      This module lists the parts of a successful Exploring Open House, including the best time of the year to conduct an Open House and key marketing strategies that enhance attendance at an Open House.
+    training_url: /training/courses/sco-1049/
+    role_requirements: []
+
+  - id: sco-105
+    name: "Fundraising and Budgeting for Venturing"
+    course_code: "SCO_105"
+    category: courses
+    duration: 9
+    description: >
+      In this module you will learn the benefits of fundraising and the various fundraising opportunities available to Venturing crews as well as how to plan and budget for the activities.
+    training_url: /training/courses/sco-105/
+    role_requirements: []
+
+  - id: sco-106
+    name: "Board of Review for Venturing"
+    course_code: "SCO_106"
+    category: courses
+    duration: 17
+    description: >
+      In this module you will gain an understanding of the Venturing, Discovery, Pathfinder, and Summit Boards of Review.
+    training_url: /training/courses/sco-106/
+    role_requirements: []
+
+  - id: sco-1061
+    name: "Community Campaign-Build I C 5 or Table Host Team"
+    course_code: "SCO_1061"
+    category: courses
+    duration: 7
+    description: >
+      This module Identify the tasks, timeline, and materials needed for a Friends of Scouting Table Host.
+    training_url: /training/courses/sco-1061/
+    role_requirements: []
+
+  - id: sco-1062
+    name: "District Fund Development Committee Guidebook"
+    course_code: "SCO_1062"
+    category: courses
+    duration: 12
+    description: >
+      This module will help you understand how the Fund Development Committee Guidebook works.
+    training_url: /training/courses/sco-1062/
+    role_requirements: []
+
+  - id: sco-1063
+    name: "Family Campaign - Family FOS Presenter Qualities"
+    course_code: "SCO_1063"
+    category: courses
+    duration: 10
+    description: >
+      This module identifies the qualities of an effective family Friends of Scouting presenter.
+    training_url: /training/courses/sco-1063/
+    role_requirements: []
+
+  - id: sco-1064
+    name: "Family Campaign Family FOS Presentation"
+    course_code: "SCO_1064"
+    category: courses
+    duration: 12
+    description: >
+      This module discusses the elements of a family FOS presentation.
+    training_url: /training/courses/sco-1064/
+    role_requirements: []
+
+  - id: sco-1066
+    name: "Family Campaign How to Make a Family FOS Ask"
+    course_code: "SCO_1066"
+    category: courses
+    duration: 12
+    description: >
+      This module discusses how to make a Family FOS ask.
+    training_url: /training/courses/sco-1066/
+    role_requirements: []
+
+  - id: sco-1067
+    name: "Fundraising Cycle"
+    course_code: "SCO_1067"
+    category: courses
+    duration: 4
+    description: >
+      This module explains how the fundraising cycle fits your plans, identifies the value of using the plan and recognizes the components of the cycle.
+    training_url: /training/courses/sco-1067/
+    role_requirements: []
+
+  - id: sco-1068
+    name: "Mechanics of a Campaign"
+    course_code: "SCO_1068"
+    category: courses
+    duration: 12
+    description: >
+      This module identifies the roles and steps involved in analyzing your Friends of Scouting campaign and explains the purpose of a timeline in creating vital campaign discipline.
+    training_url: /training/courses/sco-1068/
+    role_requirements: []
+
+  - id: sco-107
+    name: "Event Planning"
+    course_code: "SCO_107"
+    category: courses
+    duration: 17
+    description: >
+      Venturers participate in many events throughout the year--some more adventurous than others. In this module you will learn what is required of the adult leaders and the crew members to plan an event.
+    training_url: /training/courses/sco-107/
+    role_requirements: []
+
+  - id: sco-1076
+    name: "Customizing Promotional Fliers for Units"
+    course_code: "SCO_1076"
+    category: courses
+    duration: 11
+    description: >
+      This module will discuss customizing promotional materials that can be used to recruit new youth and adults.
+    training_url: /training/courses/sco-1076/
+    role_requirements: []
+
+  - id: sco-1077
+    name: "Membership Cycle"
+    course_code: "SCO_1077"
+    category: courses
+    duration: 12
+    description: >
+      This modules will help identify elements that are ongoing monthly tasks related to membership recruiting, and explain how the elements of the membership cycle add up to be a comprehensive membership plan.
+    training_url: /training/courses/sco-1077/
+    role_requirements: []
+
+  - id: sco-1078
+    name: "New Unit Development Process"
+    course_code: "SCO_1078"
+    category: courses
+    duration: 6
+    description: >
+      This module discusses the four pillars of the new-unit development timeline.
+    training_url: /training/courses/sco-1078/
+    role_requirements: []
+
+  - id: sco-108
+    name: "Advising vs Leading for Venturing"
+    course_code: "SCO_108"
+    category: courses
+    duration: 11
+    description: >
+      As an adult in Venturing, you are an Advisor, not a crew leader. In this module you will understand the difference between advising a group of youth as opposed  to leading them.
+    training_url: /training/courses/sco-108/
+    role_requirements: []
+
+  - id: sco-109
+    name: "Positive Youth Development"
+    course_code: "SCO_109"
+    category: courses
+    duration: 11
+    description: >
+      (10:37) Positive Youth Development is a perspective built around the idea that all youth have the strengths and potential to be happy, healthy humans.
+    training_url: /training/courses/sco-109/
+    role_requirements: []
+
+  - id: sco-110
+    name: "Awards Program for Venturing"
+    course_code: "SCO_110"
+    category: courses
+    duration: 12
+    description: >
+      (12:00) In this module you will learn the requirements for the Venturing, Discovery, Pathfinder, and Summit awards as well as the special interest awards that Venturing youth can earn.
+    training_url: /training/courses/sco-110/
+    role_requirements: []
+
+  - id: sco-11000
+    name: "Strategic Training Plan Objectives and Goals"
+    course_code: "SCO_11000"
+    category: courses
+    duration: 5
+    description: >
+      One of five pre-course modules required before attending the Strategic Training Plan Conference.  The foundational information contained in this module will be developed and used as you prepare your Strategic Training Plan.
+    training_url: /training/courses/sco-11000/
+    role_requirements: []
+
+  - id: sco-11001
+    name: "Introduction to SMART Goals"
+    course_code: "SCO_11001"
+    category: courses
+    duration: 5
+    description: >
+      One of five pre-course modules required before attending the Strategic Training Plan Conference.  The foundational information contained in this module will be developed and used as you prepare your Strategic Training Plan.
+    training_url: /training/courses/sco-11001/
+    role_requirements: []
+
+  - id: sco-11002
+    name: "SWOT Analysis"
+    course_code: "SCO_11002"
+    category: courses
+    duration: 12
+    description: >
+      One of five pre-course modules required before attending the Strategic Training Plan Conference.  The foundational information contained in this module will be developed and used as you prepare your Strategic Training Plan.
+    training_url: /training/courses/sco-11002/
+    role_requirements: []
+
+  - id: sco-11003
+    name: "Introduction to Downloading Training Data"
+    course_code: "SCO_11003"
+    category: courses
+    duration: 12
+    description: >
+      One of five pre-course modules required before attending the Strategic Training Plan Conference.  The foundational information contained in this module, will be developed and used as you prepare your Strategic Training Plan.
+    training_url: /training/courses/sco-11003/
+    role_requirements: []
+
+  - id: sco-11004
+    name: "Available Resources for Council & Dist Trng Teams"
+    course_code: "SCO_11004"
+    category: courses
+    duration: 12
+    description: >
+      One of five pre-course modules required before attending the Strategic Training Plan Conference.  The foundational information contained in this module, will be developed and used as you prepare your Strategic Training Plan.
+    training_url: /training/courses/sco-11004/
+    role_requirements: []
+
+  - id: sco-11012
+    name: "District Committee Structure v2"
+    course_code: "SCO_11012"
+    category: courses
+    duration: 9
+    description: >
+      This module will review the positions on a standard district organization chart as well as review the leadership role and responsibilities of the District Key 3.
+    training_url: /training/courses/sco-11012/
+    role_requirements: []
+
+  - id: sco-11013
+    name: "Four Functions of a District v2"
+    course_code: "SCO_11013"
+    category: courses
+    duration: 12
+    description: >
+      This module provides an overview of the Four Functions of a District.
+    training_url: /training/courses/sco-11013/
+    role_requirements: []
+
+  - id: sco-11016
+    name: "District Meetings - District Committee Meeting v2"
+    course_code: "SCO_11016"
+    category: courses
+    duration: 19
+    description: >
+      This modules will teach the purpose of the district committee meeting, identify who should attend the district committee meeting, and apply common practices to address issues that a district committee might face.
+    training_url: /training/courses/sco-11016/
+    role_requirements: []
+
+  - id: sco-11017
+    name: "Meetings of the District - Key 3 Video v2"
+    course_code: "SCO_11017"
+    category: courses
+    duration: 9
+    description: >
+      This module will list the members of the Key 3, identify key attributes of a well-functioning district Key 3, and show how this video can be used in the orientation of new members of the District Key 3.
+    training_url: /training/courses/sco-11017/
+    role_requirements: []
+
+  - id: sco-11027
+    name: "Backdating v2"
+    course_code: "SCO_11027"
+    category: courses
+    duration: 10
+    description: >
+      This module will list the benefits of using backdating as part of an annual and monthly planning process, and describe how using a backdating plan will reduce stress and aid in managing work flow.
+    training_url: /training/courses/sco-11027/
+    role_requirements: []
+
+  - id: sco-11040
+    name: "Adult Applications v2"
+    course_code: "SCO_11040"
+    category: courses
+    duration: 12
+    description: >
+      This module shows the key parts of an adult application.
+    training_url: /training/courses/sco-11040/
+    role_requirements: []
+
+  - id: sco-11043
+    name: "Registration Fees v2"
+    course_code: "SCO_11043"
+    category: courses
+    duration: 8
+    description: >
+      This module shows how to calculate the number of months in a registration term for a new member or a new unit, and the appropriate registration and Boys’ Life fees.
+    training_url: /training/courses/sco-11043/
+    role_requirements: []
+
+  - id: sco-11044
+    name: "Youth Applications v2"
+    course_code: "SCO_11044"
+    category: courses
+    duration: 9
+    description: >
+      This modules show you the key parts of a Youth Application, and the age requirements for youth members in Cub Scouting, Boy Scouting, and Venturing, and more.
+    training_url: /training/courses/sco-11044/
+    role_requirements: []
+
+  - id: sco-11053
+    name: "Commissioner Structure v2"
+    course_code: "SCO_11053"
+    category: courses
+    duration: 13
+    description: >
+      This module describes the different volunteer commissioner structures for your service area and discusses choosing the best commissioner volunteer structure for your service area.
+    training_url: /training/courses/sco-11053/
+    role_requirements: []
+
+  - id: sco-11056
+    name: "What is Commissioner Service v2"
+    course_code: "SCO_11056"
+    category: courses
+    duration: 8
+    description: >
+      This module help you recognize that Commissioner Service is one of the four functions of District Operations, and shows how to detect good and danger signals of units resulting from Commissioner Service.
+    training_url: /training/courses/sco-11056/
+    role_requirements: []
+
+  - id: sco-11059
+    name: "Council Budget v2"
+    course_code: "SCO_11059"
+    category: courses
+    duration: 12
+    description: >
+      This module discusses council budget income and expense components, and typical items that you may purchase using the budget.
+    training_url: /training/courses/sco-11059/
+    role_requirements: []
+
+  - id: sco-11060
+    name: "Community Campaign Asking for a FOS Gift v2"
+    course_code: "SCO_11060"
+    category: courses
+    duration: 9
+    description: >
+      This module lists the engagement levels that predict a prospect’s readiness to give, and identifies the steps to take before, during and after asking someone to give.
+    training_url: /training/courses/sco-11060/
+    role_requirements: []
+
+  - id: sco-11065
+    name: "Family Campaign Followup Family FOS v2"
+    course_code: "SCO_11065"
+    category: courses
+    duration: 7
+    description: >
+      This module will explain the follow-up methods available.
+    training_url: /training/courses/sco-11065/
+    role_requirements: []
+
+  - id: sco-11080
+    name: "New Unit Organization Committee v2"
+    course_code: "SCO_11080"
+    category: courses
+    duration: 9
+    description: >
+      This modules provides an overview of the new-unit organizing committee.
+    training_url: /training/courses/sco-11080/
+    role_requirements: []
+
+  - id: sco-11083
+    name: "Recruiting Event Time Line and Roles v2"
+    course_code: "SCO_11083"
+    category: courses
+    duration: 10
+    description: >
+      In this module, you will identify the resources needed and name the key roles of volunteers and staff in a Cub Scout Recruitment Event.
+    training_url: /training/courses/sco-11083/
+    role_requirements: []
+
+  - id: sco-1109
+    name: "What is Scouts BSA"
+    course_code: "SCO_1109"
+    category: courses
+    duration: 13
+    description: >
+      This module provides an overview of the Scouts BSA program.
+    training_url: /training/courses/sco-1109/
+    role_requirements: []
+
+  - id: sco-111
+    name: "Officer Training for Venturing"
+    course_code: "SCO_111"
+    category: courses
+    duration: 7
+    description: >
+      In this module you will become familiar with some of the BSA training courses that help youth learn how to craft a vision along with understanding the goals and objectives you will need to set in order to help crew members succeed.
+    training_url: /training/courses/sco-111/
+    role_requirements: []
+
+  - id: sco-11100
+    name: "Volunteer Recruitment Call v2"
+    course_code: "SCO_11100"
+    category: courses
+    duration: 8
+    description: >
+      This module discusses the elements of a volunteer recruitment call to successfully recruit volunteers.
+    training_url: /training/courses/sco-11100/
+    role_requirements: []
+
+  - id: sco-11105
+    name: "Activities and Civic Service v2"
+    course_code: "SCO_11105"
+    category: courses
+    duration: 9
+    description: >
+      This module identifies the four categories of district activities, defines the BSA approach to competition and recognition, and lists the criteria to ensure a project teaches good citizenship.
+    training_url: /training/courses/sco-11105/
+    role_requirements: []
+
+  - id: sco-11106
+    name: "Advancement v2"
+    course_code: "SCO_11106"
+    category: courses
+    duration: 9
+    description: >
+      This module provides an overview of advancement as it relates to the district advancement committee.
+    training_url: /training/courses/sco-11106/
+    role_requirements: []
+
+  - id: sco-11107
+    name: "Scouting Safely v2"
+    course_code: "SCO_11107"
+    category: courses
+    duration: 13
+    description: >
+      This module identifies key resources in Scouting Safely including insurance, incidents that need to be reported, and resources to manage enterprise risks and hazards at your next event.
+    training_url: /training/courses/sco-11107/
+    role_requirements: []
+
+  - id: sco-11108
+    name: "BSA Insurance Coverage v2"
+    course_code: "SCO_11108"
+    category: courses
+    duration: 12
+    description: >
+      This module will give you an overview of the BSA's coverages for BSA general liability and accident and sickness insurance.
+    training_url: /training/courses/sco-11108/
+    role_requirements: []
+
+  - id: sco-112
+    name: "Annual Program Planning for Venturing"
+    course_code: "SCO_112"
+    category: courses
+    duration: 14
+    description: >
+      This module identifies the qualities of a good program, using the Adventure, Leadership, Personal Growth, and Service (ALPS) model, as well as who is responsible for designing and implementing the program.
+    training_url: /training/courses/sco-112/
+    role_requirements: []
+
+  - id: sco-113
+    name: "Selecting Advisors"
+    course_code: "SCO_113"
+    category: courses
+    duration: 9
+    description: >
+      (8:50) Selecting Advisors identifies the importance of selecting great leaders. In this module we will outline the recruitment steps and traits to consider when selecting Venturing Leaders.
+    training_url: /training/courses/sco-113/
+    role_requirements: []
+
+  - id: sco-114
+    name: "Interacting with Young Adults"
+    course_code: "SCO_114"
+    category: courses
+    duration: 17
+    description: >
+      (17:10) In this module you will see and hear actual youth and adults discuss their personal journeys transitioning from youth to adult.
+    training_url: /training/courses/sco-114/
+    role_requirements: []
+
+  - id: sco-1200
+    name: "Chaplain Roles and Responsibilities"
+    course_code: "SCO_1200"
+    category: courses
+    duration: 30
+    description: >
+      This module will provide an understanding of various unit worship opportunities and identify the duties of the Unit Chaplain and Chaplain Aide.
+    training_url: /training/courses/sco-1200/
+    role_requirements: []
+
+  - id: sco-12000
+    name: "Welcome and Overview"
+    course_code: "SCO_12000"
+    category: courses
+    duration: 3
+    description: >
+      The Virtual CDC conferences will serve as an introduction to the changes related to the most recent Wood Badge Course update. In addition, the Wood Badge Course Director’s Conference will prepare Course Directors to consistently conduct a Wood Badge course according to the standards of the National
+    training_url: /training/courses/sco-12000/
+    role_requirements: []
+
+  - id: sco-12002
+    name: "Health and Safety in Wood Badge"
+    course_code: "SCO_12002"
+    category: courses
+    duration: 4
+    description: >
+      By the end of this session, CDC attendees will understand the Health and Safety considerations in delivering the Wood Badge course, and its related staff development sessions, and will organize and develop its Health and Safety plans and Safety Moments, according to the specific location, weather, t
+    training_url: /training/courses/sco-12002/
+    role_requirements: []
+
+  - id: sco-12008
+    name: "Youth in Wood Badge"
+    course_code: "SCO_12008"
+    category: courses
+    duration: 5
+    description: >
+      An exciting part of a Wood Badge course is the involvement of young people during the outdoor experience.  They fulfill that responsibility by providing outdoor skill instruction and facilitating the problem-solving sessions for the Wood Badge troop. Youth involvement pays dividends for the course p
+    training_url: /training/courses/sco-12008/
+    role_requirements: []
+
+  - id: sco-1201
+    name: "Religious Emblems and Awards"
+    course_code: "SCO_1201"
+    category: courses
+    duration: 20
+    description: >
+      This module will introduce you to the religious emblems, badges, patches, and awards available in Scouting.
+    training_url: /training/courses/sco-1201/
+    role_requirements: []
+
+  - id: sco-12010
+    name: "Time Management"
+    course_code: "SCO_12010"
+    category: courses
+    duration: 5
+    description: >
+      At the end of this module, you should have an understanding and recognize the value of rehearsing and being well-prepared for each module. Also, you should be able to recognize Troop Sessions with Potential Time and Delivery Issues.
+    training_url: /training/courses/sco-12010/
+    role_requirements: []
+
+  - id: sco-12013
+    name: "Culture Heart of a Servant"
+    course_code: "SCO_12013"
+    category: courses
+    duration: 17
+    description: >
+      Wood Badge CDC
+    training_url: /training/courses/sco-12013/
+    role_requirements: []
+
+  - id: sco-12014
+    name: "WB Staff Recruiting and Development"
+    course_code: "SCO_12014"
+    category: courses
+    duration: 16
+    description: >
+      Wood Badge CDC
+    training_url: /training/courses/sco-12014/
+    role_requirements: []
+
+  - id: sco-12015
+    name: "WB Team Based Learning"
+    course_code: "SCO_12015"
+    category: courses
+    duration: 5
+    description: >
+      Wood Badge CDC
+    training_url: /training/courses/sco-12015/
+    role_requirements: []
+
+  - id: sco-12016
+    name: "WB Methods and Model"
+    course_code: "SCO_12016"
+    category: courses
+    duration: 16
+    description: >
+      Wood Badge CDC
+    training_url: /training/courses/sco-12016/
+    role_requirements: []
+
+  - id: sco-12017
+    name: "Wood Badge Pre-course Orientation"
+    course_code: "SCO_12017"
+    category: courses
+    duration: 30
+    description: >
+      This course will let you know what to expect from a Wood Badge course and should alleviate any anxiety about what to expect during the training.
+    training_url: /training/courses/sco-12017/
+    role_requirements: []
+
+  - id: sco-1202
+    name: "Interfaith Considerations"
+    course_code: "SCO_1202"
+    category: courses
+    duration: 12
+    description: >
+      This module will help you become familiar with various unit worship opportunities.
+    training_url: /training/courses/sco-1202/
+    role_requirements: []
+
+  - id: sco-1203
+    name: "Selling Exploring to Guidance Counselors"
+    course_code: "SCO_1203"
+    category: courses
+    duration: 7
+    description: >
+      This module lists features and benefits of a Career Interest Survey. It identifies needs and concerns of high school guidance counselors, listing how the Survey meets the needs and concerns of high school guidance counselors.
+    training_url: /training/courses/sco-1203/
+    role_requirements: []
+
+  - id: sco-1264
+    name: "Membership Ethics"
+    course_code: "SCO_1264"
+    category: courses
+    duration: 15
+    description: >
+      Membership Ethics is an area in which staff members and volunteers work together to meet requirements and policies and to be aware and supportive of the process and help others understand the purpose behind each of the steps.
+    training_url: /training/courses/sco-1264/
+    role_requirements: []
+
+  - id: sco-1265
+    name: "School Talks"
+    course_code: "SCO_1265"
+    category: courses
+    duration: 10
+    description: >
+      In this module, you will learn how to do a Youth Talk, identify how long a Youth Talk should be, recognize the different types of Youth Talks, and identify the key people in a school.
+    training_url: /training/courses/sco-1265/
+    role_requirements: []
+
+  - id: sco-1266
+    name: "Council Market Analysis v2"
+    course_code: "SCO_1266"
+    category: courses
+    duration: 24
+    description: >
+      In this module, you will learn how to use the Council Market Analysis Report for your council.
+    training_url: /training/courses/sco-1266/
+    role_requirements: []
+
+  - id: sco-14001
+    name: "Foundations of Cub Scout Day Camp"
+    course_code: "SCO_14001"
+    category: courses
+    duration: 120
+    description: >
+      To be nationally certified as a day camp director, program director or staff adviser, individuals must complete a three-part training curriculum. This online course is the first part of this training curriculum. Individuals who plan to serve as a day camp director or day camp program director must t
+    training_url: /training/courses/sco-14001/
+    role_requirements: []
+
+  - id: sco-14003
+    name: "National Camp Accreditation Program Overview"
+    course_code: "SCO_14003"
+    category: courses
+    duration: 12
+    description: >
+      In this module we will discuss some of the basics of the program, including the purpose, the steps in the process, the people who should be involved and the difference between camp properties and camps as well as the different types of camps.
+    training_url: /training/courses/sco-14003/
+    role_requirements: []
+
+  - id: sco-14004
+    name: "Preparing for an Assessment"
+    course_code: "SCO_14004"
+    category: courses
+    duration: 12
+    description: >
+      In this module we will discuss the steps that need to be taken to prepare for an assessment, whether it is for a long-term camp conducted by a Zone assessment team or a self-assessment of a day camp, property, or short-term camp conducted by the council.
+    training_url: /training/courses/sco-14004/
+    role_requirements: []
+
+  - id: sco-14005
+    name: "The Assessment"
+    course_code: "SCO_14005"
+    category: courses
+    duration: 12
+    description: >
+      In this module we will discuss what happens on the day of an assessment, whether it is for a long-term camp conducted by a Zone assessment team or a self-assessment of a day camp or property conducted by the council.
+    training_url: /training/courses/sco-14005/
+    role_requirements: []
+
+  - id: sco-14006
+    name: "Standards and Scoring"
+    course_code: "SCO_14006"
+    category: courses
+    duration: 12
+    description: >
+      In this module we will look at how to use the standard sheets, how to score the standards and recommended practices as well as the purpose of the waiver, variance, and equivalency determination options. There is also a discussion of the requirements for the accreditation decision.
+    training_url: /training/courses/sco-14006/
+    role_requirements: []
+
+  - id: sco-14007
+    name: "The Authorization Process"
+    course_code: "SCO_14007"
+    category: courses
+    duration: 12
+    description: >
+      In this module we will look at the forms that need to be filed with the application for authorization, including preparing the camp facilities evaluation, the continuous camp improvement program, and especially the camp strategic improvement plan.
+    training_url: /training/courses/sco-14007/
+    role_requirements: []
+
+  - id: sco-1500
+    name: "District Key 3"
+    course_code: "SCO_1500"
+    category: courses
+    duration: 5
+    description: >
+      The course discusses the roles of the volunteer – District Chair and District Commissioner – in the Key 3 relationship.
+    training_url: /training/courses/sco-1500/
+    role_requirements: []
+
+  - id: sco-1501
+    name: "Program Chair Overview"
+    course_code: "SCO_1501"
+    category: courses
+    duration: 3
+    description: >
+      This is an overview the roles and responsibilities of the District Chair and Program Chair in relations to leading the program committees.
+    training_url: /training/courses/sco-1501/
+    role_requirements: []
+
+  - id: sco-1502
+    name: "District Resources"
+    course_code: "SCO_1502"
+    category: courses
+    duration: 9
+    description: >
+      This module provides and overview of the resources available in manuals, planning guides, websites, District Tools and job aids available for District Operations.
+    training_url: /training/courses/sco-1502/
+    role_requirements: []
+
+  - id: sco-1503
+    name: "Expectations and Accountability"
+    course_code: "SCO_1503"
+    category: courses
+    duration: 5
+    description: >
+      A review of the principles involved in building accountability in volunteer organizations.
+    training_url: /training/courses/sco-1503/
+    role_requirements: []
+
+  - id: sco-1504
+    name: "my.scouting Tools"
+    course_code: "SCO_1504"
+    category: courses
+    duration: 14
+    description: >
+      The BSA provides three very important tools to volunteers on the district committee that occupy the positions of the district key 3 which provide a wealth of information to the district.
+    training_url: /training/courses/sco-1504/
+    role_requirements: []
+
+  - id: sco-1505
+    name: "District Relationship to the Council"
+    course_code: "SCO_1505"
+    category: courses
+    duration: 6
+    description: >
+      The district exists as a part of the council. The district carries out the programs so that it reaches and helps every chartered organization and every unit.
+    training_url: /training/courses/sco-1505/
+    role_requirements: []
+
+  - id: sco-1506
+    name: "District Evaluation and JTE"
+    course_code: "SCO_1506"
+    category: courses
+    duration: 6
+    description: >
+      This course is used in conjunction with Journey to Excellence as it drillseven deeper into your performance and effectiveness as a district.
+    training_url: /training/courses/sco-1506/
+    role_requirements: []
+
+  - id: sco-1507
+    name: "Recruiting District People"
+    course_code: "SCO_1507"
+    category: courses
+    duration: 15
+    description: >
+      This module is designed to help key district leaders determine the number of people needed to operate an effective district, and then to locate, select, and recruit them.
+    training_url: /training/courses/sco-1507/
+    role_requirements: []
+
+  - id: sco-1508
+    name: "Planning for Success"
+    course_code: "SCO_1508"
+    category: courses
+    duration: 4
+    description: >
+      What does success look like? How to create and share the vision of how to improve your District.
+    training_url: /training/courses/sco-1508/
+    role_requirements: []
+
+  - id: sco-1509
+    name: "Camping and Outdoor Chair"
+    course_code: "SCO_1509"
+    category: courses
+    duration: 4
+    description: >
+      This module discusses the roles and responsibilities as the carry out the functions of the Camping and Outdoor Chair.
+    training_url: /training/courses/sco-1509/
+    role_requirements: []
+
+  - id: sco-1510
+    name: "Training Chair"
+    course_code: "SCO_1510"
+    category: courses
+    duration: 11
+    description: >
+      This module discusses the roles and responsibilities as the carry out the functions of the Training Chair.
+    training_url: /training/courses/sco-1510/
+    role_requirements: []
+
+  - id: sco-16001
+    name: "Specific Duties of the Board"
+    course_code: "SCO_16001"
+    category: courses
+    duration: 8
+    description: >
+      This module discusses the council concept and reviews the primary responsibility of the board.
+    training_url: /training/courses/sco-16001/
+    role_requirements: []
+
+  - id: sco-16002
+    name: "Council Functions"
+    course_code: "SCO_16002"
+    category: courses
+    duration: 5
+    description: >
+      This module reviews the organizational structure of the board.  Four major functions help a council deliver the Scouting program: membership/relationships, finance, program, and unit service.
+    training_url: /training/courses/sco-16002/
+    role_requirements: []
+
+  - id: sco-16003
+    name: "Local Council Relationship to National Council"
+    course_code: "SCO_16003"
+    category: courses
+    duration: 18
+    description: >
+      The local council makes Scouting available to all youth.  National council supports the local council by providing support, structure and guidance.
+    training_url: /training/courses/sco-16003/
+    role_requirements: []
+
+  - id: sco-16004
+    name: "More About the Local Council"
+    course_code: "SCO_16004"
+    category: courses
+    duration: 5
+    description: >
+      Local councils are chartered annually by the BSA to administer Scouting within the prescribed territory.  This course reviews charter organizations, district organization, nominations and elections, and annual meetings.
+    training_url: /training/courses/sco-16004/
+    role_requirements: []
+
+  - id: sco-16005
+    name: "Board Governance Obedience, Care, and Loyalty"
+    course_code: "SCO_16005"
+    category: courses
+    duration: 7
+    description: >
+      The primary role of the board is to provide governance.  The duties of Obedience, Care and Loyalty are discussed.
+    training_url: /training/courses/sco-16005/
+    role_requirements: []
+
+  - id: sco-16006
+    name: "Responsibilities of the Council Officers"
+    course_code: "SCO_16006"
+    category: courses
+    duration: 13
+    description: >
+      The purpose of the Boy Scouts of America to provide boys and young adults with an effective program designed to instill desirable qualities of character, to train youth in the responsibilities of participating citizenship, and to develop in them personal fitness.  The board officers are accountable
+    training_url: /training/courses/sco-16006/
+    role_requirements: []
+
+  - id: sco-16007
+    name: "Strategic Planning"
+    course_code: "SCO_16007"
+    category: courses
+    duration: 15
+    description: >
+      The Boy Scouts of America advocates that every local council develop, adopt, and operate a strategic plan in which its major goals are projected at least five years in advance.  This course also covers legal counsel, salary administration, and measuring effectiveness.
+    training_url: /training/courses/sco-16007/
+    role_requirements: []
+
+  - id: sco-16008
+    name: "The Local Council Funding Program"
+    course_code: "SCO_16008"
+    category: courses
+    duration: 17
+    description: >
+      Well financed councils will have the ability to employ a full, well-trained staff; provide exceptional program facilities; conduct first-class programs; and attract top-quality program and administrative volunteers.
+    training_url: /training/courses/sco-16008/
+    role_requirements: []
+
+  - id: sco-16009
+    name: "Understanding the Council Financial Statements"
+    course_code: "SCO_16009"
+    category: courses
+    duration: 7
+    description: >
+      The major items in the council budget are reviewed in a video.  This course is a good overview of what items in the budget should be monitored.
+    training_url: /training/courses/sco-16009/
+    role_requirements: []
+
+  - id: sco-16010
+    name: "President Guidelines in Leading Others"
+    course_code: "SCO_16010"
+    category: courses
+    duration: 7
+    description: >
+      The president is the top leader of the council and the primary volunteer leader of an organization.  The president is an administrator with the ability to recruit strong people for council leadership positions.
+    training_url: /training/courses/sco-16010/
+    role_requirements: []
+
+  - id: sco-16011
+    name: "President Guidelines in Leading the Organization"
+    course_code: "SCO_16011"
+    category: courses
+    duration: 5
+    description: >
+      One unique characteristic of the Boy Scouts of America is the happy and effective relationship that has developed and is maintained between professionals and volunteers. The ratio is significant; there is on average only one professional for every 400 volunteers. This is what characterizes the Scout
+    training_url: /training/courses/sco-16011/
+    role_requirements: []
+
+  - id: sco-1800
+    name: "Diversity, Inclusion, & Belonging in Scouting"
+    course_code: "SCO_1800"
+    category: courses
+    duration: 30
+    description: >
+      Diversity, Inclusion, & and Belonging only works if everyone is invited to participate and feels accepted for their uniqueness.
+    training_url: /training/courses/sco-1800/
+    role_requirements: []
+
+  - id: sco-18000
+    name: "DCSA Introduction"
+    course_code: "SCO_18000"
+    category: courses
+    duration: 5
+    description: >
+      This module introduces you to the Distinguished Conservation Service Award and subsequent modules.
+    training_url: /training/courses/sco-18000/
+    role_requirements: []
+
+  - id: sco-18001
+    name: "DCSA Role of the Adviser"
+    course_code: "SCO_18001"
+    category: courses
+    duration: 11
+    description: >
+      During this module you will learn the prerequisites, roles and duties of the adviser for the B.S.A. Distinguished Conservation Service Award.
+    training_url: /training/courses/sco-18001/
+    role_requirements: []
+
+  - id: sco-18002
+    name: "DCSA Projects"
+    course_code: "SCO_18002"
+    category: courses
+    duration: 18
+    description: >
+      This module focuses on: Where to Find Projects, National Conservation Issues, and Developing Relationships.
+    training_url: /training/courses/sco-18002/
+    role_requirements: []
+
+  - id: sco-18003
+    name: "DCSA Requirements"
+    course_code: "SCO_18003"
+    category: courses
+    duration: 21
+    description: >
+      Upon completing this module, you will gain the knowledge needed to administer the BSA Distinguished Conservationist Award and the BSA Distinguished Conservation Service Award Certificate.
+    training_url: /training/courses/sco-18003/
+    role_requirements: []
+
+  - id: sco-18004
+    name: "DCSA Categories"
+    course_code: "SCO_18004"
+    category: courses
+    duration: 25
+    description: >
+      This module focuses on the nine categories of conservation projects that can be used for the DCSA award.
+    training_url: /training/courses/sco-18004/
+    role_requirements: []
+
+  - id: sco-18005
+    name: "DCSA Workbook"
+    course_code: "SCO_18005"
+    category: courses
+    duration: 14
+    description: >
+      By completing this module, you will be familiar with and be able to use the BSA Distinguished Conversation Service Award Project Workbook.
+    training_url: /training/courses/sco-18005/
+    role_requirements: []
+
+  - id: sco-18006
+    name: "DCSA Field Trip"
+    course_code: "SCO_18006"
+    category: courses
+    duration: 12
+    description: >
+      This module will expose you to several scenarios that have conservation problems. It will allow you to describe the situation, identify the problem, develop and then identify one or more projects to solve the problem.
+    training_url: /training/courses/sco-18006/
+    role_requirements: []
+
+  - id: sco-18007
+    name: "DCSA Documentation"
+    course_code: "SCO_18007"
+    category: courses
+    duration: 17
+    description: >
+      This module focuses on how to use the Distinguished Conservation Service Award Project Workbook to properly document a conservation project’s planning and implementation.
+    training_url: /training/courses/sco-18007/
+    role_requirements: []
+
+  - id: sco-19000
+    name: "The OWASP Top 10"
+    course_code: "SCO_19000"
+    category: courses
+    duration: 60
+    description: >
+      The OWASP Top 10 is a widely recognized list of the top 10 most critical security risks to web applications. The list is maintained by the Open Web Application Security Project (OWASP) and is updated periodically to reflect changes in the threat landscape.
+    training_url: /training/courses/sco-19000/
+    role_requirements: []
+
+  - id: sco-19001
+    name: "Secure Coding"
+    course_code: "SCO_19001"
+    category: courses
+    duration: 60
+    description: >
+      The use of secure coding standards defines a set of rules and recommendations against which the source code can be evaluated for conformance.
+    training_url: /training/courses/sco-19001/
+    role_requirements: []
+
+  - id: sco-20001
+    name: "Lodge Adviser Onboarding Training Introduction"
+    course_code: "SCO_20001"
+    category: courses
+    duration: 12
+    description: >
+      Overview of the national training and explanation of the process.
+    training_url: /training/courses/sco-20001/
+    role_requirements: []
+
+  - id: sco-20002
+    name: "Youth Led"
+    course_code: "SCO_20002"
+    category: courses
+    duration: 10
+    description: >
+      The Order of the Arrow is a youth-led organization. This module emphasizes the importance of being youth-led and your role in helping the youth-led.
+    training_url: /training/courses/sco-20002/
+    role_requirements: []
+
+  - id: sco-20003
+    name: "Lodge Adviser Onboarding - The Key 3"
+    course_code: "SCO_20003"
+    category: courses
+    duration: 10
+    description: >
+      Who are the Key 3 individuals that make up an Order of the Arrow Lodge and what are the roles and responsibilities of each individual.
+    training_url: /training/courses/sco-20003/
+    role_requirements: []
+
+  - id: sco-20004
+    name: "Handbook for Officers and Advisers"
+    course_code: "SCO_20004"
+    category: courses
+    duration: 10
+    description: >
+      This is your main resource for being a Lodge Adviser. This module will introduce you to the important components of the Handbook for Officers and Advisers.
+    training_url: /training/courses/sco-20004/
+    role_requirements: []
+
+  - id: sco-20005
+    name: "Lodge Adviser Onboarding Training Resources"
+    course_code: "SCO_20005"
+    category: courses
+    duration: 10
+    description: >
+      Resources looks at all of the different handbooks and guides that are at your disposal. You should be familiar with each and now what is contained within each resource.
+    training_url: /training/courses/sco-20005/
+    role_requirements: []
+
+  - id: sco-20006
+    name: "Lodge Communications"
+    course_code: "SCO_20006"
+    category: courses
+    duration: 10
+    description: >
+      Communication is a key part of a successful lodge. This module provides an overview of the different forms of communication and how you as the adviser can utilize them.
+    training_url: /training/courses/sco-20006/
+    role_requirements: []
+
+  - id: sco-20007
+    name: "Selecting Your Associates"
+    course_code: "SCO_20007"
+    category: courses
+    duration: 10
+    description: >
+      As the Lodge Adviser, you have the opportunity to assemble your team.  The module gives you insight and guidance into how and who you might want to include as an associate adviser.
+    training_url: /training/courses/sco-20007/
+    role_requirements: []
+
+  - id: sco-20008
+    name: "Lodge Elections"
+    course_code: "SCO_20008"
+    category: courses
+    duration: 10
+    description: >
+      This is a BRIEF overview of the Order of the Arrow elections process and your role in the election process.
+    training_url: /training/courses/sco-20008/
+    role_requirements: []
+
+  - id: sco-20009
+    name: "Lodge Inductions"
+    course_code: "SCO_20009"
+    category: courses
+    duration: 10
+    description: >
+      This is a BRIEF overview of the Induction process for the Order of the Arrow and your role in the Induction process.
+    training_url: /training/courses/sco-20009/
+    role_requirements: []
+
+  - id: sco-20010
+    name: "Ceremonies"
+    course_code: "SCO_20010"
+    category: courses
+    duration: 10
+    description: >
+      Ceremonies have always been an important part of the Order of the Arrow.  This module looks at the role of ceremonies in your lodge.
+    training_url: /training/courses/sco-20010/
+    role_requirements: []
+
+  - id: sco-20011
+    name: "What is the LEC?"
+    course_code: "SCO_20011"
+    category: courses
+    duration: 10
+    description: >
+      The Order of the Arrow Lodge Executive Committee is a crucial component of the Order of the Arrow.
+    training_url: /training/courses/sco-20011/
+    role_requirements: []
+
+  - id: sco-20012
+    name: "Roberts Rules of Order"
+    course_code: "SCO_20012"
+    category: courses
+    duration: 10
+    description: >
+      This module provides an overview of Robert’s Rules of Order, and will help you run an effective LEC meeting.
+    training_url: /training/courses/sco-20012/
+    role_requirements: []
+
+  - id: sco-20014
+    name: "Logistics and Resources"
+    course_code: "SCO_20014"
+    category: courses
+    duration: 7
+    description: >
+      This module provides information on how to arrange a learning space and allocate a budget for a course.
+    training_url: /training/courses/sco-20014/
+    role_requirements: []
+
+  - id: sco-20015
+    name: "Why We Train Leaders"
+    course_code: "SCO_20015"
+    category: courses
+    duration: 4
+    description: >
+      This module focuses on the importance of training leaders and provides a rationale for doing so.
+    training_url: /training/courses/sco-20015/
+    role_requirements: []
+
+  - id: sco-20016
+    name: "How We Train Leaders Part 1"
+    course_code: "SCO_20016"
+    category: courses
+    duration: 13
+    description: >
+      This module focuses on the importance of using effective training practices.
+    training_url: /training/courses/sco-20016/
+    role_requirements: []
+
+  - id: sco-20017
+    name: "How We Train Leaders Part 2"
+    course_code: "SCO_20017"
+    category: courses
+    duration: 10
+    description: >
+      This module emphasizes the importance of employing effective training practices.
+    training_url: /training/courses/sco-20017/
+    role_requirements: []
+
+  - id: sco-20018
+    name: "How People Learn"
+    course_code: "SCO_20018"
+    category: courses
+    duration: 18
+    description: >
+      This module focuses on how learning takes place.
+    training_url: /training/courses/sco-20018/
+    role_requirements: []
+
+  - id: sco-20019
+    name: "Effective Presenters"
+    course_code: "SCO_20019"
+    category: courses
+    duration: 10
+    description: >
+      This module focuses on actions that presenters can take to ensure that learning is more likely to occur.
+    training_url: /training/courses/sco-20019/
+    role_requirements: []
+
+  - id: sco-20020
+    name: "Design Principles"
+    course_code: "SCO_20020"
+    category: courses
+    duration: 10
+    description: >
+      Participants will understand the basic design principles.
+    training_url: /training/courses/sco-20020/
+    role_requirements: []
+
+  - id: sco-20021
+    name: "Teaching in a Virtual Environment"
+    course_code: "SCO_20021"
+    category: courses
+    duration: 15
+    description: >
+      This module focuses on the advantages of Virtual Instructor-Led Training (VILT) and best practices for training in a virtual environment.
+    training_url: /training/courses/sco-20021/
+    role_requirements: []
+
+  - id: sco-267
+    name: "What is a Charter?"
+    course_code: "SCO_267"
+    category: courses
+    duration: 15
+    description: >
+      The word charter has several meanings, but in the case of an organization, a charter defines or mandates its functions and lays down rules for its conduct or governance. In this module, we will define what a charter is. NOTE: Programs have changed but content is valid otherwise.
+    training_url: /training/courses/sco-267/
+    role_requirements: []
+
+  - id: sco-268
+    name: "Scouting Units"
+    course_code: "SCO_268"
+    category: courses
+    duration: 10
+    description: >
+      In this module, we will summarize the types of Scouting units and programs the BSA offers. NOTE: Programs have changed but content is valid otherwise.
+    training_url: /training/courses/sco-268/
+    role_requirements: []
+
+  - id: sco-269
+    name: "The COR Position"
+    course_code: "SCO_269"
+    category: courses
+    duration: 12
+    description: >
+      In this module, we will review the chartered organization representative role. NOTE: Programs have changed but content is valid otherwise.
+    training_url: /training/courses/sco-269/
+    role_requirements: []
+
+  - id: sco-270
+    name: "BSA Standards and Volunteers"
+    course_code: "SCO_270"
+    category: courses
+    duration: 11
+    description: >
+      At the end of this module, you should be able to comprehend various BSA standards of membership and leadership, indemnification, and Youth Protection and other required leader training. NOTE: Programs have changed but content is valid otherwise.
+    training_url: /training/courses/sco-270/
+    role_requirements: []
+
+  - id: sco-275
+    name: "Chartering to a Catholic Institution"
+    course_code: "SCO_275"
+    category: courses
+    duration: 11
+    description: >
+      This module helps COR understand Scouting in the Local Church, the (arch)diocese. &nbsp;This session will discuss the role of the BSA charter in the context of the role of the Parish as part of the Diocese and the role of the Bishop.
+    training_url: /training/courses/sco-275/
+    role_requirements: []
+
+  - id: sco-276
+    name: "Reaching Youth Through Scouting"
+    course_code: "SCO_276"
+    category: courses
+    duration: 16
+    description: >
+      Scouting is youth ministry when the programs of the BSA are used in conjunction with programs of the NCCS and seek to fulfill the three goals of Catholic youth ministry.
+    training_url: /training/courses/sco-276/
+    role_requirements: []
+
+  - id: sco-277
+    name: "Your Role as a Catholic COR"
+    course_code: "SCO_277"
+    category: courses
+    duration: 5
+    description: >
+      COR are key to ensuring a Catholic program. &nbsp;This module will review the role of the BSA COR as part of the Catholic faith.
+    training_url: /training/courses/sco-277/
+    role_requirements: []
+
+  - id: sco-278
+    name: "Catholic Scouting under BSA Standards"
+    course_code: "SCO_278"
+    category: courses
+    duration: 6
+    description: >
+      This module will examine the BSA Rule and Regulations and address some of the concerns of Bishops and Pastors with fully implementing a Catholic program that fully participates in the life of the parish.
+    training_url: /training/courses/sco-278/
+    role_requirements: []
+
+  - id: sco-280
+    name: "Introduction to Cub Scout Outdoor Program v2"
+    course_code: "SCO_280"
+    category: courses
+    duration: 5
+    description: >
+      This course is designed to give new leaders the tools and resources needed to successfully take their pack camping, and give experienced leaders the opportunity to refresh their knowledge of the Cub Scout outdoor program offerings.
+    training_url: /training/courses/sco-280/
+    role_requirements: []
+
+  - id: sco-281
+    name: "Pack Camping Program"
+    course_code: "SCO_281"
+    category: courses
+    duration: 8
+    description: >
+      Cub Scout camping is an excellent way to expose Cub Scouts and their families to the positive values of Scouting found in the Scout Oath and Scout Law, such as duty to God and helping others.
+    training_url: /training/courses/sco-281/
+    role_requirements: []
+
+  - id: sco-282
+    name: "Planning Your Cub Scout Outdoor Event v2"
+    course_code: "SCO_282"
+    category: courses
+    duration: 17
+    description: >
+      Planning is important in Cub Scouting. It is key to the success of pack meetings, den meetings, tours, hikes, and pack overnighters.
+    training_url: /training/courses/sco-282/
+    role_requirements: []
+
+  - id: sco-283
+    name: "Planning Your Event"
+    course_code: "SCO_283"
+    category: courses
+    duration: 5
+    description: >
+      Program planning is essential to ensure that your Cub Scout campout is a fun introduction to camping for your Cub Scouts and families.
+    training_url: /training/courses/sco-283/
+    role_requirements: []
+
+  - id: sco-301
+    name: "Structure of an Exploring Program"
+    course_code: "SCO_301"
+    category: courses
+    duration: 12
+    description: >
+      In this module you will learn how Exploring posts and clubs operate and gain an understanding of both the adult and youth roles.
+    training_url: /training/courses/sco-301/
+    role_requirements: []
+
+  - id: sco-3014
+    name: "Safeguarding Youth"
+    course_code: "SCO_3014"
+    category: courses
+    duration: 90
+    description: >
+      Safeguarding youth is a value at the core of the Scouting movement. It is vital to maintain a culture of active supervision, awareness, and safety at all levels of Scouting. Safeguarding Youth training will help you prevent harm to youth, is required for all Scouting America registered volunteers an
+    training_url: /training/courses/sco-3014/
+    role_requirements: []
+
+  - id: sco-3014s
+    name: "Protección de los jóvenes"
+    course_code: "SCO_3014S"
+    category: courses
+    duration: 90
+    description: >
+      La capacitación en Salvaguarda de la Juventud te ayudará a prevenir daños a los jovenes, es requerida para todos los voluntarios registrados en Scouting America y es un requisito para unirse. Debes completar todas las lecciones de este curso y alcanzar un 80% o mejor en el Examen del Curso para reci
+    training_url: /training/courses/sco-3014s/
+    role_requirements: []
+
+  - id: sco-3015
+    name: "Peer On Peer Abuse"
+    course_code: "SCO_3015"
+    category: courses
+    duration: 60
+    description: >
+      To further strengthen our safeguarding efforts, this required training is specifically tailored for camp staff and focuses on the prevention of youth-on-youth incidents that may arise during camp activities.
+    training_url: /training/courses/sco-3015/
+    role_requirements: []
+
+  - id: sco-303
+    name: "Benefits of Exploring"
+    course_code: "SCO_303"
+    category: courses
+    duration: 9
+    description: >
+      Exploring programs partner with businesses and organizations to provide real-world career experiences to youth.  In this module you will become familiar with how Exploring benefits both  organizations and the youth involved.
+    training_url: /training/courses/sco-303/
+    role_requirements: []
+
+  - id: sco-305
+    name: "Parts of a Meeting for Exploring"
+    course_code: "SCO_305"
+    category: courses
+    duration: 4
+    description: >
+      In this module you will learn the parts of an Explorer post or club meeting and understand the duties of Exploring officers during the meeting.
+    training_url: /training/courses/sco-305/
+    role_requirements: []
+
+  - id: sco-306
+    name: "Marketing Your Exploring Program"
+    course_code: "SCO_306"
+    category: courses
+    duration: 14
+    description: >
+      Successful Exploring programs make regular efforts to find and recruit new members.  In this module you will be introduced to a variety of public and promotional tools including the career interest survey and peer-to-peer recruiting.
+    training_url: /training/courses/sco-306/
+    role_requirements: []
+
+  - id: sco-307
+    name: "Methods of Exploring"
+    course_code: "SCO_307"
+    category: courses
+    duration: 9
+    description: >
+      This module will introduce you to those skills and how they impact Exploring programs.
+    training_url: /training/courses/sco-307/
+    role_requirements: []
+
+  - id: sco-308
+    name: "Registering and Renewing for Exploring"
+    course_code: "SCO_308"
+    category: courses
+    duration: 8
+    description: >
+      Exploring programs have offered real-world, hands-on career experiences to over two million youth since 1998. In this module you will learn what clubs and posts need to do to register or renew an Exploring program.
+    training_url: /training/courses/sco-308/
+    role_requirements: []
+
+  - id: sco-309
+    name: "Safety Tips for Exploring"
+    course_code: "SCO_309"
+    category: courses
+    duration: 13
+    description: >
+      In this module, users will gain an understanding of the commitment Learning for Life has to safety. It will also identify key resources needed to provide safe experiences to youth.
+    training_url: /training/courses/sco-309/
+    role_requirements: []
+
+  - id: sco-310
+    name: "Developing SOPs and Bylaws for Exploring"
+    course_code: "SCO_310"
+    category: courses
+    duration: 5
+    description: >
+      This module will provide you with an understanding of these as well as their importance to the success of your Exploring program.
+    training_url: /training/courses/sco-310/
+    role_requirements: []
+
+  - id: sco-311
+    name: "Annual Program Planning for Exploring"
+    course_code: "SCO_311"
+    category: courses
+    duration: 11
+    description: >
+      A good Exploring program takes planning. This module identifies the qualities of a good progam as well as who is responsible for designing and implementing the program.
+    training_url: /training/courses/sco-311/
+    role_requirements: []
+
+  - id: sco-312
+    name: "Youth Led Programs for Exploring"
+    course_code: "SCO_312"
+    category: courses
+    duration: 10
+    description: >
+      Exploring is a program in which the youth actually lead their fellow Explorers.  This module will explore the qualities of a good youth-led post or club program as well as how to apply leadership to experiences within the program.
+    training_url: /training/courses/sco-312/
+    role_requirements: []
+
+  - id: sco-313
+    name: "Youth Officer Elections for Exploring"
+    course_code: "SCO_313"
+    category: courses
+    duration: 8
+    description: >
+      In this module you will identify the characteristics of good officers and understand the process for an Explorer to become a post or club officer.
+    training_url: /training/courses/sco-313/
+    role_requirements: []
+
+  - id: sco-314
+    name: "Open House for Exploring"
+    course_code: "SCO_314"
+    category: courses
+    duration: 11
+    description: >
+      This module will help you understand what it takes to plan a successful Open House.
+    training_url: /training/courses/sco-314/
+    role_requirements: []
+
+  - id: sco-315
+    name: "Program Fundraising for Exploring"
+    course_code: "SCO_315"
+    category: courses
+    duration: 5
+    description: >
+      In this module you will learn the benefits of fundraising and the various fundraising opportunities available to Exploring posts and clubs as well as how to plan and budget for the activities.
+    training_url: /training/courses/sco-315/
+    role_requirements: []
+
+  - id: sco-316
+    name: "Activity Planning for Exploring"
+    course_code: "SCO_316"
+    category: courses
+    duration: 9
+    description: >
+      Explorers participate in many events throughout the year--some more exciting than others.  In this module you will learn what is required of the advisors as well as the Explorers to plan an event.
+    training_url: /training/courses/sco-316/
+    role_requirements: []
+
+  - id: sco-317
+    name: "Conducting an Officer Seminar for Exploring"
+    course_code: "SCO_317"
+    category: courses
+    duration: 6
+    description: >
+      Effective leadership requires vision, setting clear goals, and then planning to achieve those goals.  In this module you will become familiar with the purpose and planning for conducting an officer seminar.
+    training_url: /training/courses/sco-317/
+    role_requirements: []
+
+  - id: sco-318
+    name: "Service Team Orientation for Exploring"
+    course_code: "SCO_318"
+    category: courses
+    duration: 11
+    description: >
+      Exploring Service teams are a vital part of the program. Service teams help start new Exploring programs and assist with development, improvement, and growth.
+    training_url: /training/courses/sco-318/
+    role_requirements: []
+
+  - id: sco-350
+    name: "YE Introduction to Leadership"
+    course_code: "SCO_350"
+    category: courses
+    duration: 13
+    description: >
+      If you are thirsty, this module is on fleek with the basic knowledge of what it takes to be a leader and to introduce you to leadership skills that can be used in Exploring and in your personal life.
+    training_url: /training/courses/sco-350/
+    role_requirements: []
+
+  - id: sco-351
+    name: "YE Planning"
+    course_code: "SCO_351"
+    category: courses
+    duration: 15
+    description: >
+      This module introduces planning skills that can be used in leading a group and in other aspects of your personal life.
+    training_url: /training/courses/sco-351/
+    role_requirements: []
+
+  - id: sco-352
+    name: "YE Time Management"
+    course_code: "SCO_352"
+    category: courses
+    duration: 12
+    description: >
+      This module introduces time management skills and ways to improve daily performance that you may use in Exploring and in your personal life.
+    training_url: /training/courses/sco-352/
+    role_requirements: []
+
+  - id: sco-353
+    name: "YE Self Regulation and Goal Setting"
+    course_code: "SCO_353"
+    category: courses
+    duration: 11
+    description: >
+      This module is designed to give you the knowledge needed to set and obtain personal goals that can be used in Exploring and your life.
+    training_url: /training/courses/sco-353/
+    role_requirements: []
+
+  - id: sco-354
+    name: "YE Diversity and Culture"
+    course_code: "SCO_354"
+    category: courses
+    duration: 11
+    description: >
+      This module focuses on the leadership skills you need to work effectively with people from diverse backgrounds.
+    training_url: /training/courses/sco-354/
+    role_requirements: []
+
+  - id: sco-355
+    name: "YE Ethics"
+    course_code: "SCO_355"
+    category: courses
+    duration: 5
+    description: >
+      This module introduces the importance of ethics to leadership.
+    training_url: /training/courses/sco-355/
+    role_requirements: []
+
+  - id: sco-356
+    name: "YE Character of Leadership"
+    course_code: "SCO_356"
+    category: courses
+    duration: 8
+    description: >
+      This module relates character attributes to the meaning of leadership.
+    training_url: /training/courses/sco-356/
+    role_requirements: []
+
+  - id: sco-357
+    name: "YE Motivation"
+    course_code: "SCO_357"
+    category: courses
+    duration: 5
+    description: >
+      This module introduces the importance of motivation to leadership.
+    training_url: /training/courses/sco-357/
+    role_requirements: []
+
+  - id: sco-358
+    name: "YE Communication"
+    course_code: "SCO_358"
+    category: courses
+    duration: 11
+    description: >
+      This module introduces you to the role of communication in leadership and provides communication skills you can use both in Exploring and in your life.
+    training_url: /training/courses/sco-358/
+    role_requirements: []
+
+  - id: sco-359
+    name: "YE Meeting Management"
+    course_code: "SCO_359"
+    category: courses
+    duration: 10
+    description: >
+      This module introduces meeting management skills as part of the Learning for Life Leadership Workshop.
+    training_url: /training/courses/sco-359/
+    role_requirements: []
+
+  - id: sco-360
+    name: "YE Group Management"
+    course_code: "SCO_360"
+    category: courses
+    duration: 15
+    description: >
+      This module introduces the skill of group management that can be in Exploring and other parts of your life.
+    training_url: /training/courses/sco-360/
+    role_requirements: []
+
+  - id: sco-361
+    name: "YE Managing Through Others"
+    course_code: "SCO_361"
+    category: courses
+    duration: 9
+    description: >
+      After completing this module, you will be able to define the basic principles of managing by delegation.
+    training_url: /training/courses/sco-361/
+    role_requirements: []
+
+  - id: sco-362
+    name: "YE Decision Making"
+    course_code: "SCO_362"
+    category: courses
+    duration: 9
+    description: >
+      This module is designed to provide you with a basic understanding of the skills needed to make responsible decisions.
+    training_url: /training/courses/sco-362/
+    role_requirements: []
+
+  - id: sco-433
+    name: "Ideals and Beliefs of Scouts BSA"
+    course_code: "SCO_433"
+    category: courses
+    duration: 8
+    description: >
+      The Scout spirit is an attitude that Scouts around the world should show, based on adherence to the Scout Law and Scout Oath. This module is designed to help you identify and explain each of the ideals of Scouting.
+    training_url: /training/courses/sco-433/
+    role_requirements: []
+
+  - id: sco-438
+    name: "Outdoor Programs for Scouts BSA"
+    course_code: "SCO_438"
+    category: courses
+    duration: 9
+    description: >
+      This module explains how the outdoor program works as well as the important role it plays in Scouting. In adition it will cover the six key parts in planning an outdoor program, responsibilities of the Scoutmaster and additional resources.
+    training_url: /training/courses/sco-438/
+    role_requirements: []
+
+  - id: sco-445
+    name: "Troop Committee Meetings for Scouts BSA"
+    course_code: "SCO_445"
+    category: courses
+    duration: 6
+    description: >
+      A monthly troop committee meeting is essential to successful troop operation. Their primary responsibility is supporting the troop program. This module wll identify the purpose and parts of the troop committee meeting.
+    training_url: /training/courses/sco-445/
+    role_requirements: []
+
+  - id: sco-450
+    name: "CS19 Welcome"
+    course_code: "SCO_450"
+    category: courses
+    duration: 2
+    description: >
+      This training is designed to be a blended learning experience. This means you take some formal training and then put that into practice before you take additional training.
+    training_url: /training/courses/sco-450/
+    role_requirements:
+      - role: advancement-chair
+        status: required
+      - role: assistant-cubmaster
+        status: required
+      - role: charter-org-rep
+        status: required
+      - role: committee-chair
+        status: required
+      - role: cubmaster
+        status: required
+      - role: den-leader
+        status: required
+      - role: fundraising-chair
+        status: required
+      - role: membership-chair
+        status: required
+      - role: activity-chair
+        status: required
+      - role: secretary
+        status: required
+      - role: treasurer
+        status: required
+
+  - id: sco-451
+    name: "CS19 Aims and Methods of Cub Scouting"
+    course_code: "SCO_451"
+    category: courses
+    duration: 6
+    description: >
+      This module will help you identify and define those aims and the methods employed as part of the Cub Scout program.
+    training_url: /training/courses/sco-451/
+    role_requirements:
+      - role: advancement-chair
+        status: required
+      - role: assistant-cubmaster
+        status: required
+      - role: charter-org-rep
+        status: required
+      - role: committee-chair
+        status: required
+      - role: cubmaster
+        status: required
+      - role: den-leader
+        status: required
+      - role: fundraising-chair
+        status: required
+      - role: membership-chair
+        status: required
+      - role: activity-chair
+        status: required
+      - role: secretary
+        status: required
+      - role: treasurer
+        status: required
+
+  - id: sco-452
+    name: "CS19 Bobcat"
+    course_code: "SCO_452"
+    category: courses
+    duration: 7
+    description: >
+      This module will help you understand what the Bobcat rank is and how it is earned.
+    training_url: /training/courses/sco-452/
+    role_requirements:
+      - role: den-leader
+        status: required
+
+  - id: sco-453
+    name: "CS19 Advancement"
+    course_code: "SCO_453"
+    category: courses
+    duration: 10
+    description: >
+      This module will help you understand what advancement is and the important role it plays in Cub Scouting. It will also provide you with a basic understanding of what rank each grade level works on as well as how that rank is earned.
+    training_url: /training/courses/sco-453/
+    role_requirements:
+      - role: assistant-cubmaster
+        status: required
+      - role: cubmaster
+        status: required
+      - role: den-leader
+        status: required
+
+  - id: sco-454
+    name: "CS19 Cub Scout Uniforms"
+    course_code: "SCO_454"
+    category: courses
+    duration: 5
+    description: >
+      The Scout uniform is one of the seven methods of Cub Scouting used to support the values embodied in the Scout Oath and Scout Law.
+    training_url: /training/courses/sco-454/
+    role_requirements:
+      - role: advancement-chair
+        status: required
+      - role: assistant-cubmaster
+        status: required
+      - role: charter-org-rep
+        status: required
+      - role: committee-chair
+        status: required
+      - role: cubmaster
+        status: required
+      - role: den-leader
+        status: required
+      - role: fundraising-chair
+        status: required
+      - role: membership-chair
+        status: required
+      - role: activity-chair
+        status: required
+      - role: secretary
+        status: required
+      - role: treasurer
+        status: required
+
+  - id: sco-455
+    name: "CS19 Conducting a Cub Scout Den Meeting"
+    course_code: "SCO_455"
+    category: courses
+    duration: 8
+    description: >
+      Here we will discuss the parts for the den meeting and what each includes. We will also talk about the best resources for planning your meeting and carrying out the Cub Scout program.
+    training_url: /training/courses/sco-455/
+    role_requirements:
+      - role: den-leader
+        status: required
+
+  - id: sco-456
+    name: "CS19 Resources"
+    course_code: "SCO_456"
+    category: courses
+    duration: 5
+    description: >
+      In this module, we’ll look at how to identify your resources using the Family Talent Survey as well as how to approach and ask people to help you out.
+    training_url: /training/courses/sco-456/
+    role_requirements:
+      - role: den-leader
+        status: required
+
+  - id: sco-457
+    name: "CS19 Den Management"
+    course_code: "SCO_457"
+    category: courses
+    duration: 5
+    description: >
+      In this module, we’re going to look at four additional, proactive methods that you can use to manage your den’s behavior.
+    training_url: /training/courses/sco-457/
+    role_requirements:
+      - role: assistant-cubmaster
+        status: required
+      - role: cubmaster
+        status: required
+      - role: den-leader
+        status: required
+
+  - id: sco-458
+    name: "CS19 Conducting a Cub Scout Pack Meeting"
+    course_code: "SCO_458"
+    category: courses
+    duration: 12
+    description: >
+      In this module we will focus on the purpose of Pack meetings and why they are held. We’ll break down each of the parts of the pack meeting and explain how they fit together.
+    training_url: /training/courses/sco-458/
+    role_requirements:
+      - role: assistant-cubmaster
+        status: required
+      - role: cubmaster
+        status: required
+
+  - id: sco-459
+    name: "CS19 Conducting a Pack Committee Meeting"
+    course_code: "SCO_459"
+    category: courses
+    duration: 9
+    description: >
+      This module will help you understand the purpose of the Pack Committee Meeting.
+    training_url: /training/courses/sco-459/
+    role_requirements:
+      - role: advancement-chair
+        status: required
+      - role: charter-org-rep
+        status: required
+      - role: committee-chair
+        status: required
+      - role: fundraising-chair
+        status: required
+      - role: membership-chair
+        status: required
+      - role: activity-chair
+        status: required
+      - role: secretary
+        status: required
+      - role: treasurer
+        status: required
+
+  - id: sco-460
+    name: "CS19 Preparing Families for Outdoor Adventures"
+    course_code: "SCO_460"
+    category: courses
+    duration: 5
+    description: >
+      Cub Scouts and their families will spend time outdoors in the Cub Scout Program. It’s important that you prepare everyone ahead of time to keep adults and youth safe.
+    training_url: /training/courses/sco-460/
+    role_requirements: []
+
+  - id: sco-461
+    name: "CS19 Keeping Cub Scouting Safe"
+    course_code: "SCO_461"
+    category: courses
+    duration: 5
+    description: >
+      In this module you will learn what activities require a BALOO trained leader, the Guide to Safe Scouting as the primary resource for safety rules and regulations, and Know how to report an incident and locate incident reporting tool.
+    training_url: /training/courses/sco-461/
+    role_requirements: []
+
+  - id: sco-462
+    name: "CS19 Involving Adults in Cub Scouting"
+    course_code: "SCO_462"
+    category: courses
+    duration: 9
+    description: >
+      In this module we will give guidance on how to get as many adults involved as possible, how to plan ahead, and how to recruit for key leadership positions in the den and pack.
+    training_url: /training/courses/sco-462/
+    role_requirements:
+      - role: advancement-chair
+        status: required
+      - role: assistant-cubmaster
+        status: required
+      - role: charter-org-rep
+        status: required
+      - role: committee-chair
+        status: required
+      - role: cubmaster
+        status: required
+      - role: fundraising-chair
+        status: required
+      - role: membership-chair
+        status: required
+      - role: activity-chair
+        status: required
+      - role: secretary
+        status: required
+      - role: treasurer
+        status: required
+
+  - id: sco-463
+    name: "CS19 Pack Structure"
+    course_code: "SCO_463"
+    category: courses
+    duration: 8
+    description: >
+      In this module, we will discuss these volunteer positions and the roles they play in the pack as well as describe several pack and den structures.
+    training_url: /training/courses/sco-463/
+    role_requirements:
+      - role: advancement-chair
+        status: required
+      - role: charter-org-rep
+        status: required
+      - role: committee-chair
+        status: required
+      - role: fundraising-chair
+        status: required
+      - role: membership-chair
+        status: required
+      - role: activity-chair
+        status: required
+      - role: secretary
+        status: required
+      - role: treasurer
+        status: required
+
+  - id: sco-464
+    name: "CS19 Denners and Den Chiefs"
+    course_code: "SCO_464"
+    category: courses
+    duration: 8
+    description: >
+      In this module, we will focus on the roles of the youth leadership positions of Denner and the Den Chief.
+    training_url: /training/courses/sco-464/
+    role_requirements: []
+
+  - id: sco-465
+    name: "CS19 Childhood Development"
+    course_code: "SCO_465"
+    category: courses
+    duration: 7
+    description: >
+      In this module we will identify three characteristics of children across the Cub Scout ages.
+    training_url: /training/courses/sco-465/
+    role_requirements: []
+
+  - id: sco-466
+    name: "CS19 Continue the Journey"
+    course_code: "SCO_466"
+    category: courses
+    duration: 4
+    description: >
+      In this module we will review the requirements to earn your training award knot.
+    training_url: /training/courses/sco-466/
+    role_requirements: []
+
+  - id: sco-467
+    name: "CS19 Pack Finance"
+    course_code: "SCO_467"
+    category: courses
+    duration: 8
+    description: >
+      In this module we will cover the rules about Cub Scout pack finances and provide some suggestions on managing those finances.
+    training_url: /training/courses/sco-467/
+    role_requirements: []
+
+  - id: sco-468
+    name: "CS19 Annual Program Planning for Cub Scouting"
+    course_code: "SCO_468"
+    category: courses
+    duration: 18
+    description: >
+      In this module you will learn what Annual Program Planning is and why it is done.
+    training_url: /training/courses/sco-468/
+    role_requirements: []
+
+  - id: sco-469
+    name: "CS19 Annual Charter Renewal Rechartering"
+    course_code: "SCO_469"
+    category: courses
+    duration: 7
+    description: >
+      In this module we will talk about what the chartered organization and the local council agree to during the annual chartering process.
+    training_url: /training/courses/sco-469/
+    role_requirements: []
+
+  - id: sco-471
+    name: "Advancement"
+    course_code: "SCO_471"
+    category: courses
+    duration: 10
+    description: >
+      Advancement Is one of the eight methods of Scouting.
+    training_url: /training/courses/sco-471/
+    role_requirements: []
+
+  - id: sco-472
+    name: "Aims and Methods of Scouts BSA"
+    course_code: "SCO_472"
+    category: courses
+    duration: 9
+    description: >
+      The mission of the Boy Scouts of America is to prepare young people to make ethical and moral choices over their lifetimes by instilling in them the values of the Scout Oath and Scout Law.
+    training_url: /training/courses/sco-472/
+    role_requirements: []
+
+  - id: sco-473
+    name: "Annual Troop Program Planning"
+    course_code: "SCO_473"
+    category: courses
+    duration: 14
+    description: >
+      In this course you will get an overview of the Annual Troop Planning.
+    training_url: /training/courses/sco-473/
+    role_requirements: []
+
+  - id: sco-474
+    name: "Introduction to Merit Badges"
+    course_code: "SCO_474"
+    category: courses
+    duration: 8
+    description: >
+      Merit badges exist to encourage Scouts to explore areas that interest them and to teach them valuable skills.
+    training_url: /training/courses/sco-474/
+    role_requirements: []
+
+  - id: sco-475
+    name: "Outdoor Ethics"
+    course_code: "SCO_475"
+    category: courses
+    duration: 8
+    description: >
+      Scouts and the outdoors go hand in hand.  In this course we will cover the Outdoor Code and the Principles of Leave No Trace.
+    training_url: /training/courses/sco-475/
+    role_requirements: []
+
+  - id: sco-476
+    name: "Outdoor Programs"
+    course_code: "SCO_476"
+    category: courses
+    duration: 10
+    description: >
+      In short, outdoor challenges build character.
+    training_url: /training/courses/sco-476/
+    role_requirements: []
+
+  - id: sco-477
+    name: "Patrol Leaders Council Meeting"
+    course_code: "SCO_477"
+    category: courses
+    duration: 11
+    description: >
+      A Scouts BSA troop is a small democracy.
+    training_url: /training/courses/sco-477/
+    role_requirements: []
+
+  - id: sco-478
+    name: "Patrol Method"
+    course_code: "SCO_478"
+    category: courses
+    duration: 10
+    description: >
+      In this course you will learn about the patrol method of carrying out Scouting.
+    training_url: /training/courses/sco-478/
+    role_requirements: []
+
+  - id: sco-479
+    name: "Role of Unit Key 3"
+    course_code: "SCO_479"
+    category: courses
+    duration: 7
+    description: >
+      Scouting has utilized the concept of a Key 3 at many different levels for a long time.
+    training_url: /training/courses/sco-479/
+    role_requirements: []
+
+  - id: sco-480
+    name: "Roles of Scoutmaster and SPL"
+    course_code: "SCO_480"
+    category: courses
+    duration: 13
+    description: >
+      In this course you will get an overview of the Scout Master and Senior Patrol Leader Roles.
+    training_url: /training/courses/sco-480/
+    role_requirements: []
+
+  - id: sco-481
+    name: "Scouting Organization"
+    course_code: "SCO_481"
+    category: courses
+    duration: 12
+    description: >
+      This module provides an overview of the Scouting organization.
+    training_url: /training/courses/sco-481/
+    role_requirements: []
+
+  - id: sco-482
+    name: "Troop Committee"
+    course_code: "SCO_482"
+    category: courses
+    duration: 14
+    description: >
+      In this course you will get an overview of the Troop Committee.
+    training_url: /training/courses/sco-482/
+    role_requirements: []
+
+  - id: sco-483
+    name: "Troop Committee Meetings"
+    course_code: "SCO_483"
+    category: courses
+    duration: 6
+    description: >
+      In this course you will get an overview of the Troop Committee Meeting.
+    training_url: /training/courses/sco-483/
+    role_requirements: []
+
+  - id: sco-484
+    name: "Troop Meeting"
+    course_code: "SCO_484"
+    category: courses
+    duration: 10
+    description: >
+      In this course you will get an overview of the Troop Meeting.
+    training_url: /training/courses/sco-484/
+    role_requirements: []
+
+  - id: sco-485
+    name: "Scouts BSA Uniforms"
+    course_code: "SCO_485"
+    category: courses
+    duration: 12
+    description: >
+      The uniform represents Scouting’s spirit of equality and democracy and identifies fellow Scouts.
+    training_url: /training/courses/sco-485/
+    role_requirements: []
+
+  - id: sco-486
+    name: "What is a Merit Badge Counselor"
+    course_code: "SCO_486"
+    category: courses
+    duration: 7
+    description: >
+      Scouts wishing to earn a merit badge do so with the guidance and approval of a merit badge counselor.
+    training_url: /training/courses/sco-486/
+    role_requirements: []
+
+  - id: sco-535
+    name: "New Member Coordinator Welcome Course"
+    course_code: "SCO_535"
+    category: courses
+    duration: 13
+    description: >
+      Introduction to the New Member Coordinator role in Scouting.
+    training_url: /training/courses/sco-535/
+    role_requirements: []
+
+  - id: sco-536
+    name: "Elements of the Job"
+    course_code: "SCO_536"
+    category: courses
+    duration: 30
+    description: >
+      This 3 part module covers topics associated with sharing the benefits of scouting, coordinating unit recruitment and how to guide the joining and welcoming process.
+    training_url: /training/courses/sco-536/
+    role_requirements: []
+
+  - id: sco-550
+    name: "What is STEM Scouts"
+    course_code: "SCO_550"
+    category: courses
+    duration: 8
+    description: >
+      Welcome to What Is STEM Scouting? Here, we will talk about what STEM Scouting is and how it works, as well as how it compares to traditional Scouting.
+    training_url: /training/courses/sco-550/
+    role_requirements: []
+
+  - id: sco-551
+    name: "The STEM Scouts Portal"
+    course_code: "SCO_551"
+    category: courses
+    duration: 12
+    description: >
+      The STEM Scouts Portal provides an easy-to-use interface where you can manage your lab units. It is here you will be able to schedule meetings, take attendance, and organize your Lab.
+    training_url: /training/courses/sco-551/
+    role_requirements: []
+
+  - id: sco-552
+    name: "STEM Lab Meeting and Structure"
+    course_code: "SCO_552"
+    category: courses
+    duration: 12
+    description: >
+      The STEM Scouting program is thematic in nature with curriculum divided into modules that are then broken into meeting activities.
+    training_url: /training/courses/sco-552/
+    role_requirements: []
+
+  - id: sco-553
+    name: "Lab Safety"
+    course_code: "SCO_553"
+    category: courses
+    duration: 3
+    description: >
+      Outside of Youth Protection, lab safety training is the most important training for Lab Managers. Lab safety is about making science, technology, engi
+    training_url: /training/courses/sco-553/
+    role_requirements: []
+
+  - id: sco-554
+    name: "Working with STEM Scouts"
+    course_code: "SCO_554"
+    category: courses
+    duration: 3
+    description: >
+      Working with youth can be intimidating for a new STEM Scout Lab Manager, especially if they are working with an unfamiliar age group. Knowing the char
+    training_url: /training/courses/sco-554/
+    role_requirements: []
+
+  - id: sco-555
+    name: "STEM Scouts Committee"
+    course_code: "SCO_555"
+    category: courses
+    duration: 9
+    description: >
+      STEM Scouting Scouts Committee will use the concept of the Boy Scouts of America District Committee structure.  The Committee management principle provides leadership and top-level governance by delegating leadership.
+    training_url: /training/courses/sco-555/
+    role_requirements: []
+
+  - id: sco-570
+    name: "BSA AA Creating the Committee"
+    course_code: "SCO_570"
+    category: courses
+    duration: 5
+    description: >
+      In this course, we will discuss who are Scouting Alumni, how to create a BSA Alumni Committee at your local Council and the structure of the BSA Alumni Committee.
+    training_url: /training/courses/sco-570/
+    role_requirements: []
+
+  - id: sco-571
+    name: "BSA AA The Committee Chair's Role"
+    course_code: "SCO_571"
+    category: courses
+    duration: 8
+    description: >
+      In this course, we will discuss the BSA Alumni Association as the leader of the BSA Alumni Association Committee.
+    training_url: /training/courses/sco-571/
+    role_requirements: []
+
+  - id: sco-572
+    name: "BSA AA The Scout Executive's Role"
+    course_code: "SCO_572"
+    category: courses
+    duration: 6
+    description: >
+      This course should be viewed by Scout executives and council presidents to help understand the value of having a BSA Alumni Association committee in their council.
+    training_url: /training/courses/sco-572/
+    role_requirements: []
+
+  - id: sco-573
+    name: "BSA AA Affiliate & Affinity Group Relationships"
+    course_code: "SCO_573"
+    category: courses
+    duration: 11
+    description: >
+      In this course, we will discuss BSA Alumni affiliate and affinity group relationships.
+    training_url: /training/courses/sco-573/
+    role_requirements: []
+
+  - id: sco-574
+    name: "BSA AA Awards and Recognition"
+    course_code: "SCO_574"
+    category: courses
+    duration: 10
+    description: >
+      In this course, we will discuss the available awards and recognition within the BSA Alumni Association. This course should be viewed by anyone interested in properly honoring deserving individuals on behalf of the BSA Alumni Association.
+    training_url: /training/courses/sco-574/
+    role_requirements: []
+
+  - id: sco-575
+    name: "BSA AA Communications"
+    course_code: "SCO_575"
+    category: courses
+    duration: 7
+    description: >
+      In this course, we will discuss BSA Alumni Association communication methods.
+    training_url: /training/courses/sco-575/
+    role_requirements: []
+
+  - id: sco-576
+    name: "BSA AA SPARK Database General User"
+    course_code: "SCO_576"
+    category: courses
+    duration: 14
+    description: >
+      The personal data in this portal should be updated by each user for the most complete and current information.  You can also use this portal to look up you old scouting buddies.
+    training_url: /training/courses/sco-576/
+    role_requirements: []
+
+  - id: sco-577
+    name: "BSA AA SPARK Database Specialist"
+    course_code: "SCO_577"
+    category: courses
+    duration: 6
+    description: >
+      This course explains how the Specialist can update information and perform advanced searches on the database as well as create and store lists.
+    training_url: /training/courses/sco-577/
+    role_requirements: []
+
+  - id: sco-600
+    name: "Sea Scout Getting Started"
+    course_code: "SCO_600"
+    category: courses
+    duration: 12
+    description: >
+      This module is an introduction to the Sea Scout program covering organization, planning, activities, tour plans and conducting water activities. It is the perfect starting point for anyone with an interest in Sea Scouts.
+    training_url: /training/courses/sco-600/
+    role_requirements: []
+
+  - id: sco-601
+    name: "Starting and Reorganizing Your Ship"
+    course_code: "SCO_601"
+    category: courses
+    duration: 9
+    description: >
+      How do you organize a ship? What happens during a meeting? What kinds of activities should you pursue? Find the answers to these questions and more in this module.
+    training_url: /training/courses/sco-601/
+    role_requirements: []
+
+  - id: sco-602
+    name: "Planning Your Ships Program"
+    course_code: "SCO_602"
+    category: courses
+    duration: 9
+    description: >
+      Planning takes many forms in a ship – structural, operational, and activities. This training covers how to guide youth as they develop their program.
+    training_url: /training/courses/sco-602/
+    role_requirements: []
+
+  - id: sco-603
+    name: "Sea Scout Youth Leadership Development"
+    course_code: "SCO_603"
+    category: courses
+    duration: 8
+    description: >
+      Quarterdeck training, needs assessment, and goal setting are key objectives of this module, as well as leadership experiences beyond the ship – NYLT, NAYLE, and National Leadership Academy.
+    training_url: /training/courses/sco-603/
+    role_requirements: []
+
+  - id: sco-604
+    name: "Sea Scout Resources"
+    course_code: "SCO_604"
+    category: courses
+    duration: 11
+    description: >
+      There are many resources available to support the Sea Scout program in the community, your territory, and nationally. Learn how to locate resources and leverage partnerships with the boating community.
+    training_url: /training/courses/sco-604/
+    role_requirements: []
+
+  - id: sco-605
+    name: "Sea Scout Advancement"
+    course_code: "SCO_605"
+    category: courses
+    duration: 6
+    description: >
+      Sea Scouts can pursue rank advancement from Apprentice to Quartermaster, but what else is available?  Learn about Sea Scout awards, recognitions and ceremonies in this module.
+    training_url: /training/courses/sco-605/
+    role_requirements: []
+
+  - id: sco-607
+    name: "What is Sea Scouts"
+    course_code: "SCO_607"
+    category: courses
+    duration: 13
+    description: >
+      This module will describe the history of Sea Scouting and list the types of water-based programs that are available. Youth and adult leadership positions will be identified as well as the methods of Sea Scouts.
+    training_url: /training/courses/sco-607/
+    role_requirements: []
+
+  - id: sco-620
+    name: "Planning a Long Cruise"
+    course_code: "SCO_620"
+    category: courses
+    duration: 14
+    description: >
+      Optional training. Planning a long cruise is a challenge. Where do you go? Who goes? How do you get there? What about costs? This module brings clarity to the process and has links to valuable planning tools.
+    training_url: /training/courses/sco-620/
+    role_requirements: []
+
+  - id: sco-621
+    name: "Executing a Long Cruise"
+    course_code: "SCO_621"
+    category: courses
+    duration: 19
+    description: >
+      Optional training. Carrying out your long cruise plan may include a few unexpected events. This module will help you anticipate and plan for the most likely problems you may encounter while underway.
+    training_url: /training/courses/sco-621/
+    role_requirements: []
+
+  - id: sco-756
+    name: "Servicing Exploring Units"
+    course_code: "SCO_756"
+    category: courses
+    duration: 17
+    description: >
+      By the end of the module you should understand the role and structure of an Exploring Service Team and your role in supporting exploring units.
+    training_url: /training/courses/sco-756/
+    role_requirements: []
+
+  - id: sco-770
+    name: "Unit Service Concepts-Unit Commissioner"
+    course_code: "SCO_770"
+    category: courses
+    duration: 4
+    description: >
+      Understand how district level unit service is organized and where unit commissioners fit into that organization
+    training_url: /training/courses/sco-770/
+    role_requirements: []
+
+  - id: sco-771
+    name: "District Level Unit Service"
+    course_code: "SCO_771"
+    category: courses
+    duration: 8
+    description: >
+      Understand how district level unit service is organized and where unit commissioners fit into that organization
+    training_url: /training/courses/sco-771/
+    role_requirements: []
+
+  - id: sco-772
+    name: "Unit Contacts"
+    course_code: "SCO_772"
+    category: courses
+    duration: 8
+    description: >
+      Be able to develop a relationship with unit leadership and arrange for regular unit contacts.
+    training_url: /training/courses/sco-772/
+    role_requirements: []
+
+  - id: sco-773
+    name: "Unit Assessments"
+    course_code: "SCO_773"
+    category: courses
+    duration: 5
+    description: >
+      Use the Scoring matrix in the evaluation of a unit contact
+    training_url: /training/courses/sco-773/
+    role_requirements: []
+
+  - id: sco-774
+    name: "Commissioner Tools Navigation and Simple Assessments"
+    course_code: "SCO_774"
+    category: courses
+    duration: 4
+    description: >
+      Know how to log on to commissioner tools and prepare to enter a unit contact
+    training_url: /training/courses/sco-774/
+    role_requirements: []
+
+  - id: sco-775
+    name: "Detailed Assessments and Unit Service Plan"
+    course_code: "SCO_775"
+    category: courses
+    duration: 4
+    description: >
+      Unit commissioner will use this tool to help the unit improve its program.
+    training_url: /training/courses/sco-775/
+    role_requirements: []
+
+  - id: sco-776
+    name: "Unit Service Plan v2"
+    course_code: "SCO_776"
+    category: courses
+    duration: 10
+    description: >
+      Unit commissioner will be able to build and implement a unit service plan
+    training_url: /training/courses/sco-776/
+    role_requirements: []
+
+  - id: sco-777
+    name: "The District"
+    course_code: "SCO_777"
+    category: courses
+    duration: 5
+    description: >
+      The commissioner will understand how the District is organized and know who to engage for assistance.
+    training_url: /training/courses/sco-777/
+    role_requirements: []
+
+  - id: sco-778
+    name: "Working with New Units"
+    course_code: "SCO_778"
+    category: courses
+    duration: 5
+    description: >
+      Understand the roles and responsibilities of the new unit organizer, the unit commissioner and New Member Coordinator
+    training_url: /training/courses/sco-778/
+    role_requirements: []
+
+  - id: sco-779
+    name: "Youth Protection and Unit Resources"
+    course_code: "SCO_779"
+    category: courses
+    duration: 6
+    description: >
+      The unit commissioner ensures that safe scouting happens in every unit
+    training_url: /training/courses/sco-779/
+    role_requirements: []
+
+  - id: sco-780
+    name: "Charter Renewal"
+    course_code: "SCO_780"
+    category: courses
+    duration: 6
+    description: >
+      Know the steps in the charter renewal process
+    training_url: /training/courses/sco-780/
+    role_requirements: []
+
+  - id: sco-781
+    name: "Commissioner Development"
+    course_code: "SCO_781"
+    category: courses
+    duration: 12
+    description: >
+      Be aware of the development opportunities available to commissioners
+    training_url: /training/courses/sco-781/
+    role_requirements: []
+
+  - id: sco-782
+    name: "Roundtable Fundamentals"
+    course_code: "SCO_782"
+    category: courses
+    duration: 8
+    description: >
+      The commissioner will understand how roundtable commissioners contribute to and enhance unit service.
+    training_url: /training/courses/sco-782/
+    role_requirements: []
+
+  - id: sco-783
+    name: "Roundtable Administration"
+    course_code: "SCO_783"
+    category: courses
+    duration: 7
+    description: >
+      Build a strong Roundtable team and good historical base of roundtable information for the district
+    training_url: /training/courses/sco-783/
+    role_requirements: []
+
+  - id: sco-784
+    name: "Roundtable Organization"
+    course_code: "SCO_784"
+    category: courses
+    duration: 8
+    description: >
+      Be able to name the various roundtable positions and the various program components of Roundtable.
+    training_url: /training/courses/sco-784/
+    role_requirements: []
+
+  - id: sco-785
+    name: "Roundtable Preparation"
+    course_code: "SCO_785"
+    category: courses
+    duration: 16
+    description: >
+      Improve percent of units with an assigned unit commissioner that record contacts.
+    training_url: /training/courses/sco-785/
+    role_requirements: []
+
+  - id: sco-786
+    name: "Components of Roundtable"
+    course_code: "SCO_786"
+    category: courses
+    duration: 8
+    description: >
+      Commissioners are able to build solid roundtable agendas
+    training_url: /training/courses/sco-786/
+    role_requirements: []
+
+  - id: sco-787
+    name: "Roundtable Tools"
+    course_code: "SCO_787"
+    category: courses
+    duration: 5
+    description: >
+      Commissioners can employ the right tools to make roundtable informative and interesting.
+    training_url: /training/courses/sco-787/
+    role_requirements: []
+
+  - id: sco-788
+    name: "Roles of the Council Commissioner"
+    course_code: "SCO_788"
+    category: courses
+    duration: 9
+    description: >
+      Understand the importance of the need for a functional council Key 3
+    training_url: /training/courses/sco-788/
+    role_requirements: []
+
+  - id: sco-789
+    name: "Building the Team"
+    course_code: "SCO_789"
+    category: courses
+    duration: 11
+    description: >
+      Understand how an effective council commissioners cabinet aids the council commissioner in executing their governance duties and their unit service duties.
+    training_url: /training/courses/sco-789/
+    role_requirements: []
+
+  - id: sco-790
+    name: "Meetings of the Council Commissioner v2"
+    course_code: "SCO_790"
+    category: courses
+    duration: 6
+    description: >
+      Understands the significance of meetings relating to governance and meetings relating to operational unit service.
+    training_url: /training/courses/sco-790/
+    role_requirements: []
+
+  - id: sco-791
+    name: "Monitoring Unit Service"
+    course_code: "SCO_791"
+    category: courses
+    duration: 11
+    description: >
+      Monitor the health of units in the council so that problems that affect charter renewal are averted.
+    training_url: /training/courses/sco-791/
+    role_requirements: []
+
+  - id: sco-792
+    name: "Commissioner Tools Reports"
+    course_code: "SCO_792"
+    category: courses
+    duration: 4
+    description: >
+      Be able to employ commissioner resources to units with the greatest need
+    training_url: /training/courses/sco-792/
+    role_requirements: []
+
+  - id: sco-793
+    name: "Commissioner Tools for Administrative Commissioners"
+    course_code: "SCO_793"
+    category: courses
+    duration: 4
+    description: >
+      Ensure that there is an adequate number of trained commissioners to provide quality unit service
+    training_url: /training/courses/sco-793/
+    role_requirements: []
+
+  - id: sco-794
+    name: "Commissioner Tools for Roundtable Commissioners"
+    course_code: "SCO_794"
+    category: courses
+    duration: 4
+    description: >
+      Ensure support of unit leaders through roundtables
+    training_url: /training/courses/sco-794/
+    role_requirements: []
+
+  - id: sco-795
+    name: "Developing and Recognizing Commissioners"
+    course_code: "SCO_795"
+    category: courses
+    duration: 6
+    description: >
+      Encourage continued learning and commissioner retention.
+    training_url: /training/courses/sco-795/
+    role_requirements: []
+
+  - id: sco-796
+    name: "Council Support"
+    course_code: "SCO_796"
+    category: courses
+    duration: 6
+    description: >
+      Complete the onboarding processs.
+    training_url: /training/courses/sco-796/
+    role_requirements: []
+
+  - id: sco-800
+    name: "Hazardous Weather Training"
+    course_code: "SCO_800"
+    category: courses
+    duration: 28
+    description: >
+      This module will cover hazardous weather conditions that Scouts need to plan ahead and steps to take to be prepared.
+    training_url: /training/courses/sco-800/
+    role_requirements: []
+
+  - id: sco-801
+    name: "Safe Swim Defense"
+    course_code: "SCO_801"
+    category: courses
+    duration: 26
+    description: >
+      BSA groups shall use Safe Swim Defense for all swimming activities. Adult leaders supervising a swimming activity must have completed Safe Swim Defense training within the previous two years.
+    training_url: /training/courses/sco-801/
+    role_requirements: []
+
+  - id: sco-802
+    name: "Safety Afloat"
+    course_code: "SCO_802"
+    category: courses
+    duration: 30
+    description: >
+      BSA groups shall use Safety Afloat for all boating activities. Adult leaders supervising activities afloat must have completed Safety Afloat training
+    training_url: /training/courses/sco-802/
+    role_requirements: []
+
+  - id: sco-804
+    name: "Climb On Safely"
+    course_code: "SCO_804"
+    category: courses
+    duration: 13
+    description: >
+      Climb On Safely is the Boy Scouts of America’s procedure for organizing BSA climbing/rappelling activities at a natural site or a specifically designed facility such as a climbing wall or tower.
+    training_url: /training/courses/sco-804/
+    role_requirements: []
+
+  - id: sco-805
+    name: "Drive Safely"
+    course_code: "SCO_805"
+    category: courses
+    duration: 60
+    description: >
+      The Drive Safely module is based on the concepts of defensive driving, recognizing hazards and preventable collisions.
+    training_url: /training/courses/sco-805/
+    role_requirements: []
+
+  - id: sco-806
+    name: "Volunteer Impact on Membership"
+    course_code: "SCO_806"
+    category: courses
+    duration: 11
+    description: >
+      The Boy Scouts of America is dependent on its many volunteers.  This module covers recognizing positions and how to recruit and select volunteers, as well as key tasks and training opportunities.
+    training_url: /training/courses/sco-806/
+    role_requirements: []
+
+  - id: sco-807
+    name: "Recruiting Unit Leaders"
+    course_code: "SCO_807"
+    category: courses
+    duration: 5
+    description: >
+      In this module you will learn the recruiting method, key ways an individual can have influence in the community and how to identify volunteers.
+    training_url: /training/courses/sco-807/
+    role_requirements: []
+
+  - id: sco-808
+    name: "Volunteer Recruitment"
+    course_code: "SCO_808"
+    category: courses
+    duration: 7
+    description: >
+      In this module you will learn the elements of a recruitment call and the rules of successful recruitment.
+    training_url: /training/courses/sco-808/
+    role_requirements: []
+
+  - id: sco-809
+    name: "Succession Planning"
+    course_code: "SCO_809"
+    category: courses
+    duration: 9
+    description: >
+      In this module you will learn to define the cultivation of volunteers, the benefits of cultivating volunteers, how to find volunteers and cultivate them.
+    training_url: /training/courses/sco-809/
+    role_requirements: []
+
+  - id: sco-822
+    name: "Range Activities Safety"
+    course_code: "SCO_822"
+    category: courses
+    duration: 30
+    description: >
+      The purpose of Scouting America’s range and target activities is first and foremost centered around teaching safety. Scouting America’s range and target activities are developed and implemented through age-appropriate training and experiences.
+    training_url: /training/courses/sco-822/
+    role_requirements: []
+
+  - id: sco-900
+    name: "Unit Service in the District"
+    course_code: "SCO_900"
+    category: courses
+    duration: 14
+    description: >
+      "Understand the mission of a District Commissioner and know the role of the District Commissioner and the Role of the Assistant District Commissioner "
+    training_url: /training/courses/sco-900/
+    role_requirements: []
+
+  - id: sco-901
+    name: "Selecting & Assigning Unit Commissioners"
+    course_code: "SCO_901"
+    category: courses
+    duration: 5
+    description: >
+      Commissioners exceed unit leader expectations and provide prompt, caring service, not just competent service.
+    training_url: /training/courses/sco-901/
+    role_requirements: []
+
+  - id: sco-902
+    name: "Monitoring Unit Service in the District"
+    course_code: "SCO_902"
+    category: courses
+    duration: 11
+    description: >
+      Understand what information is needed to manage unit service.
+    training_url: /training/courses/sco-902/
+    role_requirements: []
+
+  - id: sco-903
+    name: "Monthly District Commissioner Meeting"
+    course_code: "SCO_903"
+    category: courses
+    duration: 6
+    description: >
+      Understand the importance of the monthly district commissioner meeting to develop the district’s commissioner team.
+    training_url: /training/courses/sco-903/
+    role_requirements: []
+
+  - id: sco-904
+    name: "Unit Service Concepts-Roundtable Commissioner"
+    course_code: "SCO_904"
+    category: courses
+    duration: 4
+    description: >
+      Understand the goals of unit service and the methods used to achieve them
+    training_url: /training/courses/sco-904/
+    role_requirements: []
+
+  - id: sco-905
+    name: "Unit Service Concepts-Council Commissioner"
+    course_code: "SCO_905"
+    category: courses
+    duration: 5
+    description: >
+      Understand the goals of unit service and the methods used to achieve them
+    training_url: /training/courses/sco-905/
+    role_requirements: []
+
+  - id: sco-906
+    name: "Unit Service Concepts-District Commissioner"
+    course_code: "SCO_906"
+    category: courses
+    duration: 4
+    description: >
+      Understand the goals of unit service and the methods used to achieve them
+    training_url: /training/courses/sco-906/
+    role_requirements: []
+
+  - id: sco-907
+    name: "Charter Renewal in the District"
+    course_code: "SCO_907"
+    category: courses
+    duration: 6
+    description: >
+      Know the steps in the charter renewal process
+    training_url: /training/courses/sco-907/
+    role_requirements: []
+
+  - id: sco-908
+    name: "Developing and Recognizing Commissioners - District"
+    course_code: "SCO_908"
+    category: courses
+    duration: 6
+    description: >
+      Encourage continued learning and commissioner retention.
+    training_url: /training/courses/sco-908/
+    role_requirements: []
+
+  - id: 1002
+    name: "Exploring Advisor Training"
+    course_code: "1002"
+    category: learning-plans
+    duration: 139
+    description: >
+      Position Specific training designed for the Post Advisor, Associate Post Advisor, Club Sponsor and Associate Club Sponsor Training.
+    training_url: /training/learning-plans/1002/
+    role_requirements: []
+
+  - id: 1003
+    name: "Exploring Committee Training"
+    course_code: "1003"
+    category: learning-plans
+    duration: 117
+    description: >
+      Position Specific training designed for the Post Committee Chair and Members Training and Club Committee Chair and Members Training.
+    training_url: /training/learning-plans/1003/
+    role_requirements: []
+
+  - id: 1004
+    name: "Exploring Service Team Training"
+    course_code: "1004"
+    category: learning-plans
+    duration: 122
+    description: >
+      Position Specific training designed for the Exploring Service Team Chair and Member Training.
+    training_url: /training/learning-plans/1004/
+    role_requirements: []
+
+  - id: 1005
+    name: "Exploring ITECH Training"
+    course_code: "1005"
+    category: learning-plans
+    duration: 114
+    description: >
+      The object of this Learning Plan is for volunteers to become familiar with the iTech Exploring program.
+    training_url: /training/learning-plans/1005/
+    role_requirements: []
+
+  - id: 1013
+    name: "BALOO Prerequisite Training v2"
+    course_code: "1013"
+    category: learning-plans
+    duration: 35
+    description: >
+      These learning modules provide the knowledge base prior to taking the BALOO Outdoor course and is required training to complete prior to attending the outdoor portion.
+    training_url: /training/learning-plans/1013/
+    role_requirements: []
+
+  - id: 1015
+    name: "Chaplain Training"
+    course_code: "1015"
+    category: learning-plans
+    duration: 62
+    description: >
+      Serving as a chaplain or chaplain aide provides the opportunity to help Scouts as they grow, both physically and spiritually.  Completing these modules will fulfill the position trained requirements for any Chaplain Position across all programs.
+    training_url: /training/learning-plans/1015/
+    role_requirements: []
+
+  - id: 1016
+    name: "Chartered Organization Representative"
+    course_code: "1016"
+    category: learning-plans
+    duration: 48
+    description: >
+      Volunteer leaders fulfilling the position of Chartered Organization Representative need instruction on how to achieve true collaboration between their position, BSA professionals, and the Chartered Organization. NOTE: Programs have changed but content is valid otherwise.
+    training_url: /training/learning-plans/1016/
+    role_requirements: []
+
+  - id: 1025
+    name: "Council Commissioner Training"
+    course_code: "1025"
+    category: learning-plans
+    duration: 89
+    description: >
+      Council Commissioner learning plans are designed for Council Commissioners and Assistant Council Commissioners.
+    training_url: /training/learning-plans/1025/
+    role_requirements: []
+
+  - id: 1026
+    name: "Council Market Analysis"
+    course_code: "1026"
+    category: learning-plans
+    duration: 24
+    description: >
+      The Council Market Analysis Report indicates demographic and lifestyle information about the youth and families who live in your council area.
+    training_url: /training/learning-plans/1026/
+    role_requirements: []
+
+  - id: 1027
+    name: "Crew Advisor - Before the First Meeting"
+    course_code: "1027"
+    category: learning-plans
+    duration: 31
+    description: >
+      Crew Advisor  and Associate Advisor Position Specific Training  - Step 1. Learning plan for individuals in the Crew Advisor role or Associate Advistor role to be completed before the first meeting with youth.
+    training_url: /training/learning-plans/1027/
+    role_requirements: []
+
+  - id: 1028
+    name: "Crew Advisor - First 30 Days"
+    course_code: "1028"
+    category: learning-plans
+    duration: 50
+    description: >
+      Crew Advisor and Associate Advisor Position Specific Training - Step 2. This content is recommended for Advisors and Associate Advisors during the first 30 days.
+    training_url: /training/learning-plans/1028/
+    role_requirements: []
+
+  - id: 1029
+    name: "Crew Advisor - Position Trained"
+    course_code: "1029"
+    category: learning-plans
+    duration: 86
+    description: >
+      Crew Advisor and Associate Advisor Position Specific Training - Step 3. Combined with the content for "Before the First Meeting" and "First 30 Days", this content completes position specific training for Crew Advisors and Associate Advisors.
+    training_url: /training/learning-plans/1029/
+    role_requirements: []
+
+  - id: 1030
+    name: "Crew Advisor Training"
+    course_code: "1030"
+    category: learning-plans
+    duration: 167
+    description: >
+      Position Specific training designed for the Crew Advisor and Crew Associate Advisor.
+    training_url: /training/learning-plans/1030/
+    role_requirements: []
+
+  - id: 1031
+    name: "Crew Board of Review"
+    course_code: "1031"
+    category: learning-plans
+    duration: 26
+    description: >
+      This learning plan is designed for those individuals who need to be certified for participation in a Summit board of review.  Individuals taking this training do not have to be registered members of the BSA.
+    training_url: /training/learning-plans/1031/
+    role_requirements: []
+
+  - id: 1032
+    name: "Crew Committee - Before First Meeting"
+    course_code: "1032"
+    category: learning-plans
+    duration: 29
+    description: >
+      Crew Committee Position Specific Training - Step 1. Learning plan for individuals in the Crew Committee Chair or Crew Committee Member role to be completed before the first meeting.
+    training_url: /training/learning-plans/1032/
+    role_requirements: []
+
+  - id: 1033
+    name: "Crew Committee - First 30 Days"
+    course_code: "1033"
+    category: learning-plans
+    duration: 46
+    description: >
+      Crew Committee Position Specific Training - Step 2. Learning plan for individuals in the Crew Committee Chair or Crew Committee Member role to be completed during the first 30 days.
+    training_url: /training/learning-plans/1033/
+    role_requirements: []
+
+  - id: 1034
+    name: "Crew Committee - Position Trained"
+    course_code: "1034"
+    category: learning-plans
+    duration: 61
+    description: >
+      Crew Advisor and Associate Advisor Position Specific Training - Step 3. Combined with the content for "Before the First Meeting" and "First 30 Days", this content completes position specific training for Crew Committee Members.
+    training_url: /training/learning-plans/1034/
+    role_requirements: []
+
+  - id: 1035
+    name: "Crew Committee Training"
+    course_code: "1035"
+    category: learning-plans
+    duration: 149
+    description: >
+      Position Specific training designed for the Committee Chair and Committee Member.
+    training_url: /training/learning-plans/1035/
+    role_requirements: []
+
+  - id: 1048
+    name: "Cubmaster - Before Your First Meeting"
+    course_code: "1048"
+    category: learning-plans
+    duration: 49
+    description: >
+      Cubmaster and Assistant Cubmaster Position Specific Training - The objective of this learning plan is to prepare leaders for conducting meetings as new leaders.
+    training_url: /training/learning-plans/1048/
+    role_requirements: []
+
+  - id: 1049
+    name: "Cubmaster - Before Your First Outdoor Activity"
+    course_code: "1049"
+    category: learning-plans
+    duration: 41
+    description: >
+      Cubmaster and Assistant Cubmaster Position Specific Training - The objective of this learning plan is to prepare leaders for doing outdoor activities such as camping to include Hazardous Weather.
+    training_url: /training/learning-plans/1049/
+    role_requirements: []
+
+  - id: 1050
+    name: "Cubmaster - Earning Your Training Strip"
+    course_code: "1050"
+    category: learning-plans
+    duration: 27
+    description: >
+      Cubmaster and Assistant Cubmaster - Training combined with "Before Your First Meeting" and "Before Your First Outdoor Activity. This learning plan is to to expand the knowledge level of leaders to operate the pack and den efficiently.
+    training_url: /training/learning-plans/1050/
+    role_requirements: []
+
+  - id: 1051
+    name: "Cubmaster Training"
+    course_code: "1051"
+    category: learning-plans
+    duration: 0
+    description: >
+      Position Specific training designed for the Cubmaster and Assistant Cubmaster.
+    training_url: /training/learning-plans/1051/
+    role_requirements: []
+
+  - id: 1052
+    name: "Den Leader - Before Your First Meeting"
+    course_code: "1052"
+    category: learning-plans
+    duration: 48
+    description: >
+      Den Leader Position Specific Training - The objective of this learning plan is to prepare leaders for conducting meetings as new leaders.
+    training_url: /training/learning-plans/1052/
+    role_requirements: []
+
+  - id: 1053
+    name: "Den Leader - Before Your First Outdoor Activity"
+    course_code: "1053"
+    category: learning-plans
+    duration: 41
+    description: >
+      Den Leader Position Specific Training - The objective of this learning plan is to prepare leaders for conducting meetings as new leaders.
+    training_url: /training/learning-plans/1053/
+    role_requirements: []
+
+  - id: 1054
+    name: "Den Leader - Earning Your Training Strip"
+    course_code: "1054"
+    category: learning-plans
+    duration: 36
+    description: >
+      Den Leader Position Specific Training - The objective of this learning plan is to to expand the knowledge level of leaders to operate the pack and den efficiently.
+    training_url: /training/learning-plans/1054/
+    role_requirements: []
+
+  - id: 1055
+    name: "Den Leader Training"
+    course_code: "1055"
+    category: learning-plans
+    duration: 0
+    description: >
+      Training designed for Tiger Den Leader, Den Leader, Assistant Den Leader, Webelos and Assistant Webelos Leader.
+    training_url: /training/learning-plans/1055/
+    role_requirements: []
+
+  - id: 1056
+    name: "Pack Committee Chair - Before Your First Outdoor Activity"
+    course_code: "1056"
+    category: learning-plans
+    duration: 10
+    description: >
+      Pack Committee Chair Position Specific Training. The objective of this learning plan is to prepare leaders for doing outdoor activities such as camping.
+    training_url: /training/learning-plans/1056/
+    role_requirements: []
+
+  - id: 1057
+    name: "Pack Committee Chair - Before Your First Pack Meeting"
+    course_code: "1057"
+    category: learning-plans
+    duration: 39
+    description: >
+      Pack Committee Chair Position Specific Training. The objective of this learning plan is to prepare leaders for conducting meetings as new leaders.
+    training_url: /training/learning-plans/1057/
+    role_requirements: []
+
+  - id: 1058
+    name: "Pack Committee Chair - Earning Your Training Strip"
+    course_code: "1058"
+    category: learning-plans
+    duration: 54
+    description: >
+      Pack Committee Chair Position Specific Training The objective of this learning plan is to to expand the knowledge level of leaders to operate the pack and den efficiently.
+    training_url: /training/learning-plans/1058/
+    role_requirements: []
+
+  - id: 1059
+    name: "Pack Committee Chair Training"
+    course_code: "1059"
+    category: learning-plans
+    duration: 0
+    description: >
+      Position Specific training designed for the Pack Committee Chair. The objective of this learning plan is to prepare leaders for conducting meetings as new leaders.
+    training_url: /training/learning-plans/1059/
+    role_requirements: []
+
+  - id: 1060
+    name: "Pack Committee Member - Before Your First Outdoor Activity"
+    course_code: "1060"
+    category: learning-plans
+    duration: 10
+    description: >
+      Pack Committee Member Position Specific Training. The objective of this learning plan is to prepare leaders for doing outdoor activities such as camping.
+    training_url: /training/learning-plans/1060/
+    role_requirements: []
+
+  - id: 1061
+    name: "Pack Committee Member - Before Your First Meeting"
+    course_code: "1061"
+    category: learning-plans
+    duration: 39
+    description: >
+      Pack Committee Member Position Specific Training. The objective of this learning plan is to prepare leaders for conducting meetings as new leaders.
+    training_url: /training/learning-plans/1061/
+    role_requirements: []
+
+  - id: 1062
+    name: "Pack Committee Member - Earning Your Training Strip"
+    course_code: "1062"
+    category: learning-plans
+    duration: 4
+    description: >
+      Pack Committee Member Position Specific Training The objective of this learning plan is to to expand the knowledge level of leaders to operate the pack and den efficiently.
+    training_url: /training/learning-plans/1062/
+    role_requirements: []
+
+  - id: 1063
+    name: "Pack Committee Member Training"
+    course_code: "1063"
+    category: learning-plans
+    duration: 0
+    description: >
+      Position Specific training designed for the Pack Committee Member. The objective of this learning plan is to prepare leaders for conducting meetings as new leaders.
+    training_url: /training/learning-plans/1063/
+    role_requirements: []
+
+  - id: 1068
+    name: "District Commissioner Training"
+    course_code: "1068"
+    category: learning-plans
+    duration: 100
+    description: >
+      District Commissioner learning plans are designed for District Commissioner and Assistant District Commissioners.
+    training_url: /training/learning-plans/1068/
+    role_requirements: []
+
+  - id: 1069
+    name: "District Committee - Activities and Civic Service"
+    course_code: "1069"
+    category: learning-plans
+    duration: 213
+    description: >
+      District Activities Chair - The district activities and civic service committee’s job is to provide mountaintop experiences that dramatically capture the attention of the whole Scouting community.
+    training_url: /training/learning-plans/1069/
+    role_requirements: []
+
+  - id: 1070
+    name: "District Committee - Activities and Civic Service - Acclimation"
+    course_code: "1070"
+    category: learning-plans
+    duration: 86
+    description: >
+      These modules are designed to ensure you have the latest knowledge of Scouting for Programs, Organization, and the Aims and Methods including the 4th Aim.
+    training_url: /training/learning-plans/1070/
+    role_requirements: []
+
+  - id: 1071
+    name: "District Committee - Activities and Civic Service - Before the First Meeting"
+    course_code: "1071"
+    category: learning-plans
+    duration: 71
+    description: >
+      These modules provide you knowledge you should have for your position prior to your first committee meeting.
+    training_url: /training/learning-plans/1071/
+    role_requirements: []
+
+  - id: 1072
+    name: "District Committee - Activities and Civic Service - First 30 Days"
+    course_code: "1072"
+    category: learning-plans
+    duration: 56
+    description: >
+      The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 30 days of starting your position.
+    training_url: /training/learning-plans/1072/
+    role_requirements: []
+
+  - id: 1073
+    name: "District Committee - Advancement"
+    course_code: "1073"
+    category: learning-plans
+    duration: 176
+    description: >
+      Advancement and Recognition Chair –  The district advancement committee implements procedures that help achieve BSA advancement procedures. The committee helps Cub Scout packs, Boy Scout troops, Varsity teams, and Venturing crews succeed.
+    training_url: /training/learning-plans/1073/
+    role_requirements: []
+
+  - id: 1074
+    name: "District Committee - Advancement - Acclimation"
+    course_code: "1074"
+    category: learning-plans
+    duration: 86
+    description: >
+      These modules are designed to ensure you have the latest knowledge of Scouting for Programs, Organization, and the Aims and Methods including the 4th Aim.
+    training_url: /training/learning-plans/1074/
+    role_requirements: []
+
+  - id: 1075
+    name: "District Committee - Advancement - Before the First Meeting"
+    course_code: "1075"
+    category: learning-plans
+    duration: 58
+    description: >
+      These modules provide you knowledge you should have for your position prior to your first committee meeting.
+    training_url: /training/learning-plans/1075/
+    role_requirements: []
+
+  - id: 1076
+    name: "District Committee - Advancement - First 30 Days"
+    course_code: "1076"
+    category: learning-plans
+    duration: 32
+    description: >
+      The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 30 days of starting your position.
+    training_url: /training/learning-plans/1076/
+    role_requirements: []
+
+  - id: 1077
+    name: "District Committee - Camping and Outdoor Program"
+    course_code: "1077"
+    category: learning-plans
+    duration: 174
+    description: >
+      Camping and Outdoor Program Chair - The district camp promotion and outdoor committee provides outdoor programs that most units are unable to provide on their own, and outdoor programs are often the main reason youth join a Scout unit.
+    training_url: /training/learning-plans/1077/
+    role_requirements: []
+
+  - id: 1078
+    name: "District Committee - Camping and Outdoor Program - Acclimation"
+    course_code: "1078"
+    category: learning-plans
+    duration: 86
+    description: >
+      These modules are designed to ensure you have the latest knowledge of Scouting for Programs, Organization, and the Aims and Methods including the 4th Aim.
+    training_url: /training/learning-plans/1078/
+    role_requirements: []
+
+  - id: 1079
+    name: "District Committee - Camping and Outdoor Program - Before the First Meeting"
+    course_code: "1079"
+    category: learning-plans
+    duration: 53
+    description: >
+      These modules provide you knowledge you should have for your position prior to your first committee meeting.
+    training_url: /training/learning-plans/1079/
+    role_requirements: []
+
+  - id: 1080
+    name: "District Committee - Camping and Outdoor Program - First 30 Days"
+    course_code: "1080"
+    category: learning-plans
+    duration: 35
+    description: >
+      The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 30 days of starting your position.
+    training_url: /training/learning-plans/1080/
+    role_requirements: []
+
+  - id: 1081
+    name: "District Committee - Chair/Vice Chair"
+    course_code: "1081"
+    category: learning-plans
+    duration: 246
+    description: >
+      District Chair/Vice Chair - The district chair is the top volunteer Scouting leader of the district in a defined geographical area, whose job is to motivate a talented team of people.
+    training_url: /training/learning-plans/1081/
+    role_requirements: []
+
+  - id: 1082
+    name: "District Committee - Fund Development"
+    course_code: "1082"
+    category: learning-plans
+    duration: 266
+    description: >
+      Fund Development Chair – Leads their committee as successful funding of the council is the direct result of successfully conducted fund development programs within each district.
+    training_url: /training/learning-plans/1082/
+    role_requirements: []
+
+  - id: 1083
+    name: "District Committee - Member at Large"
+    course_code: "1083"
+    category: learning-plans
+    duration: 258
+    description: >
+      Responsible for supporting general district activities and providing reserve strength and aid as needed. Includes advising the district committee of issues and programs as they arise.
+    training_url: /training/learning-plans/1083/
+    role_requirements: []
+
+  - id: 1084
+    name: "District Committee - Member at Large - 90 Days"
+    course_code: "1084"
+    category: learning-plans
+    duration: 54
+    description: >
+      The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 90 days of starting your position.
+    training_url: /training/learning-plans/1084/
+    role_requirements: []
+
+  - id: 1085
+    name: "District Committee - Member at Large - Acclimation"
+    course_code: "1085"
+    category: learning-plans
+    duration: 86
+    description: >
+      These modules are designed to ensure you have the latest knowledge of Scouting for Programs, Organization, and the Aims and Methods including the 4th Aim.
+    training_url: /training/learning-plans/1085/
+    role_requirements: []
+
+  - id: 1086
+    name: "District Committee - Member at Large - Before the First Meeting"
+    course_code: "1086"
+    category: learning-plans
+    duration: 49
+    description: >
+      These modules provide you knowledge you should have for your position prior to your first committee meeting
+    training_url: /training/learning-plans/1086/
+    role_requirements: []
+
+  - id: 1087
+    name: "District Committee - Member at Large - First 30 Days"
+    course_code: "1087"
+    category: learning-plans
+    duration: 69
+    description: >
+      The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 90 days of starting your position.
+    training_url: /training/learning-plans/1087/
+    role_requirements: []
+
+  - id: 1088
+    name: "District Committee - Nominating"
+    course_code: "1088"
+    category: learning-plans
+    duration: 179
+    description: >
+      The committee selects a slate of competent officers and members at large for the next year.
+    training_url: /training/learning-plans/1088/
+    role_requirements: []
+
+  - id: 1089
+    name: "District Committee - Nominating - Acclimation"
+    course_code: "1089"
+    category: learning-plans
+    duration: 86
+    description: >
+      These modules are designed to ensure you have the latest knowledge of Scouting for Programs, Organization, and the Aims and Methods including the 4th Aim.
+    training_url: /training/learning-plans/1089/
+    role_requirements: []
+
+  - id: 1090
+    name: "District Committee - Nominating - Before the First Meeting"
+    course_code: "1090"
+    category: learning-plans
+    duration: 75
+    description: >
+      These modules provide you knowledge you should have for your position prior to your first committee meeting.
+    training_url: /training/learning-plans/1090/
+    role_requirements: []
+
+  - id: 1091
+    name: "District Committee - Nominating - First 30 Days"
+    course_code: "1091"
+    category: learning-plans
+    duration: 18
+    description: >
+      The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 30 days of starting your position.
+    training_url: /training/learning-plans/1091/
+    role_requirements: []
+
+  - id: 1092
+    name: "District Committee - Program"
+    course_code: "1092"
+    category: learning-plans
+    duration: 288
+    description: >
+      Program Chair – The program chair should work with the district committee chair to recruit chairs for the various program committees.
+    training_url: /training/learning-plans/1092/
+    role_requirements: []
+
+  - id: 1093
+    name: "District Committee - Program - 90 Days"
+    course_code: "1093"
+    category: learning-plans
+    duration: 25
+    description: >
+      The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 90 days of starting your position.
+    training_url: /training/learning-plans/1093/
+    role_requirements: []
+
+  - id: 1094
+    name: "District Committee - Program - Acclimation"
+    course_code: "1094"
+    category: learning-plans
+    duration: 86
+    description: >
+      These modules are designed to ensure you have the latest knowledge of Scouting for Programs, Organization, and the Aims and Methods including the 4th Aim.
+    training_url: /training/learning-plans/1094/
+    role_requirements: []
+
+  - id: 1095
+    name: "District Committee - Program - Before the First Meeting"
+    course_code: "1095"
+    category: learning-plans
+    duration: 98
+    description: >
+      These modules provide you knowledge you should have for your position prior to your first committee meeting.
+    training_url: /training/learning-plans/1095/
+    role_requirements: []
+
+  - id: 1096
+    name: "District Committee - Program - First 30 Days"
+    course_code: "1096"
+    category: learning-plans
+    duration: 79
+    description: >
+      The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 30 days of starting your position.
+    training_url: /training/learning-plans/1096/
+    role_requirements: []
+
+  - id: 1097
+    name: "District Committee - Training"
+    course_code: "1097"
+    category: learning-plans
+    duration: 201
+    description: >
+      Training Chair - The district training committee’s job is to get adult leaders trained. One of the keys to the success of the Scouting program is trained volunteer leadership.
+    training_url: /training/learning-plans/1097/
+    role_requirements: []
+
+  - id: 1098
+    name: "District Committee - Training - Acclimation"
+    course_code: "1098"
+    category: learning-plans
+    duration: 86
+    description: >
+      These modules are designed to ensure you have the latest knowledge of Scouting for Programs, Organization, and the Aims and Methods including the 4th Aim.
+    training_url: /training/learning-plans/1098/
+    role_requirements: []
+
+  - id: 1099
+    name: "District Committee - Training - Before the First Meeting"
+    course_code: "1099"
+    category: learning-plans
+    duration: 69
+    description: >
+      These modules provide you knowledge you should have for your position prior to your first committee meeting.
+    training_url: /training/learning-plans/1099/
+    role_requirements: []
+
+  - id: 1100
+    name: "District Committee - Training - First 30 Days"
+    course_code: "1100"
+    category: learning-plans
+    duration: 46
+    description: >
+      The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 90 days of starting your position.
+    training_url: /training/learning-plans/1100/
+    role_requirements: []
+
+  - id: 1101
+    name: "District Committee - Chair/Vice Chair- 90 Days"
+    course_code: "1101"
+    category: learning-plans
+    duration: 46
+    description: >
+      First 90 days – The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 90 days of starting your position.
+    training_url: /training/learning-plans/1101/
+    role_requirements: []
+
+  - id: 1102
+    name: "District Committee - Chair/Vice Chair- Acclimation"
+    course_code: "1102"
+    category: learning-plans
+    duration: 86
+    description: >
+      These modules are designed to ensure you have the latest knowledge of Scouting for Programs, Organization, and the Aims and Methods including the 4th Aim.
+    training_url: /training/learning-plans/1102/
+    role_requirements: []
+
+  - id: 1103
+    name: "District Committee - Chair/Vice Chair- Before the First Meeting"
+    course_code: "1103"
+    category: learning-plans
+    duration: 54
+    description: >
+      Before the First Meeting – These modules provide you knowledge you should have for your position prior to your first committee meeting.
+    training_url: /training/learning-plans/1103/
+    role_requirements: []
+
+  - id: 1104
+    name: "District Committee - Chair/Vice Chair- First 30 Days"
+    course_code: "1104"
+    category: learning-plans
+    duration: 60
+    description: >
+      First 30 days – The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 30 days of starting your position.
+    training_url: /training/learning-plans/1104/
+    role_requirements: []
+
+  - id: 1105
+    name: "District Committee - Fund Development - 90 Days"
+    course_code: "1105"
+    category: learning-plans
+    duration: 65
+    description: >
+      First 90 days – The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 90 days of starting your position.
+    training_url: /training/learning-plans/1105/
+    role_requirements: []
+
+  - id: 1106
+    name: "District Committee - Fund Development - Acclimation"
+    course_code: "1106"
+    category: learning-plans
+    duration: 86
+    description: >
+      These modules are designed to ensure you have the latest knowledge of Scouting for Programs, Organization, and the Aims and Methods including the 4th Aim.
+    training_url: /training/learning-plans/1106/
+    role_requirements: []
+
+  - id: 1107
+    name: "District Committee - Fund Development - Before the First Meeting"
+    course_code: "1107"
+    category: learning-plans
+    duration: 65
+    description: >
+      These modules provide you knowledge you should have for your position prior to your first committee meeting.
+    training_url: /training/learning-plans/1107/
+    role_requirements: []
+
+  - id: 1108
+    name: "District Committee - Fund Development - First 30 Days"
+    course_code: "1108"
+    category: learning-plans
+    duration: 50
+    description: >
+      The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 30 days of starting your position.
+    training_url: /training/learning-plans/1108/
+    role_requirements: []
+
+  - id: 1109
+    name: "District Committee - Membership"
+    course_code: "1109"
+    category: learning-plans
+    duration: 288
+    description: >
+      Membership Chair – Leads the district membership committee in gathering information on prospective chartered organizations, helps organize new units, reorganizes dropped units and units not meeting, and recruits new members in a systematic way.
+    training_url: /training/learning-plans/1109/
+    role_requirements: []
+
+  - id: 1110
+    name: "District Committee - Membership - 90 Days"
+    course_code: "1110"
+    category: learning-plans
+    duration: 24
+    description: >
+      The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 90 days of starting your position.
+    training_url: /training/learning-plans/1110/
+    role_requirements: []
+
+  - id: 1111
+    name: "District Committee - Membership - Acclimation"
+    course_code: "1111"
+    category: learning-plans
+    duration: 86
+    description: >
+      These modules are designed to ensure you have the latest knowledge of Scouting for Programs, Organization, and the Aims and Methods including the 4th Aim.
+    training_url: /training/learning-plans/1111/
+    role_requirements: []
+
+  - id: 1112
+    name: "District Committee - Membership - Before the First Meeting"
+    course_code: "1112"
+    category: learning-plans
+    duration: 92
+    description: >
+      These modules provide you knowledge you should have for your position prior to your first committee meeting.
+    training_url: /training/learning-plans/1112/
+    role_requirements: []
+
+  - id: 1113
+    name: "District Committee - Membership - First 30 Days"
+    course_code: "1113"
+    category: learning-plans
+    duration: 86
+    description: >
+      The modules expand your knowledge of District Operations to prepare you to be position trained and should be completed within the first 30 days of starting your position.
+    training_url: /training/learning-plans/1113/
+    role_requirements: []
+
+  - id: 1115
+    name: "Exploring iTECH - Before the First Meeting"
+    course_code: "1115"
+    category: learning-plans
+    duration: 55
+    description: >
+      The objective of this learning plan is to prepare iTech Exploring volunteers for the launch of their new post or club.
+    training_url: /training/learning-plans/1115/
+    role_requirements: []
+
+  - id: 1116
+    name: "Exploring iTECH - First 30 Days"
+    course_code: "1116"
+    category: learning-plans
+    duration: 59
+    description: >
+      The objective of this learning plan is to give iTech Exploring volunteers all of the necessary tools to carry out a successful program.
+    training_url: /training/learning-plans/1116/
+    role_requirements: []
+
+  - id: 1117
+    name: "Exploring Service Team - Before the First Meeting"
+    course_code: "1117"
+    category: learning-plans
+    duration: 46
+    description: >
+      Exploring Service Team Position Specific Training  - Step 1. Learning plan for individuals in the Exploring Service Team Chair or Exploring Service Team Member role to be completed before the first meeting with youth.
+    training_url: /training/learning-plans/1117/
+    role_requirements: []
+
+  - id: 1118
+    name: "Exploring Service Team - First 30 Days"
+    course_code: "1118"
+    category: learning-plans
+    duration: 43
+    description: >
+      Exploring Service Team First 30 Days - Step 2. Learning plan for individuals in the Exploring Service Team Chair or Exploring Service Team Member role to be completed during the first 30 days.
+    training_url: /training/learning-plans/1118/
+    role_requirements: []
+
+  - id: 1119
+    name: "Exploring Service Team - Position Trained"
+    course_code: "1119"
+    category: learning-plans
+    duration: 33
+    description: >
+      Exploring Service Team Position Specific Training  - Step 3. Combined with "Before the First Meeting" and "First 30 Days", completes the training for Exploring Service Team Chair and Exploring Service Team Members.
+    training_url: /training/learning-plans/1119/
+    role_requirements: []
+
+  - id: 1120
+    name: "Hazardous Weather Training"
+    course_code: "1120"
+    category: learning-plans
+    duration: 31
+    description: >
+      This module will cover hazardous weather conditions that Scouts need to plan ahead and steps to take to be prepared.
+    training_url: /training/learning-plans/1120/
+    role_requirements: []
+
+  - id: 1121
+    name: "Journey to Excellence"
+    course_code: "1121"
+    category: learning-plans
+    duration: 13
+    description: >
+      Scouting’s Journey to Excellence is the performance measurement and recognition program for Scouting. The goal of JTE is to maximize key performance that is directly related to producing a successful, growing, and sustainable Scouting program.
+    training_url: /training/learning-plans/1121/
+    role_requirements: []
+
+  - id: 1122
+    name: "Key 3 Membership Ethics"
+    course_code: "1122"
+    category: learning-plans
+    duration: 15
+    description: >
+      Training is required for the District and Council Key 3. The integrity of our membership must be paramount and uncompromising.  Membership Ethics is an area in which staff members and volunteers work together to meet requirements and policies.
+    training_url: /training/learning-plans/1122/
+    role_requirements: []
+
+  - id: 1127
+    name: "NCCS COR Training"
+    course_code: "1127"
+    category: learning-plans
+    duration: 38
+    description: >
+      National Committee on Catholic Scouting COR Training seeks to help chartered Catholic Institutions utilize and ensure the constructive use of BSA programs in their youth ministry.
+    training_url: /training/learning-plans/1127/
+    role_requirements: []
+
+  - id: 1128
+    name: "New Member Coordinator"
+    course_code: "1128"
+    category: learning-plans
+    duration: 43
+    description: >
+      This course provides the basic information about the role of the New Member Coordinator and how they help welcome new families into units.
+    training_url: /training/learning-plans/1128/
+    role_requirements: []
+
+  - id: 1129
+    name: "Post Advisor / Club Sponsor - Before the First Meeting"
+    course_code: "1129"
+    category: learning-plans
+    duration: 70
+    description: >
+      Post Advisor / Club Sponsor Position Specific Training  - Step 1. Learning plan for individuals in the Post Advisor, Associate Post Advisor, Club Sponsor or Associate Club Sponsor roleto be completed before the first meeting with youth.
+    training_url: /training/learning-plans/1129/
+    role_requirements: []
+
+  - id: 1130
+    name: "Post Advisor / Club Sponsor - First 30 Days"
+    course_code: "1130"
+    category: learning-plans
+    duration: 23
+    description: >
+      Post Advisor / Club Sponsor Position Specific Training - Step 2. This content is recommended for Post Advisor, Associate Post Advisor, Club Sponsor or Associate Club Sponsor, during the first 30 days.
+    training_url: /training/learning-plans/1130/
+    role_requirements: []
+
+  - id: 1131
+    name: "Post Advisor / Club Sponsor - Position Trained"
+    course_code: "1131"
+    category: learning-plans
+    duration: 46
+    description: >
+      Post Advisor / Club Sponsor Position Specific Training  - Step 3. Combined with "Before the First Meeting" and "First 30 Days", completes training for Post Advisor, Associate Post Advisor, Club Sponsor or Associate Club Sponsor roles.
+    training_url: /training/learning-plans/1131/
+    role_requirements: []
+
+  - id: 1132
+    name: "Post/Club Committee Member - Before the First Meeting"
+    course_code: "1132"
+    category: learning-plans
+    duration: 52
+    description: >
+      Post/Club Committee Position Specific Training - Step 1. Learning plan for individuals in the Post Committee Chair, Post Committee Member, Club Committee Chair or Club  Committee Member role to be completed before the first meeting.
+    training_url: /training/learning-plans/1132/
+    role_requirements: []
+
+  - id: 1133
+    name: "Post/Club Committee Member - First 30 Days"
+    course_code: "1133"
+    category: learning-plans
+    duration: 38
+    description: >
+      Post/Club Committee Position Specific Training - Step 2. Learning plan for individuals in the Post Committee Chair, Post Committee Member, Club Committee Chair or Club  Committee Member role to be completed during the first 30 days.
+    training_url: /training/learning-plans/1133/
+    role_requirements: []
+
+  - id: 1134
+    name: "Post/Club Committee Member - Position Trained"
+    course_code: "1134"
+    category: learning-plans
+    duration: 14
+    description: >
+      Post/Club Committee Position Specific Training - Step 3. Combined with "Before the First Meeting" and "First 30 Days", completes specific training for Post Committee Chair, Post Committee Member, Club Committee Chair or Club Committee Members.
+    training_url: /training/learning-plans/1134/
+    role_requirements: []
+
+  - id: 1135
+    name: "Program Safety"
+    course_code: "1135"
+    category: learning-plans
+    duration: 187
+    description: >
+      The safety of our youth, volunteers, staff, and employees is an important part of the Scouting experience.  This training along with your vigilance helps to ensure risks are identified and mitigated when delivering the Scouting program.
+    training_url: /training/learning-plans/1135/
+    role_requirements: []
+
+  - id: 1142
+    name: "Roundtable Commissioner Training"
+    course_code: "1142"
+    category: learning-plans
+    duration: 69
+    description: >
+      Roundtable Commissioner learning plans are designed for Boy Scout, Cub Scout, Venturing Roundtable and Assistant Roundtable Commissioners.
+    training_url: /training/learning-plans/1142/
+    role_requirements: []
+
+  - id: 1159
+    name: "Sea Scout Adult Leader Training"
+    course_code: "1159"
+    category: learning-plans
+    duration: 83
+    description: >
+      Sea Scout Adult Leader Training is the first step in training, focusing on the skills and attributes necessary to be an effective advisor in the Ship’s delivery of service to youth in your specific geographic location.
+    training_url: /training/learning-plans/1159/
+    role_requirements: []
+
+  - id: 1161
+    name: "Sea Scout Optional Training"
+    course_code: "1161"
+    category: learning-plans
+    duration: 33
+    description: >
+      These modules are optional training.
+    training_url: /training/learning-plans/1161/
+    role_requirements: []
+
+  - id: 1162
+    name: "STEM Lab Manager"
+    course_code: "1162"
+    category: learning-plans
+    duration: 38
+    description: >
+      This new course is designed to prepare STEM Scout Lab managers and assistant Lab managers to facilitate a STEM Scouts lab.
+    training_url: /training/learning-plans/1162/
+    role_requirements: []
+
+  - id: 1164
+    name: "STEM Scouts Committee"
+    course_code: "1164"
+    category: learning-plans
+    duration: 9
+    description: >
+      STEM Scouting Scouts Committee will use the concept of the Boy Scouts of America District Committee structure. The Committee management principle provides leadership and top-level governance by delegating leadership.
+    training_url: /training/learning-plans/1164/
+    role_requirements: []
+
+  - id: 1165
+    name: "Succession Planning for Volunteer Leaders"
+    course_code: "1165"
+    category: learning-plans
+    duration: 32
+    description: >
+      The goal of this training is to teach volunteers both how to  recruit new leaders and succession planning for replacing leaders.
+    training_url: /training/learning-plans/1165/
+    role_requirements: []
+
+  - id: 1176
+    name: "Unit Commissioner Training"
+    course_code: "1176"
+    category: learning-plans
+    duration: 77
+    description: >
+      Unit Commissioner learning plans are designed for Unit Commissioners working with units in delivering a quality program.
+    training_url: /training/learning-plans/1176/
+    role_requirements: []
+
+  - id: 1180
+    name: "STEM Scouts"
+    course_code: "1180"
+    category: learning-plans
+    duration: 47
+    description: >
+      Courses/Plans Related to Stem Scouts
+    training_url: /training/learning-plans/1180/
+    role_requirements: []
+
+  - id: 1181
+    name: "District Committee Training"
+    course_code: "1181"
+    category: learning-plans
+    duration: 538
+    description: >
+      The District Committee Training meets the basic training needs for council members of the district committee.
+    training_url: /training/learning-plans/1181/
+    role_requirements: []
+
+  - id: 1182
+    name: "Commissioner Training"
+    course_code: "1182"
+    category: learning-plans
+    duration: 305
+    description: >
+      We all learn differently, and the Commissioner training is designed to deliver the learning content in the style that works best for you, either online or instructor led. To get started with online training, choose your position to customize your learning content.
+    training_url: /training/learning-plans/1182/
+    role_requirements: []
+
+  - id: 1183
+    name: "Scouts BSA - Scoutmaster - First 60 Days"
+    course_code: "1183"
+    category: learning-plans
+    duration: 36
+    description: >
+      Scoutmaster and Assistant Scoutmaster Position Specific Training - Step 3. The content is recommended for Scoutmasters during the first 60 days.
+    training_url: /training/learning-plans/1183/
+    role_requirements: []
+
+  - id: 1184
+    name: "Scouts BSA - Troop Committee Chair - Position Specific Training"
+    course_code: "1184"
+    category: learning-plans
+    duration: 115
+    description: >
+      Position Specific training designed for the Troop Committee Chair. The objective of this learning plan is to prepare leaders for conducting meetings as new leaders.
+    training_url: /training/learning-plans/1184/
+    role_requirements: []
+
+  - id: 1185
+    name: "Scouts BSA - Troop Committee Chair-  Before First Meeting"
+    course_code: "1185"
+    category: learning-plans
+    duration: 48
+    description: >
+      The objective of this learning plan is to prepare leaders for conducting meetings as new leaders.
+    training_url: /training/learning-plans/1185/
+    role_requirements: []
+
+  - id: 1186
+    name: "Scouts BSA - Troop Committee Chair - Position Trained"
+    course_code: "1186"
+    category: learning-plans
+    duration: 54
+    description: >
+      The objective of this learning plan is to expand the knowledge level of leaders to operate the troop committee efficiently.
+    training_url: /training/learning-plans/1186/
+    role_requirements: []
+
+  - id: 1187
+    name: "Commissioner Expanded Learning"
+    course_code: "1187"
+    category: learning-plans
+    duration: 17
+    description: >
+      Commissioner Expanded Learning
+    training_url: /training/learning-plans/1187/
+    role_requirements: []
+
+  - id: 1188
+    name: "Scouts BSA - Merit Badge Counselor Position Specific Training"
+    course_code: "1188"
+    category: learning-plans
+    duration: 34
+    description: >
+      Position Specific Training designed for the Merit Badge Counselor.
+    training_url: /training/learning-plans/1188/
+    role_requirements: []
+
+  - id: 1189
+    name: "Scouts BSA - Merit Badge Counselors - Before First Meeting"
+    course_code: "1189"
+    category: learning-plans
+    duration: 24
+    description: >
+      Merit Badge Counselor Position Specific Training - Step 1 Learning plan for individuals in the Merit Badge Counselor role to be completed before the first meeting with youth.
+    training_url: /training/learning-plans/1189/
+    role_requirements: []
+
+  - id: 1190
+    name: "Scouts BSA - Merit Badge Counselors - Position Trained"
+    course_code: "1190"
+    category: learning-plans
+    duration: 10
+    description: >
+      Merit Badge Counselor Position Specific Training - Step 2 Learning plan for individuals in the Merit Badge Counselor role to be position trained
+    training_url: /training/learning-plans/1190/
+    role_requirements: []
+
+  - id: 1191
+    name: "Scouts BSA - Scoutmaster - Before First Meeting"
+    course_code: "1191"
+    category: learning-plans
+    duration: 51
+    description: >
+      Scoutmaster and Assistant Scoutmaster Position Specific Training - Step 1.  This content is recommended for Scoutmasters before the first meeting.
+    training_url: /training/learning-plans/1191/
+    role_requirements: []
+
+  - id: 1192
+    name: "Scouts BSA - Scoutmaster - First 30 Days"
+    course_code: "1192"
+    category: learning-plans
+    duration: 31
+    description: >
+      Scoutmaster and Assistant Scoutmaster Position Specific Training - Step 2.  This content is recommended for Scoutmasters during the first 30 days.
+    training_url: /training/learning-plans/1192/
+    role_requirements: []
+
+  - id: 1193
+    name: "Scouts BSA - Scoutmaster - Position Trained"
+    course_code: "1193"
+    category: learning-plans
+    duration: 58
+    description: >
+      Scoutmaster and Assistant Scoutmaster Position Specific Training - Step 3.  This content is recommended for Scoutmasters to become position trained.
+    training_url: /training/learning-plans/1193/
+    role_requirements: []
+
+  - id: 1194
+    name: "Scouts BSA - Scoutmaster Position Specific Training"
+    course_code: "1194"
+    category: learning-plans
+    duration: 192
+    description: >
+      Position Specific Training designed for Scoutmaster and Assistant Scoutmaster.
+    training_url: /training/learning-plans/1194/
+    role_requirements: []
+
+  - id: 1195
+    name: "Scouts BSA - Troop Committee Position - Specific Training"
+    course_code: "1195"
+    category: learning-plans
+    duration: 102
+    description: >
+      Position Specific Training designed for Troop Committee Chair and Committee Member.
+    training_url: /training/learning-plans/1195/
+    role_requirements: []
+
+  - id: 1196
+    name: "Scouts BSA - Troop Committee Before First Meeting"
+    course_code: "1196"
+    category: learning-plans
+    duration: 35
+    description: >
+      Troop Committee Chair or member Position Specific Training - Step 1.  Learning plan for individuals in the Troop Committee Chair or Member role to be completed before the first meeting with youth.
+    training_url: /training/learning-plans/1196/
+    role_requirements: []
+
+  - id: 1197
+    name: "Scouts BSA - Troop Committee - Position Trained"
+    course_code: "1197"
+    category: learning-plans
+    duration: 54
+    description: >
+      Troop Committee Chair or Member Position Specific Training - Step 3.  Learning plan for individuals in the Troop Committee Chair or Member role to be completed to be positioned trained.
+    training_url: /training/learning-plans/1197/
+    role_requirements: []
+
+  - id: 1200
+    name: "BSA Alumni"
+    course_code: "1200"
+    category: learning-plans
+    duration: 67
+    description: >
+      The BSA Alumni Association is pleased to announce that we have updated the six original Scouting Alumni and Friends to the more current BSA Alumni Association.  There have been many updates to awards, requirements and the Alumni directory portal since the original six courses were developed.
+    training_url: /training/learning-plans/1200/
+    role_requirements: []
+
+  - id: 1300
+    name: "Wood Badge CDC Phase 1"
+    course_code: "1300"
+    category: learning-plans
+    duration: 36
+    description: >
+      Phase One of  the Wood Badge CDC  conferences will serve as an introduction to the changes related to the most recent Wood Badge update. In addition, the Wood Badge Course Director’s Conference will prepare Course Directors to consistently conduct a Wood Badge course according to the standards estab
+    training_url: /training/learning-plans/1300/
+    role_requirements: []
+
+  - id: 1400
+    name: "Outdoor Programs"
+    course_code: "1400"
+    category: learning-plans
+    duration: 180
+    description: >
+      NCAP and Day Camp Online Learning Courses.
+    training_url: /training/learning-plans/1400/
+    role_requirements: []
+
+  - id: 1600
+    name: "Council Executive Board Acclimation"
+    course_code: "1600"
+    category: learning-plans
+    duration: 53
+    description: >
+      This learning plan is not required towards position trained but is there for those joining the council executive board that are not familiar with various Scouting programs.
+    training_url: /training/learning-plans/1600/
+    role_requirements: []
+
+  - id: 1601
+    name: "Council President/Vice President"
+    course_code: "1601"
+    category: learning-plans
+    duration: 142
+    description: >
+      Completion of this Learning Plan along with completing Youth Protection will achieve position trained status.
+    training_url: /training/learning-plans/1601/
+    role_requirements: []
+
+  - id: 1602
+    name: "Council Executive Board"
+    course_code: "1602"
+    category: learning-plans
+    duration: 130
+    description: >
+      Completion of this Learning Plan along with completing Youth Protection will achieve position trained status.
+    training_url: /training/learning-plans/1602/
+    role_requirements: []
+
+  - id: 1800
+    name: "Distinguished Conservation Service Award Advisor/Committee Training"
+    course_code: "1800"
+    category: learning-plans
+    duration: 123
+    description: >
+      To serve as a DCSA Advisor or on the DCSA Committee, you need to complete this training.  Completion of this training will award you with the related training code.
+    training_url: /training/learning-plans/1800/
+    role_requirements: []
+
+  - id: 1900
+    name: "Strategic Training Plan"
+    course_code: "1900"
+    category: learning-plans
+    duration: 46
+    description: >
+      The Strategic Training Plan course has been developed to provide key individuals within the district and council with the skills necessary to be a critical resource to help improve the council training program. The A Strategic Training Plan is designed to use to help develop a flexible and adaptable
+    training_url: /training/learning-plans/1900/
+    role_requirements: []
+
+  - id: 2000
+    name: "Lodge Adviser Onboarding: Welcome"
+    course_code: "2000"
+    category: learning-plans
+    duration: 12
+    description: >
+      Congratulations on becoming a Lodge Adviser. Combining an online learning experience and one-on-one mentoring, the Lodge Adviser Onboarding program is designed to support you as you step into your new role.
+    training_url: /training/learning-plans/2000/
+    role_requirements: []
+
+  - id: 2001
+    name: "Lodge Adviser Onboarding: Fundamentals"
+    course_code: "2001"
+    category: learning-plans
+    duration: 20
+    description: >
+      As Lodge Adviser, you will work closely with the Lodge Chief and Lodge Staff Adviser (making up the Key 3) supporting the youth as they lead the lodge. This learning path reviews the role of the Key 3 and how you can support the lodge being youth led.
+    training_url: /training/learning-plans/2001/
+    role_requirements: []
+
+  - id: 2002
+    name: "Lodge Adviser Onboarding: Resources Learning Plan"
+    course_code: "2002"
+    category: learning-plans
+    duration: 30
+    description: >
+      There are many resources available for Lodge Advisers to support you in the role. These courses introduce you to some key resources as you settle into the role and build your leadership team.
+    training_url: /training/learning-plans/2002/
+    role_requirements: []
+
+  - id: 2003
+    name: "Lodge Adviser Onboarding: Administration Learning Plan"
+    course_code: "2003"
+    category: learning-plans
+    duration: 30
+    description: >
+      A thriving lodge requires a strong set of leaders, youth and adult, to make it happen. Learn more about the importance of the Lodge Executive Committee (LEC) and how communication is essential in finding success.
+    training_url: /training/learning-plans/2003/
+    role_requirements: []
+
+  - id: 2004
+    name: "Lodge Adviser Onboarding: Member Journey"
+    course_code: "2004"
+    category: learning-plans
+    duration: 30
+    description: >
+      The member journey is important as new Scouts are elected into the OA and undergo the induction sequence. This set of courses focuses on that journey and how the lodge plays a critical role in its success.
+    training_url: /training/learning-plans/2004/
+    role_requirements: []
+
+  - id: 2005
+    name: "Science of Training"
+    course_code: "2005"
+    category: learning-plans
+    duration: 87
+    description: >
+      This course is designed to help Scouts and Scouters, regardless of their training experience, identify effective training methods for a variety of purposes. It will help freshen up the skills of current Scouting America trainers, as well. The skills and strategies presented here have been shown to i
+    training_url: /training/learning-plans/2005/
+    role_requirements: []
+
+  - id: 2025
+    name: "Safeguarding Youth"
+    course_code: "2025"
+    category: learning-plans
+    duration: 90
+    description: >
+      Safeguarding youth is a value at the core of the Scouting movement. It is vital to maintain a culture of active supervision, awareness, and safety at all levels of Scouting. Safeguarding Youth training will help you prevent harm to youth, is required for all Scouting America registered volunteers an
+    training_url: /training/learning-plans/2025/
+    role_requirements: []
+
+  - id: 2026
+    name: "Protección de los jóvenes"
+    course_code: "2026"
+    category: learning-plans
+    duration: 90
+    description: >
+      La capacitación en Salvaguarda de la Juventud te ayudará a prevenir daños a los jóvenes, es requerida para todos los voluntarios registrados en Scouting America y es un requisito para unirse.  Debes completar todas las lecciones de este curso y alcanzar un 80% o mejor en el Examen del Curso para rec
+    training_url: /training/learning-plans/2026/
+    role_requirements: []
+
+  - id: 1
+    name: "Cub Scout Learning Plans - Select your Positions"
+    course_code: "1"
+    category: programs
+    duration: 0
+    description: >
+      We all learn differently, and the CS19 Cub Scout training is designed to deliver the learning content in the style that works best for you—either online or instructor led. To get started with online training, select your position below. For other training content select the Home page.');//
+    training_url: /training/programs/1/
+    role_requirements: []
+
+  - id: 10
+    name: "Council Executive Board"
+    course_code: "10"
+    category: programs
+    duration: 0
+    description: >
+      The Learning Plans associated with this program will provide position trained status for the Council President, Vice President and Council Executive Board members.
+    training_url: /training/programs/10/
+    role_requirements: []
+
+  - id: 11
+    name: "Order of the Arrow Lodge Adviser Training"
+    course_code: "11"
+    category: programs
+    duration: 0
+    description: >
+      Combining an online learning experience and one-on-one mentoring, the Lodge Adviser Onboarding program is designed to support you as you step into your new role.
+    training_url: /training/programs/11/
+    role_requirements: []
+
+  - id: 12
+    name: "Safeguarding Youth"
+    course_code: "12"
+    category: programs
+    duration: 0
+    description: >
+      Safeguarding youth is a value at the core of the Scouting movement. It is vital to maintain a culture of active supervision, awareness, and safety at all levels of Scouting. Safeguarding Youth training will help you prevent harm to youth, is required for all Scouting America registered volunteers an
+    training_url: /training/programs/12/
+    role_requirements: []
+
+  - id: 2
+    name: "Scouts BSA Learning Plans - Select your Positions"
+    course_code: "2"
+    category: programs
+    duration: 0
+    description: >
+      S11 Introduction to Outdoor Leader Skills (IOLS) is an outdoor classroom training required for Scoutmasters and Assistant Scoutmasters to be classified as Position Trained. Contact your local District/Council for information on the next IOLS course offering.
+    training_url: /training/programs/2/
+    role_requirements: []
+
+  - id: 3
+    name: "Venturing Learning Plans - Select your Positions"
+    course_code: "3"
+    category: programs
+    duration: 0
+    description: >
+      We all learn differently, and the Venturing training is designed to deliver the learning content in the style that works best for you—either online or instructor led.
+    training_url: /training/programs/3/
+    role_requirements: []
+
+  - id: 4
+    name: "Sea ScoutingLearning Plans - Select your Positions"
+    course_code: "4"
+    category: programs
+    duration: 0
+    description: >
+      We all learn differently, and the Sea Scout Leader Training is designed to deliver the learning content in the style that works best for you—either online or instructor led.
+    training_url: /training/programs/4/
+    role_requirements: []
+
+  - id: 5
+    name: "Exploring Learning Plans - Select your Positions"
+    course_code: "5"
+    category: programs
+    duration: 0
+    description: >
+      We all learn differently, and the Exploring Leader Training is designed to deliver the learning content in the style that works best for you—either online or instructor led.
+    training_url: /training/programs/5/
+    role_requirements: []
+
+  - id: 9
+    name: "Wood Badge CDC"
+    course_code: "9"
+    category: programs
+    duration: 0
+    description: >
+      All Wood Badge Course Directors/Scoutmasters are required to attend a region/area Course Directors Conference within 24 months prior to the start of the course the will serve as the Course director. The individual who is listed as the backup Course Director/Assistant Scoutmaster on the “Request for
+    training_url: /training/programs/9/
+    role_requirements: []

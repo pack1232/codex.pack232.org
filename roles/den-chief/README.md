@@ -80,3 +80,4 @@ Den chiefs should be recognized at both den meetings and pack meetings. The Cubm
 | Assistant Cubmaster (their pack supervisor) | [`../assistant-cubmaster/README.md`](../assistant-cubmaster/README.md) |
 
 {% include role-tasks.html role_id=page.role_id %}
+{% include role-training.html role_id=page.role_id %}

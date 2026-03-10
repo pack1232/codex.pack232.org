@@ -110,3 +110,4 @@ The Advancement Chair oversees these coordinator positions:
 | Training requirements | [`../_shared/training-requirements.md`](../_shared/training-requirements.md) |
 
 {% include role-tasks.html role_id=page.role_id %}
+{% include role-training.html role_id=page.role_id %}
