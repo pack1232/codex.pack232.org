@@ -1,6 +1,6 @@
 ---
 title: Membership Chair
-parent: All Roles
+parent: Roles
 nav_order: 7
 nav_exclude: false
 permalink: /roles/membership-chair/

@@ -1,6 +1,6 @@
 ---
 title: Assistant Cubmasters
-parent: All Roles
+parent: Roles
 nav_order: 11
 nav_exclude: false
 permalink: /roles/assistant-cubmaster/

@@ -1,6 +1,6 @@
 ---
 title: Den Leaders
-parent: All Roles
+parent: Roles
 nav_order: 12
 nav_exclude: false
 permalink: /roles/den-leader/
