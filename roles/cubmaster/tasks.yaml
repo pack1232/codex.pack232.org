@@ -1,454 +1,119 @@
-# Tasks this role is responsible for or participates in.
-#
-# Schema:
-#   id:           Unique task identifier (kebab-case)
-#   name:         Display name
-#   type:         program|financial|fundraising|administrative|recruitment|outdoor|service|recognition|training
-#   frequency:    monthly|annual|as-needed
-#   months:       List of month numbers [1-12] or null (every month)
-#   timing_note:  When within the month/season
-#   role:         owner|involved (this role's relationship to the task)
-#   event:        Event ID (links task to an event page, optional)
-#   description:  What the task is
-#   tags:         Optional labels for filtering
+# Tasks associated with this role.
+# Task definitions live in tasks/{category}/{task-id}.md
+# role: owner = primary responsibility, involved = supporting role
 
 tasks:
 
   - id: pack-meeting
-    event: pack-meeting
-    name: "Pack Meeting"
-    type: program
-    frequency: monthly
-    months: null
-    timing_note: "Consistent day each month (e.g. 3rd Monday); set at annual planning conference"
     role: owner
-    description: >
-      Monthly pack meeting. All dens and families attend. Approximately one hour. Includes flag ceremony, program, advancement recognition, and closing.
-    tags: ['pack-meeting', 'all-hands']
 
   - id: committee-meeting
-    name: "Committee Meeting"
-    type: administrative
-    frequency: monthly
-    months: null
-    timing_note: "Same week as or adjacent to the pack meeting"
     role: involved
-    description: >
-      Monthly pack committee meeting. Committee Chair presides. Includes treasurer's report, Cubmaster's report, committee member updates, old and new business, upcoming event review.
-    tags: ['committee', 'governance']
 
   - id: district-roundtable
-    name: "District Roundtable"
-    type: training
-    frequency: monthly
-    months: null
-    timing_note: "Check Twin Rivers Council / Fort Orange District for exact schedule"
     role: owner
-    description: >
-      Monthly Fort Orange District Cub Scout leaders' roundtable. Provides program ideas, council updates, and peer learning with leaders from other packs.
-    tags: ['training', 'district']
 
   - id: annual-program-planning-conference
-    event: annual-program-planning-conference
-    name: "Annual Program Planning Conference"
-    type: program
-    frequency: annual
-    months: [7]
-    timing_note: "July or August; before the Scouting year begins"
     role: owner
-    description: >
-      Annual meeting to set the pack's program calendar for the coming Scouting year. Sets pack meeting dates, themes, major events, and assigns activity coordinators.
-    tags: ['planning', 'annual']
 
   - id: draft-annual-budget
-    name: "Draft Upcoming-Year Budget"
-    type: financial
-    frequency: annual
-    months: [7, 8]
-    timing_note: "Draft in July, finalize in August, present for approval in September"
     role: involved
-    description: >
-      Treasurer drafts the pack's budget for the coming Scouting year based on prior-year actuals, planned activities, expected enrollment, and popcorn revenue projections.
-    tags: ['financial', 'annual', 'budget']
 
   - id: leader-roster-review
-    name: "Leader Roster Review"
-    type: administrative
-    frequency: annual
-    months: [7]
-    timing_note: "Early July to identify gaps before recruitment season"
     role: involved
-    description: >
-      Committee Chair reviews the full leader roster to identify vacant positions, roles at risk of turnover, and dens that will need new leadership for the coming year.
-    tags: ['leadership', 'administrative', 'annual']
 
   - id: summer-camp-confirmation
-    name: "Summer Activity & Camp Confirmation"
-    type: outdoor
-    frequency: annual
-    months: [7]
-    timing_note: "Confirm council day camp and resident camp dates for families"
     role: involved
-    description: >
-      Confirm council day camp and resident camp programs and communicate dates to families. Coordinate any group pack attendance at summer programs.
-    tags: ['camp', 'summer', 'outdoor']
 
   - id: summer-resident-camp-coordination
-    event: summer-resident-camp
-    name: "Summer Resident Camp Roster & Registration"
-    type: outdoor
-    frequency: annual
-    months: [1, 2, 3, 4, 5]
-    timing_note: "Promote from January; roster due by May 15"
     role: owner
-    description: >
-      Promote summer resident camp at Rotary Scout Reservation to pack families. Manage pack roster in Scoutbook. Add registered scouts by May 15 for group rate. Share session dates, costs, financial aid options, and packing information. Ensure all attending adults have current YPT.
-    tags: ['camp', 'summer', 'outdoor', 'annual']
 
   - id: scout-rank-transitions
-    name: "Scout Rank Transitions in Scoutbook"
-    type: administrative
-    frequency: annual
-    months: [6, 7]
-    timing_note: "June–July: update Scoutbook as Scouts move to the next rank's den"
     role: involved
-    description: >
-      Den leaders formally transition Scouts to the next rank (Wolves → Bears, etc.) in Scoutbook. Cubmaster coordinates crossover between den leaders.
-    tags: ['scoutbook', 'administrative', 'transitions']
 
   - id: activities-fair
-    event: activities-fair
-    name: "Community Activities Fair"
-    type: recruitment
-    frequency: annual
-    months: [8]
-    timing_note: "Typically late August — confirm Bethlehem Activities Fair date annually"
     role: involved
-    description: >
-      Pack 232 sets up a booth at community activities fairs (e.g., Bethlehem Activities Fair) to recruit prospective Scouts. Scouts in uniform attend. Contact info collected for follow-up.
-    tags: ['recruitment', 'visibility', 'community']
 
   - id: fall-activity-planning
-    name: "Fall Activity Schedule Planning"
-    type: outdoor
-    frequency: annual
-    months: [8]
-    timing_note: "Confirm dates, sites, and coordinators before September kickoff"
     role: involved
-    description: >
-      Activities Chair confirms fall event schedule: Fall Back to Scouting date and site, ValleyCats Scout Night tickets, hike locations, and camping reservations.
-    tags: ['outdoor', 'planning', 'annual']
 
   - id: school-night-recruitment
-    event: school-night-recruitment
-    name: "School-Night Recruitment Event"
-    type: recruitment
-    frequency: annual
-    months: [9]
-    timing_note: "Early-to-mid September, timed to school start"
     role: involved
-    description: >
-      Primary annual Scout recruitment event held at Glenmont Elementary. Cubmaster presents the Cub Scout program; families sign up on the spot. Follow up within 48 hours.
-    tags: ['recruitment', 'annual', 'kickoff']
 
   - id: new-family-orientation
-    event: new-family-orientation
-    name: "New Family Orientation Meeting"
-    type: recruitment
-    frequency: annual
-    months: [9, 10]
-    timing_note: "Within first month after school-night recruitment"
     role: involved
-    description: >
-      Orientation meeting for families who joined through school-night recruitment. Covers Cub Scouting overview, Pack 232 structure, website, dues, uniforms, and Q&A.
-    tags: ['recruitment', 'onboarding', 'annual']
 
   - id: popcorn-pack-kickoff
-    event: popcorn-sale
-    name: "Popcorn Pack Kickoff Presentation"
-    type: fundraising
-    frequency: annual
-    months: [9]
-    timing_note: "At the September pack meeting"
     role: involved
-    description: >
-      Popcorn Kernel presents the popcorn sale to all Scouts and families at the September pack meeting. Explains goals, prizes, Scout account credits, take-order forms, and Show and Sell schedule.
-    tags: ['popcorn', 'fundraising', 'annual']
 
   - id: popcorn-show-and-sells
-    event: popcorn-sale
-    name: "Popcorn Show & Sells"
-    type: fundraising
-    frequency: annual
-    months: [9, 10]
-    timing_note: "Multiple weekends in September–October; Kernel schedules with merchants"
     role: involved
-    description: >
-      Scouts staff tables in front of local merchants (grocery stores, etc.) and sell popcorn directly to customers. Kernel schedules shifts and coordinates inventory.
-    tags: ['popcorn', 'fundraising', 'annual']
 
   - id: scouting-for-food
-    event: scouting-for-food
-    name: "Scouting for Food"
-    type: service
-    frequency: annual
-    months: [11]
-    timing_note: "Typically November — coordinate with district for area assignment"
     role: involved
-    description: >
-      Annual BSA food drive. Scouts collect canned goods door-to-door in assigned areas. Coordinate area assignments with district/other packs, arrange food pantry drop-off, provide bags and door hangers. Lead coordinator: Kara Giglia.
-    tags: ['service', 'annual', 'food-drive']
 
   - id: journey-to-excellence
-    name: "Journey to Excellence Documentation"
-    type: administrative
-    frequency: annual
-    months: [11]
-    timing_note: "Complete with recharter; submitted to council"
     role: involved
-    description: >
-      Committee Chair completes the annual Journey to Excellence (JtE) documentation measuring pack performance across advancement, membership, training, service, and program.
-    tags: ['recharter', 'administrative', 'annual', 'jtE']
 
   - id: caroling
-    event: caroling
-    name: "Caroling"
-    type: service
-    frequency: annual
-    months: [12]
-    timing_note: "December — coordinate with neighbors in advance"
     role: involved
-    description: >
-      Scouts carol in the neighborhood. Coordinator arranges prepared neighbors, procures hot chocolate for Scouts afterward, and delivers any monetary proceeds to the beneficiary selected by the Pack Committee. Coordinator: Hank Tripp.
-    tags: ['service', 'holiday', 'annual']
 
   - id: holiday-pack-meeting
-    event: holiday-pack-meeting
-    name: "Holiday Pack Meeting"
-    type: program
-    frequency: annual
-    months: [12]
-    timing_note: "December pack meeting"
     role: owner
-    description: >
-      Holiday-themed pack meeting. May include skits, songs, advancement ceremonies, and holiday celebration activities.
-    tags: ['program', 'holiday', 'annual']
 
   - id: aol-crossover-planning
-    event: aol-crossover-ceremony
-    name: "Arrow of Light Crossover: Troop Coordination"
-    type: recognition
-    frequency: annual
-    months: [12]
-    timing_note: "December planning for January/February crossover"
     role: owner
-    description: >
-      Cubmaster and AOL den leader confirm which Scouts BSA troop(s) AOL Scouts will join. Plan crossover ceremony with Scoutmaster and troop youth leaders. Target January or February so Scouts can attend troop campouts before summer camp.
-    tags: ['crossover', 'aol', 'recognition', 'annual']
 
   - id: charter-presentation-ceremony
-    event: charter-presentation-ceremony
-    name: "Charter Presentation Ceremony"
-    type: administrative
-    frequency: annual
-    months: [1]
-    timing_note: "January pack meeting — formal renewal of the pack's charter"
     role: involved
-    description: >
-      Formal ceremony at the pack meeting in which the new charter is presented to the pack by the Charter Org Rep, renewing the pack's sanction for the new year.
-    tags: ['charter', 'administrative', 'annual', 'ceremony']
 
   - id: aol-crossover-ceremony
-    event: aol-crossover-ceremony
-    name: "Arrow of Light Crossover Ceremony"
-    type: recognition
-    frequency: annual
-    months: [1, 2]
-    timing_note: "January target (February latest); at a pack meeting"
     role: owner
-    description: >
-      Scouts who have earned the Arrow of Light badge cross over to a Scouts BSA troop. Ceremony involves Scoutmaster and troop youth leaders. Advancement Chair orders AOL badges and certificates well in advance.
-    tags: ['crossover', 'aol', 'recognition', 'annual', 'ceremony']
 
   - id: blue-gold-final-planning
-    event: blue-gold-banquet
-    name: "Blue & Gold Banquet: Final Planning"
-    type: program
-    frequency: annual
-    months: [1]
-    timing_note: "January — finalize food, entertainment, program before February event"
     role: involved
-    description: >
-      Finalize all Blue & Gold Banquet details: food order, entertainment, ceremony program, invitations, hospitality setup (drinks, paper goods). Coordinators: Becky D'Anza, Andrea Dievendorf, Lindsay Knott, Kara Giglia.
-    tags: ['blue-gold', 'planning', 'annual']
 
   - id: new-family-retention-checkin
-    name: "New Family Retention Check-In"
-    type: recruitment
-    frequency: annual
-    months: [1]
-    timing_note: "January — 4 months after September recruitment"
     role: involved
-    description: >
-      Membership Chair checks in with families who joined in September — are they engaged? Flag any at risk of dropping out and initiate personal outreach.
-    tags: ['retention', 'recruitment', 'annual']
 
   - id: winter-cabin-camping
-    event: winter-cabin-camping
-    name: "Winter Cabin Camping"
-    type: outdoor
-    frequency: annual
-    months: [2, 3]
-    timing_note: "February or March — at Rotary Scout Reservation"
     role: involved
-    description: >
-      Annual pack winter overnight camping trip at Rotary Scout Reservation heated cabins. Reserve cabins, coordinate meals, collect medical forms and payment ($10/person). Arrange activities: sledding, hiking, campfire, games.
-    tags: ['camping', 'outdoor', 'annual', 'winter']
 
   - id: blue-gold-banquet
-    event: blue-gold-banquet
-    name: "Blue & Gold Banquet"
-    type: program
-    frequency: annual
-    months: [2]
-    timing_note: "February — the pack's largest annual celebration"
     role: involved
-    description: >
-      Annual Blue & Gold Banquet celebrating Cub Scouting's founding. Recognizes Scout accomplishments, honors leaders, includes advancement ceremonies and entertainment. Coordinators: Becky D'Anza, Andrea Dievendorf, Lindsay Knott, Kara Giglia.
-    tags: ['blue-gold', 'program', 'annual', 'celebration']
 
   - id: next-year-lion-recruitment
-    name: "Next-Year Lion Den Recruitment"
-    type: recruitment
-    frequency: annual
-    months: [2]
-    timing_note: "February — begin recruiting incoming kindergartners for next fall"
     role: involved
-    description: >
-      Begin recruiting families with incoming kindergartners (current Pre-K) for next year's Lion den. Connect with Glenmont Elementary for outreach opportunities.
-    tags: ['recruitment', 'lions', 'annual']
 
   - id: next-year-leadership-recruitment
-    name: "Next-Year Den Leadership Recruitment"
-    type: administrative
-    frequency: annual
-    months: [2]
-    timing_note: "February — identify and recruit before end of school year"
     role: involved
-    description: >
-      Identify dens that will need new leadership next year (leader's child crossing over, etc.) and begin recruiting replacements from current den families.
-    tags: ['leadership', 'recruitment', 'annual']
 
   - id: spring-hike
-    event: spring-hike
-    name: "Spring Hike"
-    type: outdoor
-    frequency: annual
-    months: [4]
-    timing_note: "April — all dens attend"
     role: involved
-    description: >
-      Annual spring hike open to all dens and families. Coordinator: Dave Coup.
-    tags: ['hike', 'outdoor', 'annual']
 
   - id: jtE-progress-check
-    name: "Journey to Excellence Progress Check"
-    type: administrative
-    frequency: annual
-    months: [4]
-    timing_note: "April — with enough time to improve before year-end"
     role: involved
-    description: >
-      Committee Chair reviews where the pack stands on Journey to Excellence criteria (advancement rates, membership, training, service hours). Identifies any areas needing attention before the year closes.
-    tags: ['administrative', 'jtE', 'annual']
 
   - id: spring-service-project
-    event: spring-service-project
-    name: "Spring Service Project"
-    type: service
-    frequency: as-needed
-    months: [4]
-    timing_note: "Optional — good month for a neighborhood or park cleanup"
     role: involved
-    description: >
-      Optional spring service project (e.g., park cleanup, trail maintenance, school grounds cleanup). Service Chair coordinates with the beneficiary and plans logistics.
-    tags: ['service', 'outdoor', 'spring']
 
   - id: parent-skills-survey
-    name: "Parent Annual Skills & Program Survey"
-    type: administrative
-    frequency: annual
-    months: [5]
-    timing_note: "May — capture family talents before summer"
     role: involved
-    description: >
-      Collect input from all pack families on skills, availability, and program preferences for the coming year. Used to recruit activity coordinators and plan next year's program.
-    tags: ['administrative', 'planning', 'annual', 'survey']
 
   - id: final-advancement-push
-    name: "Final Advancement Push"
-    type: recognition
-    frequency: annual
-    months: [5]
-    timing_note: "May — ensure all Scouts complete rank badges before year-end"
     role: involved
-    description: >
-      Advancement Chair and den leaders identify Scouts close to completing their rank badge and work with families to complete any remaining requirements before the end of year.
-    tags: ['advancement', 'recognition', 'annual']
 
   - id: memorial-day-parade
-    event: memorial-day-parade
-    name: "Memorial Day Parade"
-    type: service
-    frequency: annual
-    months: [5]
-    timing_note: "Late May — Bethlehem Memorial Day Parade"
     role: owner
-    description: >
-      Lead Pack 232's participation in the Bethlehem Memorial Day Parade. Coordinate scout lineup at Herber & Winding at 10:40am, step off 11:00am. Class A uniforms. Ensure Pack Flag, American Flag, and Pack banner are carried. Wait with scouts at Veterans Memorial Park until all parents collect.
-    tags: ['service', 'community', 'annual']
 
   - id: end-of-year-pack-meeting
-    event: end-of-year-pack-meeting
-    name: "End-of-Year Pack Meeting"
-    type: program
-    frequency: annual
-    months: [5]
-    timing_note: "May pack meeting — celebrate the year's accomplishments"
     role: owner
-    description: >
-      Final pack meeting of the Scouting year. Recognize all Scouts with remaining advancement awards, celebrate the year, thank volunteers, and preview next year.
-    tags: ['program', 'annual', 'celebration']
 
   - id: retention-outreach
-    name: "End-of-Year Retention Outreach"
-    type: recruitment
-    frequency: annual
-    months: [5]
-    timing_note: "Before families disengage for summer"
     role: involved
-    description: >
-      Membership Chair and den leaders identify families showing low engagement and make personal outreach to encourage re-enrollment for the coming year.
-    tags: ['retention', 'recruitment', 'annual']
 
   - id: year-end-leader-checkin
-    name: "Year-End Den Leader Check-In"
-    type: administrative
-    frequency: annual
-    months: [6]
-    timing_note: "Informal — before leaders go on summer break"
     role: owner
-    description: >
-      Cubmaster conducts informal check-ins with each den leader: how did the year go, are they returning, any concerns for next year? Flags retention risks for Committee Chair.
-    tags: ['administrative', 'leadership', 'annual']
 
   - id: leadership-vacancy-fill
-    name: "Leadership Vacancy Recruitment"
-    type: administrative
-    frequency: as-needed
-    months: null
-    timing_note: "As vacancies arise throughout the year"
     role: involved
-    description: >
-      Committee Chair and Cubmaster identify and recruit replacements for any vacant leadership positions. New adults complete adult application and YPT before serving.
-    tags: ['leadership', 'recruitment', 'administrative']

@@ -55,10 +55,10 @@ Recurring responsibilities from the [Pack 232 annual calendar]({{ '/roles/annual
 | Task | Type | When | Your Role |
 |---|---|---|---|
 {% comment %} First pass: monthly recurring (months is empty/null) {% endcomment %}
-{% for task in my_pure_tasks %}{% unless task.months %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}| {{ task.name }} | {{ task.type }} | Every month | {{ myrole }} |
+{% for task in my_pure_tasks %}{% unless task.months %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}| [{{ task.name }}]({{ task.task_url | relative_url }}) | {{ task.type }} | Every month | {{ myrole }} |
 {% endunless %}{% endfor %}{% comment %} Second pass: July through June (months 7,8,9,10,11,12,1,2,3,4,5,6) {% endcomment %}
 {% assign scouting_order = "7,8,9,10,11,12,1,2,3,4,5,6" | split: "," %}
-{% for mo in scouting_order %}{% assign mo_num = mo | plus: 0 %}{% for task in my_pure_tasks %}{% if task.months %}{% for m in task.months %}{% if m == mo_num %}{% assign mo_index = m | minus: 1 %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}| {{ task.name }} | {{ task.type }} | {{ month_names[mo_index] }} | {{ myrole }} |
+{% for mo in scouting_order %}{% assign mo_num = mo | plus: 0 %}{% for task in my_pure_tasks %}{% if task.months %}{% for m in task.months %}{% if m == mo_num %}{% assign mo_index = m | minus: 1 %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}| [{{ task.name }}]({{ task.task_url | relative_url }}) | {{ task.type }} | {{ month_names[mo_index] }} | {{ myrole }} |
 {% endif %}{% endfor %}{% endif %}{% endfor %}{% endfor %}
 {% endif %}
 
@@ -72,11 +72,11 @@ Event-related tasks from the [Pack 232 events calendar]({{ '/events/' | relative
 | Event | Task | When | Your Role |
 |---|---|---|---|
 {% comment %} First pass: monthly recurring (months is empty/null) {% endcomment %}
-{% for task in my_event_tasks %}{% unless task.months %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}{% if task.event_url %}| [{{ task.event_name }}]({{ task.event_url | relative_url }}) | {{ task.name }} | Every month | {{ myrole }} |
-{% else %}| {{ task.event_name | default: task.event }} | {{ task.name }} | Every month | {{ myrole }} |
+{% for task in my_event_tasks %}{% unless task.months %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}{% if task.event_url %}| [{{ task.event_name }}]({{ task.event_url | relative_url }}) | [{{ task.name }}]({{ task.task_url | relative_url }}) | Every month | {{ myrole }} |
+{% else %}| {{ task.event_name | default: task.event }} | [{{ task.name }}]({{ task.task_url | relative_url }}) | Every month | {{ myrole }} |
 {% endif %}{% endunless %}{% endfor %}{% comment %} Second pass: July through June (months 7,8,9,10,11,12,1,2,3,4,5,6) {% endcomment %}
 {% assign scouting_order = "7,8,9,10,11,12,1,2,3,4,5,6" | split: "," %}
-{% for mo in scouting_order %}{% assign mo_num = mo | plus: 0 %}{% for task in my_event_tasks %}{% if task.months %}{% for m in task.months %}{% if m == mo_num %}{% assign mo_index = m | minus: 1 %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}{% if task.event_url %}| [{{ task.event_name }}]({{ task.event_url | relative_url }}) | {{ task.name }} | {{ month_names[mo_index] }} | {{ myrole }} |
-{% else %}| {{ task.event_name | default: task.event }} | {{ task.name }} | {{ month_names[mo_index] }} | {{ myrole }} |
+{% for mo in scouting_order %}{% assign mo_num = mo | plus: 0 %}{% for task in my_event_tasks %}{% if task.months %}{% for m in task.months %}{% if m == mo_num %}{% assign mo_index = m | minus: 1 %}{% if task.owner == role %}{% assign myrole = "Owner" %}{% else %}{% assign myrole = "Involved" %}{% endif %}{% if task.event_url %}| [{{ task.event_name }}]({{ task.event_url | relative_url }}) | [{{ task.name }}]({{ task.task_url | relative_url }}) | {{ month_names[mo_index] }} | {{ myrole }} |
+{% else %}| {{ task.event_name | default: task.event }} | [{{ task.name }}]({{ task.task_url | relative_url }}) | {{ month_names[mo_index] }} | {{ myrole }} |
 {% endif %}{% endif %}{% endfor %}{% endif %}{% endfor %}{% endfor %}
 {% endif %}

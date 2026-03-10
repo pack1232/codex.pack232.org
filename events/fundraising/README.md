@@ -1,7 +1,7 @@
 ---
 title: "Fundraising Events"
-parent: Pack Events
-has_children: true
+parent: Events
+has_children: false
 nav_order: 4
 ---
 

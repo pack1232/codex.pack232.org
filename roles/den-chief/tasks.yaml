@@ -1,25 +1,8 @@
-# Tasks this role is responsible for or participates in.
-#
-# Schema:
-#   id:           Unique task identifier (kebab-case)
-#   name:         Display name
-#   type:         program|financial|fundraising|administrative|recruitment|outdoor|service|recognition|training
-#   frequency:    monthly|annual|as-needed
-#   months:       List of month numbers [1-12] or null (every month)
-#   timing_note:  When within the month/season
-#   role:         owner|involved (this role's relationship to the task)
-#   description:  What the task is
-#   tags:         Optional labels for filtering
+# Tasks associated with this role.
+# Task definitions live in tasks/{category}/{task-id}.md
+# role: owner = primary responsibility, involved = supporting role
 
 tasks:
 
   - id: den-meetings
-    name: "Den Meetings"
-    type: program
-    frequency: monthly
-    months: null
-    timing_note: "Lions: 1x/month. Tigers and above: typically 2x/month."
     role: involved
-    description: >
-      Den leaders conduct 1–2 den meetings per month. Den leaders update Scoutbook with completed advancement requirements promptly after each meeting.
-    tags: ['den', 'program', 'scoutbook']

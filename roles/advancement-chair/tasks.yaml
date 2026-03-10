@@ -1,155 +1,41 @@
-# Tasks this role is responsible for or participates in.
-#
-# Schema:
-#   id:           Unique task identifier (kebab-case)
-#   name:         Display name
-#   type:         program|financial|fundraising|administrative|recruitment|outdoor|service|recognition|training
-#   frequency:    monthly|annual|as-needed
-#   months:       List of month numbers [1-12] or null (every month)
-#   timing_note:  When within the month/season
-#   role:         owner|involved (this role's relationship to the task)
-#   event:        Event ID (links task to an event page, optional)
-#   description:  What the task is
-#   tags:         Optional labels for filtering
+# Tasks associated with this role.
+# Task definitions live in tasks/{category}/{task-id}.md
+# role: owner = primary responsibility, involved = supporting role
 
 tasks:
 
   - id: pack-meeting
-    event: pack-meeting
-    name: "Pack Meeting"
-    type: program
-    frequency: monthly
-    months: null
-    timing_note: "Consistent day each month (e.g. 3rd Monday); set at annual planning conference"
     role: involved
-    description: >
-      Monthly pack meeting. All dens and families attend. Approximately one hour. Includes flag ceremony, program, advancement recognition, and closing.
-    tags: ['pack-meeting', 'all-hands']
 
   - id: committee-meeting
-    name: "Committee Meeting"
-    type: administrative
-    frequency: monthly
-    months: null
-    timing_note: "Same week as or adjacent to the pack meeting"
     role: involved
-    description: >
-      Monthly pack committee meeting. Committee Chair presides. Includes treasurer's report, Cubmaster's report, committee member updates, old and new business, upcoming event review.
-    tags: ['committee', 'governance']
 
   - id: advancement-award-processing
-    name: "Monthly Advancement Processing"
-    type: recognition
-    frequency: monthly
-    months: null
-    timing_note: "Before each pack meeting — awards must be in hand before the meeting"
     role: owner
-    description: >
-      Advancement Chair pulls completed advancement data from Scoutbook, purchases badges and awards from the Scout Shop, and prepares awards for presentation at the pack meeting. Submits advancement reports to Twin Rivers Council.
-    tags: ['advancement', 'scoutbook']
 
   - id: draft-annual-budget
-    name: "Draft Upcoming-Year Budget"
-    type: financial
-    frequency: annual
-    months: [7, 8]
-    timing_note: "Draft in July, finalize in August, present for approval in September"
     role: involved
-    description: >
-      Treasurer drafts the pack's budget for the coming Scouting year based on prior-year actuals, planned activities, expected enrollment, and popcorn revenue projections.
-    tags: ['financial', 'annual', 'budget']
 
   - id: aol-badges-order
-    event: aol-crossover-ceremony
-    name: "AOL: Arrow of Light Badges & Certificates"
-    type: recognition
-    frequency: annual
-    months: [11, 12]
-    timing_note: "Order by November/December to ensure delivery for Jan/Feb crossover"
     role: involved
-    description: >
-      Order Arrow of Light rank badges and certificates for all Scouts earning the award. Coordinate with AOL den leader on final Scout count. Order from Scout Shop with sufficient lead time to ensure arrival before the January/February crossover ceremony.
-    tags: ['aol', 'recognition', 'annual', 'awards']
 
   - id: pinewood-derby-awards
-    event: pinewood-derby
-    name: "Pinewood Derby: Trophies & Style Awards"
-    type: recognition
-    frequency: annual
-    months: [1, 2]
-    timing_note: "Order by February to ensure delivery for March race"
     role: owner
-    description: >
-      Order trophies for first, second, third place overall and by den. Order medals or ribbons for style awards (Most Realistic, Fastest Looking, Best Car That's Not a Car, Most Colorful, Most Humorous, Most Creative, Best In Show). Coordinate with Pinewood Derby Coordinator on quantity and delivery date.
-    tags: ['pinewood-derby', 'recognition', 'annual', 'awards']
 
   - id: aol-crossover-ceremony
-    event: aol-crossover-ceremony
-    name: "Arrow of Light Crossover Ceremony"
-    type: recognition
-    frequency: annual
-    months: [1, 2]
-    timing_note: "January target (February latest); at a pack meeting"
     role: involved
-    description: >
-      Scouts who have earned the Arrow of Light badge cross over to a Scouts BSA troop. Ceremony involves Scoutmaster and troop youth leaders. Advancement Chair orders AOL badges and certificates well in advance.
-    tags: ['crossover', 'aol', 'recognition', 'annual', 'ceremony']
 
   - id: blue-gold-advancement-awards
-    event: blue-gold-banquet
-    name: "Blue & Gold: Prepare Advancement Awards"
-    type: recognition
-    frequency: annual
-    months: [2]
-    timing_note: "Before the February banquet — coordinate with rank-specific badges"
     role: owner
-    description: >
-      Prepare all rank advancement badges, certificates, and any special recognition awards for presentation at the Blue & Gold ceremony. Coordinate with coordinators on presentation format. Ensure proper order and Scout names for the ceremony program.
-    tags: ['blue-gold', 'recognition', 'annual', 'advancement']
 
   - id: blue-gold-banquet
-    event: blue-gold-banquet
-    name: "Blue & Gold Banquet"
-    type: program
-    frequency: annual
-    months: [2]
-    timing_note: "February — the pack's largest annual celebration"
     role: involved
-    description: >
-      Annual Blue & Gold Banquet celebrating Cub Scouting's founding. Recognizes Scout accomplishments, honors leaders, includes advancement ceremonies and entertainment. Coordinators: Becky D'Anza, Andrea Dievendorf, Lindsay Knott, Kara Giglia.
-    tags: ['blue-gold', 'program', 'annual', 'celebration']
 
   - id: pinewood-derby-event
-    event: pinewood-derby
-    name: "Pinewood Derby Race"
-    type: program
-    frequency: annual
-    months: [3]
-    timing_note: "March — at Glenmont Elementary gym"
     role: involved
-    description: >
-      Annual Pinewood Derby race. Team sets up track and timing system, manages car check-in, runs the race, empanels judges for Best in Show, and distributes awards.
-    tags: ['pinewood-derby', 'program', 'annual', 'event']
 
   - id: final-advancement-push
-    name: "Final Advancement Push"
-    type: recognition
-    frequency: annual
-    months: [5]
-    timing_note: "May — ensure all Scouts complete rank badges before year-end"
     role: owner
-    description: >
-      Advancement Chair and den leaders identify Scouts close to completing their rank badge and work with families to complete any remaining requirements before the end of year.
-    tags: ['advancement', 'recognition', 'annual']
 
   - id: end-of-year-pack-meeting
-    event: end-of-year-pack-meeting
-    name: "End-of-Year Pack Meeting"
-    type: program
-    frequency: annual
-    months: [5]
-    timing_note: "May pack meeting — celebrate the year's accomplishments"
     role: involved
-    description: >
-      Final pack meeting of the Scouting year. Recognize all Scouts with remaining advancement awards, celebrate the year, thank volunteers, and preview next year.
-    tags: ['program', 'annual', 'celebration']

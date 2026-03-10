@@ -1,114 +1,32 @@
-# Tasks this role is responsible for or participates in.
-#
-# Schema:
-#   id:           Unique task identifier (kebab-case)
-#   name:         Display name
-#   type:         program|financial|fundraising|administrative|recruitment|outdoor|service|recognition|training
-#   frequency:    monthly|annual|as-needed
-#   months:       List of month numbers [1-12] or null (every month)
-#   timing_note:  When within the month/season
-#   role:         owner|involved (this role's relationship to the task)
-#   description:  What the task is
-#   tags:         Optional labels for filtering
+# Tasks associated with this role.
+# Task definitions live in tasks/{category}/{task-id}.md
+# role: owner = primary responsibility, involved = supporting role
 
 tasks:
 
   - id: committee-meeting
-    name: "Committee Meeting"
-    type: administrative
-    frequency: monthly
-    months: null
-    timing_note: "Same week as or adjacent to the pack meeting"
     role: involved
-    description: >
-      Monthly pack committee meeting. Committee Chair presides. Includes treasurer's report, Cubmaster's report, committee member updates, old and new business, upcoming event review.
-    tags: ['committee', 'governance']
 
   - id: committee-meeting-notice
-    name: "Committee Meeting Notice & Agenda"
-    type: administrative
-    frequency: monthly
-    months: null
-    timing_note: "2–3 days before the committee meeting"
     role: owner
-    description: >
-      Secretary sends committee meeting notice with date, time, location, and agenda to all committee members and den leaders.
-    tags: ['communications', 'administrative']
 
   - id: health-forms-collection
-    name: "BSA Health Forms Collection"
-    type: administrative
-    frequency: annual
-    months: [9]
-    timing_note: "Collect at or before the September pack meeting"
     role: owner
-    description: >
-      Secretary collects BSA Annual Health and Medical Record (Parts A & B) for all Scouts and registered adults. Send reminders to families who have not submitted. Health forms expire annually.
-    tags: ['health-forms', 'administrative', 'annual']
 
   - id: uss-slater-insurance
-    event: uss-slater-overnight
-    name: "USS Slater: Obtain Insurance Certificate"
-    type: administrative
-    frequency: as-needed
-    months: null
-    timing_note: "3 weeks before USS Slater overnight — list DEHM as certificate holder"
     role: owner
-    description: >
-      Obtain proof of insurance from Twin Rivers Council listing USS SLATER / Destroyer Escort Historical Museum (DEHM) as certificate holder. Due 3 weeks before the overnight event.
-    tags: ['administrative', 'insurance', 'uss-slater']
 
   - id: recharter-roster-pull
-    name: "Recharter: Pull Current Roster"
-    type: administrative
-    frequency: annual
-    months: [10]
-    timing_note: "Early October — start recharter process as soon as portal opens"
     role: involved
-    description: >
-      Committee Chair pulls the current pack roster from my.Scouting.org and begins review: confirm active Scouts and adults, identify those to remove or add.
-    tags: ['recharter', 'administrative', 'annual']
 
   - id: recharter-ypt-check
-    name: "Recharter: YPT Status Check"
-    type: administrative
-    frequency: annual
-    months: [10]
-    timing_note: "Check training status for all adults in my.Scouting.org"
     role: involved
-    description: >
-      Verify that all registered adults have current Youth Protection Training (YPT). Contact anyone with lapsed YPT — they must retake before recharter submits.
-    tags: ['recharter', 'training', 'ypt', 'annual']
 
   - id: recharter-adult-applications
-    name: "Recharter: Collect & Route Adult Applications"
-    type: administrative
-    frequency: annual
-    months: [10, 11]
-    timing_note: "October–November — concurrent with roster review"
     role: owner
-    description: >
-      Secretary collects adult applications (with YPT certificates) for any new or previously unregistered adults. Routes to Charter Org Rep for signature.
-    tags: ['recharter', 'administrative', 'annual']
 
   - id: records-archival
-    name: "Year-End Records Archival"
-    type: administrative
-    frequency: annual
-    months: [6]
-    timing_note: "June — archive before summer"
     role: owner
-    description: >
-      Secretary archives the year's records to Google Drive: health forms, meeting minutes, consent forms, adult applications, and other key documents.
-    tags: ['administrative', 'records', 'annual']
 
   - id: ypt-renewal-tracking
-    name: "YPT Renewal Tracking"
-    type: training
-    frequency: as-needed
-    months: null
-    timing_note: "YPT expires every 2 years; track and remind leaders proactively"
     role: owner
-    description: >
-      Secretary tracks YPT expiration dates for all registered adults and alerts the Committee Chair when renewals are needed. Any adult with lapsed YPT must renew before participating in Scouting activities.
-    tags: ['training', 'ypt', 'administrative']

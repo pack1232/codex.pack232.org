@@ -35,7 +35,7 @@ events:
     owner: popcorn-coordinator
     roles: [popcorn-coordinator, fundraising-chair, treasurer, cubmaster]
     url: /events/fundraising/popcorn-sale/
-    tasks: [popcorn-pack-kickoff, popcorn-show-and-sells, popcorn-order-submission, popcorn-money-collection, scout-account-credits, popcorn-donation-in-lieu-invoicing, popcorn-unit-registration, popcorn-council-kickoff, popcorn-pickup-distribution, popcorn-year-end-wrap]
+    tasks: [popcorn-donation-in-lieu-invoicing, scout-account-credits, popcorn-council-kickoff, popcorn-money-collection, popcorn-order-submission, popcorn-pack-kickoff, popcorn-pickup-distribution, popcorn-show-and-sells, popcorn-unit-registration, popcorn-year-end-wrap]
 
   - event_id: fall-back-to-scouting
     title: "Fall Back to Scouting"
@@ -57,7 +57,7 @@ events:
     owner: program-chair
     roles: [program-chair, cubmaster, den-leader]
     url: /events/outdoor/spring-hike/
-    tasks: [spring-hike, spring-hike-planning]
+    tasks: [spring-hike-planning, spring-hike]
 
   - event_id: summer-day-camp
     title: "Summer Day Camp"
@@ -116,7 +116,7 @@ events:
     roles: [program-chair, cubmaster, secretary]
     venue: "USS SLATER (DE-766), PO Box 1926, Albany, NY 12201"
     url: /events/outings/uss-slater-overnight/
-    tasks: [uss-slater-overnight-planning, uss-slater-insurance]
+    tasks: [uss-slater-insurance, uss-slater-overnight-planning]
 
   - event_id: valleycats-scout-night
     title: "ValleyCats Scout Night"
@@ -151,7 +151,7 @@ events:
     roles: [blue-and-gold-coordinator, committee-chair, program-chair, advancement-chair, cubmaster]
     venue: "Glenmont Elementary gym or alternative venue"
     url: /events/program/blue-gold-banquet/
-    tasks: [blue-gold-advancement-awards, blue-gold-banquet, blue-gold-venue-booking, blue-gold-final-planning, blue-gold-venue-entertainment]
+    tasks: [blue-gold-banquet, blue-gold-final-planning, blue-gold-venue-booking, blue-gold-venue-entertainment, blue-gold-advancement-awards]
 
   - event_id: end-of-year-pack-meeting
     title: "End-of-Year Pack Meeting"
@@ -199,7 +199,7 @@ events:
     roles: [pinewood-derby-coordinator, committee-chair, advancement-chair, program-chair]
     venue: "Glenmont Elementary gym"
     url: /events/program/pinewood-derby/
-    tasks: [pinewood-derby-awards, pinewood-derby-event, pinewood-derby-gym-reservation, pinewood-derby-kit-distribution, pinewood-derby-track-storage, pinewood-derby-rules, pinewood-derby-car-inspection]
+    tasks: [pinewood-derby-track-storage, pinewood-derby-car-inspection, pinewood-derby-event, pinewood-derby-gym-reservation, pinewood-derby-kit-distribution, pinewood-derby-rules, pinewood-derby-awards]
 
   - event_id: activities-fair
     title: "Community Activities Fair"
@@ -246,7 +246,7 @@ events:
     roles: [membership-chair, cubmaster, den-leader]
     venue: "Glenmont Elementary"
     url: /events/recruitment/school-night-recruitment/
-    tasks: [school-night-recruitment, recruitment-materials-prep]
+    tasks: [recruitment-materials-prep, school-night-recruitment]
 
   - event_id: caroling
     title: "Caroling"
