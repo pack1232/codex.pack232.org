@@ -18,14 +18,12 @@ The Charter Organization Representative (COR) is the direct link between Pack 23
 ## Requirements
 
 - **Age**: 21 years or older
-- **Membership**: Must be a member of the charter organization (Glenmont Elementary PTA)
-- **Restriction**: Cannot be the unit leader (Cubmaster) or assistant unit leader
-- **Registration**: Appointed by the charter organization; registered as an adult leader of BSA; current with YPT
+- **Membership**: Should be a member of the charter organization (Selkirk Fire Department #2)
+- **Registration**: Appointed by the charter organization; registered as an adult leader of BSA
 - **Required Training**:
   - Youth Protection Training (YPT) — renew every 2 years
+  - Pack Committee Training
   - Charter Organization Representative Training
-  - Pack Committee Challenge
-- **Access**: Full access to the pack's bank account
 
 ---
 
