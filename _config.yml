@@ -33,6 +33,10 @@ defaults:
     values:
       nav_exclude: true
   - scope:
+      path: "tasks"
+    values:
+      nav_exclude: true
+  - scope:
       path: "data"
     values:
       nav_exclude: true

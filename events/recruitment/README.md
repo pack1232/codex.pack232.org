@@ -1,7 +1,7 @@
 ---
 title: "Recruitment Events"
-parent: Pack Events
-has_children: true
+parent: Events
+has_children: false
 nav_order: 3
 ---
 

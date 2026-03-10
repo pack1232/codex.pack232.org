@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Aggregate per-role tasks.yaml files and event front matter.
+"""Aggregate task definitions and role assignments.
 
-Walks roles/*/tasks.yaml and roles/*/*/tasks.yaml, merges tasks by ID,
-and outputs _data/pack-tasks-generated.yaml compatible with the original
-pack-tasks.yaml schema so the Liquid include (role-tasks.html) works unchanged.
+Reads task definitions from tasks/**/*.md front matter and role assignments
+from roles/*/tasks.yaml (simplified format), merges them, and outputs
+_data/pack-tasks-generated.yaml.
 
 Also parses events/**/*.md front matter and generates
 _data/pack-events-generated.yaml with event metadata and associated tasks.
@@ -19,6 +19,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ROLES_DIR = REPO_ROOT / 'roles'
+TASKS_DIR = REPO_ROOT / 'tasks'
 EVENTS_DIR = REPO_ROOT / 'events'
 OUTPUT = REPO_ROOT / '_data' / 'pack-tasks-generated.yaml'
 EVENTS_OUTPUT = REPO_ROOT / '_data' / 'pack-events-generated.yaml'
@@ -62,12 +63,10 @@ def parse_yaml_simple(filepath):
     return None
 
 
-def parse_event_front_matter(filepath):
-    """Extract YAML front matter from an event .md file.
+def parse_front_matter(filepath):
+    """Extract YAML front matter from a .md file.
 
-    Returns a dict with keys: title, event_id, category, frequency,
-    months, timing_note, owner, roles, venue (all optional except event_id).
-    Returns None if the file has no valid front matter.
+    Returns a dict with front matter keys, or None if no valid front matter.
     """
     with open(filepath) as f:
         content = f.read()
@@ -109,64 +108,115 @@ def parse_event_front_matter(filepath):
 
 
 def main():
-    tasks_by_id = OrderedDict()
-    role_ids_seen = set()
+    warnings = []
 
-    # Process all tasks.yaml files
+    # ── Step 1: Read task definitions from tasks/**/*.md ──
+    tasks_by_id = OrderedDict()
+    if TASKS_DIR.exists():
+        for tf in sorted(TASKS_DIR.glob('**/*.md')):
+            if tf.name == 'README.md':
+                continue
+            data = parse_front_matter(str(tf))
+            if not data or 'task_id' not in data:
+                continue
+            tid = data['task_id']
+            # Extract description from body (after front matter)
+            with open(tf) as f:
+                content = f.read()
+            fm_end = content.index('---', 3) + 3
+            body = content[fm_end:].strip()
+            # Get description: text between first heading and ## Schedule
+            desc = ''
+            lines = body.split('\n')
+            in_desc = False
+            desc_lines = []
+            for line in lines:
+                if line.startswith('# ') and not in_desc:
+                    in_desc = True
+                    continue
+                if line.startswith('## '):
+                    break
+                if in_desc:
+                    desc_lines.append(line)
+            desc = '\n'.join(desc_lines).strip()
+
+            tasks_by_id[tid] = {
+                'id': tid,
+                'name': data.get('title', tid),
+                'type': data.get('category', 'uncategorized'),
+                'frequency': data.get('frequency', 'as-needed'),
+                'months': data.get('months'),
+                'timing_note': data.get('timing_note', ''),
+                'description': desc,
+                'tags': data.get('tags', []),
+                'event': data.get('event'),
+                'owner': data.get('owner', 'unknown'),
+                'roles': data.get('roles', []),
+                'task_url': f'/tasks/{data.get("category", "uncategorized")}/{tid}/',
+            }
+
+    print(f'Read {len(tasks_by_id)} task definitions from tasks/**/*.md')
+
+    # ── Step 2: Read role assignments from roles/*/tasks.yaml ──
     task_files = sorted(ROLES_DIR.glob('*/tasks.yaml')) + sorted(ROLES_DIR.glob('*/*/tasks.yaml'))
+
+    role_assignments = {}  # tid -> {owner: role_id, roles: [role_ids]}
 
     for tf in task_files:
         role_dir = tf.parent
         role_id = get_role_id(role_dir)
-        role_ids_seen.add(role_id)
 
         data = parse_yaml_simple(str(tf))
         if not data or not data.get('tasks'):
             continue
 
-        for task in data['tasks']:
-            tid = task['id']
-            role_type = task.get('role', 'involved')
+        for task_ref in data['tasks']:
+            tid = task_ref['id']
+            role_type = task_ref.get('role', 'involved')
 
-            if tid not in tasks_by_id:
-                tasks_by_id[tid] = {
-                    'task': task,
-                    'owner': None,
-                    'roles': [],
-                }
+            if tid not in role_assignments:
+                role_assignments[tid] = {'owner': None, 'roles': []}
 
-            entry = tasks_by_id[tid]
+            entry = role_assignments[tid]
             if role_type == 'owner' and entry['owner'] is None:
                 entry['owner'] = role_id
             if role_id not in entry['roles']:
                 entry['roles'].append(role_id)
-            # Merge event field from any occurrence
-            if 'event' in task and 'event' not in entry['task']:
-                entry['task']['event'] = task['event']
 
-    # Process event files
+    # Merge role assignments into task definitions
+    for tid, task in tasks_by_id.items():
+        if tid in role_assignments:
+            ra = role_assignments[tid]
+            if ra['owner']:
+                task['owner'] = ra['owner']
+            if ra['roles']:
+                task['roles'] = ra['roles']
+
+    # Check for role assignments referencing unknown tasks
+    for tid in role_assignments:
+        if tid not in tasks_by_id:
+            warnings.append(f'Role assignment references unknown task "{tid}"')
+
+    # ── Step 3: Read event definitions from events/**/*.md ──
     events_by_id = OrderedDict()
     if EVENTS_DIR.exists():
         for ef in sorted(EVENTS_DIR.glob('**/*.md')):
             if ef.name == 'README.md':
                 continue
-            data = parse_event_front_matter(str(ef))
+            data = parse_front_matter(str(ef))
             if not data or 'event_id' not in data:
                 continue
             eid = data['event_id']
-            # Infer category from parent directory name
             if 'category' not in data:
                 data['category'] = ef.parent.name
             events_by_id[eid] = data
 
-    warnings = []
-
-    # Write output
+    # ── Step 4: Write pack-tasks-generated.yaml ──
     with open(OUTPUT, 'w') as f:
-        f.write('# Auto-generated from per-role tasks.yaml files.\n')
+        f.write('# Auto-generated from tasks/**/*.md definitions and roles/*/tasks.yaml assignments.\n')
         f.write('# Do not edit directly. Run: python3 scripts/aggregate-tasks.py\n')
         f.write('#\n')
-        f.write('# Source: roles/*/tasks.yaml and roles/*/*/tasks.yaml\n\n')
+        f.write('# Source: tasks/**/*.md and roles/*/tasks.yaml\n\n')
 
         # Meta section
         f.write('meta:\n')
@@ -179,10 +229,9 @@ def main():
 
         f.write('tasks:\n')
 
-        for tid, entry in tasks_by_id.items():
-            task = entry['task']
-            owner = entry['owner'] or entry['roles'][0] if entry['roles'] else 'unknown'
-            roles = entry['roles']
+        for tid, task in tasks_by_id.items():
+            owner = task['owner']
+            roles = task['roles']
 
             f.write(f'\n  - id: {tid}\n')
             f.write(f'    name: "{task["name"]}"\n')
@@ -209,6 +258,8 @@ def main():
             if tags:
                 f.write(f'    tags: {tags}\n')
 
+            f.write(f'    task_url: {task["task_url"]}\n')
+
             event_id = task.get('event')
             if event_id:
                 f.write(f'    event: {event_id}\n')
@@ -221,14 +272,13 @@ def main():
 
     print(f'Generated {OUTPUT} with {len(tasks_by_id)} unique tasks')
 
-    # Build reverse map: event_id -> list of task IDs
+    # ── Step 5: Build reverse map and write events output ──
     event_tasks = {}
-    for tid, entry in tasks_by_id.items():
-        eid = entry['task'].get('event')
+    for tid, task in tasks_by_id.items():
+        eid = task.get('event')
         if eid:
             event_tasks.setdefault(eid, []).append(tid)
 
-    # Write events output
     with open(EVENTS_OUTPUT, 'w') as f:
         f.write('# Auto-generated from events/**/*.md front matter.\n')
         f.write('# Do not edit directly. Run: python3 scripts/aggregate-tasks.py\n\n')
