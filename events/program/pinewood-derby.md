@@ -19,67 +19,120 @@ nav_exclude: true
 
 # Pinewood Derby
 
-The pack's most logistically complex single event. Scouts build wooden cars and race them on a regulation track. The event includes car check-in, weigh-in, racing heats, Best in Show judging, and an awards ceremony.
+The pack's most logistically complex single event. Scouts partner with a parent or adult mentor to design, carve, paint, weigh, refine, and race a wooden car on a regulation track. Bonds are strengthened through the build process and Scouts take pride in their growing skills and hard work.
 
-## Overview
+## Event Format
 
-At the heart of this event's success is the process itself — bonds are strengthened as Cub Scouts partner with a parent or adult mentor to design, carve, paint, weigh, refine, and race their car. Scouts build confidence and take pride in their own growing skills and hard work.
+Pack 232 uses an **8-lane track**. Each car races once in each lane (8 rounds total). The winner is determined by **lowest average time** across all races.
 
-## Pack 232 Car Specifications & Rules
+**Typical Schedule:**
 
-Pack 232 follows the standard **"Rules in the Box"** with key specifications:
+| Time | Activity |
+|---|---|
+| 8:00am | Setup (track, timing system, AV) |
+| 11:00am | Car check-in and weigh-in |
+| 12:00pm | Racing commences |
+| 2:00pm | Award ceremony |
 
-**Car Dimensions & Weight**:
-- Width: 2–3/4"
+Light snacks, drinks, coffee, and pizza are typically available for purchase. Families are welcome to bring their own food. Grandparents and extended family are encouraged to attend.
+
+## Awards
+
+**Race Awards:**
+- First, Second, Third place overall in the Pack
+- Den-level placement awards
+- Participation medal for every Scout
+
+**Style / Superlative Awards:**
+- Most Realistic
+- Fastest Looking
+- Best Car That's Not a Car
+- Most Colorful
+- Most Humorous
+- Most Creative
+- Best In Show
+- Most Scout Spirit
+- Hottest Car
+
+## Car Rules
+
+Pack 232 follows the official BSA [Pinewood Derby Rules](https://www.scoutshop.org/pwd-rules).
+
+**Car Specifications:**
+- Width: 2-3/4"
 - Length: 7"
 - Weight: Not over 5 ounces
-- Width between wheels: 1–3/4"
+- Width between wheels: 1-3/4"
 - Bottom clearance between car and track: 3/8"
+- Wheelbase: at least 4 inches
 
-**Prohibited & Allowed**:
-- Wheel bearings, washers, and bushings are **prohibited**
+**Key Rules:**
 - Only official Cub Scout Grand Prix Pinewood Derby wheels and axles permitted
-- Only dry lubricant permitted
-- Car must be free-wheeling with **no starting devices**
-- Car body may have **no moving parts**
-- Wheelbase must be at least 4 inches
+- Only dry lubricant (graphite) permitted — no oil or wet lubricants
+- Wheel bearings, washers, and bushings are prohibited
+- Car must be free-wheeling with no starting devices
+- Car body may have no moving parts (exterior or weights)
 - Car must have been made during the current Pack year
+- The entire car must stage behind the starting pin
+- Official number must be clearly visible on the car
 
-For complete rules including inspection process and all Pack-specific requirements, see [Pack 232 Pinewood Derby Rules]({{ '/docs/Events & Activities/Pinewood Derby/DerbyRules232pdf/' | relative_url }}).
+**Inspection:** All cars must pass inspection at check-in. Cars out of compliance will be given time to make adjustments before racing. After final approval, cars are impounded and may only be handled by Pit Crew volunteers.
 
-## Race Format & Awards
+**Parent Note:** Please assist your Scout as they design and build their car. This is a Scout event — please do not build the car for them. Each rank has a Pinewood Derby-related elective adventure.
 
-The Derby consists of **eight rounds of races**, allowing cars to run once in each lane. The winner is determined by the **lowest average time** across all races.
+## Venue History
 
-**Awards**:
-- First, Second, Third place overall in the Pack
-- Place within individual Dens
-- Style Awards: Most Realistic, Fastest Looking, Best Car That's Not a Car, Most Colorful, Most Humorous, Most Creative, Best In Show
+| Year | Date | Venue | Lead |
+|---|---|---|---|
+| 2026 | March 14 | La Salle Institute, Troy, NY | TBD |
+| 2025 | March 23 | The Wire Event Center, Coxsackie, NY | Kevin Calacone |
+| 2024 | March 2 | The Wire Event Center, Coxsackie, NY | Rick Johnson |
+| 2022 | March 5 | The Hanger, Albany Shaker Rd | Dave Coup |
+| 2021 | March 27 | Crossgates Mall | Dave Coup |
+
+**Current Venue (2026):** La Salle Institute, Troy, NY — has projectors/screens, kitchen, chairs, and free venue space.
 
 ## Timeline / Checklist
 
 | When | Task |
 |---|---|
-| December | Set date; reserve Glenmont Elementary gym |
-| January--February | Purchase and distribute car kits (Lego Derby kits for Lions) |
-| March (before race) | Distribute rules to all families; open car inspections |
-| Race Day | Set up track and timing system; run the race; awards ceremony |
-| After the race | Arrange year-round track storage |
+| December | Order car kits and Lego Derby kits (Lions) from Scout Shop |
+| December | Set race date; confirm venue reservation |
+| January | Distribute car kits at pack meeting or den meetings |
+| January–February | Order trophies and awards (Crown Awards supplier recommended) |
+| February | Distribute race rules to all families |
+| March (before race) | Test track and timing system; verify AV setup (projector, screen, cables) |
+| March (race day) | Setup at 8am; weigh-in at 11am; racing at noon; awards at 2pm |
+| After race | Arrange year-round track storage with Committee Chair |
 
-## Venue & Logistics
+## Costs & Budget
 
-The Pinewood Derby is held in the **Glenmont Elementary gym**. The Committee Chair submits the space request as part of the annual Glenmont space request. The track and timing system must be set up and tested before cars arrive for inspection.
+Typical expenses include car kits, Lego Derby kits for Lions, trophies/awards ($250–400), and venue rental. The 2025 event had a $784 net cost. Baked goods sales at the event help offset costs. The pack is exploring a SABIC grant for updated race software and laptop.
 
-## Team
+**Trophy Supplier:** Crown Awards — cheaper than Red River Trophy & Engraving, delivers unbroken in days.
 
-- **Lead** -- Jeff Middendorf
-- **Team** -- Dave Coup, Gary Robbins, Jeff Dievendorf, Charles Giglia, Chris Orth
+## Equipment & Software
+
+- 8-lane Pinewood Derby track with electronic timing system
+- GrandPrix race management software
+- Laptop, projector, screen, extension cords, AV cables
+- Scales for weigh-in
+- Track storage coordinated with Committee Chair year-round
+
+## Leadership
+
+**Pinewood Derby Chair** is a committee position requiring:
+- Minimum 21 years of age
+- Youth Protection Training
+- Pack Committee Challenge training
+
+**Responsibilities:** Purchase/distribute kits, set date/venue, develop/distribute rules, set up track and timing system, manage car check-in, empanel Best in Show judges, run the race, coordinate track storage.
 
 ## Roles Involved
 
-- **Pinewood Derby Coordinator** -- overall event lead and track management
-- **Committee Chair** -- facility reservation and year-round track storage
-- **Advancement Chair** -- awards, trophies, and Best in Show judging
-- **Program Chair** -- coordinates with pack calendar
+- **Pinewood Derby Coordinator** — overall event lead and track management
+- **Committee Chair** — facility reservation and year-round track storage
+- **Advancement Chair** — awards, trophies, and Best in Show judging coordination
+- **Program Chair** — coordinates with pack calendar
 
 {% include event-tasks.html event_id=page.event_id %}

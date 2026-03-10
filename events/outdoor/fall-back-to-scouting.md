@@ -18,6 +18,21 @@ nav_exclude: true
 
 Annual fall camping or outdoor event that kicks off the outdoor portion of the Scouting year.
 
+## Overview
+
+Annual fall outdoor event for the whole pack — often a camping weekend or cabin reservation. Designed as an early-season outdoor activity to welcome new Scouts from September recruitment and build pack community. Reserve site/cabin well in advance.
+
+Coordinators: Ben Friedman & Hank Tripp.
+
+## Typical Activities
+
+- Hiking
+- Campfire program with songs and skits
+- Outdoor cooking
+- Nature exploration
+- Team-building games
+- Scout skill practice (knots, fire safety, first aid basics)
+
 ## Timeline / Checklist
 
 | When | Task |

@@ -14,3 +14,4 @@ Community service projects and Good Turns.
 | [Scouting for Food](scouting-for-food/) | November |
 | [Caroling](caroling/) | December |
 | [Spring Service Project](spring-service-project/) | April (optional) |
+| [Memorial Day Parade](memorial-day-parade/) | Late May |

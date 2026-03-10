@@ -18,6 +18,19 @@ nav_exclude: true
 
 Group outing to a Tri-City ValleyCats baseball game. Reserve group tickets in advance and coordinate attendance with pack families.
 
+## Recent History
+
+| Year | Date | Opponent | Venue |
+|---|---|---|---|
+| 2023 | August 12 | New Jersey Jackals | Joe Bruno Stadium, Troy |
+
+## Logistics
+
+- **Cost:** ~$14/person reserved seating; Camping option ~$17/person (includes box ticket, hot dog/soda voucher, $2 TRC donation)
+- **Pre-game:** Scouts in Class A uniforms parade around the field, lining up at left field foul pole around 7pm
+- **Seating:** Scouts sit together in a reserved block (Section 270 in 2023)
+- **RSVP:** Coordinator collects headcount and arranges group tickets in advance
+
 ## Timeline / Checklist
 
 | When | Task |
