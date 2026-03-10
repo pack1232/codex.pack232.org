@@ -25,8 +25,14 @@ ROLES_DIR = REPO_ROOT / 'roles'
 
 CATALOG_RAW = DATA_DIR / 'bsa-training-catalog-raw.json'
 
-# Valid training types derived from URL paths
-VALID_TYPES = {'courses', 'learning-plans', 'programs'}
+# Map API type field to our directory names
+TYPE_MAP = {
+    'Course': 'courses',
+    'Plan': 'learning-plans',
+    'Program': 'programs',
+}
+
+VALID_TYPES = set(TYPE_MAP.values())
 
 # Display names and nav order for each type
 TYPE_META = {
@@ -38,6 +44,13 @@ TYPE_META = {
                  'desc': 'Scouting America training programs available through [training.scouting.org](https://training.scouting.org).'},
 }
 
+# Map API URL prefixes to full training.scouting.org paths
+URL_PREFIX_MAP = {
+    'courses': 'courses',
+    'plans': 'learning-plans',
+    'containers': 'programs',
+}
+
 
 def slugify(code):
     """Convert a course code like SCO_471 to sco-471."""
@@ -45,13 +58,17 @@ def slugify(code):
 
 
 def get_item_type(item):
-    """Derive the training type from the item's URL path."""
+    """Derive the training type from the API type field."""
+    api_type = item.get('type', '')
+    return TYPE_MAP.get(api_type, 'courses')
+
+
+def build_full_url(item):
+    """Build full training.scouting.org URL from relative API url."""
     url = item.get('url', '')
-    path = url.replace('https://training.scouting.org', '')
-    parts = path.split('/')
-    if len(parts) > 1 and parts[1] in VALID_TYPES:
-        return parts[1]
-    return 'courses'  # fallback
+    if url.startswith('http'):
+        return url
+    return f'https://training.scouting.org/{url}'
 
 
 def extract_fields(item):
@@ -65,7 +82,7 @@ def extract_fields(item):
         'description': (item.get('description') or '').strip(),
         'duration': item.get('duration'),  # minutes
         'type': item_type,
-        'url': item.get('url', f'https://training.scouting.org/{item_type}/{code}'),
+        'url': build_full_url(item),
     }
 
 

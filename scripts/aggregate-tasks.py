@@ -334,19 +334,21 @@ def main():
             if tf.name == 'README.md':
                 continue
             data = parse_front_matter(str(tf))
-            if not data or 'course_id' not in data:
+            # Support both old (course_id) and new (training_id) field names
+            cid = data.get('training_id') or data.get('course_id') if data else None
+            if not cid:
                 continue
-            cid = data['course_id']
-            # Determine category from parent dir name
-            category = tf.parent.name if tf.parent.name != 'training' else 'courses'
+            # Determine category from type field, parent dir, or category field
+            category = data.get('type') or (tf.parent.name if tf.parent.name != 'training' else 'courses')
+            training_code = data.get('training_code') or data.get('course_code', '')
             training_by_id[cid] = {
                 'id': cid,
                 'name': data.get('title', cid),
-                'course_code': data.get('course_code', ''),
-                'category': data.get('category', category),
+                'course_code': training_code,
+                'category': category,
                 'duration': data.get('duration', 0),
                 'description': data.get('description', ''),
-                'training_url': f'/training/{data.get("category", category)}/{cid}/',
+                'training_url': f'/training/{category}/{cid}/',
             }
 
     print(f'Read {len(training_by_id)} training definitions from training/**/*.md')

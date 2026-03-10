@@ -90,14 +90,20 @@ def fetch_all(token):
     return all_items, total
 
 
+# Map API type field to our directory names
+TYPE_MAP = {
+    'Course': 'courses',
+    'Plan': 'learning-plans',
+    'Program': 'programs',
+}
+
+
 def classify_items(items):
-    """Count items by type based on their URL path."""
+    """Count items by type using the API type field."""
     counts = {}
     for item in items:
-        url = item.get('url', '')
-        # Extract first path segment: /courses/..., /programs/..., /learning-plans/...
-        parts = url.replace('https://training.scouting.org', '').split('/')
-        item_type = parts[1] if len(parts) > 1 else 'unknown'
+        api_type = item.get('type', 'unknown')
+        item_type = TYPE_MAP.get(api_type, api_type.lower())
         counts[item_type] = counts.get(item_type, 0) + 1
     return counts
 
