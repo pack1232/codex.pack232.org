@@ -1,0 +1,31 @@
+{% comment %}
+  Category Tasks Include
+  Usage: {% include category-tasks.html category="program" %}
+  Renders a table of tasks filtered to the given category.
+  Reads from pack-tasks-generated.yaml.
+{% endcomment %}
+
+{% assign cat = include.category %}
+{% if site.data["pack-tasks-generated"] %}
+  {% assign tasks = site.data["pack-tasks-generated"].tasks %}
+{% else %}
+  {% assign tasks = site.data["pack-tasks"].tasks %}
+{% endif %}
+{% assign month_names = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," %}
+
+{% comment %} Collect tasks matching this category {% endcomment %}
+{% assign my_tasks = "" | split: "" %}
+{% for task in tasks %}
+  {% if task.type == cat %}
+    {% assign my_tasks = my_tasks | push: task %}
+  {% endif %}
+{% endfor %}
+
+{% if my_tasks.size > 0 %}
+
+| Task | Frequency | When | Owner |
+|---|---|---|---|
+{% for task in my_tasks %}{% if task.task_url %}| [{{ task.name }}]({{ task.task_url | relative_url }}) | {{ task.frequency }} | {% if task.months %}{% for m in task.months %}{% assign mo_index = m | minus: 1 %}{{ month_names[mo_index] }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% else %}Every month{% endif %} | {{ task.owner }} |
+{% else %}| {{ task.name }} | {{ task.frequency }} | {% if task.months %}{% for m in task.months %}{% assign mo_index = m | minus: 1 %}{{ month_names[mo_index] }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% else %}Every month{% endif %} | {{ task.owner }} |
+{% endif %}{% endfor %}
+{% endif %}
