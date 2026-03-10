@@ -37,6 +37,10 @@ defaults:
     values:
       nav_exclude: true
   - scope:
+      path: "training"
+    values:
+      nav_exclude: true
+  - scope:
       path: "data"
     values:
       nav_exclude: true

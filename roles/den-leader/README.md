@@ -100,3 +100,4 @@ Every den should have an Assistant Den Leader who supports the den leader and ca
 | BSA policies | [`../_shared/bsa-policies.md`](../_shared/bsa-policies.md) |
 
 {% include role-tasks.html role_id=page.role_id %}
+{% include role-training.html role_id=page.role_id %}

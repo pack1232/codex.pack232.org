@@ -87,3 +87,4 @@ The Committee Chair leads the pack committee and is responsible for the overall 
 | Pack calendar | [`../_shared/calendar.md`](../_shared/calendar.md) |
 
 {% include role-tasks.html role_id=page.role_id %}
+{% include role-training.html role_id=page.role_id %}

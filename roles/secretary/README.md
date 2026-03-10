@@ -82,3 +82,4 @@ The Secretary ensures that proper records are kept for Pack 232, manages communi
 | BSA policies | [`../_shared/bsa-policies.md`](../_shared/bsa-policies.md) |
 
 {% include role-tasks.html role_id=page.role_id %}
+{% include role-training.html role_id=page.role_id %}

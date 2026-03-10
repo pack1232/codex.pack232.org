@@ -104,3 +104,4 @@ Source: `docs/Training/Positions/Treasurer/Additional Treasurer Resources/BSA/20
 | Popcorn Coordinator role | [popcorn-coordinator/](popcorn-coordinator/) |
 
 {% include role-tasks.html role_id=page.role_id %}
+{% include role-training.html role_id=page.role_id %}

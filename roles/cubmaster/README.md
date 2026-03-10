@@ -84,3 +84,4 @@ The Cubmaster is the primary program leader of Pack 232. Everything the Cubmaste
 | Pack calendar | [`../_shared/calendar.md`](../_shared/calendar.md) |
 
 {% include role-tasks.html role_id=page.role_id %}
+{% include role-training.html role_id=page.role_id %}

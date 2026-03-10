@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Aggregate task definitions and role assignments.
+"""Aggregate task definitions, role assignments, and training data.
 
 Reads task definitions from tasks/**/*.md front matter and role assignments
 from roles/*/tasks.yaml (simplified format), merges them, and outputs
@@ -7,6 +7,10 @@ _data/pack-tasks-generated.yaml.
 
 Also parses events/**/*.md front matter and generates
 _data/pack-events-generated.yaml with event metadata and associated tasks.
+
+Reads training definitions from training/**/*.md front matter and role
+training assignments from roles/*/training.yaml, merges them, and outputs
+_data/pack-training-generated.yaml.
 
 Usage: python3 scripts/aggregate-tasks.py
 """
@@ -21,8 +25,10 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 ROLES_DIR = REPO_ROOT / 'roles'
 TASKS_DIR = REPO_ROOT / 'tasks'
 EVENTS_DIR = REPO_ROOT / 'events'
+TRAINING_DIR = REPO_ROOT / 'training'
 OUTPUT = REPO_ROOT / '_data' / 'pack-tasks-generated.yaml'
 EVENTS_OUTPUT = REPO_ROOT / '_data' / 'pack-events-generated.yaml'
+TRAINING_OUTPUT = REPO_ROOT / '_data' / 'pack-training-generated.yaml'
 
 
 def get_role_id(role_dir):
@@ -320,6 +326,95 @@ def main():
                 f.write('    tasks: []\n')
 
     print(f'Generated {EVENTS_OUTPUT} with {len(events_by_id)} events')
+
+    # ── Step 6: Read training definitions from training/**/*.md ──
+    training_by_id = OrderedDict()
+    if TRAINING_DIR.exists():
+        for tf in sorted(TRAINING_DIR.glob('**/*.md')):
+            if tf.name == 'README.md':
+                continue
+            data = parse_front_matter(str(tf))
+            if not data or 'course_id' not in data:
+                continue
+            cid = data['course_id']
+            # Determine category from parent dir name
+            category = tf.parent.name if tf.parent.name != 'training' else 'courses'
+            training_by_id[cid] = {
+                'id': cid,
+                'name': data.get('title', cid),
+                'course_code': data.get('course_code', ''),
+                'category': data.get('category', category),
+                'duration': data.get('duration', 0),
+                'description': data.get('description', ''),
+                'training_url': f'/training/{data.get("category", category)}/{cid}/',
+            }
+
+    print(f'Read {len(training_by_id)} training definitions from training/**/*.md')
+
+    # ── Step 7: Read role training assignments from roles/*/training.yaml ──
+    training_files = sorted(ROLES_DIR.glob('*/training.yaml'))
+
+    training_role_assignments = {}  # cid -> [{role, status}]
+
+    for tf in training_files:
+        role_dir = tf.parent
+        role_id = get_role_id(role_dir)
+
+        data = parse_yaml_simple(str(tf))
+        if not data or not data.get('training'):
+            continue
+
+        for ref in data['training']:
+            cid = ref['id']
+            status = ref.get('status', 'required')
+
+            if cid not in training_role_assignments:
+                training_role_assignments[cid] = []
+
+            training_role_assignments[cid].append({
+                'role': role_id,
+                'status': status,
+            })
+
+    # Check for role assignments referencing unknown training
+    for cid in training_role_assignments:
+        if cid not in training_by_id:
+            warnings.append(f'Role training assignment references unknown course "{cid}"')
+
+    # ── Step 8: Write pack-training-generated.yaml ──
+    with open(TRAINING_OUTPUT, 'w') as f:
+        f.write('# Auto-generated from training/**/*.md definitions and roles/*/training.yaml assignments.\n')
+        f.write('# Do not edit directly. Run: python3 scripts/aggregate-tasks.py\n\n')
+
+        f.write('training:\n')
+
+        for cid, course in training_by_id.items():
+            f.write(f'\n  - id: {cid}\n')
+            f.write(f'    name: "{course["name"]}"\n')
+            f.write(f'    course_code: "{course["course_code"]}"\n')
+            f.write(f'    category: {course["category"]}\n')
+            f.write(f'    duration: {course["duration"]}\n')
+
+            desc = course.get('description', '').strip()
+            if desc:
+                f.write('    description: >\n')
+                for line in desc.split('\n'):
+                    f.write(f'      {line.strip()}\n')
+            else:
+                f.write('    description: ""\n')
+
+            f.write(f'    training_url: {course["training_url"]}\n')
+
+            reqs = training_role_assignments.get(cid, [])
+            if reqs:
+                f.write('    role_requirements:\n')
+                for req in reqs:
+                    f.write(f'      - role: {req["role"]}\n')
+                    f.write(f'        status: {req["status"]}\n')
+            else:
+                f.write('    role_requirements: []\n')
+
+    print(f'Generated {TRAINING_OUTPUT} with {len(training_by_id)} training courses')
 
     # Print warnings
     for w in warnings:

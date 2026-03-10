@@ -1,0 +1,4 @@
+# Auto-generated from training/**/*.md definitions and roles/*/training.yaml assignments.
+# Do not edit directly. Run: python3 scripts/aggregate-tasks.py
+
+training:
