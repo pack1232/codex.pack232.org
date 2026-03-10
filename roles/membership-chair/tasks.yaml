@@ -37,6 +37,18 @@ tasks:
       Pack 232 sets up a booth at community activities fairs (e.g., Bethlehem Activities Fair) to recruit prospective Scouts. Scouts in uniform attend. Contact info collected for follow-up.
     tags: ['recruitment', 'visibility', 'community']
 
+  - id: national-night-out
+    event: national-night-out
+    name: "National Night Out Recruitment Booth"
+    type: recruitment
+    frequency: annual
+    months: [8]
+    timing_note: "First Tuesday of August — Elm Ave Town Park, Delmar"
+    role: owner
+    description: >
+      Staff Pack 232 recruitment booth at Bethlehem Police Department's National Night Out community event. Setup at 4pm, event 5-8pm. Bring table, tent/canopy, chairs, recruitment materials, and pack banner. No electricity on-site. Rain or shine.
+    tags: ['recruitment', 'community', 'annual']
+
   - id: recruitment-materials-prep
     event: school-night-recruitment
     name: "Recruitment Materials Preparation"

@@ -93,6 +93,18 @@ tasks:
       Confirm council day camp and resident camp programs and communicate dates to families. Coordinate any group pack attendance at summer programs.
     tags: ['camp', 'summer', 'outdoor']
 
+  - id: summer-resident-camp-coordination
+    event: summer-resident-camp
+    name: "Summer Resident Camp Roster & Registration"
+    type: outdoor
+    frequency: annual
+    months: [1, 2, 3, 4, 5]
+    timing_note: "Promote from January; roster due by May 15"
+    role: owner
+    description: >
+      Promote summer resident camp at Rotary Scout Reservation to pack families. Manage pack roster in Scoutbook. Add registered scouts by May 15 for group rate. Share session dates, costs, financial aid options, and packing information. Ensure all attending adults have current YPT.
+    tags: ['camp', 'summer', 'outdoor', 'annual']
+
   - id: scout-rank-transitions
     name: "Scout Rank Transitions in Scoutbook"
     type: administrative
@@ -281,6 +293,18 @@ tasks:
       Membership Chair checks in with families who joined in September — are they engaged? Flag any at risk of dropping out and initiate personal outreach.
     tags: ['retention', 'recruitment', 'annual']
 
+  - id: winter-cabin-camping
+    event: winter-cabin-camping
+    name: "Winter Cabin Camping"
+    type: outdoor
+    frequency: annual
+    months: [2, 3]
+    timing_note: "February or March — at Rotary Scout Reservation"
+    role: involved
+    description: >
+      Annual pack winter overnight camping trip at Rotary Scout Reservation heated cabins. Reserve cabins, coordinate meals, collect medical forms and payment ($10/person). Arrange activities: sledding, hiking, campfire, games.
+    tags: ['camping', 'outdoor', 'annual', 'winter']
+
   - id: blue-gold-banquet
     event: blue-gold-banquet
     name: "Blue & Gold Banquet"
@@ -371,6 +395,18 @@ tasks:
     description: >
       Advancement Chair and den leaders identify Scouts close to completing their rank badge and work with families to complete any remaining requirements before the end of year.
     tags: ['advancement', 'recognition', 'annual']
+
+  - id: memorial-day-parade
+    event: memorial-day-parade
+    name: "Memorial Day Parade"
+    type: service
+    frequency: annual
+    months: [5]
+    timing_note: "Late May — Bethlehem Memorial Day Parade"
+    role: owner
+    description: >
+      Lead Pack 232's participation in the Bethlehem Memorial Day Parade. Coordinate scout lineup at Herber & Winding at 10:40am, step off 11:00am. Class A uniforms. Ensure Pack Flag, American Flag, and Pack banner are carried. Wait with scouts at Veterans Memorial Park until all parents collect.
+    tags: ['service', 'community', 'annual']
 
   - id: end-of-year-pack-meeting
     event: end-of-year-pack-meeting

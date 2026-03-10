@@ -46,6 +46,18 @@ tasks:
       Secretary collects BSA Annual Health and Medical Record (Parts A & B) for all Scouts and registered adults. Send reminders to families who have not submitted. Health forms expire annually.
     tags: ['health-forms', 'administrative', 'annual']
 
+  - id: uss-slater-insurance
+    event: uss-slater-overnight
+    name: "USS Slater: Obtain Insurance Certificate"
+    type: administrative
+    frequency: as-needed
+    months: null
+    timing_note: "3 weeks before USS Slater overnight — list DEHM as certificate holder"
+    role: owner
+    description: >
+      Obtain proof of insurance from Twin Rivers Council listing USS SLATER / Destroyer Escort Historical Museum (DEHM) as certificate holder. Due 3 weeks before the overnight event.
+    tags: ['administrative', 'insurance', 'uss-slater']
+
   - id: recharter-roster-pull
     name: "Recharter: Pull Current Roster"
     type: administrative

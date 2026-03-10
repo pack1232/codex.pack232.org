@@ -20,28 +20,59 @@ nav_exclude: true
 
 # Blue & Gold Banquet
 
-The pack's largest annual celebration, held in February to mark the anniversary of Cub Scouting's founding (February 8, 1910). The banquet recognizes Scout accomplishments, honors leaders, and includes advancement ceremonies and entertainment. It's an opportunity to showcase the program and celebrate the year together as one pack family.
+The pack's largest annual celebration, marking the anniversary of Cub Scouting's founding (February 8, 1910). Recognizes Scout accomplishments, honors leaders, and brings the entire pack family together for food, activities, and fun.
 
 ## Overview
 
-A festive, full-pack celebration featuring food, themed activities, and recognition of Scout achievements. Each year offers a unique theme to inspire Scouts and delight families.
+A festive, full-pack celebration featuring themed activities, food, advancement ceremony, and recognition of Scout achievements. Typically draws 40+ Scouts and 100–125 total attendees including families.
 
-## Recent Themes
+## Recent History
 
-**2025 STEM Blue & Gold** (June 8, 2025 at Lawson Lake County Park)
-- Theme: STEM activities and Nova Award focus
-- Activities: SUNY Albany robotics demo, Pipette Rockets, Paper Airplane Design, Paper Lanterns
-- Format: Class B uniform, 1:00–4:00pm at scenic outdoor venue
-- Opening: Flag ceremony and rank award presentations
+| Year | Date | Venue | Theme |
+|---|---|---|---|
+| 2025 | June 8 | Lawson Lake County Park | STEM / Nova Awards |
+| 2024 | June 22 | Henry Hudson Park Pavilion | Field Day Games |
+| 2023 | June 24 | McGuire Residence, Feura Bush | Hot Air Balloon Rides |
+
+**2025 Highlights:** SUNY Albany robotics demo, Pipette Rockets, Paper Airplane Design, Paper Lanterns. Activities tied to Cub Scout Nova Award requirements (Tech Talk, Science Everywhere, Out of This World, Fearful Symmetry). Class B uniform, 1:00–4:00pm.
+
+**2024 Highlights:** Henry Hudson Park Pavilion, 2:30pm–6pm+. Field day games: three-legged race, long jump, pass the hoop, limbo relay, ping-pong/spoon race, tug-of-war, crazy relay race. Campfire program with songs. Hot dogs/burgers cooked on Blackstone.
+
+**2023 Highlights:** Tethered hot air balloon rides (50–100 feet, via Above All Balloon Rides). Helium balloon-building stations. Campfire program.
 
 ## Typical Program Structure
 
-- Opening flag ceremony and invocation
-- Scout recognition and rank advancement presentations
-- Themed program activities or entertainment
-- Meal service (light snacks or full banquet)
-- Leadership recognition and awards
-- Closing remarks and next-year preview
+| Time | Activity |
+|---|---|
+| 12:30pm | Setup begins (tables, decorations, food prep, activity stations) |
+| 1:00–2:30pm | Arrivals, activities, games |
+| 5:00pm | Meal service |
+| 6:00pm+ | Opening flag ceremony, advancement awards, leader recognition, closing |
+
+## Volunteer Needs
+
+| Role | People Needed |
+|---|---|
+| Setup (tables, decorations, stations) | 6–8 |
+| Cooking (grill/Blackstone) | 2–3 |
+| Game runners (2 per game) | 10 |
+| Cleanup | 6–8 |
+| MC / Sound system | 1–2 |
+
+Use **Sign-Up Genius** for volunteer and food contribution coordination.
+
+## Supplies Checklist
+
+- Extension cords, 5-gallon coolers, Blackstone/grill, serving trays
+- Bluetooth speaker, PA system
+- Hula-hoops, 100' tape measure, tug-of-war rope, bandanas, parachute, pool noodles
+- Crafting supplies (theme-dependent)
+- Decorations, tablecloths, centerpieces
+- Food: hot dogs, hamburgers, condiments, sides, desserts, drinks (bug juice, lemonade, punch, water)
+
+## Backup Plans
+
+Rain activities (if outdoor venue): Minute to Win It games, Card Ninja (flicking cards into watermelon), indoor craft stations.
 
 ## Timeline / Checklist
 
@@ -49,27 +80,17 @@ A festive, full-pack celebration featuring food, themed activities, and recognit
 |---|---|
 | December | Book venue and set date; select theme |
 | January | Finalize food, entertainment, program, and invitations |
-| January | Plan and coordinate themed activities and decorations |
-| February | Execute the banquet and recognition ceremony |
-
-## Coordinators
-
-**Lead Coordinators**: Becky D'Anza, Andrea Dievendorf, Lindsay Knott, Kara Giglia
-
-**Key Responsibilities**:
-- Venue selection and booking (typically Glenmont Elementary gym or outdoor park)
-- Food catering or menu planning
-- Entertainment and activity coordination
-- Invitations and RSVP management
-- Decorations and setup/breakdown
-- Program booklet or ceremony format
+| January | Plan themed activities and decorations; arrange rentals if needed |
+| February | Create Sign-Up Genius for volunteers and food |
+| February | Advancement Chair prepares all rank badges and certificates |
+| Event day | Setup, execute program, advancement ceremony, cleanup |
 
 ## Roles Involved
 
-- **Blue & Gold Coordinator** -- overall event lead and theme direction
-- **Committee Chair** -- venue logistics, budget approval, and pack communication
-- **Program Chair** -- coordinates with pack calendar and activity planning
-- **Advancement Chair** -- prepares advancement awards and rank badges for presentation
-- **Cubmaster** -- emcees ceremony, leads opening/closing, recognizes leaders and Scouts
+- **Blue & Gold Coordinator** — overall event lead, theme direction, and logistics
+- **Committee Chair** — venue booking, budget approval, pack communication
+- **Program Chair** — coordinates with pack calendar and activity planning
+- **Advancement Chair** — prepares rank badges, certificates, and awards for ceremony
+- **Cubmaster** — emcees ceremony, leads opening/closing, recognizes leaders and Scouts
 
 {% include event-tasks.html event_id=page.event_id %}

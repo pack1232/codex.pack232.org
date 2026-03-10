@@ -11,4 +11,6 @@ Group outings and social activities.
 
 | Event | When |
 |---|---|
+| [USS Slater Overnight](uss-slater-overnight/) | April/May (biennial) |
+| [Field Trips](field-trips/) | Throughout the year |
 | [ValleyCats Scout Night](valleycats-scout-night/) | Check schedule annually |

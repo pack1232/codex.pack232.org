@@ -59,6 +59,65 @@ events:
     url: /events/outdoor/spring-hike/
     tasks: [spring-hike, spring-hike-planning]
 
+  - event_id: summer-day-camp
+    title: "Summer Day Camp"
+    category: outdoor
+    frequency: annual
+    months: [7, 8]
+    timing_note: "July or August — week-long day camp at Rotary Scout Reservation"
+    owner: cubmaster
+    roles: [cubmaster, program-chair]
+    venue: "Rotary Scout Reservation, 279 Davitt Lake Road, Averill Park, NY 12018"
+    url: /events/outdoor/summer-day-camp/
+    tasks: [summer-day-camp-coordination]
+
+  - event_id: summer-resident-camp
+    title: "Summer Resident Camp"
+    category: outdoor
+    frequency: annual
+    months: [7]
+    timing_note: "July — Session 1 at Rotary Scout Reservation (4 days / 3 nights)"
+    owner: cubmaster
+    roles: [cubmaster, program-chair, den-leader]
+    venue: "Rotary Scout Reservation, 279 Davitt Lake Road, Averill Park, NY 12018"
+    url: /events/outdoor/summer-resident-camp/
+    tasks: [summer-resident-camp-coordination]
+
+  - event_id: winter-cabin-camping
+    title: "Winter Cabin Camping"
+    category: outdoor
+    frequency: annual
+    months: [2, 3]
+    timing_note: "February or March — at Rotary Scout Reservation"
+    owner: program-chair
+    roles: [program-chair, cubmaster, den-leader]
+    venue: "Rotary Scout Reservation, 279 Davitt Lake Road, Averill Park, NY 12018"
+    url: /events/outdoor/winter-cabin-camping/
+    tasks: [winter-cabin-camping]
+
+  - event_id: field-trips
+    title: "Field Trips"
+    category: outings
+    frequency: as-needed
+    months: null
+    timing_note: "Throughout the year — varies by destination"
+    owner: program-chair
+    roles: [program-chair, cubmaster]
+    url: /events/outings/field-trips/
+    tasks: [field-trip-planning]
+
+  - event_id: uss-slater-overnight
+    title: "USS Slater Overnight"
+    category: outings
+    frequency: annual
+    months: [4, 5]
+    timing_note: "April or May — biennial (every 2 years recommended due to cost)"
+    owner: program-chair
+    roles: [program-chair, cubmaster, secretary]
+    venue: "USS SLATER (DE-766), PO Box 1926, Albany, NY 12201"
+    url: /events/outings/uss-slater-overnight/
+    tasks: [uss-slater-overnight-planning, uss-slater-insurance]
+
   - event_id: valleycats-scout-night
     title: "ValleyCats Scout Night"
     category: outings
@@ -154,6 +213,18 @@ events:
     url: /events/recruitment/activities-fair/
     tasks: [activities-fair]
 
+  - event_id: national-night-out
+    title: "National Night Out"
+    category: recruitment
+    frequency: annual
+    months: [8]
+    timing_note: "First Tuesday of August — Bethlehem Police community event"
+    owner: membership-chair
+    roles: [membership-chair, cubmaster]
+    venue: "Elm Ave Town Park, 261 Elm Ave, Delmar, NY 12054"
+    url: /events/recruitment/national-night-out/
+    tasks: [national-night-out]
+
   - event_id: new-family-orientation
     title: "New Family Orientation"
     category: recruitment
@@ -187,6 +258,18 @@ events:
     roles: [program-chair, cubmaster]
     url: /events/service/caroling/
     tasks: [caroling]
+
+  - event_id: memorial-day-parade
+    title: "Memorial Day Parade"
+    category: service
+    frequency: annual
+    months: [5]
+    timing_note: "Late May — Bethlehem Memorial Day Parade"
+    owner: cubmaster
+    roles: [cubmaster, den-leader]
+    venue: "Bethlehem Memorial Day Parade route — starts at Herber & Winding, Delmar"
+    url: /events/service/memorial-day-parade/
+    tasks: [memorial-day-parade]
 
   - event_id: scouting-for-food
     title: "Scouting for Food"

@@ -613,6 +613,21 @@ tasks:
       Confirm council day camp and resident camp programs and communicate dates to families. Coordinate any group pack attendance at summer programs.
     tags: ['camp', 'summer', 'outdoor']
 
+  - id: summer-resident-camp-coordination
+    name: "Summer Resident Camp Roster & Registration"
+    type: outdoor
+    frequency: annual
+    months: [1, 2, 3, 4, 5]
+    timing_note: "Promote from January; roster due by May 15"
+    owner: cubmaster
+    roles: [cubmaster]
+    description: >
+      Promote summer resident camp at Rotary Scout Reservation to pack families. Manage pack roster in Scoutbook. Add registered scouts by May 15 for group rate. Share session dates, costs, financial aid options, and packing information. Ensure all attending adults have current YPT.
+    tags: ['camp', 'summer', 'outdoor', 'annual']
+    event: summer-resident-camp
+    event_name: "Summer Resident Camp"
+    event_url: /events/outdoor/summer-resident-camp/
+
   - id: scout-rank-transitions
     name: "Scout Rank Transitions in Scoutbook"
     type: administrative
@@ -757,6 +772,21 @@ tasks:
       Membership Chair checks in with families who joined in September — are they engaged? Flag any at risk of dropping out and initiate personal outreach.
     tags: ['retention', 'recruitment', 'annual']
 
+  - id: winter-cabin-camping
+    name: "Winter Cabin Camping"
+    type: outdoor
+    frequency: annual
+    months: [2, 3]
+    timing_note: "February or March — at Rotary Scout Reservation"
+    owner: activity-chair
+    roles: [cubmaster, den-leader, activity-chair]
+    description: >
+      Annual pack winter overnight camping trip at Rotary Scout Reservation heated cabins. Reserve cabins, coordinate meals, collect medical forms and payment ($10/person). Arrange activities: sledding, hiking, campfire, games.
+    tags: ['camping', 'outdoor', 'annual', 'winter']
+    event: winter-cabin-camping
+    event_name: "Winter Cabin Camping"
+    event_url: /events/outdoor/winter-cabin-camping/
+
   - id: next-year-lion-recruitment
     name: "Next-Year Lion Den Recruitment"
     type: recruitment
@@ -799,6 +829,21 @@ tasks:
     event_name: "Spring Service Project"
     event_url: /events/service/spring-service-project/
 
+  - id: memorial-day-parade
+    name: "Memorial Day Parade"
+    type: service
+    frequency: annual
+    months: [5]
+    timing_note: "Late May — Bethlehem Memorial Day Parade"
+    owner: cubmaster
+    roles: [cubmaster, den-leader]
+    description: >
+      Lead Pack 232's participation in the Bethlehem Memorial Day Parade. Coordinate scout lineup at Herber & Winding at 10:40am, step off 11:00am. Class A uniforms. Ensure Pack Flag, American Flag, and Pack banner are carried. Wait with scouts at Veterans Memorial Park until all parents collect.
+    tags: ['service', 'community', 'annual']
+    event: memorial-day-parade
+    event_name: "Memorial Day Parade"
+    event_url: /events/service/memorial-day-parade/
+
   - id: retention-outreach
     name: "End-of-Year Retention Outreach"
     type: recruitment
@@ -835,6 +880,21 @@ tasks:
       Scouts can join at any time. Membership Chair connects new families to their den leader, provides welcome packet, and ensures health form and registration are complete.
     tags: ['recruitment', 'onboarding']
 
+  - id: national-night-out
+    name: "National Night Out Recruitment Booth"
+    type: recruitment
+    frequency: annual
+    months: [8]
+    timing_note: "First Tuesday of August — Elm Ave Town Park, Delmar"
+    owner: membership-chair
+    roles: [membership-chair]
+    description: >
+      Staff Pack 232 recruitment booth at Bethlehem Police Department's National Night Out community event. Setup at 4pm, event 5-8pm. Bring table, tent/canopy, chairs, recruitment materials, and pack banner. No electricity on-site. Rain or shine.
+    tags: ['recruitment', 'community', 'annual']
+    event: national-night-out
+    event_name: "National Night Out"
+    event_url: /events/recruitment/national-night-out/
+
   - id: recruitment-materials-prep
     name: "Recruitment Materials Preparation"
     type: recruitment
@@ -861,6 +921,21 @@ tasks:
     description: >
       Marketing Chair creates Facebook events for pack meetings and outings with date, time, location, and description. Shares event recap and photos within 1–2 days after.
     tags: ['communications', 'social-media', 'marketing']
+
+  - id: summer-day-camp-coordination
+    name: "Summer Day Camp Coordination"
+    type: outdoor
+    frequency: annual
+    months: [7, 8]
+    timing_note: "Promote by spring; registration through Twin Rivers Council"
+    owner: activity-chair
+    roles: [activity-chair]
+    description: >
+      Promote Twin Rivers Council summer day camp to pack families. Share registration links, session dates, costs, and bus transportation options. Coordinate group attendance.
+    tags: ['camp', 'summer', 'outdoor', 'annual']
+    event: summer-day-camp
+    event_name: "Summer Day Camp"
+    event_url: /events/outdoor/summer-day-camp/
 
   - id: fall-back-to-scouting
     name: "Fall Back to Scouting"
@@ -892,6 +967,21 @@ tasks:
     event_name: "ValleyCats Scout Night"
     event_url: /events/outings/valleycats-scout-night/
 
+  - id: uss-slater-overnight-planning
+    name: "USS Slater Overnight: Planning & Booking"
+    type: outdoor
+    frequency: as-needed
+    months: [1, 2]
+    timing_note: "Book 3+ months in advance for spring overnight; biennial (every 2 years)"
+    owner: activity-chair
+    roles: [activity-chair]
+    description: >
+      Plan and book USS Slater overnight experience. Submit $100 non-refundable deposit early. Obtain proof of insurance listing USS SLATER/DEHM as certificate holder (due 3 weeks prior). Collect final payment ($50/person), participant roster, and medical forms. Capacity: 20–50 people.
+    tags: ['outing', 'outdoor', 'planning']
+    event: uss-slater-overnight
+    event_name: "USS Slater Overnight"
+    event_url: /events/outings/uss-slater-overnight/
+
   - id: blue-gold-venue-entertainment
     name: "Blue & Gold: Venue & Entertainment Booking"
     type: program
@@ -922,6 +1012,21 @@ tasks:
     event_name: "Spring Hike"
     event_url: /events/outdoor/spring-hike/
 
+  - id: field-trip-planning
+    name: "Pack Field Trip Planning"
+    type: outdoor
+    frequency: as-needed
+    months: null
+    timing_note: "As opportunities arise throughout the year"
+    owner: activity-chair
+    roles: [activity-chair]
+    description: >
+      Plan and coordinate pack field trips to educational and recreational destinations (Howe Caverns, MiSci, Cooperstown Farmers Museum, Liberty Ridge Farm, etc.). Confirm group pricing, set RSVP deadlines, arrange payment collection, communicate uniform and logistics details, coordinate carpooling.
+    tags: ['outing', 'outdoor', 'planning']
+    event: field-trips
+    event_name: "Field Trips"
+    event_url: /events/outings/field-trips/
+
   - id: fall-hike-planning
     name: "Fall Hike Planning"
     type: outdoor
@@ -933,6 +1038,21 @@ tasks:
     description: >
       Identify fall hike site, check permits, coordinate with Cubmaster. Coordinator: Dave Coup.
     tags: ['hike', 'outdoor', 'annual', 'planning']
+
+  - id: uss-slater-insurance
+    name: "USS Slater: Obtain Insurance Certificate"
+    type: administrative
+    frequency: as-needed
+    months: null
+    timing_note: "3 weeks before USS Slater overnight — list DEHM as certificate holder"
+    owner: secretary
+    roles: [secretary]
+    description: >
+      Obtain proof of insurance from Twin Rivers Council listing USS SLATER / Destroyer Escort Historical Museum (DEHM) as certificate holder. Due 3 weeks before the overnight event.
+    tags: ['administrative', 'insurance', 'uss-slater']
+    event: uss-slater-overnight
+    event_name: "USS Slater Overnight"
+    event_url: /events/outings/uss-slater-overnight/
 
   - id: records-archival
     name: "Year-End Records Archival"
