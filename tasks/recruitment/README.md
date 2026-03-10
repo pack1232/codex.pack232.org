@@ -9,3 +9,5 @@ nav_order: 5
 # Recruitment Tasks
 
 Scout enrollment, family outreach, and retention activities.
+
+{% include category-tasks.html category="recruitment" %}

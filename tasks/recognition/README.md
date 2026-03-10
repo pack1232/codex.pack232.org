@@ -9,3 +9,5 @@ nav_order: 4
 # Recognition Tasks
 
 Advancement processing, award ordering, and ceremonies.
+
+{% include category-tasks.html category="recognition" %}

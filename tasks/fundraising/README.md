@@ -9,3 +9,5 @@ nav_order: 7
 # Fundraising Tasks
 
 Popcorn sales and other unit fundraising activities.
+
+{% include category-tasks.html category="fundraising" %}

@@ -9,3 +9,5 @@ nav_order: 1
 # Program Tasks
 
 Pack meeting activities and major annual program events.
+
+{% include category-tasks.html category="program" %}

@@ -9,3 +9,5 @@ nav_order: 6
 # Outdoor Tasks
 
 Camping, hiking, field trips, and outdoor event coordination.
+
+{% include category-tasks.html category="outdoor" %}
