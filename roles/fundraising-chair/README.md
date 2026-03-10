@@ -1,6 +1,6 @@
 ---
 title: Fundraising Chair
-parent: All Roles
+parent: Roles
 nav_order: 6
 nav_exclude: false
 permalink: /roles/fundraising-chair/

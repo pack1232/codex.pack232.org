@@ -1,6 +1,6 @@
 ---
 title: Cubmaster
-parent: All Roles
+parent: Roles
 nav_order: 3
 nav_exclude: false
 permalink: /roles/cubmaster/

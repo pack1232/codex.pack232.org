@@ -1,6 +1,6 @@
 ---
 title: Charter Org Rep
-parent: All Roles
+parent: Roles
 nav_order: 1
 nav_exclude: false
 permalink: /roles/charter-org-rep/

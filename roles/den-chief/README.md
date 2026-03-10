@@ -1,6 +1,6 @@
 ---
 title: Den Chief
-parent: All Roles
+parent: Roles
 nav_order: 13
 nav_exclude: false
 permalink: /roles/den-chief/

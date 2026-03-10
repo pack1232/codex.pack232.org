@@ -1,6 +1,6 @@
 ---
 title: Secretary
-parent: All Roles
+parent: Roles
 nav_order: 4
 nav_exclude: false
 permalink: /roles/secretary/
