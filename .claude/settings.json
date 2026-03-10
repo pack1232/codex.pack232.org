@@ -115,7 +115,8 @@
         "tail",
         "uniq",
         "wc",
-        "which"
+        "which",
+        "python3"
       ],
       "requireApproval": [
         "git push --set-upstream origin main",
