@@ -1,0 +1,20 @@
+/* Custom styles for Just One Hour Per Week */
+
+:root {
+  --sl-color-accent-low: #1b5e20;
+  --sl-color-accent: #2e7d32;
+  --sl-color-accent-high: #c8e6c9;
+}
+
+/* Mermaid diagram styling */
+.mermaid {
+  display: flex;
+  justify-content: center;
+  margin: 1.5rem 0;
+}
+
+/* Role task/training tables */
+.role-tasks table,
+.role-training table {
+  width: 100%;
+}

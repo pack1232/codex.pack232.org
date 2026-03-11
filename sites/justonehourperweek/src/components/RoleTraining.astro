@@ -1,0 +1,34 @@
+---
+/**
+ * RoleTraining — Replaces {% include role-training.html role_id=... %}
+ * Displays training courses associated with a given role_id.
+ */
+import { getCollection } from 'astro:content';
+import fs from 'node:fs';
+import path from 'node:path';
+import yaml from 'js-yaml'; // NOTE: this will need js-yaml as dependency or use a different approach
+
+interface Props {
+  roleId: string;
+}
+
+const { roleId } = Astro.props;
+
+// Load role's training.yaml if it exists
+const trainingYamlPath = path.resolve(
+  '../../content/roles',
+  // Search for matching role directory
+);
+
+// For now, display training info from the content collection
+const allTraining = await getCollection('docs', (entry) => {
+  return entry.data.training_id !== undefined;
+});
+---
+
+{allTraining.length > 0 && (
+  <section class="role-training">
+    <h2>Training</h2>
+    <p>See <a href="/roles/_shared/training-requirements/">Training Requirements</a> for this role's required and recommended training.</p>
+  </section>
+)}
