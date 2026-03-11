@@ -10,16 +10,16 @@ nav_order: 1
 
 ```mermaid
 flowchart LR
-    charter["Selkirk Fire Department No.2"]:::charter
-    cor["Charter Org Rep<br>Bob Baldwin"]:::core
-    cc["Committee Chair<br>Josh McWilliam"]:::core
-    cm["Cubmaster<br>Michael McGuire"]:::core
+    charter["Charter Organization"]:::charter
+    cor["Charter Org Rep"]:::core
+    cc["Committee Chair"]:::core
+    cm["Cubmaster"]:::core
     charter --> cor
     cor --> cc
     cc --> cm
 
     %% Secretary branch
-    sec["Secretary<br>Daniel O'Brien"]:::filled
+    sec["Secretary"]:::filled
     cc --> sec
     medical["Medical Forms Coordinator"]:::vacant
     sec --> medical
@@ -27,7 +27,7 @@ flowchart LR
     sec --> webmaster
 
     %% Treasurer branch
-    tres["Treasurer<br>Bob Baldwin"]:::filled
+    tres["Treasurer"]:::filled
     cc --> tres
     ap["Accounts Payable Coordinator"]:::vacant
     tres --> ap
@@ -37,7 +37,7 @@ flowchart LR
     %% Fundraising branch
     fund["Fundraising Chair"]:::vacant
     cc --> fund
-    popcorn["Popcorn Coordinator<br>Phoung Perez"]:::filled
+    popcorn["Popcorn Coordinator"]:::filled
     fund --> popcorn
     apopcorn["Asst. Popcorn Coordinator"]:::vacant
     popcorn --> apopcorn
@@ -73,7 +73,7 @@ flowchart LR
     prog --> fallcamp
     summercamp["Summer Camping"]:::vacant
     prog --> summercamp
-    packactivity["Pack Mtg Activities<br>Sharon Heckathorne"]:::filled
+    packactivity["Pack Mtg Activities"]:::filled
     prog --> packactivity
     snack["Pack Mtg Snackmaster"]:::vacant
     prog --> snack
@@ -89,7 +89,7 @@ flowchart LR
     %% Advancement branch
     adv["Advancement Chair"]:::vacant
     cc --> adv
-    awards["Scout Awards<br>Jennifer Wind"]:::filled
+    awards["Scout Awards"]:::filled
     adv --> awards
     bluegold["Blue and Gold"]:::vacant
     adv --> bluegold
@@ -113,7 +113,7 @@ flowchart LR
     acm --> acm_hike
     acm_crafts["ACM Crafts"]:::vacant
     acm --> acm_crafts
-    acm_food["ACM Food<br>Richard Crumb"]:::filled
+    acm_food["ACM Food"]:::filled
     acm --> acm_food
     acm_comms["ACM Communications"]:::vacant
     acm --> acm_comms
@@ -121,17 +121,17 @@ flowchart LR
     %% Den Leaders branch
     dl["Den Leaders"]:::filled
     cm --> dl
-    dl_lions["Lions Den 7<br>C. Baldwin and K. McWilliam"]:::filled
+    dl_lions["Lions Den 7"]:::filled
     dl --> dl_lions
-    dl_tigers["Tigers Den 1<br>Michael McGuire"]:::filled
+    dl_tigers["Tigers Den 1"]:::filled
     dl --> dl_tigers
-    dl_wolves["Wolves Den 2<br>Kevin Calacone"]:::filled
+    dl_wolves["Wolves Den 2"]:::filled
     dl --> dl_wolves
-    dl_bears["Bears Den 3<br>Christopher Heckathorne"]:::filled
+    dl_bears["Bears Den 3"]:::filled
     dl --> dl_bears
-    dl_webelos["Webelos Den 4<br>Ben Friedman"]:::filled
+    dl_webelos["Webelos Den 4"]:::filled
     dl --> dl_webelos
-    dl_aol["Arrow of Light Den 5<br>Patrick Slade"]:::filled
+    dl_aol["Arrow of Light Den 5"]:::filled
     dl --> dl_aol
 
     %% Den support roles (under Den Leaders)

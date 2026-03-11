@@ -1,0 +1,77 @@
+# PII Scrub Configuration
+# Maps pack-specific references to generic replacements
+
+# Venue mappings: specific venue → generic replacement
+venues:
+  front_matter:
+    "Glenmont Elementary": "Pack meeting location"
+    "Glenmont Elementary gym": "Pack meeting location"
+    "Glenmont Elementary gym or alternative venue": "Pack meeting location or alternative venue"
+    "Glenmont Elementary (at pack meeting)": "Pack meeting location"
+    "Bethlehem Memorial Day Parade route — starts at Herber & Winding, Delmar": "Local parade route"
+    "Bethlehem community venue": "Community venue"
+    "Elm Ave Town Park, 261 Elm Ave, Delmar, NY 12054": "Local park"
+    "Joseph L. Bruno Stadium": "Local stadium"
+    "USS SLATER (DE-766), PO Box 1926, Albany, NY 12201": "Event venue"
+    "Rotary Scout Reservation, 279 Davitt Lake Road, Averill Park, NY 12018": "Council camp"
+    "Lawson Lake County Park": "County park"
+
+  prose:
+    "Glenmont Elementary": "your pack meeting location"
+    "Glenmont gym": "your pack meeting location gym"
+    "Glenmont neighborhood": "your local neighborhood"
+    "Glenmont, Bethlehem": "your local community"
+    "in Glenmont": "in your area"
+    "Lawson Lake County Park": "a local park"
+    "Lawson Lake": "a local venue"
+    "Rotary Scout Reservation": "your council camp"
+    "Joseph L. Bruno Stadium": "a local stadium"
+    "Elm Ave Town Park": "a local park"
+    "Bethlehem": "your town"
+
+# Council and district references
+council_district:
+  "Twin Rivers Council": "your council"
+  "Fort Orange District": "your district"
+
+# Charter organization
+charter_org:
+  exact: "Selkirk Fire Department #2"
+  replacement: "Charter Organization"
+  # Also match variations
+  variations:
+    - "Selkirk Fire Department No.2"
+    - "Selkirk Fire Department"
+    - "Glenmont Elementary PTA"
+
+charter_org_prose_replacements:
+  "Glenmont Elementary PTA": "your charter organization"
+
+# Pack identity — applied to prose only (not URLs, not front matter IDs)
+pack_identity:
+  "Pack 232": "the pack"
+  "Pack232": "the pack"
+  "pack232": "the pack"
+
+# Email patterns to remove (handled as part of Current Holder section removal)
+email_domain: "pack232.com"
+
+# Phone number pattern (US format)
+phone_pattern: "\\(?\\d{3}\\)?[\\s.-]?\\d{3}[\\s.-]?\\d{4}"
+
+# Known holder names to scrub from mermaid diagrams and prose
+holder_names:
+  - "Bob Baldwin"
+  - "Josh McWilliam"
+  - "Daniel O'Brien"
+  - "Michael McGuire"
+  - "Richard Crumb"
+  - "Phoung Perez"
+  - "Sharon Heckathorne"
+  - "Jennifer Wind"
+  - "Kevin Calacone"
+  - "Christopher Heckathorne"
+  - "Ben Friedman"
+  - "Patrick Slade"
+  - "C. Baldwin and K. McWilliam"
+  - "C. Baldwin & K. McWilliam"
