@@ -1,0 +1,11 @@
+{
+  "name": "justonehourperweek",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "pnpm --filter @justonehourperweek/site dev",
+    "build": "pnpm --filter @justonehourperweek/site build",
+    "preview": "pnpm --filter @justonehourperweek/site preview"
+  },
+  "packageManager": "pnpm@9.15.4"
+}

@@ -107,7 +107,7 @@ tasks:
     tags: ['recharter', 'administrative', 'annual', 'jtE']
     task_url: /tasks/administrative/journey-to-excellence/
 
-  - id: jtE-progress-check
+  - id: jte-progress-check
     name: "Journey to Excellence Progress Check"
     type: administrative
     frequency: annual
@@ -118,7 +118,7 @@ tasks:
     description: >
       Committee Chair reviews where the pack stands on Journey to Excellence criteria (advancement rates, membership, training, service hours). Identifies any areas needing attention before the year closes.
     tags: ['administrative', 'jtE', 'annual']
-    task_url: /tasks/administrative/jtE-progress-check/
+    task_url: /tasks/administrative/jte-progress-check/
 
   - id: leader-roster-review
     name: "Leader Roster Review"
