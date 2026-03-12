@@ -121,7 +121,7 @@ def main():
         "pack_version": PACK_VERSION,
         "schema_version": SCHEMA_VERSION,
         "exported_at": datetime.now(timezone.utc).isoformat(),
-        "source": "https://github.com/pack232/codex.pack232.org",
+        "source": "https://github.com/orgstrong/codex.scoutosia.com",
         "counts": {name: len(items) for name, items in collections.items()},
         "files": [f"{name}.json" for name in collections],
     }

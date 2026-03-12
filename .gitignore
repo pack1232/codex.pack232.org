@@ -1,12 +1,3 @@
-# Dependencies
-node_modules/
-
-# Astro build output
-sites/justonehourperweek/dist/
-sites/justonehourperweek/.astro/
-sites/askyourspl/dist/
-sites/askyourspl/.astro/
-
 # Export artifacts
 dist/
 

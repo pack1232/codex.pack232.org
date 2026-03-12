@@ -1,14 +1,9 @@
 {
-  "name": "justonehourperweek",
+  "name": "codex.scoutosia.com",
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "pnpm --filter @justonehourperweek/site dev",
-    "dev:youth": "pnpm --filter @askyourspl/site dev",
-    "build": "pnpm --filter '@justonehourperweek/site' --filter '@askyourspl/site' build",
-    "build:adult": "pnpm --filter @justonehourperweek/site build",
-    "build:youth": "pnpm --filter @askyourspl/site build",
-    "preview": "pnpm --filter @justonehourperweek/site preview"
-  },
-  "packageManager": "pnpm@9.15.4"
+    "validate": "python3 scripts/validate-content.py",
+    "export": "python3 scripts/export-codex.py -o dist/codex"
+  }
 }
