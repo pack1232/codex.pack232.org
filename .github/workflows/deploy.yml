@@ -7,7 +7,26 @@ on:
     branches: [main]
 
 jobs:
+  validate:
+    name: Validate Content Schemas
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Validate content schemas
+        run: python3 scripts/validate-content.py
+
   build-and-deploy:
+    needs: validate
     runs-on: ubuntu-latest
     permissions:
       contents: read

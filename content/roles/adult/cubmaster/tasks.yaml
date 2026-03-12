@@ -91,7 +91,7 @@ tasks:
   - id: spring-hike
     role: involved
 
-  - id: jtE-progress-check
+  - id: jte-progress-check
     role: involved
 
   - id: spring-service-project

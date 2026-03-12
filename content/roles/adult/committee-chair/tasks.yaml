@@ -85,7 +85,7 @@ tasks:
   - id: budget-review
     role: involved
 
-  - id: jtE-progress-check
+  - id: jte-progress-check
     role: owner
 
   - id: parent-skills-survey
