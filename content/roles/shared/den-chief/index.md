@@ -6,6 +6,13 @@ nav_order: 13
 nav_exclude: false
 permalink: /roles/den-chief/
 role_id: den-chief
+unit_type: any
+related_adult_roles:
+  - cubmaster
+  - assistant-cubmaster
+  - den-leader
+related_youth_roles:
+  - senior-patrol-leader
 ---
 
 # Den Chief

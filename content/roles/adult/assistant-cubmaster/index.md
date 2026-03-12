@@ -5,6 +5,8 @@ parent: Roles
 nav_order: 11
 nav_exclude: false
 permalink: /roles/assistant-cubmaster/
+related_youth_roles:
+  - den-chief
 role_id: assistant-cubmaster
 ---
 

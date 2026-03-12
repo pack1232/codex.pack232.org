@@ -31,6 +31,15 @@ jobs:
     permissions:
       contents: read
       deployments: write
+    strategy:
+      matrix:
+        include:
+          - site: justonehourperweek
+            filter: '@justonehourperweek/site'
+            project: justonehourperweek
+          - site: askyourspl
+            filter: '@askyourspl/site'
+            project: askyourspl
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -47,13 +56,40 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      - name: Build site
-        run: pnpm build
+      - name: Build ${{ matrix.site }}
+        run: pnpm --filter '${{ matrix.filter }}' build
 
-      - name: Deploy to Cloudflare Pages
+      - name: Deploy ${{ matrix.site }} to Cloudflare Pages
         if: github.event_name == 'push' || github.event_name == 'pull_request'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy sites/justonehourperweek/dist --project-name=justonehourperweek --branch=${{ github.head_ref || github.ref_name }}
+          command: pages deploy sites/${{ matrix.site }}/dist --project-name=${{ matrix.project }} --branch=${{ github.head_ref || github.ref_name }}
+
+  export-codex:
+    name: Export Codex Content Pack
+    needs: validate
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Export content pack
+        run: python3 scripts/export-codex.py -o dist/codex
+
+      - name: Upload Codex artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: codex-content-pack
+          path: dist/codex/
+          retention-days: 30

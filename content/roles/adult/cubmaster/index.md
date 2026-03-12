@@ -6,6 +6,9 @@ nav_order: 3
 nav_exclude: false
 permalink: /roles/cubmaster/
 role_id: cubmaster
+related_youth_roles:
+  - den-chief
+  - senior-patrol-leader
 ---
 
 # Cubmaster

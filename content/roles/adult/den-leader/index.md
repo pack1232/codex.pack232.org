@@ -5,6 +5,9 @@ parent: Roles
 nav_order: 12
 nav_exclude: false
 permalink: /roles/den-leader/
+related_youth_roles:
+  - den-chief
+  - patrol-leader
 role_id: den-leader
 ---
 

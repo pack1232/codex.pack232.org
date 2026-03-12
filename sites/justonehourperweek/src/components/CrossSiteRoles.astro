@@ -1,0 +1,42 @@
+---
+/**
+ * CrossSiteRoles — Renders links to related roles on the other site.
+ * On justonehourperweek.com: links to youth roles on askyourspl.com
+ */
+interface Props {
+  relatedYouthRoles?: string[];
+  relatedAdultRoles?: string[];
+}
+
+const { relatedYouthRoles = [], relatedAdultRoles = [] } = Astro.props;
+const youthSite = 'https://askyourspl.com';
+
+function formatRoleName(slug: string): string {
+  return slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+}
+---
+
+{relatedYouthRoles.length > 0 && (
+  <section class="cross-site-roles">
+    <h2>Related Youth Roles</h2>
+    <p>These youth leadership roles work closely with this position:</p>
+    <ul>
+      {relatedYouthRoles.map((role) => (
+        <li>
+          <a href={`${youthSite}/roles/youth/${role}/`} target="_blank" rel="noopener">
+            {formatRoleName(role)}
+          </a>
+          <span class="cross-site-badge">askyourspl.com</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .cross-site-badge {
+    font-size: 0.75em;
+    color: var(--sl-color-gray-4);
+    margin-left: 0.5em;
+  }
+</style>

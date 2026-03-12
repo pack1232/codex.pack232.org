@@ -5,6 +5,9 @@ parent: Roles
 nav_order: 2
 nav_exclude: false
 permalink: /roles/committee-chair/
+related_youth_roles:
+  - den-chief
+  - senior-patrol-leader
 role_id: committee-chair
 ---
 

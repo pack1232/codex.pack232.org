@@ -5,6 +5,8 @@ parent: Roles
 nav_order: 9
 nav_exclude: false
 permalink: /roles/advancement-chair/
+related_youth_roles:
+  - den-chief
 role_id: advancement-chair
 ---
 

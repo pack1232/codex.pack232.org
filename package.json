@@ -4,7 +4,10 @@
   "type": "module",
   "scripts": {
     "dev": "pnpm --filter @justonehourperweek/site dev",
-    "build": "pnpm --filter @justonehourperweek/site build",
+    "dev:youth": "pnpm --filter @askyourspl/site dev",
+    "build": "pnpm --filter '@justonehourperweek/site' --filter '@askyourspl/site' build",
+    "build:adult": "pnpm --filter @justonehourperweek/site build",
+    "build:youth": "pnpm --filter @askyourspl/site build",
     "preview": "pnpm --filter @justonehourperweek/site preview"
   },
   "packageManager": "pnpm@9.15.4"
