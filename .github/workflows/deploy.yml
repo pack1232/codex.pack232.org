@@ -1,0 +1,95 @@
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    name: Validate Content Schemas
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Validate content schemas
+        run: python3 scripts/validate-content.py
+
+  build-and-deploy:
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+    strategy:
+      matrix:
+        include:
+          - site: justonehourperweek
+            filter: '@justonehourperweek/site'
+            project: justonehourperweek
+          - site: askyourspl
+            filter: '@askyourspl/site'
+            project: askyourspl
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build ${{ matrix.site }}
+        run: pnpm --filter '${{ matrix.filter }}' build
+
+      - name: Deploy ${{ matrix.site }} to Cloudflare Pages
+        if: github.event_name == 'push' || github.event_name == 'pull_request'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy sites/${{ matrix.site }}/dist --project-name=${{ matrix.project }} --branch=${{ github.head_ref || github.ref_name }}
+
+  export-codex:
+    name: Export Codex Content Pack
+    needs: validate
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Export content pack
+        run: python3 scripts/export-codex.py -o dist/codex
+
+      - name: Upload Codex artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: codex-content-pack
+          path: dist/codex/
+          retention-days: 30

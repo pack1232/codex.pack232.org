@@ -1,0 +1,113 @@
+# Tasks associated with this role.
+# Task definitions live in tasks/{category}/{task-id}.md
+# role: owner = primary responsibility, involved = supporting role
+
+tasks:
+
+  - id: committee-meeting
+    role: owner
+
+  - id: committee-meeting-notice
+    role: involved
+
+  - id: annual-program-planning-conference
+    role: involved
+
+  - id: draft-annual-budget
+    role: involved
+
+  - id: leader-roster-review
+    role: owner
+
+  - id: glenmont-space-requests
+    role: owner
+
+  - id: fall-activity-planning
+    role: involved
+
+  - id: new-family-orientation
+    role: involved
+
+  - id: annual-budget-approval
+    role: owner
+
+  - id: health-forms-collection
+    role: involved
+
+  - id: dues-collection-setup
+    role: involved
+
+  - id: recharter-roster-pull
+    role: owner
+
+  - id: recharter-ypt-check
+    role: owner
+
+  - id: recharter-adult-applications
+    role: involved
+
+  - id: recharter-cor-signs
+    role: involved
+
+  - id: journey-to-excellence
+    role: owner
+
+  - id: recharter-submission
+    role: owner
+
+  - id: blue-gold-venue-booking
+    role: owner
+
+  - id: pinewood-derby-gym-reservation
+    role: owner
+
+  - id: charter-presentation-ceremony
+    role: owner
+
+  - id: blue-gold-final-planning
+    role: involved
+
+  - id: blue-gold-banquet
+    role: involved
+
+  - id: next-year-leadership-recruitment
+    role: owner
+
+  - id: pinewood-derby-kit-distribution
+    role: involved
+
+  - id: pinewood-derby-event
+    role: involved
+
+  - id: pinewood-derby-track-storage
+    role: involved
+
+  - id: budget-review
+    role: involved
+
+  - id: jte-progress-check
+    role: owner
+
+  - id: parent-skills-survey
+    role: owner
+
+  - id: end-of-year-pack-meeting
+    role: involved
+
+  - id: year-end-leader-checkin
+    role: involved
+
+  - id: ypt-renewal-tracking
+    role: involved
+
+  - id: leadership-vacancy-fill
+    role: owner
+
+  - id: reimbursement-processing
+    role: involved
+
+  - id: money-earning-application
+    role: involved
+
+  - id: service-hours-reporting
+    role: owner

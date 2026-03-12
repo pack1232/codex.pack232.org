@@ -924,7 +924,7 @@ tasks:
       Identifies variances and any risks to year-end financial position.
     tags: [financial, annual, budget]
 
-  - id: jtE-progress-check
+  - id: jte-progress-check
     name: "Journey to Excellence Progress Check"
     type: administrative
     frequency: annual
