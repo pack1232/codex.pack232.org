@@ -9,7 +9,7 @@ project:
 codex:
   role: source
   sync_targets:
-    - repo: orgstrong/justonehourperweek.com
+    - repo: orgstrong/www.justonehourperweek.com
       description: Adult volunteer knowledge base
       paths:
         - source: content/
@@ -17,7 +17,7 @@ codex:
         - source: _data/
           target: _data/
 
-    - repo: orgstrong/askyourspl.com
+    - repo: orgstrong/www.askyourspl.com
       description: Youth leadership guide
       paths:
         - source: content/roles/youth/

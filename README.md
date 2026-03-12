@@ -19,8 +19,8 @@ docs/             # Documentation
 ## Content Sync
 
 Content is synced to consumer site repos via `fractary-codex`:
-- `orgstrong/justonehourperweek.com` — all content + data
-- `orgstrong/askyourspl.com` — youth/shared roles + training subset
+- `orgstrong/www.justonehourperweek.com` — all content + data
+- `orgstrong/www.askyourspl.com` — youth/shared roles + training subset
 
 ## Scripts
 
