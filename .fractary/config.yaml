@@ -1,0 +1,42 @@
+# Fractary configuration for codex.scoutosia.com
+# This repo is the codex (source of truth) that syncs content to consumer sites.
+
+project:
+  name: codex.scoutosia.com
+  description: Private backend intelligence layer for the Scoutosia platform
+  repo: orgstrong/codex.scoutosia.com
+
+codex:
+  role: source
+  sync_targets:
+    - repo: orgstrong/justonehourperweek.com
+      description: Adult volunteer knowledge base
+      paths:
+        - source: content/
+          target: content/
+        - source: _data/
+          target: _data/
+
+    - repo: orgstrong/askyourspl.com
+      description: Youth leadership guide
+      paths:
+        - source: content/roles/youth/
+          target: content/roles/youth/
+        - source: content/roles/shared/
+          target: content/roles/shared/
+        - source: content/roles/_shared/
+          target: content/roles/_shared/
+        - source: content/roles/index.md
+          target: content/roles/index.md
+        - source: content/training/
+          target: content/training/
+        - source: content/index.md
+          target: content/index.md
+        - source: content/CONTRIBUTING.md
+          target: content/CONTRIBUTING.md
+        - source: _data/
+          target: _data/
+
+    - repo: orgstrong/scoutosia.com
+      description: Platform hub (future)
+      paths: []
